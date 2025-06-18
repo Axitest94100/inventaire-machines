@@ -6405,21 +6405,5 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-18T12:36:20.607Z"
-  },
-  {
-    "marque": "qsdf",
-    "model": "qsd",
-    "quantite": 1,
-    "emplacement": "",
-    "description": {},
-    "unites": [
-      {
-        "numserie": "sqd",
-        "position": "",
-        "etatcvi": "non",
-        "dateFinCVI": null
-      }
-    ],
-    "createdAt": "2025-06-18T14:02:58.110Z"
   }
 ]
