@@ -5281,7 +5281,7 @@
   {
     "marque": "bonjour",
     "model": "3750",
-    "quantite": 2,
+    "quantite": 1,
     "emplacement": "F-4 + zer",
     "unites": [
       {
@@ -5289,12 +5289,6 @@
         "etatcvi": "non",
         "position": "F-4",
         "dateFinCVI": null
-      },
-      {
-        "numserie": "ezr",
-        "etatcvi": "oui",
-        "position": "zer",
-        "dateFinCVI": "2025-06-28"
       }
     ],
     "createdAt": "2025-06-18T12:00:35.687Z"
