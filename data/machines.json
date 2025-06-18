@@ -6407,22 +6407,6 @@
     "createdAt": "2025-06-18T12:36:20.607Z"
   },
   {
-    "marque": "qsdd",
-    "model": "qsdqsd",
-    "quantite": 1,
-    "emplacement": "",
-    "description": {},
-    "unites": [
-      {
-        "numserie": "sdqsdqs",
-        "position": "",
-        "etatcvi": "non",
-        "dateFinCVI": null
-      }
-    ],
-    "createdAt": "2025-06-18T14:00:38.726Z"
-  },
-  {
     "marque": "qsdf",
     "model": "qsd",
     "quantite": 1,
@@ -6453,53 +6437,5 @@
       }
     ],
     "createdAt": "2025-06-18T14:06:38.459Z"
-  },
-  {
-    "marque": "qsdsq",
-    "model": "sdqsd",
-    "quantite": 1,
-    "emplacement": "",
-    "description": "https://www.tnt.fr/mytnt/expedier/editionBTSeul/index.do",
-    "unites": [
-      {
-        "numserie": "",
-        "position": "",
-        "etatcvi": "non",
-        "dateFinCVI": null
-      }
-    ],
-    "createdAt": "2025-06-18T14:10:21.714Z"
-  },
-  {
-    "marque": "s",
-    "model": "s",
-    "quantite": 1,
-    "emplacement": "",
-    "description": "https://www.tnt.fr/mytnt/expedier/editionBTSeul/index.do",
-    "unites": [
-      {
-        "numserie": "",
-        "position": "",
-        "etatcvi": "non",
-        "dateFinCVI": null
-      }
-    ],
-    "createdAt": "2025-06-18T14:14:26.595Z"
-  },
-  {
-    "marque": "<",
-    "model": "q",
-    "quantite": 1,
-    "emplacement": "",
-    "description": "sssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssss https://google.com",
-    "unites": [
-      {
-        "numserie": "",
-        "position": "",
-        "etatcvi": "non",
-        "dateFinCVI": null
-      }
-    ],
-    "createdAt": "2025-06-18T14:20:20.238Z"
   }
 ]
