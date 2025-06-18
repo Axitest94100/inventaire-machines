@@ -6469,5 +6469,21 @@
       }
     ],
     "createdAt": "2025-06-18T14:10:21.714Z"
+  },
+  {
+    "marque": "sdvfdfsdf",
+    "model": "sdfsdf",
+    "quantite": 1,
+    "emplacement": "",
+    "description": "https://www.tnt.fr/mytnt/expedier/editionBTSeul/index.do",
+    "unites": [
+      {
+        "numserie": "dsfsdf",
+        "position": "",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      }
+    ],
+    "createdAt": "2025-06-18T14:13:35.794Z"
   }
 ]
