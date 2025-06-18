@@ -6421,21 +6421,5 @@
       }
     ],
     "createdAt": "2025-06-18T14:02:58.110Z"
-  },
-  {
-    "marque": "HP",
-    "model": "WAVESURFER10",
-    "quantite": 1,
-    "emplacement": "",
-    "description": {},
-    "unites": [
-      {
-        "numserie": "C051810",
-        "position": "",
-        "etatcvi": "non",
-        "dateFinCVI": null
-      }
-    ],
-    "createdAt": "2025-06-18T14:06:38.459Z"
   }
 ]
