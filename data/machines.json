@@ -5282,19 +5282,19 @@
     "marque": "bonjour",
     "model": "3750",
     "quantite": 2,
-    "emplacement": "F-4",
+    "emplacement": "F-4 + zer",
     "unites": [
       {
         "numserie": "C040619",
-        "position": "F-4",
         "etatcvi": "non",
+        "position": "F-4",
         "dateFinCVI": null
       },
       {
-        "numserie": "",
-        "position": "",
-        "etatcvi": "non",
-        "dateFinCVI": ""
+        "numserie": "ezr",
+        "etatcvi": "oui",
+        "position": "zer",
+        "dateFinCVI": "2025-06-28"
       }
     ],
     "createdAt": "2025-06-18T12:00:35.687Z"
