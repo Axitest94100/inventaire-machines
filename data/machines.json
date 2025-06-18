@@ -6453,5 +6453,21 @@
       }
     ],
     "createdAt": "2025-06-18T14:06:38.459Z"
+  },
+  {
+    "marque": "qsdsq",
+    "model": "sdqsd",
+    "quantite": 1,
+    "emplacement": "",
+    "description": "https://www.tnt.fr/mytnt/expedier/editionBTSeul/index.do",
+    "unites": [
+      {
+        "numserie": "",
+        "position": "",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      }
+    ],
+    "createdAt": "2025-06-18T14:10:21.714Z"
   }
 ]
