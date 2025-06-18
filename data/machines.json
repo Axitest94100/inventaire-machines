@@ -6485,5 +6485,21 @@
       }
     ],
     "createdAt": "2025-06-18T14:14:26.595Z"
+  },
+  {
+    "marque": "<",
+    "model": "q",
+    "quantite": 1,
+    "emplacement": "",
+    "description": "sssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssss https://google.com",
+    "unites": [
+      {
+        "numserie": "",
+        "position": "",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      }
+    ],
+    "createdAt": "2025-06-18T14:20:20.238Z"
   }
 ]
