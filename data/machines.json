@@ -6421,5 +6421,21 @@
       }
     ],
     "createdAt": "2025-06-18T14:00:38.726Z"
+  },
+  {
+    "marque": "qsdf",
+    "model": "qsd",
+    "quantite": 1,
+    "emplacement": "",
+    "description": {},
+    "unites": [
+      {
+        "numserie": "sqd",
+        "position": "",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      }
+    ],
+    "createdAt": "2025-06-18T14:02:58.110Z"
   }
 ]
