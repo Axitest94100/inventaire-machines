@@ -6,14 +6,15 @@
     "unites": [
       {
         "numserie": "C051810",
-        "position": "A-3",
         "etatcvi": "non",
+        "position": "A-3",
         "dateFinCVI": null
       }
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-06-18T12:36:20.606Z"
+    "createdAt": "2025-06-18T12:36:20.606Z",
+    "emplacement": "A-3"
   },
   {
     "marque": "TEKTRONIX",
