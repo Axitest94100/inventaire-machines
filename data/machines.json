@@ -6405,5 +6405,21 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-18T12:36:20.607Z"
+  },
+  {
+    "marque": "TELEDYNE LECROY",
+    "model": "MSODLS001",
+    "quantite": 1,
+    "emplacement": "A-5",
+    "description": "",
+    "unites": [
+      {
+        "numserie": "20777873-0027",
+        "position": "A-5",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      }
+    ],
+    "createdAt": "2025-06-18T14:22:20.524Z"
   }
 ]
