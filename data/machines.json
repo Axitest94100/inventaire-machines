@@ -6745,5 +6745,21 @@
       }
     ],
     "createdAt": "2025-06-19T09:48:56.737Z"
+  },
+  {
+    "marque": "zzzaza",
+    "model": "azaza",
+    "quantite": 1,
+    "emplacement": "",
+    "description": "",
+    "unites": [
+      {
+        "numserie": "qsdw<",
+        "position": "",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      }
+    ],
+    "createdAt": "2025-06-19T12:41:44.749Z"
   }
 ]
