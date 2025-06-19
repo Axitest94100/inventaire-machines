@@ -6777,37 +6777,5 @@
       }
     ],
     "createdAt": "2025-06-19T10:28:19.551Z"
-  },
-  {
-    "marque": "qsdqsdqsdsd",
-    "model": "sdsdsds",
-    "quantite": 1,
-    "emplacement": "",
-    "description": "",
-    "unites": [
-      {
-        "numserie": "dsdsds",
-        "position": "",
-        "etatcvi": "non",
-        "dateFinCVI": null
-      }
-    ],
-    "createdAt": "2025-06-19T12:30:09.750Z"
-  },
-  {
-    "marque": "w<x",
-    "model": "www",
-    "quantite": 1,
-    "emplacement": "",
-    "description": "",
-    "unites": [
-      {
-        "numserie": "www",
-        "position": "",
-        "etatcvi": "non",
-        "dateFinCVI": null
-      }
-    ],
-    "createdAt": "2025-06-19T12:36:16.106Z"
   }
 ]
