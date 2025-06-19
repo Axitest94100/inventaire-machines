@@ -6815,37 +6815,5 @@
       }
     ],
     "createdAt": "2025-06-19T15:41:50.652Z"
-  },
-  {
-    "marque": "Aeztz",
-    "model": "Jake",
-    "quantite": 1,
-    "emplacement": "",
-    "description": "",
-    "unites": [
-      {
-        "numserie": "",
-        "position": "",
-        "etatcvi": "non",
-        "dateFinCVI": null
-      }
-    ],
-    "createdAt": "2025-06-19T15:43:53.909Z"
-  },
-  {
-    "marque": "HP",
-    "model": "WAVESURFER10",
-    "quantite": 1,
-    "emplacement": "",
-    "description": "",
-    "unites": [
-      {
-        "numserie": "54254",
-        "position": "",
-        "etatcvi": "non",
-        "dateFinCVI": null
-      }
-    ],
-    "createdAt": "2025-06-19T15:47:14.225Z"
   }
 ]
