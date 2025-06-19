@@ -6746,21 +6746,5 @@
       }
     ],
     "createdAt": "2025-06-18T14:22:20.524Z"
-  },
-  {
-    "marque": "TEKTRONIX",
-    "model": "CA8336",
-    "quantite": 1,
-    "emplacement": "",
-    "description": "",
-    "unites": [
-      {
-        "numserie": "C040619",
-        "position": "",
-        "etatcvi": "non",
-        "dateFinCVI": null
-      }
-    ],
-    "createdAt": "2025-06-19T09:41:50.705Z"
   }
 ]
