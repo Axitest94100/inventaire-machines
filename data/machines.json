@@ -6761,5 +6761,21 @@
       }
     ],
     "createdAt": "2025-06-19T12:41:44.749Z"
+  },
+  {
+    "marque": "aaaaaaaa",
+    "model": "aaaaaaa",
+    "quantite": 1,
+    "emplacement": "aza",
+    "description": "",
+    "unites": [
+      {
+        "numserie": "zaz",
+        "position": "aza",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      }
+    ],
+    "createdAt": "2025-06-19T12:45:02.832Z"
   }
 ]
