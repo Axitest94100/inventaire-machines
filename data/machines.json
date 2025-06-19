@@ -6746,5 +6746,21 @@
       }
     ],
     "createdAt": "2025-06-18T14:22:20.524Z"
+  },
+  {
+    "marque": "ss",
+    "model": "sss",
+    "quantite": 1,
+    "emplacement": "",
+    "description": "sss",
+    "unites": [
+      {
+        "numserie": "sss",
+        "position": "",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      }
+    ],
+    "createdAt": "2025-06-19T09:23:38.576Z"
   }
 ]
