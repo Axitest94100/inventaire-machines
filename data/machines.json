@@ -6763,28 +6763,6 @@
     "createdAt": "2025-06-19T12:45:02.832Z"
   },
   {
-    "marque": "azeazeazeaz",
-    "model": "zaeazezaezaezee",
-    "quantite": 2,
-    "emplacement": "",
-    "description": "",
-    "unites": [
-      {
-        "numserie": "azezaeza",
-        "position": "",
-        "etatcvi": "non",
-        "dateFinCVI": null
-      },
-      {
-        "numserie": "azezaeza",
-        "position": "",
-        "etatcvi": "non",
-        "dateFinCVI": null
-      }
-    ],
-    "createdAt": "2025-06-19T12:49:49.019Z"
-  },
-  {
     "marque": "TEKTRONIX",
     "model": "yurkfu",
     "quantite": 1,
