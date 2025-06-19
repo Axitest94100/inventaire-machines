@@ -6749,18 +6749,18 @@
   },
   {
     "marque": "TEKTRONIX",
-    "model": "WAVESURFER10",
+    "model": "CA8336",
     "quantite": 1,
     "emplacement": "",
     "description": "",
     "unites": [
       {
-        "numserie": "qsqs",
+        "numserie": "C040619",
         "position": "",
         "etatcvi": "non",
         "dateFinCVI": null
       }
     ],
-    "createdAt": "2025-06-19T09:41:06.699Z"
+    "createdAt": "2025-06-19T09:41:50.705Z"
   }
 ]
