@@ -4930,23 +4930,6 @@
     "emplacement": "I-1"
   },
   {
-    "marque": "AGILENT",
-    "model": "N9030A",
-    "quantite": 1,
-    "unites": [
-      {
-        "numserie": "MY49431173",
-        "position": "I-1",
-        "etatcvi": "non",
-        "dateFinCVI": null
-      }
-    ],
-    "etatcvi": "non",
-    "dateFinCVI": null,
-    "createdAt": "2025-06-18T12:36:20.607Z",
-    "emplacement": "I-1"
-  },
-  {
     "marque": "KEYSIGHT",
     "model": "E4990A",
     "quantite": 1,
@@ -6800,7 +6783,7 @@
     "marque": "zzzz",
     "model": "zzzz",
     "quantite": 3,
-    "emplacement": "z + zl",
+    "emplacement": "z+zl",
     "description": "coucou",
     "unites": [
       {
