@@ -6746,5 +6746,21 @@
       }
     ],
     "createdAt": "2025-06-18T14:22:20.524Z"
+  },
+  {
+    "marque": "TEKTRONIX",
+    "model": "WAVESURFER10",
+    "quantite": 1,
+    "emplacement": "",
+    "description": "",
+    "unites": [
+      {
+        "numserie": "qsqs",
+        "position": "",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      }
+    ],
+    "createdAt": "2025-06-19T09:41:06.699Z"
   }
 ]
