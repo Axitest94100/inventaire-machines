@@ -6745,27 +6745,5 @@
       }
     ],
     "createdAt": "2025-06-19T09:48:56.737Z"
-  },
-  {
-    "marque": "azeazeazeaz",
-    "model": "zaeazezaezaezee",
-    "quantite": 2,
-    "emplacement": "",
-    "description": "",
-    "unites": [
-      {
-        "numserie": "azezaeza",
-        "position": "",
-        "etatcvi": "non",
-        "dateFinCVI": null
-      },
-      {
-        "numserie": "azezaeza",
-        "position": "",
-        "etatcvi": "non",
-        "dateFinCVI": null
-      }
-    ],
-    "createdAt": "2025-06-19T12:49:49.019Z"
   }
 ]
