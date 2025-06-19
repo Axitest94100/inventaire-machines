@@ -5348,20 +5348,20 @@
   },
   {
     "marque": "AGILENT",
-    "model": "4980A",
+    "model": "E4980A",
     "quantite": 1,
     "unites": [
       {
         "numserie": "MY46202938",
-        "position": "H-3",
         "etatcvi": "oui",
+        "position": "ARRIVAGE",
         "dateFinCVI": "2025-10-01"
       }
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-18T12:36:20.607Z",
-    "emplacement": "H-3"
+    "emplacement": "ARRIVAGE"
   },
   {
     "marque": "SEFELEC",
