@@ -6806,5 +6806,21 @@
       }
     ],
     "createdAt": "2025-06-19T08:30:53.619Z"
+  },
+  {
+    "marque": "FLUKE",
+    "model": "WAVESURFER10",
+    "quantite": 1,
+    "emplacement": "",
+    "description": "",
+    "unites": [
+      {
+        "numserie": "B014364",
+        "position": "",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      }
+    ],
+    "createdAt": "2025-06-19T08:55:46.086Z"
   }
 ]
