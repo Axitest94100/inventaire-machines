@@ -6745,21 +6745,5 @@
       }
     ],
     "createdAt": "2025-06-19T09:48:56.737Z"
-  },
-  {
-    "marque": "qsdqqssddsq",
-    "model": "sdqsdqds",
-    "quantite": 1,
-    "emplacement": "",
-    "description": "az",
-    "unites": [
-      {
-        "numserie": "zzz",
-        "position": "",
-        "etatcvi": "non",
-        "dateFinCVI": null
-      }
-    ],
-    "createdAt": "2025-06-19T10:28:19.551Z"
   }
 ]
