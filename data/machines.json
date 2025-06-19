@@ -6762,37 +6762,5 @@
       }
     ],
     "createdAt": "2025-06-19T09:23:38.576Z"
-  },
-  {
-    "marque": "TEKTRONIX",
-    "model": "3750",
-    "quantite": 1,
-    "emplacement": "",
-    "description": "ZE",
-    "unites": [
-      {
-        "numserie": "EEEEE",
-        "position": "",
-        "etatcvi": "non",
-        "dateFinCVI": null
-      }
-    ],
-    "createdAt": "2025-06-19T09:31:29.736Z"
-  },
-  {
-    "marque": "racal",
-    "model": "6103",
-    "quantite": 1,
-    "emplacement": "",
-    "description": "",
-    "unites": [
-      {
-        "numserie": "",
-        "position": "",
-        "etatcvi": "non",
-        "dateFinCVI": null
-      }
-    ],
-    "createdAt": "2025-06-19T09:34:23.168Z"
   }
 ]
