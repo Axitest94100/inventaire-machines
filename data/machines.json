@@ -6799,5 +6799,21 @@
       }
     ],
     "createdAt": "2025-06-19T13:36:47.098Z"
+  },
+  {
+    "marque": "TEKTRONIX",
+    "model": "yurkfu",
+    "quantite": 1,
+    "emplacement": "",
+    "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EhrFk31Vus1Pl1Lg9BnGkKUBEBdoXkX3oAuSSHhPQjFKJw?e=7PhrMv",
+    "unites": [
+      {
+        "numserie": "eze",
+        "position": "",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      }
+    ],
+    "createdAt": "2025-06-19T15:41:50.652Z"
   }
 ]
