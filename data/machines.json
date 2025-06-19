@@ -6781,10 +6781,16 @@
   {
     "marque": "azeazeazeaz",
     "model": "zaeazezaezaezee",
-    "quantite": 1,
+    "quantite": 2,
     "emplacement": "",
     "description": "",
     "unites": [
+      {
+        "numserie": "azezaeza",
+        "position": "",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      },
       {
         "numserie": "azezaeza",
         "position": "",
