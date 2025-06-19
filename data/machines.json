@@ -6750,18 +6750,12 @@
   {
     "marque": "AGILENT",
     "model": "WAVESURFER10",
-    "quantite": 2,
+    "quantite": 1,
     "emplacement": "",
     "description": "https://google.com",
     "unites": [
       {
         "numserie": "s",
-        "position": "",
-        "etatcvi": "non",
-        "dateFinCVI": null
-      },
-      {
-        "numserie": "54254",
         "position": "",
         "etatcvi": "non",
         "dateFinCVI": null
