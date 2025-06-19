@@ -6795,5 +6795,33 @@
       }
     ],
     "createdAt": "2025-06-19T07:57:30.205Z"
+  },
+  {
+    "marque": "zzzz",
+    "model": "zzzz",
+    "quantite": 3,
+    "emplacement": "z + zl",
+    "description": "coucou",
+    "unites": [
+      {
+        "numserie": "ACCESSOIRES",
+        "position": "z",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      },
+      {
+        "numserie": "qsd",
+        "position": "z",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      },
+      {
+        "numserie": "sdds",
+        "position": "zl",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      }
+    ],
+    "createdAt": "2025-06-19T08:30:53.619Z"
   }
 ]
