@@ -6762,21 +6762,5 @@
       }
     ],
     "createdAt": "2025-06-18T14:27:08.938Z"
-  },
-  {
-    "marque": "TEKTRONIX",
-    "model": "s",
-    "quantite": 1,
-    "emplacement": "",
-    "description": "",
-    "unites": [
-      {
-        "numserie": "",
-        "position": "",
-        "etatcvi": "non",
-        "dateFinCVI": null
-      }
-    ],
-    "createdAt": "2025-06-19T07:57:30.205Z"
   }
 ]
