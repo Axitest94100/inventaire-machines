@@ -6746,5 +6746,21 @@
       }
     ],
     "createdAt": "2025-06-18T14:22:20.524Z"
+  },
+  {
+    "marque": "KEYSIGHT",
+    "model": "81150A",
+    "quantite": 1,
+    "emplacement": "D-3",
+    "description": "OPTION 002",
+    "unites": [
+      {
+        "numserie": "MY53820512",
+        "position": "D-3",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      }
+    ],
+    "createdAt": "2025-06-19T09:48:00.090Z"
   }
 ]
