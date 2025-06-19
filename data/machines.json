@@ -6747,22 +6747,6 @@
     "createdAt": "2025-06-19T09:48:56.737Z"
   },
   {
-    "marque": "aaaaaaaa",
-    "model": "aaaaaaa",
-    "quantite": 1,
-    "emplacement": "aza",
-    "description": "",
-    "unites": [
-      {
-        "numserie": "zaz",
-        "position": "aza",
-        "etatcvi": "non",
-        "dateFinCVI": null
-      }
-    ],
-    "createdAt": "2025-06-19T12:45:02.832Z"
-  },
-  {
     "marque": "TEKTRONIX",
     "model": "yurkfu",
     "quantite": 1,
