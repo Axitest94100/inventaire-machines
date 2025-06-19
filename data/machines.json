@@ -6251,10 +6251,16 @@
   {
     "marque": "AGILENT",
     "model": "CA8336",
-    "quantite": 1,
+    "quantite": 2,
     "unites": [
       {
         "numserie": "54254",
+        "position": "",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      },
+      {
+        "numserie": "B014364",
         "position": "",
         "etatcvi": "non",
         "dateFinCVI": null
