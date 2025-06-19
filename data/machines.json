@@ -6249,29 +6249,6 @@
     "emplacement": "J-1"
   },
   {
-    "marque": "AGILENT",
-    "model": "CA8336",
-    "quantite": 2,
-    "unites": [
-      {
-        "numserie": "54254",
-        "position": "",
-        "etatcvi": "non",
-        "dateFinCVI": null
-      },
-      {
-        "numserie": "B014364",
-        "position": "",
-        "etatcvi": "non",
-        "dateFinCVI": null
-      }
-    ],
-    "etatcvi": "non",
-    "dateFinCVI": null,
-    "createdAt": "2025-06-18T12:36:20.607Z",
-    "emplacement": ""
-  },
-  {
     "marque": "WANDEL & GOLTERMANN",
     "model": "PS-33A",
     "quantite": 1,
