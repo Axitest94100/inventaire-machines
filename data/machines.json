@@ -4557,7 +4557,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-18T12:36:20.607Z",
-    "emplacement": "I-2 + LOCATION MICRO MECANIQUE PYRENENNE 08/07/2025",
+    "emplacement": "I-2+LOCATION MICRO MECANIQUE PYRENENNE 08/07/2025",
     "description": ""
   },
   {
@@ -4792,7 +4792,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-18T12:36:20.607Z",
-    "emplacement": "I-4",
+    "emplacement": "I-4+I-4(LOCATION MICRO MECANIQUE PYRENENNE 08/07/2025)",
     "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/Epcu1mgv-ddCm5ibRLQPAaABjs_sTNeeOelEtiRnZxbvVA?e=nxAG6G"
   },
   {
@@ -5429,15 +5429,15 @@
     "unites": [
       {
         "numserie": "EM911738",
-        "position": "H-3",
         "etatcvi": "non",
+        "position": "H-3 menova",
         "dateFinCVI": null
       }
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-18T12:36:20.607Z",
-    "emplacement": "H-3"
+    "emplacement": "H-3 menova"
   },
   {
     "marque": "FLUKE",
