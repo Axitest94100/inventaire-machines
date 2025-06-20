@@ -4543,21 +4543,22 @@
     "unites": [
       {
         "numserie": "GEW161427",
-        "position": "I-2",
         "etatcvi": "non",
+        "position": "I-2",
         "dateFinCVI": null
       },
       {
         "numserie": "GEX211317",
-        "position": "LOCATION MICRO MECANIQUE PYRENENNE",
         "etatcvi": "non",
+        "position": "LOCATION MICRO MECANIQUE PYRENENNE 08/07/2025",
         "dateFinCVI": null
       }
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-18T12:36:20.607Z",
-    "emplacement": "I-2+M-3"
+    "emplacement": "I-2 + LOCATION MICRO MECANIQUE PYRENENNE 08/07/2025",
+    "description": ""
   },
   {
     "marque": "ANRITSU",
