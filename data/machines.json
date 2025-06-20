@@ -6761,5 +6761,21 @@
       }
     ],
     "createdAt": "2025-06-19T15:41:50.652Z"
+  },
+  {
+    "marque": "Tu",
+    "model": "Tu",
+    "quantite": 1,
+    "emplacement": "",
+    "description": "",
+    "unites": [
+      {
+        "numserie": "",
+        "position": "",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      }
+    ],
+    "createdAt": "2025-06-20T07:12:04.389Z"
   }
 ]
