@@ -6747,38 +6747,6 @@
     "createdAt": "2025-06-19T09:48:56.737Z"
   },
   {
-    "marque": "TEKTRONIX",
-    "model": "yurkfu",
-    "quantite": 1,
-    "emplacement": "",
-    "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EhrFk31Vus1Pl1Lg9BnGkKUBEBdoXkX3oAuSSHhPQjFKJw?e=7PhrMv",
-    "unites": [
-      {
-        "numserie": "eze",
-        "position": "",
-        "etatcvi": "non",
-        "dateFinCVI": null
-      }
-    ],
-    "createdAt": "2025-06-19T15:41:50.652Z"
-  },
-  {
-    "marque": "Tu",
-    "model": "Tu",
-    "quantite": 1,
-    "emplacement": "",
-    "description": "",
-    "unites": [
-      {
-        "numserie": "",
-        "position": "",
-        "etatcvi": "non",
-        "dateFinCVI": null
-      }
-    ],
-    "createdAt": "2025-06-20T07:12:04.389Z"
-  },
-  {
     "marque": "RACAL",
     "model": "6103",
     "quantite": 1,
