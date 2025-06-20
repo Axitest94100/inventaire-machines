@@ -6777,5 +6777,21 @@
       }
     ],
     "createdAt": "2025-06-20T07:12:04.389Z"
+  },
+  {
+    "marque": "RACAL",
+    "model": "6103",
+    "quantite": 1,
+    "emplacement": "I-2",
+    "description": "",
+    "unites": [
+      {
+        "numserie": "1505",
+        "position": "I-2",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      }
+    ],
+    "createdAt": "2025-06-20T07:20:26.314Z"
   }
 ]
