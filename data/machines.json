@@ -464,27 +464,16 @@
   {
     "marque": "TEKTRONIX",
     "model": "2225",
-    "quantite": 1,
+    "quantite": 2,
     "unites": [
       {
         "numserie": "H708609",
         "position": "L-1",
         "etatcvi": "non",
         "dateFinCVI": null
-      }
-    ],
-    "etatcvi": "non",
-    "dateFinCVI": null,
-    "createdAt": "2025-06-18T12:36:20.607Z",
-    "emplacement": "L-1"
-  },
-  {
-    "marque": "TEKTRONIX",
-    "model": "225",
-    "quantite": 1,
-    "unites": [
+      },
       {
-        "numserie": "H708609",
+        "numserie": "j311246",
         "position": "L-1",
         "etatcvi": "non",
         "dateFinCVI": null
