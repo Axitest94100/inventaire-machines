@@ -4385,7 +4385,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-18T12:36:20.606Z",
-    "emplacement": "MENOVA",
+    "emplacement": "ARRIVAGE",
     "description": ""
   },
   {
@@ -6766,5 +6766,21 @@
     "dateFinCVI": null,
     "createdAt": "2025-06-18T12:36:20.607Z",
     "emplacement": "M-2"
+  },
+  {
+    "marque": "EIP",
+    "model": "25B",
+    "quantite": 1,
+    "emplacement": "J-3",
+    "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/Eg7I6f6btn5KjJO3i59C-VYBq_gCNOJG4EWxwYna13g9gA?e=R0ktKb",
+    "unites": [
+      {
+        "numserie": "00167",
+        "position": "J-3",
+        "etatcvi": "oui",
+        "dateFinCVI": "2026-06-23"
+      }
+    ],
+    "createdAt": "2025-06-23T12:40:34.364Z"
   }
 ]
