@@ -6771,5 +6771,21 @@
       }
     ],
     "createdAt": "2025-06-23T12:40:34.364Z"
+  },
+  {
+    "marque": "a",
+    "model": "v",
+    "quantite": 1,
+    "emplacement": "F-4",
+    "description": "",
+    "unites": [
+      {
+        "numserie": "v",
+        "position": "F-4",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      }
+    ],
+    "createdAt": "2025-06-23T15:35:32.025Z"
   }
 ]
