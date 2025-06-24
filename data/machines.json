@@ -1324,6 +1324,22 @@
     "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EvktH0UgXzlLk4Kt9ORnwbwB_J09UyacyX6zcBtBMBvoPQ?e=Db7HuS"
   },
   {
+    "marque": "tektronix",
+    "model": "DPO5054B",
+    "quantite": 1,
+    "emplacement": "B-3",
+    "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EkJrf2KCBUxHvoz9pqjqlDoBpw6qBlY6h0Tiv6qOUFss4w?e=uiYCbf",
+    "unites": [
+      {
+        "numserie": "C040207",
+        "position": "B-3",
+        "etatcvi": "oui",
+        "dateFinCVI": "2024-06-01"
+      }
+    ],
+    "createdAt": "2025-06-24T10:19:38.179Z"
+  },
+  {
     "marque": "AGILENT",
     "model": "MSO9404A",
     "quantite": 1,
@@ -5558,7 +5574,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-18T12:36:20.607Z",
-    "emplacement": "I-4 + I-4(LOCATION MICRO MECANIQUE PYRENENNE 08/07/2025)",
+    "emplacement": "I-4+I-4(LOCATION MICRO MECANIQUE PYRENENNE 08/07/2025)",
     "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/Epcu1mgv-ddCm5ibRLQPAaABjs_sTNeeOelEtiRnZxbvVA?e=nxAG6G"
   },
   {
