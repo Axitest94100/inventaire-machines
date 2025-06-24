@@ -432,7 +432,7 @@
     "dateFinCVI": null,
     "createdAt": "2025-06-18T12:36:20.606Z",
     "emplacement": "A-3",
-    "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EuoYUoxux6pPnMwCB-qzHB0BIAxVKUkV1o3sDiWV0NsohA?e=HYobCb"
+    "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/Er2X2zbE3QBCpahZ5iBWMy8BvTVWSa1HCmCKWUaqB32iUQ?e=Lm0KRY"
   },
   {
     "marque": "TEKTRONIX",
@@ -449,7 +449,8 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-18T12:36:20.606Z",
-    "emplacement": "A-3"
+    "emplacement": "A-3",
+    "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EkctJWi_J-tBrkm7UQ1dHpEBizLJfJ_Xigw8lMykqA699Q?e=Yv1pHW"
   },
   {
     "marque": "TEKTRONIX",
@@ -471,7 +472,7 @@
   },
   {
     "marque": "TEKTRONIX",
-    "model": "TPS3012",
+    "model": "TDS3012",
     "quantite": 2,
     "unites": [
       {
@@ -490,7 +491,8 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-18T12:36:20.606Z",
-    "emplacement": "A-3"
+    "emplacement": "A-3",
+    "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EuoYUoxux6pPnMwCB-qzHB0BIAxVKUkV1o3sDiWV0NsohA"
   },
   {
     "marque": "AGILENT",
