@@ -2157,7 +2157,8 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-18T12:36:20.606Z",
-    "emplacement": "D-2+D-1"
+    "emplacement": "D-2+D-1",
+    "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EltmjtxliMZDjSDPVCi--BkBweJgoUL2yZUtqfprybbg9Q?e=RLQyfg"
   },
   {
     "marque": "CHROMA",
@@ -2237,7 +2238,8 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-18T12:36:20.606Z",
-    "emplacement": "D-3"
+    "emplacement": "D-3",
+    "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EiK_EEX72FFNrUtvzdCvBtUBdEbzgzTin1PC_BSj2zN9qw?e=PjT9Pd"
   },
   {
     "marque": "KEYSIGHT",
@@ -2789,7 +2791,8 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-18T12:36:20.606Z",
-    "emplacement": "E-3"
+    "emplacement": "E-3",
+    "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EkfJ32T0k_tHpgqg06SQAQoBCg_S4M_9RzMIcHw3ctaZnQ?e=giUYfQ"
   },
   {
     "marque": "AGILENT",
@@ -2806,7 +2809,8 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-18T12:36:20.606Z",
-    "emplacement": "E-3"
+    "emplacement": "E-3",
+    "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EhdabkGJXZ1Kl8KDlceL0DgBzC6PPGSRnN3AD3tPA5PY2Q?e=akbtwa"
   },
   {
     "marque": "HP",
