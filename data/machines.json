@@ -2213,7 +2213,8 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-18T12:36:20.606Z",
-    "emplacement": "D-3"
+    "emplacement": "D-3",
+    "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EmeI1cYUqW5PpbdgEBVKSqcBjcA8hnqchhOkSVHKqF74TQ?e=fwFvcS"
   },
   {
     "marque": "HP",
@@ -2250,7 +2251,7 @@
     "model": "81150A",
     "quantite": 1,
     "emplacement": "D-3",
-    "description": "OPTION 002",
+    "description": "OPTION 002\nhttps://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/Ejj62IMq0PZHs6M2KMIDeEABALzD5o4zWupHrkEdwPY3cg?e=ZRcZrx",
     "unites": [
       {
         "numserie": "MY53820512",
@@ -3185,7 +3186,8 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-18T12:36:20.606Z",
-    "emplacement": "E-5"
+    "emplacement": "E-5",
+    "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EtyfDdmBzoxGg-HJE_66GaEBI7NWgORQlAL_NheJc_8CWg?e=KfpNK8"
   },
   {
     "marque": "KEYSIGHT",
