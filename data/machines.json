@@ -1225,16 +1225,17 @@
     "quantite": 1,
     "unites": [
       {
-        "numserie": "",
-        "position": "B-3",
+        "numserie": "@",
         "etatcvi": "non",
+        "position": "B-3",
         "dateFinCVI": null
       }
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-18T12:36:20.606Z",
-    "emplacement": "B-3"
+    "emplacement": "B-3",
+    "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EkR4tNjgas5MvPUJFmGZM9kBD4VXMB0nzihjlBtQRKqS1w?e=IgqHnp"
   },
   {
     "marque": "TEKTRONIX",
@@ -1251,7 +1252,8 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-18T12:36:20.606Z",
-    "emplacement": "B-3"
+    "emplacement": "B-3",
+    "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/El8HGtBqa-JHg7nDnek-gUoBSC0Yy5IWrgG4CnfCfXNyFQ?e=uXpsu1"
   },
   {
     "marque": "TEKTRONIX",
@@ -2817,7 +2819,8 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-18T12:36:20.606Z",
-    "emplacement": "E-3"
+    "emplacement": "E-3",
+    "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/Eo5jiJ2ch-JBv37qnAehrsABEth1Dqq_b2g8grCvwcG8bg?e=gj7Gru"
   },
   {
     "marque": "KEITHLEY",
@@ -2887,7 +2890,8 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-18T12:36:20.606Z",
-    "emplacement": "E-3+E-4+F-5+F-4"
+    "emplacement": "E-3+E-4+F-5+F-4",
+    "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/Etwp9mSbB4ZEvZrR76BeBvQBLks5o4fZZnC-GkLlisFuvQ?e=kL3BXN"
   },
   {
     "marque": "AGILENT",
