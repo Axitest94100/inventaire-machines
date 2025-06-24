@@ -4153,7 +4153,7 @@
   },
   {
     "marque": "MEGGER",
-    "model": "ACCESSOIIRE MIT 520/2",
+    "model": "ACCESSOIRE MIT 520/2",
     "quantite": 1,
     "unites": [
       {
@@ -4166,7 +4166,8 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-18T12:36:20.606Z",
-    "emplacement": "E-4"
+    "emplacement": "E-4",
+    "description": ""
   },
   {
     "marque": "MEGGER",
@@ -4195,7 +4196,8 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-18T12:36:20.606Z",
-    "emplacement": "E-4"
+    "emplacement": "E-4",
+    "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EkddRY-HaxVLvK1QaAtJ0cUBsSMnHYb7OIEE-VUGu1wjsQ?e=vImef8"
   },
   {
     "marque": "METRIX",
@@ -6193,7 +6195,8 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-18T12:36:20.606Z",
-    "emplacement": "B-3"
+    "emplacement": "B-3",
+    "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EnJf3okDNRlCgX2hWaTzBAUB59A14RZA7C1MmM_AJuGZaQ?e=J0MGvY"
   },
   {
     "marque": "TELEDYNE LECROY",
