@@ -58,24 +58,6 @@
   },
   {
     "marque": "AEROFLEX",
-    "model": "3251",
-    "quantite": 1,
-    "unites": [
-      {
-        "numserie": "1604004",
-        "position": "M-3",
-        "etatcvi": "non",
-        "dateFinCVI": null
-      }
-    ],
-    "etatcvi": "non",
-    "dateFinCVI": null,
-    "createdAt": "2025-06-18T12:36:20.607Z",
-    "emplacement": "M-3",
-    "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/Eqk850nw2YtIp2oE8Z7zzhUBWldibxL6XNbMqlqwneKMcQ?e=kdFRIw"
-  },
-  {
-    "marque": "AEROFLEX",
     "model": "3416",
     "quantite": 1,
     "unites": [
@@ -110,95 +92,337 @@
     "emplacement": "E-3"
   },
   {
+    "marque": "AEROFLEX",
+    "model": "3251",
+    "quantite": 1,
+    "unites": [
+      {
+        "numserie": "1604004",
+        "position": "M-3",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      }
+    ],
+    "etatcvi": "non",
+    "dateFinCVI": null,
+    "createdAt": "2025-06-18T12:36:20.607Z",
+    "emplacement": "M-3",
+    "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/Eqk850nw2YtIp2oE8Z7zzhUBWldibxL6XNbMqlqwneKMcQ?e=kdFRIw"
+  },
+  {
     "marque": "AGILENT",
-    "model": "16334A",
+    "model": "MSO7034A",
     "quantite": 2,
     "unites": [
       {
-        "numserie": "MY44102483",
-        "position": "I-3",
+        "numserie": "MY48080123",
+        "position": "A-1",
         "etatcvi": "non",
         "dateFinCVI": null
       },
       {
-        "numserie": "MY44101866",
-        "position": "H-3",
+        "numserie": "MY48080126",
+        "position": "A-1",
         "etatcvi": "non",
         "dateFinCVI": null
       }
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-06-18T12:36:20.607Z",
-    "emplacement": "I-3+H-3"
+    "createdAt": "2025-06-18T12:36:20.606Z",
+    "emplacement": "A-1"
   },
   {
     "marque": "AGILENT",
-    "model": "16493S",
+    "model": "DSO-X-3024A",
     "quantite": 1,
     "unites": [
       {
-        "numserie": "9001791208",
-        "position": "H-3",
+        "numserie": "MY50510886",
+        "position": "A-4",
         "etatcvi": "non",
         "dateFinCVI": null
       }
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-06-18T12:36:20.607Z",
-    "emplacement": "H-3"
+    "createdAt": "2025-06-18T12:36:20.606Z",
+    "emplacement": "A-4"
   },
   {
     "marque": "AGILENT",
-    "model": "16802A",
+    "model": "E4980A",
     "quantite": 1,
     "unites": [
       {
-        "numserie": "MY46001243",
-        "position": "J-1",
-        "etatcvi": "non",
-        "dateFinCVI": null
+        "numserie": "MY46202938",
+        "etatcvi": "oui",
+        "position": "ARRIVAGE",
+        "dateFinCVI": "2025-10-01"
       }
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-18T12:36:20.607Z",
-    "emplacement": "J-1"
+    "emplacement": "ARRIVAGE"
   },
   {
     "marque": "AGILENT",
-    "model": "1680A",
+    "model": "DSO-X-2012A",
     "quantite": 1,
     "unites": [
       {
-        "numserie": "MY4100521",
-        "position": "J-1",
-        "etatcvi": "non",
-        "dateFinCVI": null
+        "numserie": "11Y50514864",
+        "position": "B-3",
+        "etatcvi": "oui",
+        "dateFinCVI": "2025-04-01"
       }
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-06-18T12:36:20.607Z",
-    "emplacement": "J-1"
+    "createdAt": "2025-06-18T12:36:20.606Z",
+    "emplacement": "B-3",
+    "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/Esr1sGBf8iVJijAglYTGzq8BpveCxmgoZASLrg2CTO1qjg?e=XW3HQf"
   },
   {
     "marque": "AGILENT",
-    "model": "1682AD",
+    "model": "MSO9404A",
     "quantite": 1,
     "unites": [
       {
-        "numserie": "MY41000633",
-        "position": "J-1",
+        "numserie": "MY55030113",
+        "position": "B-4",
+        "etatcvi": "oui",
+        "dateFinCVI": "2025-07-01"
+      }
+    ],
+    "etatcvi": "non",
+    "dateFinCVI": null,
+    "createdAt": "2025-06-18T12:36:20.606Z",
+    "emplacement": "B-4"
+  },
+  {
+    "marque": "AGILENT",
+    "model": "8753D",
+    "quantite": 1,
+    "unites": [
+      {
+        "numserie": "3410J02287",
+        "position": "C-3",
         "etatcvi": "non",
         "dateFinCVI": null
       }
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-06-18T12:36:20.607Z",
-    "emplacement": "J-1"
+    "createdAt": "2025-06-18T12:36:20.606Z",
+    "emplacement": "C-3"
+  },
+  {
+    "marque": "AGILENT",
+    "model": "E5061A-350",
+    "quantite": 1,
+    "unites": [
+      {
+        "numserie": "MY44203241",
+        "position": "C-5",
+        "etatcvi": "oui",
+        "dateFinCVI": "2026-05-01"
+      }
+    ],
+    "etatcvi": "non",
+    "dateFinCVI": null,
+    "createdAt": "2025-06-18T12:36:20.606Z",
+    "emplacement": "C-5"
+  },
+  {
+    "marque": "AGILENT",
+    "model": "N4431-60006",
+    "quantite": 1,
+    "unites": [
+      {
+        "numserie": "MY52230621",
+        "position": "C-5",
+        "etatcvi": "oui",
+        "dateFinCVI": "2023-10-01"
+      }
+    ],
+    "etatcvi": "non",
+    "dateFinCVI": null,
+    "createdAt": "2025-06-18T12:36:20.606Z",
+    "emplacement": "C-5"
+  },
+  {
+    "marque": "AGILENT",
+    "model": "6634B",
+    "quantite": 3,
+    "unites": [
+      {
+        "numserie": "US37471888",
+        "position": "D-1",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      },
+      {
+        "numserie": "US37472114",
+        "position": "D-1",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      },
+      {
+        "numserie": "US37471840",
+        "position": "D-1",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      }
+    ],
+    "etatcvi": "non",
+    "dateFinCVI": null,
+    "createdAt": "2025-06-18T12:36:20.606Z",
+    "emplacement": "D-1"
+  },
+  {
+    "marque": "AGILENT",
+    "model": "N5751A",
+    "quantite": 1,
+    "unites": [
+      {
+        "numserie": "US14A0973M",
+        "position": "D-2",
+        "etatcvi": "oui",
+        "dateFinCVI": "2025-10-01"
+      }
+    ],
+    "etatcvi": "non",
+    "dateFinCVI": null,
+    "createdAt": "2025-06-18T12:36:20.606Z",
+    "emplacement": "D-2"
+  },
+  {
+    "marque": "AGILENT",
+    "model": "6645A",
+    "quantite": 1,
+    "unites": [
+      {
+        "numserie": "MY40000691",
+        "position": "D-4",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      }
+    ],
+    "etatcvi": "non",
+    "dateFinCVI": null,
+    "createdAt": "2025-06-18T12:36:20.606Z",
+    "emplacement": "D-4"
+  },
+  {
+    "marque": "AGILENT",
+    "model": "E3631A",
+    "quantite": 2,
+    "unites": [
+      {
+        "numserie": "MY52350079",
+        "position": "D-4",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      },
+      {
+        "numserie": "MY40030600",
+        "position": "D-4",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      }
+    ],
+    "etatcvi": "non",
+    "dateFinCVI": null,
+    "createdAt": "2025-06-18T12:36:20.606Z",
+    "emplacement": "D-4"
+  },
+  {
+    "marque": "AGILENT",
+    "model": "N6734B",
+    "quantite": 4,
+    "unites": [
+      {
+        "numserie": "MY43000959",
+        "position": "D-4",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      },
+      {
+        "numserie": "MY43000957",
+        "position": "D-4",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      },
+      {
+        "numserie": "MY43000958",
+        "position": "D-4",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      },
+      {
+        "numserie": "MY53000971",
+        "position": "D-4",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      }
+    ],
+    "etatcvi": "non",
+    "dateFinCVI": null,
+    "createdAt": "2025-06-18T12:36:20.606Z",
+    "emplacement": "D-4"
+  },
+  {
+    "marque": "AGILENT",
+    "model": "E3642A",
+    "quantite": 1,
+    "unites": [
+      {
+        "numserie": "MY40006310",
+        "position": "E-1",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      }
+    ],
+    "etatcvi": "non",
+    "dateFinCVI": null,
+    "createdAt": "2025-06-18T12:36:20.606Z",
+    "emplacement": "E-1"
+  },
+  {
+    "marque": "AGILENT",
+    "model": "N5181A",
+    "quantite": 1,
+    "unites": [
+      {
+        "numserie": "MY49060759",
+        "position": "E-3",
+        "etatcvi": "oui",
+        "dateFinCVI": "2023-07-01"
+      }
+    ],
+    "etatcvi": "non",
+    "dateFinCVI": null,
+    "createdAt": "2025-06-18T12:36:20.606Z",
+    "emplacement": "E-3"
+  },
+  {
+    "marque": "AGILENT",
+    "model": "N5182A",
+    "quantite": 1,
+    "unites": [
+      {
+        "numserie": "6053817",
+        "position": "E-3",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      }
+    ],
+    "etatcvi": "non",
+    "dateFinCVI": null,
+    "createdAt": "2025-06-18T12:36:20.606Z",
+    "emplacement": "E-3"
   },
   {
     "marque": "AGILENT",
@@ -256,11 +480,97 @@
   },
   {
     "marque": "AGILENT",
+    "model": "53181A",
+    "quantite": 4,
+    "unites": [
+      {
+        "numserie": "3736A05231",
+        "position": "F-3",
+        "etatcvi": "oui",
+        "dateFinCVI": "2025-10-01"
+      },
+      {
+        "numserie": "MY40009160",
+        "position": "F-3",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      },
+      {
+        "numserie": "MY40005334",
+        "position": "F-3",
+        "etatcvi": "oui",
+        "dateFinCVI": "2025-10-01"
+      },
+      {
+        "numserie": "MY40008710",
+        "position": "F-3",
+        "etatcvi": "oui",
+        "dateFinCVI": "2025-10-01"
+      }
+    ],
+    "etatcvi": "non",
+    "dateFinCVI": null,
+    "createdAt": "2025-06-18T12:36:20.607Z",
+    "emplacement": "F-3"
+  },
+  {
+    "marque": "AGILENT",
+    "model": "B2961A",
+    "quantite": 1,
+    "unites": [
+      {
+        "numserie": "MY5235019",
+        "position": "F-4",
+        "etatcvi": "oui",
+        "dateFinCVI": "2025-07-01"
+      }
+    ],
+    "etatcvi": "non",
+    "dateFinCVI": null,
+    "createdAt": "2025-06-18T12:36:20.606Z",
+    "emplacement": "F-4"
+  },
+  {
+    "marque": "AGILENT",
+    "model": "N1294A OPT022",
+    "quantite": 1,
+    "unites": [
+      {
+        "numserie": "N1294-66603",
+        "position": "F-4",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      }
+    ],
+    "etatcvi": "non",
+    "dateFinCVI": null,
+    "createdAt": "2025-06-18T12:36:20.607Z",
+    "emplacement": "F-4"
+  },
+  {
+    "marque": "AGILENT",
     "model": "34410A",
     "quantite": 1,
     "unites": [
       {
         "numserie": "MY47012053",
+        "position": "F-5",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      }
+    ],
+    "etatcvi": "non",
+    "dateFinCVI": null,
+    "createdAt": "2025-06-18T12:36:20.606Z",
+    "emplacement": "F-5"
+  },
+  {
+    "marque": "AGILENT",
+    "model": "ES810A",
+    "quantite": 1,
+    "unites": [
+      {
+        "numserie": "MY48081029",
         "position": "F-5",
         "etatcvi": "non",
         "dateFinCVI": null
@@ -299,6 +609,52 @@
     "dateFinCVI": null,
     "createdAt": "2025-06-18T12:36:20.606Z",
     "emplacement": "F-5+H-1"
+  },
+  {
+    "marque": "AGILENT",
+    "model": "U1253B",
+    "quantite": 3,
+    "unites": [
+      {
+        "numserie": "MY52260025",
+        "position": "G-3",
+        "etatcvi": "oui",
+        "dateFinCVI": "2025-05-01"
+      },
+      {
+        "numserie": "MY52110026",
+        "position": "G-3",
+        "etatcvi": "oui",
+        "dateFinCVI": "2025-05-01"
+      },
+      {
+        "numserie": "MY52020090",
+        "position": "G-3",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      }
+    ],
+    "etatcvi": "non",
+    "dateFinCVI": null,
+    "createdAt": "2025-06-18T12:36:20.607Z",
+    "emplacement": "G-3"
+  },
+  {
+    "marque": "AGILENT",
+    "model": "3499A",
+    "quantite": 1,
+    "unites": [
+      {
+        "numserie": "CN40051983",
+        "position": "G-4",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      }
+    ],
+    "etatcvi": "non",
+    "dateFinCVI": null,
+    "createdAt": "2025-06-18T12:36:20.607Z",
+    "emplacement": "G-4"
   },
   {
     "marque": "AGILENT",
@@ -371,23 +727,6 @@
   },
   {
     "marque": "AGILENT",
-    "model": "3499A",
-    "quantite": 1,
-    "unites": [
-      {
-        "numserie": "CN40051983",
-        "position": "G-4",
-        "etatcvi": "non",
-        "dateFinCVI": null
-      }
-    ],
-    "etatcvi": "non",
-    "dateFinCVI": null,
-    "createdAt": "2025-06-18T12:36:20.607Z",
-    "emplacement": "G-4"
-  },
-  {
-    "marque": "AGILENT",
     "model": "4294A",
     "quantite": 1,
     "unites": [
@@ -405,12 +744,12 @@
   },
   {
     "marque": "AGILENT",
-    "model": "4395A",
+    "model": "16493S",
     "quantite": 1,
     "unites": [
       {
-        "numserie": "MY41101222",
-        "position": "M-3",
+        "numserie": "9001791208",
+        "position": "H-3",
         "etatcvi": "non",
         "dateFinCVI": null
       }
@@ -418,214 +757,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-18T12:36:20.607Z",
-    "emplacement": "M-3"
-  },
-  {
-    "marque": "AGILENT",
-    "model": "53181A",
-    "quantite": 4,
-    "unites": [
-      {
-        "numserie": "3736A05231",
-        "position": "F-3",
-        "etatcvi": "oui",
-        "dateFinCVI": "2025-10-01"
-      },
-      {
-        "numserie": "MY40009160",
-        "position": "F-3",
-        "etatcvi": "non",
-        "dateFinCVI": null
-      },
-      {
-        "numserie": "MY40005334",
-        "position": "F-3",
-        "etatcvi": "oui",
-        "dateFinCVI": "2025-10-01"
-      },
-      {
-        "numserie": "MY40008710",
-        "position": "F-3",
-        "etatcvi": "oui",
-        "dateFinCVI": "2025-10-01"
-      }
-    ],
-    "etatcvi": "non",
-    "dateFinCVI": null,
-    "createdAt": "2025-06-18T12:36:20.607Z",
-    "emplacement": "F-3"
-  },
-  {
-    "marque": "AGILENT",
-    "model": "54852A",
-    "quantite": 1,
-    "unites": [
-      {
-        "numserie": "MY44000718",
-        "position": "M-2",
-        "etatcvi": "oui",
-        "dateFinCVI": "2024-11-01"
-      }
-    ],
-    "etatcvi": "non",
-    "dateFinCVI": null,
-    "createdAt": "2025-06-18T12:36:20.607Z",
-    "emplacement": "M-2"
-  },
-  {
-    "marque": "AGILENT",
-    "model": "6634B",
-    "quantite": 3,
-    "unites": [
-      {
-        "numserie": "US37471888",
-        "position": "D-1",
-        "etatcvi": "non",
-        "dateFinCVI": null
-      },
-      {
-        "numserie": "US37472114",
-        "position": "D-1",
-        "etatcvi": "non",
-        "dateFinCVI": null
-      },
-      {
-        "numserie": "US37471840",
-        "position": "D-1",
-        "etatcvi": "non",
-        "dateFinCVI": null
-      }
-    ],
-    "etatcvi": "non",
-    "dateFinCVI": null,
-    "createdAt": "2025-06-18T12:36:20.606Z",
-    "emplacement": "D-1"
-  },
-  {
-    "marque": "AGILENT",
-    "model": "6645A",
-    "quantite": 1,
-    "unites": [
-      {
-        "numserie": "MY40000691",
-        "position": "D-4",
-        "etatcvi": "non",
-        "dateFinCVI": null
-      }
-    ],
-    "etatcvi": "non",
-    "dateFinCVI": null,
-    "createdAt": "2025-06-18T12:36:20.606Z",
-    "emplacement": "D-4"
-  },
-  {
-    "marque": "AGILENT",
-    "model": "8753D",
-    "quantite": 1,
-    "unites": [
-      {
-        "numserie": "3410J02287",
-        "position": "C-3",
-        "etatcvi": "non",
-        "dateFinCVI": null
-      }
-    ],
-    "etatcvi": "non",
-    "dateFinCVI": null,
-    "createdAt": "2025-06-18T12:36:20.606Z",
-    "emplacement": "C-3"
-  },
-  {
-    "marque": "AGILENT",
-    "model": "B2961A",
-    "quantite": 1,
-    "unites": [
-      {
-        "numserie": "MY5235019",
-        "position": "F-4",
-        "etatcvi": "oui",
-        "dateFinCVI": "2025-07-01"
-      }
-    ],
-    "etatcvi": "non",
-    "dateFinCVI": null,
-    "createdAt": "2025-06-18T12:36:20.606Z",
-    "emplacement": "F-4"
-  },
-  {
-    "marque": "AGILENT",
-    "model": "DSO-X-2012A",
-    "quantite": 1,
-    "unites": [
-      {
-        "numserie": "11Y50514864",
-        "position": "B-3",
-        "etatcvi": "oui",
-        "dateFinCVI": "2025-04-01"
-      }
-    ],
-    "etatcvi": "non",
-    "dateFinCVI": null,
-    "createdAt": "2025-06-18T12:36:20.606Z",
-    "emplacement": "B-3",
-    "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/Esr1sGBf8iVJijAglYTGzq8BpveCxmgoZASLrg2CTO1qjg?e=XW3HQf"
-  },
-  {
-    "marque": "AGILENT",
-    "model": "DSO-X-3024A",
-    "quantite": 1,
-    "unites": [
-      {
-        "numserie": "MY50510886",
-        "position": "A-4",
-        "etatcvi": "non",
-        "dateFinCVI": null
-      }
-    ],
-    "etatcvi": "non",
-    "dateFinCVI": null,
-    "createdAt": "2025-06-18T12:36:20.606Z",
-    "emplacement": "A-4"
-  },
-  {
-    "marque": "AGILENT",
-    "model": "E3631A",
-    "quantite": 2,
-    "unites": [
-      {
-        "numserie": "MY52350079",
-        "position": "D-4",
-        "etatcvi": "non",
-        "dateFinCVI": null
-      },
-      {
-        "numserie": "MY40030600",
-        "position": "D-4",
-        "etatcvi": "non",
-        "dateFinCVI": null
-      }
-    ],
-    "etatcvi": "non",
-    "dateFinCVI": null,
-    "createdAt": "2025-06-18T12:36:20.606Z",
-    "emplacement": "D-4"
-  },
-  {
-    "marque": "AGILENT",
-    "model": "E3642A",
-    "quantite": 1,
-    "unites": [
-      {
-        "numserie": "MY40006310",
-        "position": "E-1",
-        "etatcvi": "non",
-        "dateFinCVI": null
-      }
-    ],
-    "etatcvi": "non",
-    "dateFinCVI": null,
-    "createdAt": "2025-06-18T12:36:20.606Z",
-    "emplacement": "E-1"
+    "emplacement": "H-3"
   },
   {
     "marque": "AGILENT",
@@ -646,103 +778,18 @@
   },
   {
     "marque": "AGILENT",
-    "model": "E4980A",
-    "quantite": 1,
-    "unites": [
-      {
-        "numserie": "MY46202938",
-        "etatcvi": "oui",
-        "position": "ARRIVAGE",
-        "dateFinCVI": "2025-10-01"
-      }
-    ],
-    "etatcvi": "non",
-    "dateFinCVI": null,
-    "createdAt": "2025-06-18T12:36:20.607Z",
-    "emplacement": "ARRIVAGE"
-  },
-  {
-    "marque": "AGILENT",
-    "model": "E5061A-350",
-    "quantite": 1,
-    "unites": [
-      {
-        "numserie": "MY44203241",
-        "position": "C-5",
-        "etatcvi": "oui",
-        "dateFinCVI": "2026-05-01"
-      }
-    ],
-    "etatcvi": "non",
-    "dateFinCVI": null,
-    "createdAt": "2025-06-18T12:36:20.606Z",
-    "emplacement": "C-5"
-  },
-  {
-    "marque": "AGILENT",
-    "model": "ES810A",
-    "quantite": 1,
-    "unites": [
-      {
-        "numserie": "MY48081029",
-        "position": "F-5",
-        "etatcvi": "non",
-        "dateFinCVI": null
-      }
-    ],
-    "etatcvi": "non",
-    "dateFinCVI": null,
-    "createdAt": "2025-06-18T12:36:20.606Z",
-    "emplacement": "F-5"
-  },
-  {
-    "marque": "AGILENT",
-    "model": "MSO7034A",
+    "model": "16334A",
     "quantite": 2,
     "unites": [
       {
-        "numserie": "MY48080123",
-        "position": "A-1",
+        "numserie": "MY44102483",
+        "position": "I-3",
         "etatcvi": "non",
         "dateFinCVI": null
       },
       {
-        "numserie": "MY48080126",
-        "position": "A-1",
-        "etatcvi": "non",
-        "dateFinCVI": null
-      }
-    ],
-    "etatcvi": "non",
-    "dateFinCVI": null,
-    "createdAt": "2025-06-18T12:36:20.606Z",
-    "emplacement": "A-1"
-  },
-  {
-    "marque": "AGILENT",
-    "model": "MSO9404A",
-    "quantite": 1,
-    "unites": [
-      {
-        "numserie": "MY55030113",
-        "position": "B-4",
-        "etatcvi": "oui",
-        "dateFinCVI": "2025-07-01"
-      }
-    ],
-    "etatcvi": "non",
-    "dateFinCVI": null,
-    "createdAt": "2025-06-18T12:36:20.606Z",
-    "emplacement": "B-4"
-  },
-  {
-    "marque": "AGILENT",
-    "model": "N1294A OPT022",
-    "quantite": 1,
-    "unites": [
-      {
-        "numserie": "N1294-66603",
-        "position": "F-4",
+        "numserie": "MY44101866",
+        "position": "H-3",
         "etatcvi": "non",
         "dateFinCVI": null
       }
@@ -750,7 +797,58 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-18T12:36:20.607Z",
-    "emplacement": "F-4"
+    "emplacement": "I-3+H-3"
+  },
+  {
+    "marque": "AGILENT",
+    "model": "16802A",
+    "quantite": 1,
+    "unites": [
+      {
+        "numserie": "MY46001243",
+        "position": "J-1",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      }
+    ],
+    "etatcvi": "non",
+    "dateFinCVI": null,
+    "createdAt": "2025-06-18T12:36:20.607Z",
+    "emplacement": "J-1"
+  },
+  {
+    "marque": "AGILENT",
+    "model": "1680A",
+    "quantite": 1,
+    "unites": [
+      {
+        "numserie": "MY4100521",
+        "position": "J-1",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      }
+    ],
+    "etatcvi": "non",
+    "dateFinCVI": null,
+    "createdAt": "2025-06-18T12:36:20.607Z",
+    "emplacement": "J-1"
+  },
+  {
+    "marque": "AGILENT",
+    "model": "1682AD",
+    "quantite": 1,
+    "unites": [
+      {
+        "numserie": "MY41000633",
+        "position": "J-1",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      }
+    ],
+    "etatcvi": "non",
+    "dateFinCVI": null,
+    "createdAt": "2025-06-18T12:36:20.607Z",
+    "emplacement": "J-1"
   },
   {
     "marque": "AGILENT",
@@ -771,57 +869,6 @@
   },
   {
     "marque": "AGILENT",
-    "model": "N4431-60006",
-    "quantite": 1,
-    "unites": [
-      {
-        "numserie": "MY52230621",
-        "position": "C-5",
-        "etatcvi": "oui",
-        "dateFinCVI": "2023-10-01"
-      }
-    ],
-    "etatcvi": "non",
-    "dateFinCVI": null,
-    "createdAt": "2025-06-18T12:36:20.606Z",
-    "emplacement": "C-5"
-  },
-  {
-    "marque": "AGILENT",
-    "model": "N5181A",
-    "quantite": 1,
-    "unites": [
-      {
-        "numserie": "MY49060759",
-        "position": "E-3",
-        "etatcvi": "oui",
-        "dateFinCVI": "2023-07-01"
-      }
-    ],
-    "etatcvi": "non",
-    "dateFinCVI": null,
-    "createdAt": "2025-06-18T12:36:20.606Z",
-    "emplacement": "E-3"
-  },
-  {
-    "marque": "AGILENT",
-    "model": "N5182A",
-    "quantite": 1,
-    "unites": [
-      {
-        "numserie": "6053817",
-        "position": "E-3",
-        "etatcvi": "non",
-        "dateFinCVI": null
-      }
-    ],
-    "etatcvi": "non",
-    "dateFinCVI": null,
-    "createdAt": "2025-06-18T12:36:20.606Z",
-    "emplacement": "E-3"
-  },
-  {
-    "marque": "AGILENT",
     "model": "N5183B",
     "quantite": 1,
     "unites": [
@@ -839,76 +886,29 @@
   },
   {
     "marque": "AGILENT",
-    "model": "N5751A",
+    "model": "54852A",
     "quantite": 1,
     "unites": [
       {
-        "numserie": "US14A0973M",
-        "position": "D-2",
+        "numserie": "MY44000718",
+        "position": "M-2",
         "etatcvi": "oui",
-        "dateFinCVI": "2025-10-01"
+        "dateFinCVI": "2024-11-01"
       }
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-06-18T12:36:20.606Z",
-    "emplacement": "D-2"
+    "createdAt": "2025-06-18T12:36:20.607Z",
+    "emplacement": "M-2"
   },
   {
     "marque": "AGILENT",
-    "model": "N6734B",
-    "quantite": 4,
+    "model": "4395A",
+    "quantite": 1,
     "unites": [
       {
-        "numserie": "MY43000959",
-        "position": "D-4",
-        "etatcvi": "non",
-        "dateFinCVI": null
-      },
-      {
-        "numserie": "MY43000957",
-        "position": "D-4",
-        "etatcvi": "non",
-        "dateFinCVI": null
-      },
-      {
-        "numserie": "MY43000958",
-        "position": "D-4",
-        "etatcvi": "non",
-        "dateFinCVI": null
-      },
-      {
-        "numserie": "MY53000971",
-        "position": "D-4",
-        "etatcvi": "non",
-        "dateFinCVI": null
-      }
-    ],
-    "etatcvi": "non",
-    "dateFinCVI": null,
-    "createdAt": "2025-06-18T12:36:20.606Z",
-    "emplacement": "D-4"
-  },
-  {
-    "marque": "AGILENT",
-    "model": "U1253B",
-    "quantite": 3,
-    "unites": [
-      {
-        "numserie": "MY52260025",
-        "position": "G-3",
-        "etatcvi": "oui",
-        "dateFinCVI": "2025-05-01"
-      },
-      {
-        "numserie": "MY52110026",
-        "position": "G-3",
-        "etatcvi": "oui",
-        "dateFinCVI": "2025-05-01"
-      },
-      {
-        "numserie": "MY52020090",
-        "position": "G-3",
+        "numserie": "MY41101222",
+        "position": "M-3",
         "etatcvi": "non",
         "dateFinCVI": null
       }
@@ -916,24 +916,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-18T12:36:20.607Z",
-    "emplacement": "G-3"
-  },
-  {
-    "marque": "ANRITSU",
-    "model": "MG3692A",
-    "quantite": 1,
-    "unites": [
-      {
-        "numserie": "030608",
-        "position": "I-1",
-        "etatcvi": "non",
-        "dateFinCVI": null
-      }
-    ],
-    "etatcvi": "non",
-    "dateFinCVI": null,
-    "createdAt": "2025-06-18T12:36:20.607Z",
-    "emplacement": "I-1"
+    "emplacement": "M-3"
   },
   {
     "marque": "ANRITSU",
@@ -954,6 +937,23 @@
   },
   {
     "marque": "ANRITSU",
+    "model": "MG3692A",
+    "quantite": 1,
+    "unites": [
+      {
+        "numserie": "030608",
+        "position": "I-1",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      }
+    ],
+    "etatcvi": "non",
+    "dateFinCVI": null,
+    "createdAt": "2025-06-18T12:36:20.607Z",
+    "emplacement": "I-1"
+  },
+  {
+    "marque": "ANRITSU",
     "model": "MH680A1",
     "quantite": 1,
     "unites": [
@@ -968,23 +968,6 @@
     "dateFinCVI": null,
     "createdAt": "2025-06-18T12:36:20.607Z",
     "emplacement": "I-2"
-  },
-  {
-    "marque": "ANRITSU",
-    "model": "MS2036A",
-    "quantite": 1,
-    "unites": [
-      {
-        "numserie": "0744018",
-        "position": "I-4",
-        "etatcvi": "non",
-        "dateFinCVI": null
-      }
-    ],
-    "etatcvi": "non",
-    "dateFinCVI": null,
-    "createdAt": "2025-06-18T12:36:20.607Z",
-    "emplacement": "I-4"
   },
   {
     "marque": "ANRITSU",
@@ -1022,6 +1005,23 @@
   },
   {
     "marque": "ANRITSU",
+    "model": "MS2036A",
+    "quantite": 1,
+    "unites": [
+      {
+        "numserie": "0744018",
+        "position": "I-4",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      }
+    ],
+    "etatcvi": "non",
+    "dateFinCVI": null,
+    "createdAt": "2025-06-18T12:36:20.607Z",
+    "emplacement": "I-4"
+  },
+  {
+    "marque": "ANRITSU",
     "model": "MS2711B",
     "quantite": 1,
     "unites": [
@@ -1056,23 +1056,6 @@
   },
   {
     "marque": "ANRITSU",
-    "model": "MS46121B",
-    "quantite": 1,
-    "unites": [
-      {
-        "numserie": "1746447",
-        "position": "M-3",
-        "etatcvi": "non",
-        "dateFinCVI": null
-      }
-    ],
-    "etatcvi": "non",
-    "dateFinCVI": null,
-    "createdAt": "2025-06-18T12:36:20.607Z",
-    "emplacement": "M-3"
-  },
-  {
-    "marque": "ANRITSU",
     "model": "S820D",
     "quantite": 1,
     "unites": [
@@ -1087,6 +1070,23 @@
     "dateFinCVI": null,
     "createdAt": "2025-06-18T12:36:20.607Z",
     "emplacement": "I-4"
+  },
+  {
+    "marque": "ANRITSU",
+    "model": "MS46121B",
+    "quantite": 1,
+    "unites": [
+      {
+        "numserie": "1746447",
+        "position": "M-3",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      }
+    ],
+    "etatcvi": "non",
+    "dateFinCVI": null,
+    "createdAt": "2025-06-18T12:36:20.607Z",
+    "emplacement": "M-3"
   },
   {
     "marque": "ANTRITSU",
@@ -1413,29 +1413,12 @@
   },
   {
     "marque": "CHAUVIN ARNOUX",
-    "model": "CA6161",
+    "model": "MA200",
     "quantite": 1,
     "unites": [
       {
-        "numserie": "220291WKH",
-        "position": "J-3",
-        "etatcvi": "oui",
-        "dateFinCVI": "2025-06-01"
-      }
-    ],
-    "etatcvi": "non",
-    "dateFinCVI": null,
-    "createdAt": "2025-06-18T12:36:20.607Z",
-    "emplacement": "J-3"
-  },
-  {
-    "marque": "CHAUVIN ARNOUX",
-    "model": "CA6165",
-    "quantite": 1,
-    "unites": [
-      {
-        "numserie": "19260039",
-        "position": "K-3",
+        "numserie": "",
+        "position": "G-5",
         "etatcvi": "non",
         "dateFinCVI": null
       }
@@ -1443,24 +1426,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-18T12:36:20.607Z",
-    "emplacement": "K-3"
-  },
-  {
-    "marque": "CHAUVIN ARNOUX",
-    "model": "CA6555",
-    "quantite": 1,
-    "unites": [
-      {
-        "numserie": "500526",
-        "position": "J-3",
-        "etatcvi": "non",
-        "dateFinCVI": null
-      }
-    ],
-    "etatcvi": "non",
-    "dateFinCVI": null,
-    "createdAt": "2025-06-18T12:36:20.607Z",
-    "emplacement": "J-3"
+    "emplacement": "G-5"
   },
   {
     "marque": "CHAUVIN ARNOUX",
@@ -1541,12 +1507,29 @@
   },
   {
     "marque": "CHAUVIN ARNOUX",
-    "model": "MA200",
+    "model": "CA6161",
     "quantite": 1,
     "unites": [
       {
-        "numserie": "",
-        "position": "G-5",
+        "numserie": "220291WKH",
+        "position": "J-3",
+        "etatcvi": "oui",
+        "dateFinCVI": "2025-06-01"
+      }
+    ],
+    "etatcvi": "non",
+    "dateFinCVI": null,
+    "createdAt": "2025-06-18T12:36:20.607Z",
+    "emplacement": "J-3"
+  },
+  {
+    "marque": "CHAUVIN ARNOUX",
+    "model": "CA6555",
+    "quantite": 1,
+    "unites": [
+      {
+        "numserie": "500526",
+        "position": "J-3",
         "etatcvi": "non",
         "dateFinCVI": null
       }
@@ -1554,7 +1537,24 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-18T12:36:20.607Z",
-    "emplacement": "G-5"
+    "emplacement": "J-3"
+  },
+  {
+    "marque": "CHAUVIN ARNOUX",
+    "model": "CA6165",
+    "quantite": 1,
+    "unites": [
+      {
+        "numserie": "19260039",
+        "position": "K-3",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      }
+    ],
+    "etatcvi": "non",
+    "dateFinCVI": null,
+    "createdAt": "2025-06-18T12:36:20.607Z",
+    "emplacement": "K-3"
   },
   {
     "marque": "CHROMA",
@@ -1572,6 +1572,23 @@
     "dateFinCVI": null,
     "createdAt": "2025-06-18T12:36:20.606Z",
     "emplacement": "D-3"
+  },
+  {
+    "marque": "CHROMA",
+    "model": "OPTION GPIB",
+    "quantite": 1,
+    "unites": [
+      {
+        "numserie": "",
+        "position": "D-4",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      }
+    ],
+    "etatcvi": "non",
+    "dateFinCVI": null,
+    "createdAt": "2025-06-18T12:36:20.606Z",
+    "emplacement": "D-4"
   },
   {
     "marque": "CHROMA",
@@ -1626,23 +1643,6 @@
     "emplacement": "M-2"
   },
   {
-    "marque": "CHROMA",
-    "model": "OPTION GPIB",
-    "quantite": 1,
-    "unites": [
-      {
-        "numserie": "",
-        "position": "D-4",
-        "etatcvi": "non",
-        "dateFinCVI": null
-      }
-    ],
-    "etatcvi": "non",
-    "dateFinCVI": null,
-    "createdAt": "2025-06-18T12:36:20.606Z",
-    "emplacement": "D-4"
-  },
-  {
     "marque": "DARE",
     "model": "RODI POWER",
     "quantite": 1,
@@ -1678,23 +1678,6 @@
   },
   {
     "marque": "EA",
-    "model": "PS2016-050",
-    "quantite": 1,
-    "unites": [
-      {
-        "numserie": "246797668",
-        "position": "G-5",
-        "etatcvi": "oui",
-        "dateFinCVI": "2025-05-01"
-      }
-    ],
-    "etatcvi": "non",
-    "dateFinCVI": null,
-    "createdAt": "2025-06-18T12:36:20.607Z",
-    "emplacement": "G-5"
-  },
-  {
-    "marque": "EA",
     "model": "PS512-21R",
     "quantite": 3,
     "unites": [
@@ -1724,13 +1707,13 @@
     "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EqovDezdb_FCjTlBCxyUUJkBhkphqTRFlvy5VKYXJl2GEg?e=AfEEuf"
   },
   {
-    "marque": "EIP",
-    "model": "28B",
+    "marque": "EA",
+    "model": "PS2016-050",
     "quantite": 1,
     "unites": [
       {
-        "numserie": "9207-00570",
-        "position": "K-1",
+        "numserie": "246797668",
+        "position": "G-5",
         "etatcvi": "oui",
         "dateFinCVI": "2025-05-01"
       }
@@ -1738,7 +1721,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-18T12:36:20.607Z",
-    "emplacement": "K-1"
+    "emplacement": "G-5"
   },
   {
     "marque": "EIP",
@@ -1755,6 +1738,23 @@
       }
     ],
     "createdAt": "2025-06-23T12:40:34.364Z"
+  },
+  {
+    "marque": "EIP",
+    "model": "28B",
+    "quantite": 1,
+    "unites": [
+      {
+        "numserie": "9207-00570",
+        "position": "K-1",
+        "etatcvi": "oui",
+        "dateFinCVI": "2025-05-01"
+      }
+    ],
+    "etatcvi": "non",
+    "dateFinCVI": null,
+    "createdAt": "2025-06-18T12:36:20.607Z",
+    "emplacement": "K-1"
   },
   {
     "marque": "ELC",
@@ -1861,58 +1861,6 @@
   },
   {
     "marque": "FLUKE",
-    "model": "1664FC",
-    "quantite": 1,
-    "unites": [
-      {
-        "numserie": "5394166",
-        "position": "J-3",
-        "etatcvi": "non",
-        "dateFinCVI": null
-      }
-    ],
-    "etatcvi": "non",
-    "dateFinCVI": null,
-    "createdAt": "2025-06-18T12:36:20.607Z",
-    "emplacement": "J-3"
-  },
-  {
-    "marque": "FLUKE",
-    "model": "179",
-    "quantite": 4,
-    "unites": [
-      {
-        "numserie": "32260609",
-        "position": "G-3",
-        "etatcvi": "non",
-        "dateFinCVI": null
-      },
-      {
-        "numserie": "37110194",
-        "position": "G-3",
-        "etatcvi": "non",
-        "dateFinCVI": null
-      },
-      {
-        "numserie": "43670149",
-        "position": "G-3",
-        "etatcvi": "non",
-        "dateFinCVI": null
-      },
-      {
-        "numserie": "21420365",
-        "position": "G-3",
-        "etatcvi": "non",
-        "dateFinCVI": null
-      }
-    ],
-    "etatcvi": "non",
-    "dateFinCVI": null,
-    "createdAt": "2025-06-18T12:36:20.607Z",
-    "emplacement": "G-3"
-  },
-  {
-    "marque": "FLUKE",
     "model": "2645A",
     "quantite": 5,
     "unites": [
@@ -1954,12 +1902,35 @@
   },
   {
     "marque": "FLUKE",
-    "model": "435-II",
+    "model": "PM5138A",
     "quantite": 1,
     "unites": [
       {
-        "numserie": "27483105",
-        "position": "K-3",
+        "numserie": "LO710752",
+        "position": "E-4",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      }
+    ],
+    "etatcvi": "non",
+    "dateFinCVI": null,
+    "createdAt": "2025-06-18T12:36:20.606Z",
+    "emplacement": "E-4"
+  },
+  {
+    "marque": "FLUKE",
+    "model": "PM6680B",
+    "quantite": 2,
+    "unites": [
+      {
+        "numserie": "647699",
+        "position": "F-3",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      },
+      {
+        "numserie": "689674",
+        "position": "F-4",
         "etatcvi": "non",
         "dateFinCVI": null
       }
@@ -1967,7 +1938,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-18T12:36:20.607Z",
-    "emplacement": "K-3"
+    "emplacement": "F-3+F-4"
   },
   {
     "marque": "FLUKE",
@@ -1985,6 +1956,126 @@
     "dateFinCVI": null,
     "createdAt": "2025-06-18T12:36:20.606Z",
     "emplacement": "F-5"
+  },
+  {
+    "marque": "FLUKE",
+    "model": "PM6669",
+    "quantite": 1,
+    "unites": [
+      {
+        "numserie": "944606569016",
+        "position": "G-2",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      }
+    ],
+    "etatcvi": "non",
+    "dateFinCVI": null,
+    "createdAt": "2025-06-18T12:36:20.607Z",
+    "emplacement": "G-2"
+  },
+  {
+    "marque": "FLUKE",
+    "model": "179",
+    "quantite": 4,
+    "unites": [
+      {
+        "numserie": "32260609",
+        "position": "G-3",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      },
+      {
+        "numserie": "37110194",
+        "position": "G-3",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      },
+      {
+        "numserie": "43670149",
+        "position": "G-3",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      },
+      {
+        "numserie": "21420365",
+        "position": "G-3",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      }
+    ],
+    "etatcvi": "non",
+    "dateFinCVI": null,
+    "createdAt": "2025-06-18T12:36:20.607Z",
+    "emplacement": "G-3"
+  },
+  {
+    "marque": "FLUKE",
+    "model": "HYDRA DATA",
+    "quantite": 1,
+    "unites": [
+      {
+        "numserie": "6446301",
+        "position": "G-4",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      }
+    ],
+    "etatcvi": "non",
+    "dateFinCVI": null,
+    "createdAt": "2025-06-18T12:36:20.607Z",
+    "emplacement": "G-4"
+  },
+  {
+    "marque": "FLUKE",
+    "model": "HYDRA SERIES II",
+    "quantite": 1,
+    "unites": [
+      {
+        "numserie": "7206313",
+        "position": "G-4",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      }
+    ],
+    "etatcvi": "non",
+    "dateFinCVI": null,
+    "createdAt": "2025-06-18T12:36:20.607Z",
+    "emplacement": "G-4"
+  },
+  {
+    "marque": "FLUKE",
+    "model": "PM6306",
+    "quantite": 1,
+    "unites": [
+      {
+        "numserie": "945206306021",
+        "position": "H-3",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      }
+    ],
+    "etatcvi": "non",
+    "dateFinCVI": null,
+    "createdAt": "2025-06-18T12:36:20.607Z",
+    "emplacement": "H-3"
+  },
+  {
+    "marque": "FLUKE",
+    "model": "1664FC",
+    "quantite": 1,
+    "unites": [
+      {
+        "numserie": "5394166",
+        "position": "J-3",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      }
+    ],
+    "etatcvi": "non",
+    "dateFinCVI": null,
+    "createdAt": "2025-06-18T12:36:20.607Z",
+    "emplacement": "J-3"
   },
   {
     "marque": "FLUKE",
@@ -2008,6 +2099,23 @@
     "dateFinCVI": null,
     "createdAt": "2025-06-18T12:36:20.607Z",
     "emplacement": "J-4"
+  },
+  {
+    "marque": "FLUKE",
+    "model": "435-II",
+    "quantite": 1,
+    "unites": [
+      {
+        "numserie": "27483105",
+        "position": "K-3",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      }
+    ],
+    "etatcvi": "non",
+    "dateFinCVI": null,
+    "createdAt": "2025-06-18T12:36:20.607Z",
+    "emplacement": "K-3"
   },
   {
     "marque": "FLUKE",
@@ -2056,112 +2164,21 @@
     "emplacement": "M-3"
   },
   {
-    "marque": "FLUKE",
-    "model": "HYDRA DATA",
+    "marque": "GRAPHTEC",
+    "model": "GL980",
     "quantite": 1,
     "unites": [
       {
-        "numserie": "6446301",
+        "numserie": "C207C1747",
         "position": "G-4",
-        "etatcvi": "non",
-        "dateFinCVI": null
+        "etatcvi": "oui",
+        "dateFinCVI": "2022-10-21"
       }
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-18T12:36:20.607Z",
     "emplacement": "G-4"
-  },
-  {
-    "marque": "FLUKE",
-    "model": "HYDRA SERIES II",
-    "quantite": 1,
-    "unites": [
-      {
-        "numserie": "7206313",
-        "position": "G-4",
-        "etatcvi": "non",
-        "dateFinCVI": null
-      }
-    ],
-    "etatcvi": "non",
-    "dateFinCVI": null,
-    "createdAt": "2025-06-18T12:36:20.607Z",
-    "emplacement": "G-4"
-  },
-  {
-    "marque": "FLUKE",
-    "model": "PM5138A",
-    "quantite": 1,
-    "unites": [
-      {
-        "numserie": "LO710752",
-        "position": "E-4",
-        "etatcvi": "non",
-        "dateFinCVI": null
-      }
-    ],
-    "etatcvi": "non",
-    "dateFinCVI": null,
-    "createdAt": "2025-06-18T12:36:20.606Z",
-    "emplacement": "E-4"
-  },
-  {
-    "marque": "FLUKE",
-    "model": "PM6306",
-    "quantite": 1,
-    "unites": [
-      {
-        "numserie": "945206306021",
-        "position": "H-3",
-        "etatcvi": "non",
-        "dateFinCVI": null
-      }
-    ],
-    "etatcvi": "non",
-    "dateFinCVI": null,
-    "createdAt": "2025-06-18T12:36:20.607Z",
-    "emplacement": "H-3"
-  },
-  {
-    "marque": "FLUKE",
-    "model": "PM6669",
-    "quantite": 1,
-    "unites": [
-      {
-        "numserie": "944606569016",
-        "position": "G-2",
-        "etatcvi": "non",
-        "dateFinCVI": null
-      }
-    ],
-    "etatcvi": "non",
-    "dateFinCVI": null,
-    "createdAt": "2025-06-18T12:36:20.607Z",
-    "emplacement": "G-2"
-  },
-  {
-    "marque": "FLUKE",
-    "model": "PM6680B",
-    "quantite": 2,
-    "unites": [
-      {
-        "numserie": "647699",
-        "position": "F-3",
-        "etatcvi": "non",
-        "dateFinCVI": null
-      },
-      {
-        "numserie": "689674",
-        "position": "F-4",
-        "etatcvi": "non",
-        "dateFinCVI": null
-      }
-    ],
-    "etatcvi": "non",
-    "dateFinCVI": null,
-    "createdAt": "2025-06-18T12:36:20.607Z",
-    "emplacement": "F-3+F-4"
   },
   {
     "marque": "GRAPHTEC",
@@ -2187,23 +2204,6 @@
     "emplacement": "K-4"
   },
   {
-    "marque": "GRAPHTEC",
-    "model": "GL980",
-    "quantite": 1,
-    "unites": [
-      {
-        "numserie": "C207C1747",
-        "position": "G-4",
-        "etatcvi": "oui",
-        "dateFinCVI": "2022-10-21"
-      }
-    ],
-    "etatcvi": "non",
-    "dateFinCVI": null,
-    "createdAt": "2025-06-18T12:36:20.607Z",
-    "emplacement": "G-4"
-  },
-  {
     "marque": "GW INSTEK",
     "model": "AFG2125",
     "quantite": 1,
@@ -2222,6 +2222,41 @@
   },
   {
     "marque": "GW INSTEK",
+    "model": "GPT15004",
+    "quantite": 1,
+    "unites": [
+      {
+        "numserie": "GEY180038",
+        "position": "H-2",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      }
+    ],
+    "etatcvi": "non",
+    "dateFinCVI": null,
+    "createdAt": "2025-06-18T12:36:20.607Z",
+    "emplacement": "H-2"
+  },
+  {
+    "marque": "GW INSTEK",
+    "model": "PST-3201",
+    "quantite": 1,
+    "unites": [
+      {
+        "numserie": "EM911738",
+        "etatcvi": "non",
+        "position": "H-3 menova",
+        "dateFinCVI": null
+      }
+    ],
+    "etatcvi": "non",
+    "dateFinCVI": null,
+    "createdAt": "2025-06-18T12:36:20.607Z",
+    "emplacement": "H-3 menova",
+    "description": ""
+  },
+  {
+    "marque": "GW INSTEK",
     "model": "APS5050E",
     "quantite": 1,
     "unites": [
@@ -2236,6 +2271,47 @@
     "dateFinCVI": null,
     "createdAt": "2025-06-18T12:36:20.607Z",
     "emplacement": "H-4"
+  },
+  {
+    "marque": "GW INSTEK",
+    "model": "GPT12004",
+    "quantite": 2,
+    "unites": [
+      {
+        "numserie": "GEW161427",
+        "etatcvi": "non",
+        "position": "I-2",
+        "dateFinCVI": null
+      },
+      {
+        "numserie": "GEX211317",
+        "etatcvi": "non",
+        "position": "LOCATION MICRO MECANIQUE PYRENENNE 08/07/2025",
+        "dateFinCVI": null
+      }
+    ],
+    "etatcvi": "non",
+    "dateFinCVI": null,
+    "createdAt": "2025-06-18T12:36:20.607Z",
+    "emplacement": "I-2+LOCATION MICRO MECANIQUE PYRENENNE 08/07/2025",
+    "description": ""
+  },
+  {
+    "marque": "GW INSTEK",
+    "model": "GPT12003",
+    "quantite": 1,
+    "unites": [
+      {
+        "numserie": "GEW210981",
+        "position": "I-3",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      }
+    ],
+    "etatcvi": "non",
+    "dateFinCVI": null,
+    "createdAt": "2025-06-18T12:36:20.607Z",
+    "emplacement": "I-3"
   },
   {
     "marque": "GW INSTEK",
@@ -2274,82 +2350,6 @@
     "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/Epcu1mgv-ddCm5ibRLQPAaABjs_sTNeeOelEtiRnZxbvVA?e=nxAG6G"
   },
   {
-    "marque": "GW INSTEK",
-    "model": "GPT12003",
-    "quantite": 1,
-    "unites": [
-      {
-        "numserie": "GEW210981",
-        "position": "I-3",
-        "etatcvi": "non",
-        "dateFinCVI": null
-      }
-    ],
-    "etatcvi": "non",
-    "dateFinCVI": null,
-    "createdAt": "2025-06-18T12:36:20.607Z",
-    "emplacement": "I-3"
-  },
-  {
-    "marque": "GW INSTEK",
-    "model": "GPT12004",
-    "quantite": 2,
-    "unites": [
-      {
-        "numserie": "GEW161427",
-        "etatcvi": "non",
-        "position": "I-2",
-        "dateFinCVI": null
-      },
-      {
-        "numserie": "GEX211317",
-        "etatcvi": "non",
-        "position": "LOCATION MICRO MECANIQUE PYRENENNE 08/07/2025",
-        "dateFinCVI": null
-      }
-    ],
-    "etatcvi": "non",
-    "dateFinCVI": null,
-    "createdAt": "2025-06-18T12:36:20.607Z",
-    "emplacement": "I-2+LOCATION MICRO MECANIQUE PYRENENNE 08/07/2025",
-    "description": ""
-  },
-  {
-    "marque": "GW INSTEK",
-    "model": "GPT15004",
-    "quantite": 1,
-    "unites": [
-      {
-        "numserie": "GEY180038",
-        "position": "H-2",
-        "etatcvi": "non",
-        "dateFinCVI": null
-      }
-    ],
-    "etatcvi": "non",
-    "dateFinCVI": null,
-    "createdAt": "2025-06-18T12:36:20.607Z",
-    "emplacement": "H-2"
-  },
-  {
-    "marque": "GW INSTEK",
-    "model": "PST-3201",
-    "quantite": 1,
-    "unites": [
-      {
-        "numserie": "EM911738",
-        "etatcvi": "non",
-        "position": "H-3 menova",
-        "dateFinCVI": null
-      }
-    ],
-    "etatcvi": "non",
-    "dateFinCVI": null,
-    "createdAt": "2025-06-18T12:36:20.607Z",
-    "emplacement": "H-3 menova",
-    "description": ""
-  },
-  {
     "marque": "HAMEG",
     "model": "HM203-6",
     "quantite": 1,
@@ -2385,77 +2385,324 @@
   },
   {
     "marque": "HP",
-    "model": "16034E",
+    "model": "54600B",
     "quantite": 1,
     "unites": [
       {
-        "numserie": "ACCESSOIRES",
-        "position": "H-3",
+        "numserie": "US3915070B",
+        "position": "A-4",
         "etatcvi": "non",
         "dateFinCVI": null
       }
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-06-18T12:36:20.607Z",
-    "emplacement": "H-3"
+    "createdAt": "2025-06-18T12:36:20.606Z",
+    "emplacement": "A-4",
+    "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/Ev_mkEvsV0tNvNGsryROZecBQ3JqGmVQVTST_fWsiylIGw?e=9bfRK2"
   },
   {
     "marque": "HP",
-    "model": "16047A",
+    "model": "54650A",
+    "quantite": 1,
+    "unites": [
+      {
+        "numserie": "US35038083",
+        "position": "A-4",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      }
+    ],
+    "etatcvi": "non",
+    "dateFinCVI": null,
+    "createdAt": "2025-06-18T12:36:20.606Z",
+    "emplacement": "A-4",
+    "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/Eml6eusJg41Ol6DNdOcIKQUBuLGkGXU9Dv1HzSzjwGMKOA?e=yCknqX"
+  },
+  {
+    "marque": "HP",
+    "model": "8657A",
+    "quantite": 1,
+    "unites": [
+      {
+        "numserie": "3039A02758",
+        "position": "C-1",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      }
+    ],
+    "etatcvi": "non",
+    "dateFinCVI": null,
+    "createdAt": "2025-06-18T12:36:20.606Z",
+    "emplacement": "C-1"
+  },
+  {
+    "marque": "HP",
+    "model": "8752A",
+    "quantite": 1,
+    "unites": [
+      {
+        "numserie": "3214J00600",
+        "position": "C-2",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      }
+    ],
+    "etatcvi": "non",
+    "dateFinCVI": null,
+    "createdAt": "2025-06-18T12:36:20.606Z",
+    "emplacement": "C-2"
+  },
+  {
+    "marque": "HP",
+    "model": "8753C",
     "quantite": 2,
     "unites": [
       {
-        "numserie": "16047A161121",
-        "position": "I-3",
+        "numserie": "2918V00129",
+        "position": "C-2",
         "etatcvi": "non",
         "dateFinCVI": null
       },
       {
-        "numserie": "@",
-        "position": "H-3",
+        "numserie": "3310J01596",
+        "position": "C-5",
         "etatcvi": "non",
         "dateFinCVI": null
       }
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-06-18T12:36:20.607Z",
-    "emplacement": "I-3+H-3"
+    "createdAt": "2025-06-18T12:36:20.606Z",
+    "emplacement": "C-2+C-5"
   },
   {
     "marque": "HP",
-    "model": "16089D",
+    "model": "85033D",
     "quantite": 1,
     "unites": [
       {
-        "numserie": "ACCESSOIRES",
-        "position": "H-3",
+        "numserie": "3423A03644",
+        "position": "C-3",
         "etatcvi": "non",
         "dateFinCVI": null
       }
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-06-18T12:36:20.607Z",
-    "emplacement": "H-3"
+    "createdAt": "2025-06-18T12:36:20.606Z",
+    "emplacement": "C-3"
   },
   {
     "marque": "HP",
-    "model": "16195A",
+    "model": "8757D",
     "quantite": 1,
     "unites": [
       {
-        "numserie": "JP2KL01347",
-        "position": "I-2",
+        "numserie": "3431A05974",
+        "position": "C-3",
         "etatcvi": "non",
         "dateFinCVI": null
       }
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-06-18T12:36:20.607Z",
-    "emplacement": "I-2"
+    "createdAt": "2025-06-18T12:36:20.606Z",
+    "emplacement": "C-3"
+  },
+  {
+    "marque": "HP",
+    "model": "85056A",
+    "quantite": 1,
+    "unites": [
+      {
+        "numserie": "2729A03660",
+        "position": "C-5",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      }
+    ],
+    "etatcvi": "non",
+    "dateFinCVI": null,
+    "createdAt": "2025-06-18T12:36:20.606Z",
+    "emplacement": "C-5"
+  },
+  {
+    "marque": "HP",
+    "model": "6634A",
+    "quantite": 1,
+    "unites": [
+      {
+        "numserie": "3145A-02312",
+        "position": "D-1",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      }
+    ],
+    "etatcvi": "non",
+    "dateFinCVI": null,
+    "createdAt": "2025-06-18T12:36:20.606Z",
+    "emplacement": "D-1"
+  },
+  {
+    "marque": "HP",
+    "model": "6624A",
+    "quantite": 1,
+    "unites": [
+      {
+        "numserie": "2804A01818",
+        "position": "D-3",
+        "etatcvi": "oui",
+        "dateFinCVI": "2023-10-01"
+      }
+    ],
+    "etatcvi": "non",
+    "dateFinCVI": null,
+    "createdAt": "2025-06-18T12:36:20.606Z",
+    "emplacement": "D-3"
+  },
+  {
+    "marque": "HP",
+    "model": "6626A",
+    "quantite": 1,
+    "unites": [
+      {
+        "numserie": "US37370767",
+        "position": "D-3",
+        "etatcvi": "oui",
+        "dateFinCVI": "2023-10-01"
+      }
+    ],
+    "etatcvi": "non",
+    "dateFinCVI": null,
+    "createdAt": "2025-06-18T12:36:20.606Z",
+    "emplacement": "D-3"
+  },
+  {
+    "marque": "HP",
+    "model": "E3612A",
+    "quantite": 3,
+    "unites": [
+      {
+        "numserie": "KR30703058",
+        "position": "D-3",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      },
+      {
+        "numserie": "KR51303473",
+        "position": "D-3",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      },
+      {
+        "numserie": "KR51303476",
+        "position": "D-3",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      }
+    ],
+    "etatcvi": "non",
+    "dateFinCVI": null,
+    "createdAt": "2025-06-18T12:36:20.606Z",
+    "emplacement": "D-3"
+  },
+  {
+    "marque": "HP",
+    "model": "6622A",
+    "quantite": 1,
+    "unites": [
+      {
+        "numserie": "3106A01953",
+        "position": "D-5",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      }
+    ],
+    "etatcvi": "non",
+    "dateFinCVI": null,
+    "createdAt": "2025-06-18T12:36:20.606Z",
+    "emplacement": "D-5"
+  },
+  {
+    "marque": "HP",
+    "model": "6623A",
+    "quantite": 1,
+    "unites": [
+      {
+        "numserie": "3448A04307",
+        "position": "D-5",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      }
+    ],
+    "etatcvi": "non",
+    "dateFinCVI": null,
+    "createdAt": "2025-06-18T12:36:20.606Z",
+    "emplacement": "D-5"
+  },
+  {
+    "marque": "HP",
+    "model": "3326A",
+    "quantite": 2,
+    "unites": [
+      {
+        "numserie": "2519A01266",
+        "position": "E-1",
+        "etatcvi": "oui",
+        "dateFinCVI": "2023-09-01"
+      },
+      {
+        "numserie": "2942A02133",
+        "position": "E-1",
+        "etatcvi": "oui",
+        "dateFinCVI": "2025-09-01"
+      }
+    ],
+    "etatcvi": "non",
+    "dateFinCVI": null,
+    "createdAt": "2025-06-18T12:36:20.606Z",
+    "emplacement": "E-1"
+  },
+  {
+    "marque": "HP",
+    "model": "E4433B",
+    "quantite": 2,
+    "unites": [
+      {
+        "numserie": "GB38450384",
+        "position": "E-2",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      },
+      {
+        "numserie": "GB38450387",
+        "position": "E-3",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      }
+    ],
+    "etatcvi": "non",
+    "dateFinCVI": null,
+    "createdAt": "2025-06-18T12:36:20.606Z",
+    "emplacement": "E-2+E-3"
+  },
+  {
+    "marque": "HP",
+    "model": "E4419B",
+    "quantite": 1,
+    "unites": [
+      {
+        "numserie": "GB38410187",
+        "position": "E-3",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      }
+    ],
+    "etatcvi": "non",
+    "dateFinCVI": null,
+    "createdAt": "2025-06-18T12:36:20.606Z",
+    "emplacement": "E-3"
   },
   {
     "marque": "HP",
@@ -2530,26 +2777,37 @@
   },
   {
     "marque": "HP",
-    "model": "3326A",
-    "quantite": 2,
+    "model": "53181A",
+    "quantite": 1,
     "unites": [
       {
-        "numserie": "2519A01266",
-        "position": "E-1",
-        "etatcvi": "oui",
-        "dateFinCVI": "2023-09-01"
-      },
-      {
-        "numserie": "2942A02133",
-        "position": "E-1",
-        "etatcvi": "oui",
-        "dateFinCVI": "2025-09-01"
+        "numserie": "3736A05502",
+        "position": "F-3",
+        "etatcvi": "non",
+        "dateFinCVI": null
       }
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-06-18T12:36:20.606Z",
-    "emplacement": "E-1"
+    "createdAt": "2025-06-18T12:36:20.607Z",
+    "emplacement": "F-3"
+  },
+  {
+    "marque": "HP",
+    "model": "5318A",
+    "quantite": 1,
+    "unites": [
+      {
+        "numserie": "3736A05611",
+        "position": "F-3",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      }
+    ],
+    "etatcvi": "non",
+    "dateFinCVI": null,
+    "createdAt": "2025-06-18T12:36:20.607Z",
+    "emplacement": "F-3"
   },
   {
     "marque": "HP",
@@ -2567,6 +2825,23 @@
     "dateFinCVI": null,
     "createdAt": "2025-06-18T12:36:20.606Z",
     "emplacement": "F-4"
+  },
+  {
+    "marque": "HP",
+    "model": "437B",
+    "quantite": 1,
+    "unites": [
+      {
+        "numserie": "3125U16240",
+        "position": "G-4",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      }
+    ],
+    "etatcvi": "non",
+    "dateFinCVI": null,
+    "createdAt": "2025-06-18T12:36:20.607Z",
+    "emplacement": "G-4"
   },
   {
     "marque": "HP",
@@ -2604,12 +2879,12 @@
   },
   {
     "marque": "HP",
-    "model": "3585A",
+    "model": "4274A",
     "quantite": 1,
     "unites": [
       {
-        "numserie": "1750A02514",
-        "position": "M-1",
+        "numserie": "2147J01882",
+        "position": "H-1",
         "etatcvi": "non",
         "dateFinCVI": null
       }
@@ -2617,24 +2892,24 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-18T12:36:20.607Z",
-    "emplacement": "M-1"
+    "emplacement": "H-1"
   },
   {
     "marque": "HP",
-    "model": "4194A/375(OPTION)",
+    "model": "4396A",
     "quantite": 1,
     "unites": [
       {
-        "numserie": "2830501576",
-        "position": "M-2",
-        "etatcvi": "non",
-        "dateFinCVI": null
+        "numserie": "3413J00690",
+        "position": "H-1",
+        "etatcvi": "oui",
+        "dateFinCVI": "2024-05-01"
       }
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-18T12:36:20.607Z",
-    "emplacement": "M-2"
+    "emplacement": "H-1"
   },
   {
     "marque": "HP",
@@ -2672,12 +2947,12 @@
   },
   {
     "marque": "HP",
-    "model": "4274A",
+    "model": "16034E",
     "quantite": 1,
     "unites": [
       {
-        "numserie": "2147J01882",
-        "position": "H-1",
+        "numserie": "ACCESSOIRES",
+        "position": "H-3",
         "etatcvi": "non",
         "dateFinCVI": null
       }
@@ -2685,16 +2960,16 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-18T12:36:20.607Z",
-    "emplacement": "H-1"
+    "emplacement": "H-3"
   },
   {
     "marque": "HP",
-    "model": "436A",
+    "model": "16089D",
     "quantite": 1,
     "unites": [
       {
-        "numserie": "2031V01112",
-        "position": "K-4",
+        "numserie": "ACCESSOIRES",
+        "position": "H-3",
         "etatcvi": "non",
         "dateFinCVI": null
       }
@@ -2702,16 +2977,16 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-18T12:36:20.607Z",
-    "emplacement": "K-4"
+    "emplacement": "H-3"
   },
   {
     "marque": "HP",
-    "model": "437B",
+    "model": "16195A",
     "quantite": 1,
     "unites": [
       {
-        "numserie": "3125U16240",
-        "position": "G-4",
+        "numserie": "JP2KL01347",
+        "position": "I-2",
         "etatcvi": "non",
         "dateFinCVI": null
       }
@@ -2719,247 +2994,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-18T12:36:20.607Z",
-    "emplacement": "G-4"
-  },
-  {
-    "marque": "HP",
-    "model": "4396A",
-    "quantite": 1,
-    "unites": [
-      {
-        "numserie": "3413J00690",
-        "position": "H-1",
-        "etatcvi": "oui",
-        "dateFinCVI": "2024-05-01"
-      }
-    ],
-    "etatcvi": "non",
-    "dateFinCVI": null,
-    "createdAt": "2025-06-18T12:36:20.607Z",
-    "emplacement": "H-1"
-  },
-  {
-    "marque": "HP",
-    "model": "4418B",
-    "quantite": 1,
-    "unites": [
-      {
-        "numserie": "GB41299789",
-        "position": "K-4",
-        "etatcvi": "non",
-        "dateFinCVI": null
-      }
-    ],
-    "etatcvi": "non",
-    "dateFinCVI": null,
-    "createdAt": "2025-06-18T12:36:20.607Z",
-    "emplacement": "K-4"
-  },
-  {
-    "marque": "HP",
-    "model": "53181A",
-    "quantite": 1,
-    "unites": [
-      {
-        "numserie": "3736A05502",
-        "position": "F-3",
-        "etatcvi": "non",
-        "dateFinCVI": null
-      }
-    ],
-    "etatcvi": "non",
-    "dateFinCVI": null,
-    "createdAt": "2025-06-18T12:36:20.607Z",
-    "emplacement": "F-3"
-  },
-  {
-    "marque": "HP",
-    "model": "5318A",
-    "quantite": 1,
-    "unites": [
-      {
-        "numserie": "3736A05611",
-        "position": "F-3",
-        "etatcvi": "non",
-        "dateFinCVI": null
-      }
-    ],
-    "etatcvi": "non",
-    "dateFinCVI": null,
-    "createdAt": "2025-06-18T12:36:20.607Z",
-    "emplacement": "F-3"
-  },
-  {
-    "marque": "HP",
-    "model": "54600B",
-    "quantite": 1,
-    "unites": [
-      {
-        "numserie": "US3915070B",
-        "position": "A-4",
-        "etatcvi": "non",
-        "dateFinCVI": null
-      }
-    ],
-    "etatcvi": "non",
-    "dateFinCVI": null,
-    "createdAt": "2025-06-18T12:36:20.606Z",
-    "emplacement": "A-4",
-    "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/Ev_mkEvsV0tNvNGsryROZecBQ3JqGmVQVTST_fWsiylIGw?e=9bfRK2"
-  },
-  {
-    "marque": "HP",
-    "model": "54650A",
-    "quantite": 1,
-    "unites": [
-      {
-        "numserie": "US35038083",
-        "position": "A-4",
-        "etatcvi": "non",
-        "dateFinCVI": null
-      }
-    ],
-    "etatcvi": "non",
-    "dateFinCVI": null,
-    "createdAt": "2025-06-18T12:36:20.606Z",
-    "emplacement": "A-4",
-    "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/Eml6eusJg41Ol6DNdOcIKQUBuLGkGXU9Dv1HzSzjwGMKOA?e=yCknqX"
-  },
-  {
-    "marque": "HP",
-    "model": "6050A",
-    "quantite": 1,
-    "unites": [
-      {
-        "numserie": "2940A-01589",
-        "position": "J-2",
-        "etatcvi": "non",
-        "dateFinCVI": null
-      }
-    ],
-    "etatcvi": "non",
-    "dateFinCVI": null,
-    "createdAt": "2025-06-18T12:36:20.607Z",
-    "emplacement": "J-2"
-  },
-  {
-    "marque": "HP",
-    "model": "6622A",
-    "quantite": 1,
-    "unites": [
-      {
-        "numserie": "3106A01953",
-        "position": "D-5",
-        "etatcvi": "non",
-        "dateFinCVI": null
-      }
-    ],
-    "etatcvi": "non",
-    "dateFinCVI": null,
-    "createdAt": "2025-06-18T12:36:20.606Z",
-    "emplacement": "D-5"
-  },
-  {
-    "marque": "HP",
-    "model": "6623A",
-    "quantite": 1,
-    "unites": [
-      {
-        "numserie": "3448A04307",
-        "position": "D-5",
-        "etatcvi": "non",
-        "dateFinCVI": null
-      }
-    ],
-    "etatcvi": "non",
-    "dateFinCVI": null,
-    "createdAt": "2025-06-18T12:36:20.606Z",
-    "emplacement": "D-5"
-  },
-  {
-    "marque": "HP",
-    "model": "6624A",
-    "quantite": 1,
-    "unites": [
-      {
-        "numserie": "2804A01818",
-        "position": "D-3",
-        "etatcvi": "oui",
-        "dateFinCVI": "2023-10-01"
-      }
-    ],
-    "etatcvi": "non",
-    "dateFinCVI": null,
-    "createdAt": "2025-06-18T12:36:20.606Z",
-    "emplacement": "D-3"
-  },
-  {
-    "marque": "HP",
-    "model": "6626A",
-    "quantite": 1,
-    "unites": [
-      {
-        "numserie": "US37370767",
-        "position": "D-3",
-        "etatcvi": "oui",
-        "dateFinCVI": "2023-10-01"
-      }
-    ],
-    "etatcvi": "non",
-    "dateFinCVI": null,
-    "createdAt": "2025-06-18T12:36:20.606Z",
-    "emplacement": "D-3"
-  },
-  {
-    "marque": "HP",
-    "model": "6634A",
-    "quantite": 1,
-    "unites": [
-      {
-        "numserie": "3145A-02312",
-        "position": "D-1",
-        "etatcvi": "non",
-        "dateFinCVI": null
-      }
-    ],
-    "etatcvi": "non",
-    "dateFinCVI": null,
-    "createdAt": "2025-06-18T12:36:20.606Z",
-    "emplacement": "D-1"
-  },
-  {
-    "marque": "HP",
-    "model": "85033D",
-    "quantite": 1,
-    "unites": [
-      {
-        "numserie": "3423A03644",
-        "position": "C-3",
-        "etatcvi": "non",
-        "dateFinCVI": null
-      }
-    ],
-    "etatcvi": "non",
-    "dateFinCVI": null,
-    "createdAt": "2025-06-18T12:36:20.606Z",
-    "emplacement": "C-3"
-  },
-  {
-    "marque": "HP",
-    "model": "85056A",
-    "quantite": 1,
-    "unites": [
-      {
-        "numserie": "2729A03660",
-        "position": "C-5",
-        "etatcvi": "non",
-        "dateFinCVI": null
-      }
-    ],
-    "etatcvi": "non",
-    "dateFinCVI": null,
-    "createdAt": "2025-06-18T12:36:20.606Z",
-    "emplacement": "C-5"
+    "emplacement": "I-2"
   },
   {
     "marque": "HP",
@@ -2980,77 +3015,43 @@
   },
   {
     "marque": "HP",
-    "model": "8657A",
-    "quantite": 1,
-    "unites": [
-      {
-        "numserie": "3039A02758",
-        "position": "C-1",
-        "etatcvi": "non",
-        "dateFinCVI": null
-      }
-    ],
-    "etatcvi": "non",
-    "dateFinCVI": null,
-    "createdAt": "2025-06-18T12:36:20.606Z",
-    "emplacement": "C-1"
-  },
-  {
-    "marque": "HP",
-    "model": "8752A",
-    "quantite": 1,
-    "unites": [
-      {
-        "numserie": "3214J00600",
-        "position": "C-2",
-        "etatcvi": "non",
-        "dateFinCVI": null
-      }
-    ],
-    "etatcvi": "non",
-    "dateFinCVI": null,
-    "createdAt": "2025-06-18T12:36:20.606Z",
-    "emplacement": "C-2"
-  },
-  {
-    "marque": "HP",
-    "model": "8753C",
+    "model": "16047A",
     "quantite": 2,
     "unites": [
       {
-        "numserie": "2918V00129",
-        "position": "C-2",
+        "numserie": "16047A161121",
+        "position": "I-3",
         "etatcvi": "non",
         "dateFinCVI": null
       },
       {
-        "numserie": "3310J01596",
-        "position": "C-5",
+        "numserie": "@",
+        "position": "H-3",
         "etatcvi": "non",
         "dateFinCVI": null
       }
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-06-18T12:36:20.606Z",
-    "emplacement": "C-2+C-5"
+    "createdAt": "2025-06-18T12:36:20.607Z",
+    "emplacement": "I-3+H-3"
   },
   {
     "marque": "HP",
-    "model": "8757D",
+    "model": "6050A",
     "quantite": 1,
     "unites": [
       {
-        "numserie": "3431A05974",
-        "position": "C-3",
+        "numserie": "2940A-01589",
+        "position": "J-2",
         "etatcvi": "non",
         "dateFinCVI": null
       }
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-06-18T12:36:20.606Z",
-    "emplacement": "C-3"
+    "createdAt": "2025-06-18T12:36:20.607Z",
+    "emplacement": "J-2"
   },
   {
     "marque": "HP",
@@ -3071,32 +3072,37 @@
   },
   {
     "marque": "HP",
-    "model": "E3612A",
-    "quantite": 3,
+    "model": "436A",
+    "quantite": 1,
     "unites": [
       {
-        "numserie": "KR30703058",
-        "position": "D-3",
-        "etatcvi": "non",
-        "dateFinCVI": null
-      },
-      {
-        "numserie": "KR51303473",
-        "position": "D-3",
-        "etatcvi": "non",
-        "dateFinCVI": null
-      },
-      {
-        "numserie": "KR51303476",
-        "position": "D-3",
+        "numserie": "2031V01112",
+        "position": "K-4",
         "etatcvi": "non",
         "dateFinCVI": null
       }
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-06-18T12:36:20.606Z",
-    "emplacement": "D-3"
+    "createdAt": "2025-06-18T12:36:20.607Z",
+    "emplacement": "K-4"
+  },
+  {
+    "marque": "HP",
+    "model": "4418B",
+    "quantite": 1,
+    "unites": [
+      {
+        "numserie": "GB41299789",
+        "position": "K-4",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      }
+    ],
+    "etatcvi": "non",
+    "dateFinCVI": null,
+    "createdAt": "2025-06-18T12:36:20.607Z",
+    "emplacement": "K-4"
   },
   {
     "marque": "HP",
@@ -3134,43 +3140,37 @@
   },
   {
     "marque": "HP",
-    "model": "E4419B",
+    "model": "3585A",
     "quantite": 1,
     "unites": [
       {
-        "numserie": "GB38410187",
-        "position": "E-3",
+        "numserie": "1750A02514",
+        "position": "M-1",
         "etatcvi": "non",
         "dateFinCVI": null
       }
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-06-18T12:36:20.606Z",
-    "emplacement": "E-3"
+    "createdAt": "2025-06-18T12:36:20.607Z",
+    "emplacement": "M-1"
   },
   {
     "marque": "HP",
-    "model": "E4433B",
-    "quantite": 2,
+    "model": "4194A/375(OPTION)",
+    "quantite": 1,
     "unites": [
       {
-        "numserie": "GB38450384",
-        "position": "E-2",
-        "etatcvi": "non",
-        "dateFinCVI": null
-      },
-      {
-        "numserie": "GB38450387",
-        "position": "E-3",
+        "numserie": "2830501576",
+        "position": "M-2",
         "etatcvi": "non",
         "dateFinCVI": null
       }
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-06-18T12:36:20.606Z",
-    "emplacement": "E-2+E-3"
+    "createdAt": "2025-06-18T12:36:20.607Z",
+    "emplacement": "M-2"
   },
   {
     "marque": "ISO-TECH",
@@ -3268,29 +3268,12 @@
   },
   {
     "marque": "KEITHLEY",
-    "model": "191",
+    "model": "4200-PA",
     "quantite": 1,
     "unites": [
       {
-        "numserie": "20815",
-        "position": "M-2",
-        "etatcvi": "non",
-        "dateFinCVI": null
-      }
-    ],
-    "etatcvi": "non",
-    "dateFinCVI": null,
-    "createdAt": "2025-06-18T12:36:20.607Z",
-    "emplacement": "M-2"
-  },
-  {
-    "marque": "KEITHLEY",
-    "model": "192",
-    "quantite": 1,
-    "unites": [
-      {
-        "numserie": "31820",
-        "position": "F-5",
+        "numserie": "1442824",
+        "position": "A-5",
         "etatcvi": "non",
         "dateFinCVI": null
       }
@@ -3298,16 +3281,16 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-18T12:36:20.606Z",
-    "emplacement": "F-5"
+    "emplacement": "A-5"
   },
   {
     "marque": "KEITHLEY",
-    "model": "196",
+    "model": "7013-C20",
     "quantite": 1,
     "unites": [
       {
-        "numserie": "439026",
-        "position": "F-5",
+        "numserie": "7013-172-03B",
+        "position": "D-5",
         "etatcvi": "non",
         "dateFinCVI": null
       }
@@ -3315,64 +3298,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-18T12:36:20.606Z",
-    "emplacement": "F-5"
-  },
-  {
-    "marque": "KEITHLEY",
-    "model": "197",
-    "quantite": 1,
-    "unites": [
-      {
-        "numserie": "454758",
-        "position": "G-2",
-        "etatcvi": "non",
-        "dateFinCVI": null
-      }
-    ],
-    "etatcvi": "non",
-    "dateFinCVI": null,
-    "createdAt": "2025-06-18T12:36:20.607Z",
-    "emplacement": "G-2"
-  },
-  {
-    "marque": "KEITHLEY",
-    "model": "2000",
-    "quantite": 1,
-    "unites": [
-      {
-        "numserie": "0641384",
-        "position": "F-5",
-        "etatcvi": "oui",
-        "dateFinCVI": "2025-06-01"
-      }
-    ],
-    "etatcvi": "non",
-    "dateFinCVI": null,
-    "createdAt": "2025-06-18T12:36:20.606Z",
-    "emplacement": "F-5"
-  },
-  {
-    "marque": "KEITHLEY",
-    "model": "2001",
-    "quantite": 2,
-    "unites": [
-      {
-        "numserie": "0544203",
-        "position": "F-5",
-        "etatcvi": "non",
-        "dateFinCVI": null
-      },
-      {
-        "numserie": "0611536",
-        "position": "F-5",
-        "etatcvi": "non",
-        "dateFinCVI": null
-      }
-    ],
-    "etatcvi": "non",
-    "dateFinCVI": null,
-    "createdAt": "2025-06-18T12:36:20.606Z",
-    "emplacement": "F-5"
+    "emplacement": "D-5"
   },
   {
     "marque": "KEITHLEY",
@@ -3428,6 +3354,57 @@
   },
   {
     "marque": "KEITHLEY",
+    "model": "2614B",
+    "quantite": 1,
+    "unites": [
+      {
+        "numserie": "4030141",
+        "position": "F-4",
+        "etatcvi": "oui",
+        "dateFinCVI": "2025-10-01"
+      }
+    ],
+    "etatcvi": "non",
+    "dateFinCVI": null,
+    "createdAt": "2025-06-18T12:36:20.606Z",
+    "emplacement": "F-4"
+  },
+  {
+    "marque": "KEITHLEY",
+    "model": "2634B",
+    "quantite": 1,
+    "unites": [
+      {
+        "numserie": "4106018",
+        "position": "F-4",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      }
+    ],
+    "etatcvi": "non",
+    "dateFinCVI": null,
+    "createdAt": "2025-06-18T12:36:20.606Z",
+    "emplacement": "F-4"
+  },
+  {
+    "marque": "KEITHLEY",
+    "model": "6517A",
+    "quantite": 1,
+    "unites": [
+      {
+        "numserie": "0994342",
+        "position": "F-4",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      }
+    ],
+    "etatcvi": "non",
+    "dateFinCVI": null,
+    "createdAt": "2025-06-18T12:36:20.606Z",
+    "emplacement": "F-4"
+  },
+  {
+    "marque": "KEITHLEY",
     "model": "2450",
     "quantite": 4,
     "unites": [
@@ -3463,29 +3440,12 @@
   },
   {
     "marque": "KEITHLEY",
-    "model": "2614B",
+    "model": "192",
     "quantite": 1,
     "unites": [
       {
-        "numserie": "4030141",
-        "position": "F-4",
-        "etatcvi": "oui",
-        "dateFinCVI": "2025-10-01"
-      }
-    ],
-    "etatcvi": "non",
-    "dateFinCVI": null,
-    "createdAt": "2025-06-18T12:36:20.606Z",
-    "emplacement": "F-4"
-  },
-  {
-    "marque": "KEITHLEY",
-    "model": "2634B",
-    "quantite": 1,
-    "unites": [
-      {
-        "numserie": "4106018",
-        "position": "F-4",
+        "numserie": "31820",
+        "position": "F-5",
         "etatcvi": "non",
         "dateFinCVI": null
       }
@@ -3493,7 +3453,64 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-18T12:36:20.606Z",
-    "emplacement": "F-4"
+    "emplacement": "F-5"
+  },
+  {
+    "marque": "KEITHLEY",
+    "model": "196",
+    "quantite": 1,
+    "unites": [
+      {
+        "numserie": "439026",
+        "position": "F-5",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      }
+    ],
+    "etatcvi": "non",
+    "dateFinCVI": null,
+    "createdAt": "2025-06-18T12:36:20.606Z",
+    "emplacement": "F-5"
+  },
+  {
+    "marque": "KEITHLEY",
+    "model": "2000",
+    "quantite": 1,
+    "unites": [
+      {
+        "numserie": "0641384",
+        "position": "F-5",
+        "etatcvi": "oui",
+        "dateFinCVI": "2025-06-01"
+      }
+    ],
+    "etatcvi": "non",
+    "dateFinCVI": null,
+    "createdAt": "2025-06-18T12:36:20.606Z",
+    "emplacement": "F-5"
+  },
+  {
+    "marque": "KEITHLEY",
+    "model": "2001",
+    "quantite": 2,
+    "unites": [
+      {
+        "numserie": "0544203",
+        "position": "F-5",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      },
+      {
+        "numserie": "0611536",
+        "position": "F-5",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      }
+    ],
+    "etatcvi": "non",
+    "dateFinCVI": null,
+    "createdAt": "2025-06-18T12:36:20.606Z",
+    "emplacement": "F-5"
   },
   {
     "marque": "KEITHLEY",
@@ -3554,23 +3571,6 @@
   },
   {
     "marque": "KEITHLEY",
-    "model": "4200-PA",
-    "quantite": 1,
-    "unites": [
-      {
-        "numserie": "1442824",
-        "position": "A-5",
-        "etatcvi": "non",
-        "dateFinCVI": null
-      }
-    ],
-    "etatcvi": "non",
-    "dateFinCVI": null,
-    "createdAt": "2025-06-18T12:36:20.606Z",
-    "emplacement": "A-5"
-  },
-  {
-    "marque": "KEITHLEY",
     "model": "6514",
     "quantite": 1,
     "unites": [
@@ -3588,20 +3588,20 @@
   },
   {
     "marque": "KEITHLEY",
-    "model": "6517A",
+    "model": "197",
     "quantite": 1,
     "unites": [
       {
-        "numserie": "0994342",
-        "position": "F-4",
+        "numserie": "454758",
+        "position": "G-2",
         "etatcvi": "non",
         "dateFinCVI": null
       }
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-06-18T12:36:20.606Z",
-    "emplacement": "F-4"
+    "createdAt": "2025-06-18T12:36:20.607Z",
+    "emplacement": "G-2"
   },
   {
     "marque": "KEITHLEY",
@@ -3639,23 +3639,6 @@
   },
   {
     "marque": "KEITHLEY",
-    "model": "7013-C20",
-    "quantite": 1,
-    "unites": [
-      {
-        "numserie": "7013-172-03B",
-        "position": "D-5",
-        "etatcvi": "non",
-        "dateFinCVI": null
-      }
-    ],
-    "etatcvi": "non",
-    "dateFinCVI": null,
-    "createdAt": "2025-06-18T12:36:20.606Z",
-    "emplacement": "D-5"
-  },
-  {
-    "marque": "KEITHLEY",
     "model": "7036",
     "quantite": 2,
     "unites": [
@@ -3678,36 +3661,13 @@
     "emplacement": "G-5"
   },
   {
-    "marque": "KEYSIGHT",
-    "model": "33510B",
+    "marque": "KEITHLEY",
+    "model": "191",
     "quantite": 1,
     "unites": [
       {
-        "numserie": "MY52202297",
-        "position": "E-5",
-        "etatcvi": "oui",
-        "dateFinCVI": "2023-03-01"
-      }
-    ],
-    "etatcvi": "non",
-    "dateFinCVI": null,
-    "createdAt": "2025-06-18T12:36:20.606Z",
-    "emplacement": "E-5"
-  },
-  {
-    "marque": "KEYSIGHT",
-    "model": "34901A",
-    "quantite": 2,
-    "unites": [
-      {
-        "numserie": "570",
-        "position": "F-4",
-        "etatcvi": "non",
-        "dateFinCVI": null
-      },
-      {
-        "numserie": "MY58136884",
-        "position": "G-5",
+        "numserie": "20815",
+        "position": "M-2",
         "etatcvi": "non",
         "dateFinCVI": null
       }
@@ -3715,89 +3675,16 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-18T12:36:20.607Z",
-    "emplacement": "F-4+G-5"
+    "emplacement": "M-2"
   },
   {
     "marque": "KEYSIGHT",
-    "model": "34903A",
+    "model": "MSOX4024A",
     "quantite": 1,
     "unites": [
       {
-        "numserie": "MY41036799",
-        "position": "G-5",
-        "etatcvi": "non",
-        "dateFinCVI": null
-      }
-    ],
-    "etatcvi": "non",
-    "dateFinCVI": null,
-    "createdAt": "2025-06-18T12:36:20.607Z",
-    "emplacement": "G-5"
-  },
-  {
-    "marque": "KEYSIGHT",
-    "model": "34970A",
-    "quantite": 1,
-    "unites": [
-      {
-        "numserie": "MY58001020",
-        "position": "F-4",
-        "etatcvi": "oui",
-        "dateFinCVI": "2025-06-01"
-      }
-    ],
-    "etatcvi": "non",
-    "dateFinCVI": null,
-    "createdAt": "2025-06-18T12:36:20.607Z",
-    "emplacement": "F-4"
-  },
-  {
-    "marque": "KEYSIGHT",
-    "model": "81150A",
-    "quantite": 1,
-    "emplacement": "D-3",
-    "description": "OPTION 002",
-    "unites": [
-      {
-        "numserie": "MY53820512",
-        "position": "D-3",
-        "etatcvi": "non",
-        "dateFinCVI": null
-      }
-    ],
-    "createdAt": "2025-06-19T09:48:56.737Z"
-  },
-  {
-    "marque": "KEYSIGHT",
-    "model": "B2911A",
-    "quantite": 1,
-    "unites": [
-      {
-        "numserie": "MY51140315",
-        "position": "F-3",
-        "etatcvi": "non",
-        "dateFinCVI": null
-      }
-    ],
-    "etatcvi": "non",
-    "dateFinCVI": null,
-    "createdAt": "2025-06-18T12:36:20.607Z",
-    "emplacement": "F-3"
-  },
-  {
-    "marque": "KEYSIGHT",
-    "model": "DAQ970A",
-    "quantite": 2,
-    "unites": [
-      {
-        "numserie": "MY58015425",
-        "position": "F-5",
-        "etatcvi": "non",
-        "dateFinCVI": null
-      },
-      {
-        "numserie": "MY58035873",
-        "position": "I-3",
+        "numserie": "MY56310576",
+        "position": "A-2",
         "etatcvi": "non",
         "dateFinCVI": null
       }
@@ -3805,25 +3692,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-18T12:36:20.606Z",
-    "emplacement": "F-5+I-3"
-  },
-  {
-    "marque": "KEYSIGHT",
-    "model": "DSO-X-3054A",
-    "quantite": 1,
-    "unites": [
-      {
-        "numserie": "MY58030723",
-        "position": "B-3",
-        "etatcvi": "oui",
-        "dateFinCVI": "2025-10-01"
-      }
-    ],
-    "etatcvi": "non",
-    "dateFinCVI": null,
-    "createdAt": "2025-06-18T12:36:20.606Z",
-    "emplacement": "B-3",
-    "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EpVEqQ4OVxRFvOrY9uUHFyMBlX3Mc4yEX6ALOn-aaJfzQQ?e=J3Hk5l"
+    "emplacement": "A-2"
   },
   {
     "marque": "KEYSIGHT",
@@ -3861,20 +3730,21 @@
   },
   {
     "marque": "KEYSIGHT",
-    "model": "E4990A",
+    "model": "DSO-X-3054A",
     "quantite": 1,
     "unites": [
       {
-        "numserie": "MY5410092A",
-        "position": "I-1",
+        "numserie": "MY58030723",
+        "position": "B-3",
         "etatcvi": "oui",
-        "dateFinCVI": "2024-11-01"
+        "dateFinCVI": "2025-10-01"
       }
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-06-18T12:36:20.607Z",
-    "emplacement": "I-1"
+    "createdAt": "2025-06-18T12:36:20.606Z",
+    "emplacement": "B-3",
+    "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EpVEqQ4OVxRFvOrY9uUHFyMBlX3Mc4yEX6ALOn-aaJfzQQ?e=J3Hk5l"
   },
   {
     "marque": "KEYSIGHT",
@@ -3912,12 +3782,108 @@
   },
   {
     "marque": "KEYSIGHT",
-    "model": "MSOX4024A",
+    "model": "81150A",
+    "quantite": 1,
+    "emplacement": "D-3",
+    "description": "OPTION 002",
+    "unites": [
+      {
+        "numserie": "MY53820512",
+        "position": "D-3",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      }
+    ],
+    "createdAt": "2025-06-19T09:48:56.737Z"
+  },
+  {
+    "marque": "KEYSIGHT",
+    "model": "33510B",
     "quantite": 1,
     "unites": [
       {
-        "numserie": "MY56310576",
-        "position": "A-2",
+        "numserie": "MY52202297",
+        "position": "E-5",
+        "etatcvi": "oui",
+        "dateFinCVI": "2023-03-01"
+      }
+    ],
+    "etatcvi": "non",
+    "dateFinCVI": null,
+    "createdAt": "2025-06-18T12:36:20.606Z",
+    "emplacement": "E-5"
+  },
+  {
+    "marque": "KEYSIGHT",
+    "model": "B2911A",
+    "quantite": 1,
+    "unites": [
+      {
+        "numserie": "MY51140315",
+        "position": "F-3",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      }
+    ],
+    "etatcvi": "non",
+    "dateFinCVI": null,
+    "createdAt": "2025-06-18T12:36:20.607Z",
+    "emplacement": "F-3"
+  },
+  {
+    "marque": "KEYSIGHT",
+    "model": "34970A",
+    "quantite": 1,
+    "unites": [
+      {
+        "numserie": "MY58001020",
+        "position": "F-4",
+        "etatcvi": "oui",
+        "dateFinCVI": "2025-06-01"
+      }
+    ],
+    "etatcvi": "non",
+    "dateFinCVI": null,
+    "createdAt": "2025-06-18T12:36:20.607Z",
+    "emplacement": "F-4"
+  },
+  {
+    "marque": "KEYSIGHT",
+    "model": "34901A",
+    "quantite": 2,
+    "unites": [
+      {
+        "numserie": "570",
+        "position": "F-4",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      },
+      {
+        "numserie": "MY58136884",
+        "position": "G-5",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      }
+    ],
+    "etatcvi": "non",
+    "dateFinCVI": null,
+    "createdAt": "2025-06-18T12:36:20.607Z",
+    "emplacement": "F-4+G-5"
+  },
+  {
+    "marque": "KEYSIGHT",
+    "model": "DAQ970A",
+    "quantite": 2,
+    "unites": [
+      {
+        "numserie": "MY58015425",
+        "position": "F-5",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      },
+      {
+        "numserie": "MY58035873",
+        "position": "I-3",
         "etatcvi": "non",
         "dateFinCVI": null
       }
@@ -3925,7 +3891,41 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-18T12:36:20.606Z",
-    "emplacement": "A-2"
+    "emplacement": "F-5+I-3"
+  },
+  {
+    "marque": "KEYSIGHT",
+    "model": "34903A",
+    "quantite": 1,
+    "unites": [
+      {
+        "numserie": "MY41036799",
+        "position": "G-5",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      }
+    ],
+    "etatcvi": "non",
+    "dateFinCVI": null,
+    "createdAt": "2025-06-18T12:36:20.607Z",
+    "emplacement": "G-5"
+  },
+  {
+    "marque": "KEYSIGHT",
+    "model": "E4990A",
+    "quantite": 1,
+    "unites": [
+      {
+        "numserie": "MY5410092A",
+        "position": "I-1",
+        "etatcvi": "oui",
+        "dateFinCVI": "2024-11-01"
+      }
+    ],
+    "etatcvi": "non",
+    "dateFinCVI": null,
+    "createdAt": "2025-06-18T12:36:20.607Z",
+    "emplacement": "I-1"
   },
   {
     "marque": "KIKUSUI",
@@ -4201,23 +4201,6 @@
   },
   {
     "marque": "METRIX",
-    "model": "CX1651",
-    "quantite": 1,
-    "unites": [
-      {
-        "numserie": "412581",
-        "position": "I-4",
-        "etatcvi": "non",
-        "dateFinCVI": null
-      }
-    ],
-    "etatcvi": "non",
-    "dateFinCVI": null,
-    "createdAt": "2025-06-18T12:36:20.607Z",
-    "emplacement": "I-4"
-  },
-  {
-    "marque": "METRIX",
     "model": "OX9104",
     "quantite": 1,
     "unites": [
@@ -4233,6 +4216,23 @@
     "createdAt": "2025-06-18T12:36:20.606Z",
     "emplacement": "A-4",
     "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/En8b97d3-I5Dhax4T1jSEgcBAqA75LyWokxi8cD0mVb3bw?e=MjKihP"
+  },
+  {
+    "marque": "METRIX",
+    "model": "CX1651",
+    "quantite": 1,
+    "unites": [
+      {
+        "numserie": "412581",
+        "position": "I-4",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      }
+    ],
+    "etatcvi": "non",
+    "dateFinCVI": null,
+    "createdAt": "2025-06-18T12:36:20.607Z",
+    "emplacement": "I-4"
   },
   {
     "marque": "MULTIMETRIX",
@@ -4270,6 +4270,23 @@
   },
   {
     "marque": "NATIONAL INSTRUMENT",
+    "model": "USB-4431",
+    "quantite": 1,
+    "unites": [
+      {
+        "numserie": "18CB961",
+        "position": "D-5",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      }
+    ],
+    "etatcvi": "non",
+    "dateFinCVI": null,
+    "createdAt": "2025-06-18T12:36:20.606Z",
+    "emplacement": "D-5"
+  },
+  {
+    "marque": "NATIONAL INSTRUMENT",
     "model": "PXI-1033",
     "quantite": 2,
     "unites": [
@@ -4292,23 +4309,6 @@
     "emplacement": "G-5"
   },
   {
-    "marque": "NATIONAL INSTRUMENT",
-    "model": "USB-4431",
-    "quantite": 1,
-    "unites": [
-      {
-        "numserie": "18CB961",
-        "position": "D-5",
-        "etatcvi": "non",
-        "dateFinCVI": null
-      }
-    ],
-    "etatcvi": "non",
-    "dateFinCVI": null,
-    "createdAt": "2025-06-18T12:36:20.606Z",
-    "emplacement": "D-5"
-  },
-  {
     "marque": "NATURO + ICS ELECT",
     "model": "CONTROL UNIT",
     "quantite": 1,
@@ -4327,23 +4327,6 @@
   },
   {
     "marque": "NORTH ATLANTIC",
-    "model": "5300",
-    "quantite": 1,
-    "unites": [
-      {
-        "numserie": "83462",
-        "position": "I-4",
-        "etatcvi": "non",
-        "dateFinCVI": null
-      }
-    ],
-    "etatcvi": "non",
-    "dateFinCVI": null,
-    "createdAt": "2025-06-18T12:36:20.607Z",
-    "emplacement": "I-4"
-  },
-  {
-    "marque": "NORTH ATLANTIC",
     "model": "5330",
     "quantite": 1,
     "unites": [
@@ -4358,6 +4341,23 @@
     "dateFinCVI": null,
     "createdAt": "2025-06-18T12:36:20.606Z",
     "emplacement": "D-4"
+  },
+  {
+    "marque": "NORTH ATLANTIC",
+    "model": "5300",
+    "quantite": 1,
+    "unites": [
+      {
+        "numserie": "83462",
+        "position": "I-4",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      }
+    ],
+    "etatcvi": "non",
+    "dateFinCVI": null,
+    "createdAt": "2025-06-18T12:36:20.607Z",
+    "emplacement": "I-4"
   },
   {
     "marque": "PHILIPPS",
@@ -4447,7 +4447,8 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-18T12:36:20.606Z",
-    "emplacement": "E-3"
+    "emplacement": "E-3",
+    "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EnyKMxFsRnBCtZV0RrTSrTgBlwaJmBUA8RunwX5rMhJ5qA?e=F97fUI"
   },
   {
     "marque": "ROHDE & SCHWARZ",
@@ -4456,32 +4457,16 @@
     "unites": [
       {
         "numserie": "101426",
-        "position": "",
         "etatcvi": "non",
+        "position": "M-4",
         "dateFinCVI": null
       }
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-18T12:36:20.607Z",
-    "emplacement": ""
-  },
-  {
-    "marque": "ROHDE & SCHWARZ",
-    "model": "FSP30",
-    "quantite": 1,
-    "unites": [
-      {
-        "numserie": "100425",
-        "position": "B-4",
-        "etatcvi": "non",
-        "dateFinCVI": null
-      }
-    ],
-    "etatcvi": "non",
-    "dateFinCVI": null,
-    "createdAt": "2025-06-18T12:36:20.606Z",
-    "emplacement": "B-4"
+    "emplacement": "M-4",
+    "description": ""
   },
   {
     "marque": "ROHDE & SCHWARZ",
@@ -4508,20 +4493,71 @@
   },
   {
     "marque": "ROHDE & SCHWARZ",
-    "model": "NAS-Z7",
+    "model": "FSP30",
     "quantite": 1,
     "unites": [
       {
-        "numserie": "827511/0001",
-        "position": "K-3",
+        "numserie": "100425",
+        "position": "B-4",
         "etatcvi": "non",
         "dateFinCVI": null
       }
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-06-18T12:36:20.607Z",
-    "emplacement": "K-3"
+    "createdAt": "2025-06-18T12:36:20.606Z",
+    "emplacement": "B-4"
+  },
+  {
+    "marque": "ROHDE & SCHWARZ",
+    "model": "SMBV100A",
+    "quantite": 1,
+    "unites": [
+      {
+        "numserie": "259012",
+        "position": "C-3",
+        "etatcvi": "oui",
+        "dateFinCVI": "2023-10-06"
+      }
+    ],
+    "etatcvi": "non",
+    "dateFinCVI": null,
+    "createdAt": "2025-06-18T12:36:20.606Z",
+    "emplacement": "C-3"
+  },
+  {
+    "marque": "ROHDE & SCHWARZ",
+    "model": "SME03(HS)",
+    "quantite": 1,
+    "unites": [
+      {
+        "numserie": "844425/028",
+        "position": "E-2",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      }
+    ],
+    "etatcvi": "non",
+    "dateFinCVI": null,
+    "createdAt": "2025-06-18T12:36:20.606Z",
+    "emplacement": "E-2"
+  },
+  {
+    "marque": "ROHDE & SCHWARZ",
+    "model": "SMY02",
+    "quantite": 1,
+    "unites": [
+      {
+        "numserie": "825248/034",
+        "position": "E-5",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      }
+    ],
+    "etatcvi": "non",
+    "dateFinCVI": null,
+    "createdAt": "2025-06-18T12:36:20.606Z",
+    "emplacement": "E-5"
   },
   {
     "marque": "ROHDE & SCHWARZ",
@@ -4539,6 +4575,40 @@
     "dateFinCVI": null,
     "createdAt": "2025-06-18T12:36:20.607Z",
     "emplacement": "H-3"
+  },
+  {
+    "marque": "ROHDE & SCHWARZ",
+    "model": "SME03",
+    "quantite": 1,
+    "unites": [
+      {
+        "numserie": "827758/004",
+        "position": "J-2",
+        "etatcvi": "oui",
+        "dateFinCVI": "2025-01-01"
+      }
+    ],
+    "etatcvi": "non",
+    "dateFinCVI": null,
+    "createdAt": "2025-06-18T12:36:20.607Z",
+    "emplacement": "J-2"
+  },
+  {
+    "marque": "ROHDE & SCHWARZ",
+    "model": "NAS-Z7",
+    "quantite": 1,
+    "unites": [
+      {
+        "numserie": "827511/0001",
+        "position": "K-3",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      }
+    ],
+    "etatcvi": "non",
+    "dateFinCVI": null,
+    "createdAt": "2025-06-18T12:36:20.607Z",
+    "emplacement": "K-3"
   },
   {
     "marque": "ROHDE & SCHWARZ",
@@ -4604,74 +4674,6 @@
     "emplacement": "M-4"
   },
   {
-    "marque": "ROHDE & SCHWARZ",
-    "model": "SMBV100A",
-    "quantite": 1,
-    "unites": [
-      {
-        "numserie": "259012",
-        "position": "C-3",
-        "etatcvi": "oui",
-        "dateFinCVI": "2023-10-06"
-      }
-    ],
-    "etatcvi": "non",
-    "dateFinCVI": null,
-    "createdAt": "2025-06-18T12:36:20.606Z",
-    "emplacement": "C-3"
-  },
-  {
-    "marque": "ROHDE & SCHWARZ",
-    "model": "SME03",
-    "quantite": 1,
-    "unites": [
-      {
-        "numserie": "827758/004",
-        "position": "J-2",
-        "etatcvi": "oui",
-        "dateFinCVI": "2025-01-01"
-      }
-    ],
-    "etatcvi": "non",
-    "dateFinCVI": null,
-    "createdAt": "2025-06-18T12:36:20.607Z",
-    "emplacement": "J-2"
-  },
-  {
-    "marque": "ROHDE & SCHWARZ",
-    "model": "SME03(HS)",
-    "quantite": 1,
-    "unites": [
-      {
-        "numserie": "844425/028",
-        "position": "E-2",
-        "etatcvi": "non",
-        "dateFinCVI": null
-      }
-    ],
-    "etatcvi": "non",
-    "dateFinCVI": null,
-    "createdAt": "2025-06-18T12:36:20.606Z",
-    "emplacement": "E-2"
-  },
-  {
-    "marque": "ROHDE & SCHWARZ",
-    "model": "SMY02",
-    "quantite": 1,
-    "unites": [
-      {
-        "numserie": "825248/034",
-        "position": "E-5",
-        "etatcvi": "non",
-        "dateFinCVI": null
-      }
-    ],
-    "etatcvi": "non",
-    "dateFinCVI": null,
-    "createdAt": "2025-06-18T12:36:20.606Z",
-    "emplacement": "E-5"
-  },
-  {
     "marque": "ROSENBERGER",
     "model": "06CK100-150",
     "quantite": 1,
@@ -4707,23 +4709,6 @@
   },
   {
     "marque": "RS",
-    "model": "1384",
-    "quantite": 1,
-    "unites": [
-      {
-        "numserie": "140900177",
-        "position": "K-2",
-        "etatcvi": "non",
-        "dateFinCVI": null
-      }
-    ],
-    "etatcvi": "non",
-    "dateFinCVI": null,
-    "createdAt": "2025-06-18T12:36:20.607Z",
-    "emplacement": "K-2"
-  },
-  {
-    "marque": "RS",
     "model": "RPE-3323",
     "quantite": 1,
     "unites": [
@@ -4738,6 +4723,23 @@
     "dateFinCVI": null,
     "createdAt": "2025-06-18T12:36:20.607Z",
     "emplacement": "G-4"
+  },
+  {
+    "marque": "RS",
+    "model": "1384",
+    "quantite": 1,
+    "unites": [
+      {
+        "numserie": "140900177",
+        "position": "K-2",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      }
+    ],
+    "etatcvi": "non",
+    "dateFinCVI": null,
+    "createdAt": "2025-06-18T12:36:20.607Z",
+    "emplacement": "K-2"
   },
   {
     "marque": "RS PRO",
@@ -4772,23 +4774,6 @@
     "dateFinCVI": null,
     "createdAt": "2025-06-18T12:36:20.607Z",
     "emplacement": "M-1"
-  },
-  {
-    "marque": "SEFELEC",
-    "model": "1050M",
-    "quantite": 1,
-    "unites": [
-      {
-        "numserie": "2456098",
-        "position": "H-4",
-        "etatcvi": "non",
-        "dateFinCVI": null
-      }
-    ],
-    "etatcvi": "non",
-    "dateFinCVI": null,
-    "createdAt": "2025-06-18T12:36:20.607Z",
-    "emplacement": "H-4"
   },
   {
     "marque": "SEFELEC",
@@ -4863,6 +4848,23 @@
     "dateFinCVI": null,
     "createdAt": "2025-06-18T12:36:20.607Z",
     "emplacement": "H-3"
+  },
+  {
+    "marque": "SEFELEC",
+    "model": "1050M",
+    "quantite": 1,
+    "unites": [
+      {
+        "numserie": "2456098",
+        "position": "H-4",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      }
+    ],
+    "etatcvi": "non",
+    "dateFinCVI": null,
+    "createdAt": "2025-06-18T12:36:20.607Z",
+    "emplacement": "H-4"
   },
   {
     "marque": "SIMPSON",
@@ -4952,23 +4954,6 @@
   },
   {
     "marque": "SRS",
-    "model": "CS580",
-    "quantite": 1,
-    "unites": [
-      {
-        "numserie": "137517",
-        "position": "F-5",
-        "etatcvi": "non",
-        "dateFinCVI": null
-      }
-    ],
-    "etatcvi": "non",
-    "dateFinCVI": null,
-    "createdAt": "2025-06-18T12:36:20.606Z",
-    "emplacement": "F-5"
-  },
-  {
-    "marque": "SRS",
     "model": "SR570",
     "quantite": 1,
     "unites": [
@@ -4983,6 +4968,23 @@
     "dateFinCVI": null,
     "createdAt": "2025-06-18T12:36:20.606Z",
     "emplacement": "C-3"
+  },
+  {
+    "marque": "SRS",
+    "model": "CS580",
+    "quantite": 1,
+    "unites": [
+      {
+        "numserie": "137517",
+        "position": "F-5",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      }
+    ],
+    "etatcvi": "non",
+    "dateFinCVI": null,
+    "createdAt": "2025-06-18T12:36:20.606Z",
+    "emplacement": "F-5"
   },
   {
     "marque": "TDI",
@@ -5117,69 +5119,24 @@
   },
   {
     "marque": "TEKTRONIX",
-    "model": "2225",
-    "quantite": 2,
+    "model": "MDO4034C",
+    "quantite": 3,
     "unites": [
       {
-        "numserie": "H708609",
-        "position": "L-1",
+        "numserie": "C001765",
+        "position": "A-1",
         "etatcvi": "non",
         "dateFinCVI": null
       },
       {
-        "numserie": "j311246",
-        "position": "L-1",
+        "numserie": "C001489",
+        "position": "A-1",
         "etatcvi": "non",
         "dateFinCVI": null
-      }
-    ],
-    "etatcvi": "non",
-    "dateFinCVI": null,
-    "createdAt": "2025-06-18T12:36:20.607Z",
-    "emplacement": "L-1"
-  },
-  {
-    "marque": "TEKTRONIX",
-    "model": "AM503",
-    "quantite": 1,
-    "unites": [
+      },
       {
-        "numserie": "204397",
-        "position": "K-4",
-        "etatcvi": "non",
-        "dateFinCVI": null
-      }
-    ],
-    "etatcvi": "non",
-    "dateFinCVI": null,
-    "createdAt": "2025-06-18T12:36:20.607Z",
-    "emplacement": "K-4"
-  },
-  {
-    "marque": "TEKTRONIX",
-    "model": "AM503B",
-    "quantite": 1,
-    "unites": [
-      {
-        "numserie": "703050",
-        "position": "K-4",
-        "etatcvi": "non",
-        "dateFinCVI": null
-      }
-    ],
-    "etatcvi": "non",
-    "dateFinCVI": null,
-    "createdAt": "2025-06-18T12:36:20.607Z",
-    "emplacement": "K-4"
-  },
-  {
-    "marque": "TEKTRONIX",
-    "model": "AWG7",
-    "quantite": 1,
-    "unites": [
-      {
-        "numserie": "54254",
-        "position": "B-3",
+        "numserie": "C001782",
+        "position": "A-1",
         "etatcvi": "non",
         "dateFinCVI": null
       }
@@ -5187,16 +5144,33 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-18T12:36:20.606Z",
-    "emplacement": "B-3"
+    "emplacement": "A-1"
   },
   {
     "marque": "TEKTRONIX",
-    "model": "AWG70000",
+    "model": "P5205",
     "quantite": 1,
     "unites": [
       {
-        "numserie": "B010294",
-        "position": "B-2",
+        "numserie": "B026752",
+        "position": "A-1",
+        "etatcvi": "oui",
+        "dateFinCVI": "2025-07-01"
+      }
+    ],
+    "etatcvi": "non",
+    "dateFinCVI": null,
+    "createdAt": "2025-06-18T12:36:20.606Z",
+    "emplacement": "A-1"
+  },
+  {
+    "marque": "TEKTRONIX",
+    "model": "P7240",
+    "quantite": 1,
+    "unites": [
+      {
+        "numserie": "B020030",
+        "position": "A-1",
         "etatcvi": "non",
         "dateFinCVI": null
       }
@@ -5204,24 +5178,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-18T12:36:20.606Z",
-    "emplacement": "B-2"
-  },
-  {
-    "marque": "TEKTRONIX",
-    "model": "DG2020A",
-    "quantite": 1,
-    "unites": [
-      {
-        "numserie": "J311246",
-        "position": "L-1",
-        "etatcvi": "non",
-        "dateFinCVI": null
-      }
-    ],
-    "etatcvi": "non",
-    "dateFinCVI": null,
-    "createdAt": "2025-06-18T12:36:20.607Z",
-    "emplacement": "L-1"
+    "emplacement": "A-1"
   },
   {
     "marque": "TEKTRONIX",
@@ -5236,6 +5193,86 @@
       },
       {
         "numserie": "C010254",
+        "position": "A-2",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      }
+    ],
+    "etatcvi": "non",
+    "dateFinCVI": null,
+    "createdAt": "2025-06-18T12:36:20.606Z",
+    "emplacement": "A-2"
+  },
+  {
+    "marque": "TEKTRONIX",
+    "model": "DPO4054B",
+    "quantite": 1,
+    "unites": [
+      {
+        "numserie": "C020036",
+        "position": "A-2",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      }
+    ],
+    "etatcvi": "non",
+    "dateFinCVI": null,
+    "createdAt": "2025-06-18T12:36:20.606Z",
+    "emplacement": "A-2"
+  },
+  {
+    "marque": "TEKTRONIX",
+    "model": "MS04054B",
+    "quantite": 1,
+    "unites": [
+      {
+        "numserie": "C010228",
+        "position": "A-2",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      }
+    ],
+    "etatcvi": "non",
+    "dateFinCVI": null,
+    "createdAt": "2025-06-18T12:36:20.606Z",
+    "emplacement": "A-2"
+  },
+  {
+    "marque": "TEKTRONIX",
+    "model": "TDS2014",
+    "quantite": 1,
+    "unites": [
+      {
+        "numserie": "C010105",
+        "position": "A-2",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      }
+    ],
+    "etatcvi": "non",
+    "dateFinCVI": null,
+    "createdAt": "2025-06-18T12:36:20.606Z",
+    "emplacement": "A-2"
+  },
+  {
+    "marque": "TEKTRONIX",
+    "model": "TPS2024A",
+    "quantite": 3,
+    "unites": [
+      {
+        "numserie": "C016008",
+        "position": "A-2",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      },
+      {
+        "numserie": "C015902",
+        "position": "A-2",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      },
+      {
+        "numserie": "C015896",
         "position": "A-2",
         "etatcvi": "non",
         "dateFinCVI": null
@@ -5282,40 +5319,6 @@
   },
   {
     "marque": "TEKTRONIX",
-    "model": "DPO4054B",
-    "quantite": 1,
-    "unites": [
-      {
-        "numserie": "C020036",
-        "position": "A-2",
-        "etatcvi": "non",
-        "dateFinCVI": null
-      }
-    ],
-    "etatcvi": "non",
-    "dateFinCVI": null,
-    "createdAt": "2025-06-18T12:36:20.606Z",
-    "emplacement": "A-2"
-  },
-  {
-    "marque": "TEKTRONIX",
-    "model": "KIT P6780 ACCESSOIRES",
-    "quantite": 1,
-    "unites": [
-      {
-        "numserie": "",
-        "position": "A-5",
-        "etatcvi": "non",
-        "dateFinCVI": null
-      }
-    ],
-    "etatcvi": "non",
-    "dateFinCVI": null,
-    "createdAt": "2025-06-18T12:36:20.606Z",
-    "emplacement": "A-5"
-  },
-  {
-    "marque": "TEKTRONIX",
     "model": "MDO3012",
     "quantite": 1,
     "unites": [
@@ -5330,86 +5333,6 @@
     "dateFinCVI": null,
     "createdAt": "2025-06-18T12:36:20.606Z",
     "emplacement": "A-3"
-  },
-  {
-    "marque": "TEKTRONIX",
-    "model": "MDO34",
-    "quantite": 1,
-    "unites": [
-      {
-        "numserie": "C041016",
-        "position": "B-3",
-        "etatcvi": "non",
-        "dateFinCVI": null
-      }
-    ],
-    "etatcvi": "non",
-    "dateFinCVI": null,
-    "createdAt": "2025-06-18T12:36:20.606Z",
-    "emplacement": "B-3"
-  },
-  {
-    "marque": "TEKTRONIX",
-    "model": "MDO3AFG(OPTION)",
-    "quantite": 1,
-    "unites": [
-      {
-        "numserie": "",
-        "position": "B-3",
-        "etatcvi": "non",
-        "dateFinCVI": null
-      }
-    ],
-    "etatcvi": "non",
-    "dateFinCVI": null,
-    "createdAt": "2025-06-18T12:36:20.606Z",
-    "emplacement": "B-3"
-  },
-  {
-    "marque": "TEKTRONIX",
-    "model": "MDO4034C",
-    "quantite": 3,
-    "unites": [
-      {
-        "numserie": "C001765",
-        "position": "A-1",
-        "etatcvi": "non",
-        "dateFinCVI": null
-      },
-      {
-        "numserie": "C001489",
-        "position": "A-1",
-        "etatcvi": "non",
-        "dateFinCVI": null
-      },
-      {
-        "numserie": "C001782",
-        "position": "A-1",
-        "etatcvi": "non",
-        "dateFinCVI": null
-      }
-    ],
-    "etatcvi": "non",
-    "dateFinCVI": null,
-    "createdAt": "2025-06-18T12:36:20.606Z",
-    "emplacement": "A-1"
-  },
-  {
-    "marque": "TEKTRONIX",
-    "model": "MS04054B",
-    "quantite": 1,
-    "unites": [
-      {
-        "numserie": "C010228",
-        "position": "A-2",
-        "etatcvi": "non",
-        "dateFinCVI": null
-      }
-    ],
-    "etatcvi": "non",
-    "dateFinCVI": null,
-    "createdAt": "2025-06-18T12:36:20.606Z",
-    "emplacement": "A-2"
   },
   {
     "marque": "TEKTRONIX",
@@ -5430,6 +5353,162 @@
   },
   {
     "marque": "TEKTRONIX",
+    "model": "TDS1002B",
+    "quantite": 1,
+    "unites": [
+      {
+        "numserie": "C051810",
+        "etatcvi": "non",
+        "position": "A-3",
+        "dateFinCVI": null
+      }
+    ],
+    "etatcvi": "non",
+    "dateFinCVI": null,
+    "createdAt": "2025-06-18T12:36:20.606Z",
+    "emplacement": "A-3",
+    "description": "'tzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz"
+  },
+  {
+    "marque": "TEKTRONIX",
+    "model": "TDS2002C",
+    "quantite": 1,
+    "unites": [
+      {
+        "numserie": "C040619",
+        "position": "A-3",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      }
+    ],
+    "etatcvi": "non",
+    "dateFinCVI": null,
+    "createdAt": "2025-06-18T12:36:20.606Z",
+    "emplacement": "A-3"
+  },
+  {
+    "marque": "TEKTRONIX",
+    "model": "TDS3012B",
+    "quantite": 1,
+    "unites": [
+      {
+        "numserie": "B014364",
+        "position": "A-3",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      }
+    ],
+    "etatcvi": "non",
+    "dateFinCVI": null,
+    "createdAt": "2025-06-18T12:36:20.606Z",
+    "emplacement": "A-3"
+  },
+  {
+    "marque": "TEKTRONIX",
+    "model": "TDS3052C",
+    "quantite": 1,
+    "unites": [
+      {
+        "numserie": "C012110",
+        "position": "A-3",
+        "etatcvi": "oui",
+        "dateFinCVI": "2026-03-01"
+      }
+    ],
+    "etatcvi": "non",
+    "dateFinCVI": null,
+    "createdAt": "2025-06-18T12:36:20.606Z",
+    "emplacement": "A-3"
+  },
+  {
+    "marque": "TEKTRONIX",
+    "model": "TPS2014",
+    "quantite": 1,
+    "unites": [
+      {
+        "numserie": "C010128",
+        "position": "A-3",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      }
+    ],
+    "etatcvi": "non",
+    "dateFinCVI": null,
+    "createdAt": "2025-06-18T12:36:20.606Z",
+    "emplacement": "A-3"
+  },
+  {
+    "marque": "TEKTRONIX",
+    "model": "TPS3012",
+    "quantite": 2,
+    "unites": [
+      {
+        "numserie": "B019546",
+        "position": "A-3",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      },
+      {
+        "numserie": "B014364",
+        "position": "A-3",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      }
+    ],
+    "etatcvi": "non",
+    "dateFinCVI": null,
+    "createdAt": "2025-06-18T12:36:20.606Z",
+    "emplacement": "A-3"
+  },
+  {
+    "marque": "TEKTRONIX",
+    "model": "TDS3GV",
+    "quantite": 3,
+    "unites": [
+      {
+        "numserie": "042Y5G",
+        "position": "A-4",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      },
+      {
+        "numserie": "042SGR",
+        "position": "A-4",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      },
+      {
+        "numserie": "045LK1",
+        "position": "A-4",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      }
+    ],
+    "etatcvi": "non",
+    "dateFinCVI": null,
+    "createdAt": "2025-06-18T12:36:20.606Z",
+    "emplacement": "A-4",
+    "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EhAJD-wL2V1DjgmD0H4UZzUB8sJtYA7QGqftNklBiYCwqQ?e=zhiOcD"
+  },
+  {
+    "marque": "TEKTRONIX",
+    "model": "KIT P6780 ACCESSOIRES",
+    "quantite": 1,
+    "unites": [
+      {
+        "numserie": "",
+        "position": "A-5",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      }
+    ],
+    "etatcvi": "non",
+    "dateFinCVI": null,
+    "createdAt": "2025-06-18T12:36:20.606Z",
+    "emplacement": "A-5"
+  },
+  {
+    "marque": "TEKTRONIX",
     "model": "MSO70404C",
     "quantite": 1,
     "unites": [
@@ -5444,23 +5523,6 @@
     "dateFinCVI": null,
     "createdAt": "2025-06-18T12:36:20.606Z",
     "emplacement": "A-5"
-  },
-  {
-    "marque": "TEKTRONIX",
-    "model": "P5205",
-    "quantite": 1,
-    "unites": [
-      {
-        "numserie": "B026752",
-        "position": "A-1",
-        "etatcvi": "oui",
-        "dateFinCVI": "2025-07-01"
-      }
-    ],
-    "etatcvi": "non",
-    "dateFinCVI": null,
-    "createdAt": "2025-06-18T12:36:20.606Z",
-    "emplacement": "A-1"
   },
   {
     "marque": "TEKTRONIX",
@@ -5515,23 +5577,6 @@
   },
   {
     "marque": "TEKTRONIX",
-    "model": "P7240",
-    "quantite": 1,
-    "unites": [
-      {
-        "numserie": "B020030",
-        "position": "A-1",
-        "etatcvi": "non",
-        "dateFinCVI": null
-      }
-    ],
-    "etatcvi": "non",
-    "dateFinCVI": null,
-    "createdAt": "2025-06-18T12:36:20.606Z",
-    "emplacement": "A-1"
-  },
-  {
-    "marque": "TEKTRONIX",
     "model": "P7330 ACCESSOIRES",
     "quantite": 1,
     "unites": [
@@ -5546,40 +5591,6 @@
     "dateFinCVI": null,
     "createdAt": "2025-06-18T12:36:20.606Z",
     "emplacement": "A-5"
-  },
-  {
-    "marque": "TEKTRONIX",
-    "model": "PS280",
-    "quantite": 1,
-    "unites": [
-      {
-        "numserie": "TW53796",
-        "position": "E-5",
-        "etatcvi": "non",
-        "dateFinCVI": null
-      }
-    ],
-    "etatcvi": "non",
-    "dateFinCVI": null,
-    "createdAt": "2025-06-18T12:36:20.606Z",
-    "emplacement": "E-5"
-  },
-  {
-    "marque": "TEKTRONIX",
-    "model": "SDA601",
-    "quantite": 1,
-    "unites": [
-      {
-        "numserie": "B030986",
-        "position": "H-3",
-        "etatcvi": "non",
-        "dateFinCVI": null
-      }
-    ],
-    "etatcvi": "non",
-    "dateFinCVI": null,
-    "createdAt": "2025-06-18T12:36:20.607Z",
-    "emplacement": "H-3"
   },
   {
     "marque": "TEKTRONIX",
@@ -5617,7 +5628,58 @@
   },
   {
     "marque": "TEKTRONIX",
-    "model": "TCP404XL",
+    "model": "AWG70000",
+    "quantite": 1,
+    "unites": [
+      {
+        "numserie": "B010294",
+        "position": "B-2",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      }
+    ],
+    "etatcvi": "non",
+    "dateFinCVI": null,
+    "createdAt": "2025-06-18T12:36:20.606Z",
+    "emplacement": "B-2"
+  },
+  {
+    "marque": "TEKTRONIX",
+    "model": "AWG7",
+    "quantite": 1,
+    "unites": [
+      {
+        "numserie": "54254",
+        "position": "B-3",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      }
+    ],
+    "etatcvi": "non",
+    "dateFinCVI": null,
+    "createdAt": "2025-06-18T12:36:20.606Z",
+    "emplacement": "B-3"
+  },
+  {
+    "marque": "TEKTRONIX",
+    "model": "MDO34",
+    "quantite": 1,
+    "unites": [
+      {
+        "numserie": "C041016",
+        "position": "B-3",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      }
+    ],
+    "etatcvi": "non",
+    "dateFinCVI": null,
+    "createdAt": "2025-06-18T12:36:20.606Z",
+    "emplacement": "B-3"
+  },
+  {
+    "marque": "TEKTRONIX",
+    "model": "MDO3AFG(OPTION)",
     "quantite": 1,
     "unites": [
       {
@@ -5634,30 +5696,12 @@
   },
   {
     "marque": "TEKTRONIX",
-    "model": "TDS1002B",
+    "model": "TCP404XL",
     "quantite": 1,
     "unites": [
       {
-        "numserie": "C051810",
-        "etatcvi": "non",
-        "position": "A-3",
-        "dateFinCVI": null
-      }
-    ],
-    "etatcvi": "non",
-    "dateFinCVI": null,
-    "createdAt": "2025-06-18T12:36:20.606Z",
-    "emplacement": "A-3",
-    "description": "'tzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz"
-  },
-  {
-    "marque": "TEKTRONIX",
-    "model": "TDS2002C",
-    "quantite": 1,
-    "unites": [
-      {
-        "numserie": "C040619",
-        "position": "A-3",
+        "numserie": "",
+        "position": "B-3",
         "etatcvi": "non",
         "dateFinCVI": null
       }
@@ -5665,122 +5709,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-18T12:36:20.606Z",
-    "emplacement": "A-3"
-  },
-  {
-    "marque": "TEKTRONIX",
-    "model": "TDS2014",
-    "quantite": 1,
-    "unites": [
-      {
-        "numserie": "C010105",
-        "position": "A-2",
-        "etatcvi": "non",
-        "dateFinCVI": null
-      }
-    ],
-    "etatcvi": "non",
-    "dateFinCVI": null,
-    "createdAt": "2025-06-18T12:36:20.606Z",
-    "emplacement": "A-2"
-  },
-  {
-    "marque": "TEKTRONIX",
-    "model": "TDS3012B",
-    "quantite": 1,
-    "unites": [
-      {
-        "numserie": "B014364",
-        "position": "A-3",
-        "etatcvi": "non",
-        "dateFinCVI": null
-      }
-    ],
-    "etatcvi": "non",
-    "dateFinCVI": null,
-    "createdAt": "2025-06-18T12:36:20.606Z",
-    "emplacement": "A-3"
-  },
-  {
-    "marque": "TEKTRONIX",
-    "model": "TDS3052C",
-    "quantite": 1,
-    "unites": [
-      {
-        "numserie": "C012110",
-        "position": "A-3",
-        "etatcvi": "oui",
-        "dateFinCVI": "2026-03-01"
-      }
-    ],
-    "etatcvi": "non",
-    "dateFinCVI": null,
-    "createdAt": "2025-06-18T12:36:20.606Z",
-    "emplacement": "A-3"
-  },
-  {
-    "marque": "TEKTRONIX",
-    "model": "TDS3GV",
-    "quantite": 3,
-    "unites": [
-      {
-        "numserie": "042Y5G",
-        "position": "A-4",
-        "etatcvi": "non",
-        "dateFinCVI": null
-      },
-      {
-        "numserie": "042SGR",
-        "position": "A-4",
-        "etatcvi": "non",
-        "dateFinCVI": null
-      },
-      {
-        "numserie": "045LK1",
-        "position": "A-4",
-        "etatcvi": "non",
-        "dateFinCVI": null
-      }
-    ],
-    "etatcvi": "non",
-    "dateFinCVI": null,
-    "createdAt": "2025-06-18T12:36:20.606Z",
-    "emplacement": "A-4",
-    "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EhAJD-wL2V1DjgmD0H4UZzUB8sJtYA7QGqftNklBiYCwqQ?e=zhiOcD"
-  },
-  {
-    "marque": "TEKTRONIX",
-    "model": "TDS420A",
-    "quantite": 1,
-    "unites": [
-      {
-        "numserie": "B010163",
-        "position": "M-2",
-        "etatcvi": "non",
-        "dateFinCVI": null
-      }
-    ],
-    "etatcvi": "non",
-    "dateFinCVI": null,
-    "createdAt": "2025-06-18T12:36:20.607Z",
-    "emplacement": "M-2"
-  },
-  {
-    "marque": "TEKTRONIX",
-    "model": "TDS694C",
-    "quantite": 1,
-    "unites": [
-      {
-        "numserie": "B011354",
-        "position": "M-2",
-        "etatcvi": "non",
-        "dateFinCVI": null
-      }
-    ],
-    "etatcvi": "non",
-    "dateFinCVI": null,
-    "createdAt": "2025-06-18T12:36:20.607Z",
-    "emplacement": "M-2"
+    "emplacement": "B-3"
   },
   {
     "marque": "TEKTRONIX",
@@ -5818,12 +5747,12 @@
   },
   {
     "marque": "TEKTRONIX",
-    "model": "TPS2014",
+    "model": "PS280",
     "quantite": 1,
     "unites": [
       {
-        "numserie": "C010128",
-        "position": "A-3",
+        "numserie": "TW53796",
+        "position": "E-5",
         "etatcvi": "non",
         "dateFinCVI": null
       }
@@ -5831,59 +5760,132 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-18T12:36:20.606Z",
-    "emplacement": "A-3"
+    "emplacement": "E-5"
   },
   {
     "marque": "TEKTRONIX",
-    "model": "TPS2024A",
-    "quantite": 3,
+    "model": "SDA601",
+    "quantite": 1,
     "unites": [
       {
-        "numserie": "C016008",
-        "position": "A-2",
-        "etatcvi": "non",
-        "dateFinCVI": null
-      },
-      {
-        "numserie": "C015902",
-        "position": "A-2",
-        "etatcvi": "non",
-        "dateFinCVI": null
-      },
-      {
-        "numserie": "C015896",
-        "position": "A-2",
+        "numserie": "B030986",
+        "position": "H-3",
         "etatcvi": "non",
         "dateFinCVI": null
       }
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-06-18T12:36:20.606Z",
-    "emplacement": "A-2"
+    "createdAt": "2025-06-18T12:36:20.607Z",
+    "emplacement": "H-3"
   },
   {
     "marque": "TEKTRONIX",
-    "model": "TPS3012",
+    "model": "AM503",
+    "quantite": 1,
+    "unites": [
+      {
+        "numserie": "204397",
+        "position": "K-4",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      }
+    ],
+    "etatcvi": "non",
+    "dateFinCVI": null,
+    "createdAt": "2025-06-18T12:36:20.607Z",
+    "emplacement": "K-4"
+  },
+  {
+    "marque": "TEKTRONIX",
+    "model": "AM503B",
+    "quantite": 1,
+    "unites": [
+      {
+        "numserie": "703050",
+        "position": "K-4",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      }
+    ],
+    "etatcvi": "non",
+    "dateFinCVI": null,
+    "createdAt": "2025-06-18T12:36:20.607Z",
+    "emplacement": "K-4"
+  },
+  {
+    "marque": "TEKTRONIX",
+    "model": "2225",
     "quantite": 2,
     "unites": [
       {
-        "numserie": "B019546",
-        "position": "A-3",
+        "numserie": "H708609",
+        "position": "L-1",
         "etatcvi": "non",
         "dateFinCVI": null
       },
       {
-        "numserie": "B014364",
-        "position": "A-3",
+        "numserie": "j311246",
+        "position": "L-1",
         "etatcvi": "non",
         "dateFinCVI": null
       }
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-06-18T12:36:20.606Z",
-    "emplacement": "A-3"
+    "createdAt": "2025-06-18T12:36:20.607Z",
+    "emplacement": "L-1"
+  },
+  {
+    "marque": "TEKTRONIX",
+    "model": "DG2020A",
+    "quantite": 1,
+    "unites": [
+      {
+        "numserie": "J311246",
+        "position": "L-1",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      }
+    ],
+    "etatcvi": "non",
+    "dateFinCVI": null,
+    "createdAt": "2025-06-18T12:36:20.607Z",
+    "emplacement": "L-1"
+  },
+  {
+    "marque": "TEKTRONIX",
+    "model": "TDS420A",
+    "quantite": 1,
+    "unites": [
+      {
+        "numserie": "B010163",
+        "position": "M-2",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      }
+    ],
+    "etatcvi": "non",
+    "dateFinCVI": null,
+    "createdAt": "2025-06-18T12:36:20.607Z",
+    "emplacement": "M-2"
+  },
+  {
+    "marque": "TEKTRONIX",
+    "model": "TDS694C",
+    "quantite": 1,
+    "unites": [
+      {
+        "numserie": "B011354",
+        "position": "M-2",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      }
+    ],
+    "etatcvi": "non",
+    "dateFinCVI": null,
+    "createdAt": "2025-06-18T12:36:20.607Z",
+    "emplacement": "M-2"
   },
   {
     "marque": "TEKTRONIX (ACCESSOIRES & HOUSSE DE TRANSPORT)",
@@ -5904,12 +5906,12 @@
   },
   {
     "marque": "TELEDYNE LECROY",
-    "model": "322A",
+    "model": "HFP2500",
     "quantite": 1,
     "unites": [
       {
-        "numserie": "LCRY0102J27931",
-        "position": "B-4",
+        "numserie": "0541",
+        "position": "A-1",
         "etatcvi": "non",
         "dateFinCVI": null
       }
@@ -5917,7 +5919,53 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-18T12:36:20.606Z",
-    "emplacement": "B-4"
+    "emplacement": "A-1"
+  },
+  {
+    "marque": "TELEDYNE LECROY",
+    "model": "RP4030",
+    "quantite": 1,
+    "unites": [
+      {
+        "numserie": "1017",
+        "position": "A-1",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      }
+    ],
+    "etatcvi": "non",
+    "dateFinCVI": null,
+    "createdAt": "2025-06-18T12:36:20.606Z",
+    "emplacement": "A-1"
+  },
+  {
+    "marque": "TELEDYNE LECROY",
+    "model": "WAVESURFER10",
+    "quantite": 3,
+    "unites": [
+      {
+        "numserie": "LCRY0354N1059S",
+        "position": "A-4",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      },
+      {
+        "numserie": "LCRY0352N10179",
+        "position": "A-4",
+        "etatcvi": "oui",
+        "dateFinCVI": "2024-04-04"
+      },
+      {
+        "numserie": "LCRY0350N10080",
+        "position": "C-4",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      }
+    ],
+    "etatcvi": "non",
+    "dateFinCVI": null,
+    "createdAt": "2025-06-18T12:36:20.606Z",
+    "emplacement": "A-4+C-4"
   },
   {
     "marque": "TELEDYNE LECROY",
@@ -5972,40 +6020,6 @@
   },
   {
     "marque": "TELEDYNE LECROY",
-    "model": "ACCESSOIRES POUR HDO9404-MS",
-    "quantite": 1,
-    "unites": [
-      {
-        "numserie": "LCRY4403N30170",
-        "position": "C-6",
-        "etatcvi": "non",
-        "dateFinCVI": null
-      }
-    ],
-    "etatcvi": "non",
-    "dateFinCVI": null,
-    "createdAt": "2025-06-18T12:36:20.606Z",
-    "emplacement": "C-6"
-  },
-  {
-    "marque": "TELEDYNE LECROY",
-    "model": "HDO61048MS",
-    "quantite": 1,
-    "unites": [
-      {
-        "numserie": "LCRY5102N10984",
-        "position": "B-4",
-        "etatcvi": "non",
-        "dateFinCVI": null
-      }
-    ],
-    "etatcvi": "non",
-    "dateFinCVI": null,
-    "createdAt": "2025-06-18T12:36:20.606Z",
-    "emplacement": "B-4"
-  },
-  {
-    "marque": "TELEDYNE LECROY",
     "model": "HDO6104AMS",
     "quantite": 1,
     "unites": [
@@ -6023,23 +6037,6 @@
   },
   {
     "marque": "TELEDYNE LECROY",
-    "model": "HDO8058",
-    "quantite": 1,
-    "unites": [
-      {
-        "numserie": "LCRY3804N01896",
-        "position": "B-1",
-        "etatcvi": "oui",
-        "dateFinCVI": "2025-01-31"
-      }
-    ],
-    "etatcvi": "non",
-    "dateFinCVI": null,
-    "createdAt": "2025-06-18T12:36:20.606Z",
-    "emplacement": "B-1"
-  },
-  {
-    "marque": "TELEDYNE LECROY",
     "model": "HDO8108",
     "quantite": 1,
     "unites": [
@@ -6054,91 +6051,6 @@
     "dateFinCVI": null,
     "createdAt": "2025-06-18T12:36:20.606Z",
     "emplacement": "A-5"
-  },
-  {
-    "marque": "TELEDYNE LECROY",
-    "model": "HDO9104",
-    "quantite": 1,
-    "unites": [
-      {
-        "numserie": "LCRY4404N30428",
-        "position": "C-6",
-        "etatcvi": "non",
-        "dateFinCVI": null
-      }
-    ],
-    "etatcvi": "non",
-    "dateFinCVI": null,
-    "createdAt": "2025-06-18T12:36:20.606Z",
-    "emplacement": "C-6"
-  },
-  {
-    "marque": "TELEDYNE LECROY",
-    "model": "HDO9404-MS",
-    "quantite": 1,
-    "unites": [
-      {
-        "numserie": "LCRY4403N30170*",
-        "position": "C-6",
-        "etatcvi": "oui",
-        "dateFinCVI": "2025-03-20"
-      }
-    ],
-    "etatcvi": "non",
-    "dateFinCVI": null,
-    "createdAt": "2025-06-18T12:36:20.606Z",
-    "emplacement": "C-6"
-  },
-  {
-    "marque": "TELEDYNE LECROY",
-    "model": "HFP2500",
-    "quantite": 1,
-    "unites": [
-      {
-        "numserie": "0541",
-        "position": "A-1",
-        "etatcvi": "non",
-        "dateFinCVI": null
-      }
-    ],
-    "etatcvi": "non",
-    "dateFinCVI": null,
-    "createdAt": "2025-06-18T12:36:20.606Z",
-    "emplacement": "A-1"
-  },
-  {
-    "marque": "TELEDYNE LECROY",
-    "model": "LC334A",
-    "quantite": 1,
-    "unites": [
-      {
-        "numserie": "1004",
-        "position": "C-3",
-        "etatcvi": "non",
-        "dateFinCVI": null
-      }
-    ],
-    "etatcvi": "non",
-    "dateFinCVI": null,
-    "createdAt": "2025-06-18T12:36:20.606Z",
-    "emplacement": "C-3"
-  },
-  {
-    "marque": "TELEDYNE LECROY",
-    "model": "LPA BNC + HDD",
-    "quantite": 1,
-    "unites": [
-      {
-        "numserie": "",
-        "position": "D-5",
-        "etatcvi": "non",
-        "dateFinCVI": null
-      }
-    ],
-    "etatcvi": "non",
-    "dateFinCVI": null,
-    "createdAt": "2025-06-18T12:36:20.606Z",
-    "emplacement": "D-5"
   },
   {
     "marque": "TELEDYNE LECROY",
@@ -6162,6 +6074,125 @@
     "dateFinCVI": null,
     "createdAt": "2025-06-18T12:36:20.606Z",
     "emplacement": "A-5"
+  },
+  {
+    "marque": "TELEDYNE LECROY",
+    "model": "MSODLS001",
+    "quantite": 1,
+    "emplacement": "A-5",
+    "description": "",
+    "unites": [
+      {
+        "numserie": "20777873-0027",
+        "position": "A-5",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      }
+    ],
+    "createdAt": "2025-06-18T14:22:20.524Z"
+  },
+  {
+    "marque": "TELEDYNE LECROY",
+    "model": "WAVEPRO 715ZI",
+    "quantite": 1,
+    "unites": [
+      {
+        "numserie": "LCRY0716N47792",
+        "position": "A-5",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      }
+    ],
+    "etatcvi": "non",
+    "dateFinCVI": null,
+    "createdAt": "2025-06-18T12:36:20.606Z",
+    "emplacement": "A-5"
+  },
+  {
+    "marque": "TELEDYNE LECROY",
+    "model": "WL PLINK-4013",
+    "quantite": 1,
+    "unites": [
+      {
+        "numserie": "4013",
+        "position": "A-5",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      }
+    ],
+    "etatcvi": "non",
+    "dateFinCVI": null,
+    "createdAt": "2025-06-18T12:36:20.606Z",
+    "emplacement": "A-5"
+  },
+  {
+    "marque": "TELEDYNE LECROY",
+    "model": "WL600",
+    "quantite": 1,
+    "unites": [
+      {
+        "numserie": "2329",
+        "position": "A-5",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      }
+    ],
+    "etatcvi": "non",
+    "dateFinCVI": null,
+    "createdAt": "2025-06-18T12:36:20.606Z",
+    "emplacement": "A-5"
+  },
+  {
+    "marque": "TELEDYNE LECROY",
+    "model": "LT372",
+    "quantite": 1,
+    "unites": [
+      {
+        "numserie": "00114",
+        "position": "ARRIVAGE",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      }
+    ],
+    "etatcvi": "non",
+    "dateFinCVI": null,
+    "createdAt": "2025-06-18T12:36:20.606Z",
+    "emplacement": "ARRIVAGE",
+    "description": ""
+  },
+  {
+    "marque": "TELEDYNE LECROY",
+    "model": "HDO8058",
+    "quantite": 1,
+    "unites": [
+      {
+        "numserie": "LCRY3804N01896",
+        "position": "B-1",
+        "etatcvi": "oui",
+        "dateFinCVI": "2025-01-31"
+      }
+    ],
+    "etatcvi": "non",
+    "dateFinCVI": null,
+    "createdAt": "2025-06-18T12:36:20.606Z",
+    "emplacement": "B-1"
+  },
+  {
+    "marque": "TELEDYNE LECROY",
+    "model": "WAVESURFER3024",
+    "quantite": 1,
+    "unites": [
+      {
+        "numserie": "LCRY3703N15988",
+        "position": "B-1",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      }
+    ],
+    "etatcvi": "non",
+    "dateFinCVI": null,
+    "createdAt": "2025-06-18T12:36:20.606Z",
+    "emplacement": "B-1"
   },
   {
     "marque": "TELEDYNE LECROY",
@@ -6200,12 +6231,12 @@
   },
   {
     "marque": "TELEDYNE LECROY",
-    "model": "LT372",
+    "model": "WAVERUNNER6030A",
     "quantite": 1,
     "unites": [
       {
-        "numserie": "00114",
-        "position": "ARRIVAGE",
+        "numserie": "LCRY0604P17525",
+        "position": "B-3",
         "etatcvi": "non",
         "dateFinCVI": null
       }
@@ -6213,33 +6244,17 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-18T12:36:20.606Z",
-    "emplacement": "ARRIVAGE",
-    "description": ""
+    "emplacement": "B-3",
+    "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EvktH0UgXzlLk4Kt9ORnwbwB_J09UyacyX6zcBtBMBvoPQ?e=Db7HuS"
   },
   {
     "marque": "TELEDYNE LECROY",
-    "model": "MSODLS001",
-    "quantite": 1,
-    "emplacement": "A-5",
-    "description": "",
-    "unites": [
-      {
-        "numserie": "20777873-0027",
-        "position": "A-5",
-        "etatcvi": "non",
-        "dateFinCVI": null
-      }
-    ],
-    "createdAt": "2025-06-18T14:22:20.524Z"
-  },
-  {
-    "marque": "TELEDYNE LECROY",
-    "model": "OPTION WS4000HD",
+    "model": "322A",
     "quantite": 1,
     "unites": [
       {
-        "numserie": "",
-        "position": "C-3",
+        "numserie": "LCRY0102J27931",
+        "position": "B-4",
         "etatcvi": "non",
         "dateFinCVI": null
       }
@@ -6247,16 +6262,16 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-18T12:36:20.606Z",
-    "emplacement": "C-3"
+    "emplacement": "B-4"
   },
   {
     "marque": "TELEDYNE LECROY",
-    "model": "RP4030",
+    "model": "HDO61048MS",
     "quantite": 1,
     "unites": [
       {
-        "numserie": "1017",
-        "position": "A-1",
+        "numserie": "LCRY5102N10984",
+        "position": "B-4",
         "etatcvi": "non",
         "dateFinCVI": null
       }
@@ -6264,41 +6279,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-18T12:36:20.606Z",
-    "emplacement": "A-1"
-  },
-  {
-    "marque": "TELEDYNE LECROY",
-    "model": "T3EL5001SP",
-    "quantite": 1,
-    "unites": [
-      {
-        "numserie": "T0407T19370022",
-        "position": "J-2",
-        "etatcvi": "oui",
-        "dateFinCVI": "2025-05-01"
-      }
-    ],
-    "etatcvi": "non",
-    "dateFinCVI": null,
-    "createdAt": "2025-06-18T12:36:20.607Z",
-    "emplacement": "J-2"
-  },
-  {
-    "marque": "TELEDYNE LECROY",
-    "model": "USB2-GPIB",
-    "quantite": 1,
-    "unites": [
-      {
-        "numserie": "ACCESSOIRES",
-        "position": "M-3",
-        "etatcvi": "non",
-        "dateFinCVI": null
-      }
-    ],
-    "etatcvi": "non",
-    "dateFinCVI": null,
-    "createdAt": "2025-06-18T12:36:20.607Z",
-    "emplacement": "M-3"
+    "emplacement": "B-4"
   },
   {
     "marque": "TELEDYNE LECROY",
@@ -6336,12 +6317,12 @@
   },
   {
     "marque": "TELEDYNE LECROY",
-    "model": "WAVEPRO 715ZI",
+    "model": "LC334A",
     "quantite": 1,
     "unites": [
       {
-        "numserie": "LCRY0716N47792",
-        "position": "A-5",
+        "numserie": "1004",
+        "position": "C-3",
         "etatcvi": "non",
         "dateFinCVI": null
       }
@@ -6349,16 +6330,16 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-18T12:36:20.606Z",
-    "emplacement": "A-5"
+    "emplacement": "C-3"
   },
   {
     "marque": "TELEDYNE LECROY",
-    "model": "WAVERUNNER6030A",
+    "model": "OPTION WS4000HD",
     "quantite": 1,
     "unites": [
       {
-        "numserie": "LCRY0604P17525",
-        "position": "B-3",
+        "numserie": "",
+        "position": "C-3",
         "etatcvi": "non",
         "dateFinCVI": null
       }
@@ -6366,46 +6347,67 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-18T12:36:20.606Z",
-    "emplacement": "B-3",
-    "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EvktH0UgXzlLk4Kt9ORnwbwB_J09UyacyX6zcBtBMBvoPQ?e=Db7HuS"
+    "emplacement": "C-3"
   },
   {
     "marque": "TELEDYNE LECROY",
-    "model": "WAVESURFER10",
-    "quantite": 3,
+    "model": "ACCESSOIRES POUR HDO9404-MS",
+    "quantite": 1,
     "unites": [
       {
-        "numserie": "LCRY0354N1059S",
-        "position": "A-4",
+        "numserie": "LCRY4403N30170",
+        "position": "C-6",
         "etatcvi": "non",
         "dateFinCVI": null
-      },
+      }
+    ],
+    "etatcvi": "non",
+    "dateFinCVI": null,
+    "createdAt": "2025-06-18T12:36:20.606Z",
+    "emplacement": "C-6"
+  },
+  {
+    "marque": "TELEDYNE LECROY",
+    "model": "HDO9104",
+    "quantite": 1,
+    "unites": [
       {
-        "numserie": "LCRY0352N10179",
-        "position": "A-4",
+        "numserie": "LCRY4404N30428",
+        "position": "C-6",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      }
+    ],
+    "etatcvi": "non",
+    "dateFinCVI": null,
+    "createdAt": "2025-06-18T12:36:20.606Z",
+    "emplacement": "C-6"
+  },
+  {
+    "marque": "TELEDYNE LECROY",
+    "model": "HDO9404-MS",
+    "quantite": 1,
+    "unites": [
+      {
+        "numserie": "LCRY4403N30170*",
+        "position": "C-6",
         "etatcvi": "oui",
-        "dateFinCVI": "2024-04-04"
-      },
-      {
-        "numserie": "LCRY0350N10080",
-        "position": "C-4",
-        "etatcvi": "non",
-        "dateFinCVI": null
+        "dateFinCVI": "2025-03-20"
       }
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-18T12:36:20.606Z",
-    "emplacement": "A-4+C-4"
+    "emplacement": "C-6"
   },
   {
     "marque": "TELEDYNE LECROY",
-    "model": "WAVESURFER3024",
+    "model": "LPA BNC + HDD",
     "quantite": 1,
     "unites": [
       {
-        "numserie": "LCRY3703N15988",
-        "position": "B-1",
+        "numserie": "",
+        "position": "D-5",
         "etatcvi": "non",
         "dateFinCVI": null
       }
@@ -6413,41 +6415,24 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-18T12:36:20.606Z",
-    "emplacement": "B-1"
+    "emplacement": "D-5"
   },
   {
     "marque": "TELEDYNE LECROY",
-    "model": "WL PLINK-4013",
+    "model": "T3EL5001SP",
     "quantite": 1,
     "unites": [
       {
-        "numserie": "4013",
-        "position": "A-5",
-        "etatcvi": "non",
-        "dateFinCVI": null
+        "numserie": "T0407T19370022",
+        "position": "J-2",
+        "etatcvi": "oui",
+        "dateFinCVI": "2025-05-01"
       }
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-06-18T12:36:20.606Z",
-    "emplacement": "A-5"
-  },
-  {
-    "marque": "TELEDYNE LECROY",
-    "model": "WL600",
-    "quantite": 1,
-    "unites": [
-      {
-        "numserie": "2329",
-        "position": "A-5",
-        "etatcvi": "non",
-        "dateFinCVI": null
-      }
-    ],
-    "etatcvi": "non",
-    "dateFinCVI": null,
-    "createdAt": "2025-06-18T12:36:20.606Z",
-    "emplacement": "A-5"
+    "createdAt": "2025-06-18T12:36:20.607Z",
+    "emplacement": "J-2"
   },
   {
     "marque": "TELEDYNE LECROY",
@@ -6465,6 +6450,23 @@
     "dateFinCVI": null,
     "createdAt": "2025-06-18T12:36:20.607Z",
     "emplacement": "K-4"
+  },
+  {
+    "marque": "TELEDYNE LECROY",
+    "model": "USB2-GPIB",
+    "quantite": 1,
+    "unites": [
+      {
+        "numserie": "ACCESSOIRES",
+        "position": "M-3",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      }
+    ],
+    "etatcvi": "non",
+    "dateFinCVI": null,
+    "createdAt": "2025-06-18T12:36:20.607Z",
+    "emplacement": "M-3"
   },
   {
     "marque": "TESTEK",
@@ -6639,23 +6641,6 @@
   },
   {
     "marque": "WAYNE KERR",
-    "model": "3260B",
-    "quantite": 1,
-    "unites": [
-      {
-        "numserie": "ACCESSOIRES",
-        "position": "H-3",
-        "etatcvi": "non",
-        "dateFinCVI": null
-      }
-    ],
-    "etatcvi": "non",
-    "dateFinCVI": null,
-    "createdAt": "2025-06-18T12:36:20.607Z",
-    "emplacement": "H-3"
-  },
-  {
-    "marque": "WAYNE KERR",
     "model": "6500B",
     "quantite": 1,
     "unites": [
@@ -6670,6 +6655,23 @@
     "dateFinCVI": null,
     "createdAt": "2025-06-18T12:36:20.607Z",
     "emplacement": "H-1"
+  },
+  {
+    "marque": "WAYNE KERR",
+    "model": "3260B",
+    "quantite": 1,
+    "unites": [
+      {
+        "numserie": "ACCESSOIRES",
+        "position": "H-3",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      }
+    ],
+    "etatcvi": "non",
+    "dateFinCVI": null,
+    "createdAt": "2025-06-18T12:36:20.607Z",
+    "emplacement": "H-3"
   },
   {
     "marque": "WILLTEK",
@@ -6736,6 +6738,24 @@
   },
   {
     "marque": "YOKOGAWA",
+    "model": "DL8502",
+    "quantite": 1,
+    "unites": [
+      {
+        "numserie": "91L719916",
+        "position": "A-4",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      }
+    ],
+    "etatcvi": "non",
+    "dateFinCVI": null,
+    "createdAt": "2025-06-18T12:36:20.606Z",
+    "emplacement": "A-4",
+    "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EmSHZ8Ccg0lHumMyuDemmnsBRY4EJiZ5AlNDP6gaj1wW5A?e=3nsJDV"
+  },
+  {
+    "marque": "YOKOGAWA",
     "model": "755201",
     "quantite": 2,
     "unites": [
@@ -6756,24 +6776,6 @@
     "dateFinCVI": null,
     "createdAt": "2025-06-18T12:36:20.606Z",
     "emplacement": "F-5"
-  },
-  {
-    "marque": "YOKOGAWA",
-    "model": "DL8502",
-    "quantite": 1,
-    "unites": [
-      {
-        "numserie": "91L719916",
-        "position": "A-4",
-        "etatcvi": "non",
-        "dateFinCVI": null
-      }
-    ],
-    "etatcvi": "non",
-    "dateFinCVI": null,
-    "createdAt": "2025-06-18T12:36:20.606Z",
-    "emplacement": "A-4",
-    "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EmSHZ8Ccg0lHumMyuDemmnsBRY4EJiZ5AlNDP6gaj1wW5A?e=3nsJDV"
   },
   {
     "marque": "YOKOGAWA",
