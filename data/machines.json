@@ -1002,7 +1002,8 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-18T12:36:20.607Z",
-    "emplacement": "ARRIVAGE"
+    "emplacement": "ARRIVAGE",
+    "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/ElAMdXX0WShItC2dzTcPANIBk5dlrQLoF0GGztq34h3Bag?e=EZ59iX"
   },
   {
     "marque": "TELEDYNE LECROY",
@@ -1648,7 +1649,8 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-18T12:36:20.606Z",
-    "emplacement": "C-3"
+    "emplacement": "C-3",
+    "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/Eo-gpPjvO51Or8GiazPk1agBeb6d541oBok-rVPfxEzqgg?e=YA5coW"
   },
   {
     "marque": "ROSENBERGER",
@@ -1665,7 +1667,8 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-18T12:36:20.606Z",
-    "emplacement": "C-3"
+    "emplacement": "C-3",
+    "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/Eh5J0wgbVWtMvgusl4z5ES8BVZLClRUIMoOBoJcZeBGzHg?e=jIk86s"
   },
   {
     "marque": "SRS",
