@@ -6851,5 +6851,21 @@
       }
     ],
     "createdAt": "2025-06-24T12:36:11.507Z"
+  },
+  {
+    "marque": "fluke",
+    "model": "87",
+    "quantite": 1,
+    "emplacement": "G-3",
+    "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EkNztLmWSy9KvI5-XhIpvRcBweMXstQdFnB07iCJcWtJdA?e=mEAQjJ",
+    "unites": [
+      {
+        "numserie": "80980115",
+        "position": "G-3",
+        "etatcvi": "oui",
+        "dateFinCVI": "2025-11-01"
+      }
+    ],
+    "createdAt": "2025-06-24T13:18:12.805Z"
   }
 ]
