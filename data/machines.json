@@ -1287,7 +1287,8 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-18T12:36:20.606Z",
-    "emplacement": "B-3"
+    "emplacement": "B-3",
+    "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/Em28RrYZjZ1Ctmtyy1qSbIMB-Q4I44gGF0Mb8_hpqndl-w?e=hHevzG"
   },
   {
     "marque": "TELEDYNE LECROY",
@@ -1732,7 +1733,8 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-18T12:36:20.606Z",
-    "emplacement": "C-3"
+    "emplacement": "C-3",
+    "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EgTj951_OgVEsTgLer3i0A8BkY7zVOdphJw3cROh6Tl3vg?e=XtuhYq"
   },
   {
     "marque": "TTI",
@@ -2823,7 +2825,7 @@
     "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/Eo5jiJ2ch-JBv37qnAehrsABEth1Dqq_b2g8grCvwcG8bg?e=gj7Gru"
   },
   {
-    "marque": "KEITHLEY",
+    "marque": "KEITHLEY (HORS SERVICE)",
     "model": "2100",
     "quantite": 1,
     "unites": [
@@ -2837,7 +2839,8 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-18T12:36:20.606Z",
-    "emplacement": "E-3"
+    "emplacement": "E-3",
+    "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EjRZYHULoxVHj0lPZkG2kzwBAGmz7hqBvuT-HEvns87j3g?e=4DKngm"
   },
   {
     "marque": "RIGOL",
