@@ -2965,7 +2965,8 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-18T12:36:20.606Z",
-    "emplacement": "E-4"
+    "emplacement": "E-4",
+    "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/Ev2VexC2t79HlGZjWaK4pe0BQHEys8phijftW2OEfdLapQ?e=WhMjyv"
   },
   {
     "marque": "ELC",
@@ -2982,7 +2983,8 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-18T12:36:20.606Z",
-    "emplacement": "E-4"
+    "emplacement": "E-4",
+    "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/Ek0pWt7HB7dMsAsd3yobM0QBHy9ypE5aVOMk6LBr1JqfLg?e=oeejvB"
   },
   {
     "marque": "FLUKE",
@@ -6827,5 +6829,21 @@
     "dateFinCVI": null,
     "createdAt": "2025-06-18T12:36:20.607Z",
     "emplacement": "M-4"
+  },
+  {
+    "marque": "AGILENT",
+    "model": "N9310A",
+    "quantite": 1,
+    "emplacement": "E-4",
+    "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EgmMjcnjHodHkEU_d8wofugB2LSnn3hKRS-c9KtIqk-jzg?e=tLNpB1",
+    "unites": [
+      {
+        "numserie": "CN0115001335",
+        "position": "E-4",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      }
+    ],
+    "createdAt": "2025-06-24T12:36:11.507Z"
   }
 ]
