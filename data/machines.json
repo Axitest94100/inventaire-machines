@@ -855,23 +855,6 @@
   },
   {
     "marque": "TELEDYNE LECROY",
-    "model": "ACCESSOIRES POUR HDO6104MS",
-    "quantite": 1,
-    "unites": [
-      {
-        "numserie": "",
-        "position": "A-5",
-        "etatcvi": "non",
-        "dateFinCVI": null
-      }
-    ],
-    "etatcvi": "non",
-    "dateFinCVI": null,
-    "createdAt": "2025-06-25T08:12:24.415Z",
-    "emplacement": "A-5"
-  },
-  {
-    "marque": "TELEDYNE LECROY",
     "model": "HDO8108",
     "quantite": 1,
     "unites": [
