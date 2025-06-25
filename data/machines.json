@@ -1120,28 +1120,11 @@
   {
     "marque": "TEKTRONIX",
     "model": "AWG70000",
-    "quantite": 1,
-    "unites": [
-      {
-        "numserie": "B010294",
-        "position": "B-2",
-        "etatcvi": "non",
-        "dateFinCVI": null
-      }
-    ],
-    "etatcvi": "non",
-    "dateFinCVI": null,
-    "createdAt": "2025-06-18T12:36:20.606Z",
-    "emplacement": "B-2"
-  },
-  {
-    "marque": "ROHDE & SCHWARZ",
-    "model": "FSP38",
     "quantite": 2,
     "unites": [
       {
-        "numserie": "100399",
-        "position": "B-2",
+        "numserie": "B010294",
+        "position": "EXPEDITON ",
         "etatcvi": "non",
         "dateFinCVI": null
       },
