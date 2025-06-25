@@ -1118,23 +1118,6 @@
     "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/Es_quaiUsLBMryd8mnDkCDIBg2oFOod2EQQbTbMZxGy2Gw?e=fsSxp8"
   },
   {
-    "marque": "TEKTRONIX",
-    "model": "AWG70000",
-    "quantite": 1,
-    "unites": [
-      {
-        "numserie": "101043",
-        "position": "I-3",
-        "etatcvi": "non",
-        "dateFinCVI": null
-      }
-    ],
-    "etatcvi": "non",
-    "dateFinCVI": null,
-    "createdAt": "2025-06-18T12:36:20.606Z",
-    "emplacement": "EXPEDITON+I-3"
-  },
-  {
     "marque": "AGILENT",
     "model": "DSO-X-2012A",
     "quantite": 1,
