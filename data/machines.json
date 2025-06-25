@@ -1120,14 +1120,8 @@
   {
     "marque": "TEKTRONIX",
     "model": "AWG70000",
-    "quantite": 2,
+    "quantite": 1,
     "unites": [
-      {
-        "numserie": "B010294",
-        "position": "EXPEDITON ",
-        "etatcvi": "non",
-        "dateFinCVI": null
-      },
       {
         "numserie": "101043",
         "position": "I-3",
@@ -1138,7 +1132,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-18T12:36:20.606Z",
-    "emplacement": "B-2+I-3"
+    "emplacement": "EXPEDITON+I-3"
   },
   {
     "marque": "AGILENT",
