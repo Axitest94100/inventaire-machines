@@ -6878,5 +6878,21 @@
     "dateFinCVI": null,
     "createdAt": "2025-06-25T08:12:24.416Z",
     "emplacement": "G-3"
+  },
+  {
+    "marque": "TEKTRONIX",
+    "model": "AFG3102",
+    "quantite": 1,
+    "emplacement": "B-3",
+    "description": "",
+    "unites": [
+      {
+        "numserie": "C025380",
+        "position": "B-3",
+        "etatcvi": "oui",
+        "dateFinCVI": "2025-10-01"
+      }
+    ],
+    "createdAt": "2025-06-25T12:46:57.049Z"
   }
 ]
