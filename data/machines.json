@@ -2953,7 +2953,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-25T08:12:24.415Z",
-    "emplacement": "E-4"
+    "emplacement": "LOCATION MANUMESURE -> 07/07/25"
   },
   {
     "marque": "ELC",
@@ -4619,7 +4619,7 @@
     "unites": [
       {
         "numserie": "303E750",
-        "position": "G-5",
+        "position": "G-5 (PARTIE CHEZ MENOVA 27/06/2025)",
         "etatcvi": "non",
         "dateFinCVI": null
       },
@@ -4633,7 +4633,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-25T08:12:24.416Z",
-    "emplacement": "G-5"
+    "emplacement": "G-5 (PARTIE CHEZ MENOVA 27/06/2025) + G-5"
   },
   {
     "marque": "AGILENT",
