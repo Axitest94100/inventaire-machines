@@ -6888,7 +6888,7 @@
     "unites": [
       {
         "numserie": "C025380",
-        "position": "B-3",
+        "position": "MENOVA",
         "etatcvi": "oui",
         "dateFinCVI": "2025-10-01"
       }
@@ -6896,6 +6896,6 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.398Z",
-    "emplacement": "B-3"
+    "emplacement": "MENOVA"
   }
 ]
