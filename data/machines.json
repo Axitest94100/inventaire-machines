@@ -3878,23 +3878,6 @@
   },
   {
     "marque": "KEITHLEY",
-    "model": "2000",
-    "quantite": 1,
-    "unites": [
-      {
-        "numserie": "0641384",
-        "position": "F-5",
-        "etatcvi": "oui",
-        "dateFinCVI": "2025-06-01"
-      }
-    ],
-    "etatcvi": "non",
-    "dateFinCVI": null,
-    "createdAt": "2025-06-26T15:17:33.397Z",
-    "emplacement": "F-5"
-  },
-  {
-    "marque": "KEITHLEY",
     "model": "2001",
     "quantite": 2,
     "unites": [
