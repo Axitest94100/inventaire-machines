@@ -1328,7 +1328,7 @@
     "unites": [
       {
         "numserie": "100425",
-        "position": "B-4",
+        "position": "LOCATION CICOR COMBRE ->01/08/25",
         "etatcvi": "non",
         "dateFinCVI": null
       }
@@ -1336,7 +1336,8 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.396Z",
-    "emplacement": "B-4"
+    "emplacement": "LOCATION CICOR COMBRE ->01/08/25",
+    "description": ""
   },
   {
     "marque": "TELEDYNE LECROY",
