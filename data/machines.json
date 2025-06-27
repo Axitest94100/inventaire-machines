@@ -6881,5 +6881,21 @@
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.398Z",
     "emplacement": "MENOVA"
+  },
+  {
+    "marque": "EA",
+    "model": "PS9080-200-4HE",
+    "quantite": 1,
+    "emplacement": "M-2",
+    "description": "",
+    "unites": [
+      {
+        "numserie": "1448230001",
+        "position": "M-2",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      }
+    ],
+    "createdAt": "2025-06-27T12:53:29.277Z"
   }
 ]
