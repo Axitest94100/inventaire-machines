@@ -6897,5 +6897,21 @@
       }
     ],
     "createdAt": "2025-06-27T12:53:29.277Z"
+  },
+  {
+    "marque": "TELEDYNE LECROY",
+    "model": "ACCESSOIRES POUR HDO 9404-MS (MSO-DLS-001)",
+    "quantite": 1,
+    "emplacement": "C-6",
+    "description": "SACHET FOURNIS AVEC 1x CABLE D'ALIM / 1x MSO-DLS-001 / 1x SACHET(20x GROUND EXTENDERS) / 1x SACHET(5x GROUND FLYING LEAD) / 1x SACHET(20x GROUND EXTENDERS) / 1x SACHET(22x XL MICROGRIPPERS)",
+    "unites": [
+      {
+        "numserie": "@",
+        "position": "C-6",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      }
+    ],
+    "createdAt": "2025-06-30T15:01:18.858Z"
   }
 ]
