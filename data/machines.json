@@ -966,19 +966,19 @@
     "marque": "AGILENT",
     "model": "E4980A",
     "quantite": 1,
-    "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/ElAMdXX0WShItC2dzTcPANIBk5dlrQLoF0GGztq34h3Bag?e=EZ59iX",
+    "description": "LOCATION : SAS BIOPARHOM ; RETOUR: 08/07/2025\nhttps://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/ElAMdXX0WShItC2dzTcPANIBk5dlrQLoF0GGztq34h3Bag?e=EZ59iX",
     "unites": [
       {
         "numserie": "MY46202938",
-        "position": "ARRIVAGE",
         "etatcvi": "oui",
+        "position": "H-3 (EN LOCATION)",
         "dateFinCVI": "2025-10-01"
       }
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.396Z",
-    "emplacement": "ARRIVAGE"
+    "emplacement": "H-3 (EN LOCATION)"
   },
   {
     "marque": "TELEDYNE LECROY",
