@@ -1880,7 +1880,8 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.396Z",
-    "emplacement": "C-6"
+    "emplacement": "C-6",
+    "description": "FOURNIS AVEC UN SACHET + UNE BOITE"
   },
   {
     "marque": "AGILENT",
@@ -6906,9 +6907,9 @@
     "description": "SACHET FOURNIS AVEC 1x CABLE D'ALIM / 1x MSO-DLS-001 / 1x SACHET(20x GROUND EXTENDERS) / 1x SACHET(5x GROUND FLYING LEAD) / 1x SACHET(20x GROUND EXTENDERS) / 1x SACHET(22x XL MICROGRIPPERS)",
     "unites": [
       {
-        "numserie": "@",
-        "position": "C-6",
+        "numserie": "LCRY4403N30170",
         "etatcvi": "non",
+        "position": "C-6",
         "dateFinCVI": null
       }
     ],
