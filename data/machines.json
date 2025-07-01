@@ -966,7 +966,7 @@
     "marque": "AGILENT",
     "model": "E4980A",
     "quantite": 1,
-    "description": "LOCATION : SAS BIOPARHOM ; RETOUR: 08/07/2025\nhttps://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/ElAMdXX0WShItC2dzTcPANIBk5dlrQLoF0GGztq34h3Bag?e=EZ59iX",
+    "description": "(LOCATION : SAS BIOPARHOM ; RETOUR: 09/07/2025 )(COMPLEMENT: HP 16089D ACCESSOIRE)\nhttps://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/ElAMdXX0WShItC2dzTcPANIBk5dlrQLoF0GGztq34h3Bag?e=EZ59iX",
     "unites": [
       {
         "numserie": "MY46202938",
@@ -6917,5 +6917,21 @@
       }
     ],
     "createdAt": "2025-06-30T15:01:18.858Z"
+  },
+  {
+    "marque": "CHAUVIN ARNOUX",
+    "model": "CA6255",
+    "quantite": 1,
+    "emplacement": "H-2",
+    "description": "",
+    "unites": [
+      {
+        "numserie": "112755YMH",
+        "position": "H-2",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      }
+    ],
+    "createdAt": "2025-07-01T08:50:04.466Z"
   }
 ]
