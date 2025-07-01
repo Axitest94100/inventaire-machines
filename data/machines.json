@@ -4839,7 +4839,7 @@
     "unites": [
       {
         "numserie": "ACCESSOIRES",
-        "position": "H-3",
+        "position": "H-3 (LOCATION 09/07/2025 RETOUR 09/07/2025 SAS BIOPARHOM)",
         "etatcvi": "non",
         "dateFinCVI": null
       }
@@ -4847,7 +4847,8 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.397Z",
-    "emplacement": "H-3"
+    "emplacement": "H-3 (LOCATION 09/07/2025 RETOUR 09/07/2025 SAS BIOPARHOM)",
+    "description": "(LOCATION 09/07/2025 RETOUR 09/07/2025 SAS BIOPARHOM)"
   },
   {
     "marque": "PINCE CROCO",
