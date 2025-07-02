@@ -5491,8 +5491,8 @@
       {
         "numserie": "0911037",
         "position": "I-4",
-        "etatcvi": "non",
-        "dateFinCVI": null
+        "etatcvi": "oui",
+        "dateFinCVI": "2025-11-01"
       }
     ],
     "etatcvi": "non",
