@@ -3015,49 +3015,49 @@
     "marque": "MEGGER",
     "model": "ACCESSOIRE MIT 520/2",
     "quantite": 1,
-    "description": "LOCATION 04/07/25 AU 11/07/25 ÃÂ  HIOLLE TECHNOLOGIE (APGELEC)",
+    "description": "LOCATION 04/07/25 AU 11/07/25 A HIOLLE TECHNOLOGIE (APGELEC)",
     "unites": [
       {
         "numserie": "7639273",
-        "position": "E-4(LOCATION 04/07/25 AU 11/07/25 ÃÂ  HIOLLE TECHNOLOGIE (APGELEC)",
         "etatcvi": "non",
+        "position": "E-4(LOCATION 04/07/25 AU 11/07/25 A HIOLLE TECHNOLOGIE (APGELEC)",
         "dateFinCVI": null
       }
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.397Z",
-    "emplacement": "E-4(LOCATION 04/07/25 AU 11/07/25 ÃÂ  HIOLLE TECHNOLOGIE (APGELEC)"
+    "emplacement": "E-4(LOCATION 04/07/25 AU 11/07/25 A HIOLLE TECHNOLOGIE (APGELEC)"
   },
   {
     "marque": "MEGGER",
     "model": "MIT520/2",
     "quantite": 3,
-    "description": "SN: 1160 :LOCATION 04/07/25 AU 11/07/25 ÃÂ  HIOLLE TECHNOLOGIE (APGELEC)\nhttps://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EkddRY-HaxVLvK1QaAtJ0cUBsSMnHYb7OIEE-VUGu1wjsQ?e=vImef8",
+    "description": "SN: 1160 :LOCATION 04/07/25 AU 11/07/25 A HIOLLE TECHNOLOGIE (APGELEC)\nhttps://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EkddRY-HaxVLvK1QaAtJ0cUBsSMnHYb7OIEE-VUGu1wjsQ?e=vImef8",
     "unites": [
       {
         "numserie": "1160",
-        "position": "E-4LOCATION 04/07/25 AU 11/07/25 ÃÂ  HIOLLE TECHNOLOGIE (APGELEC)",
         "etatcvi": "oui",
+        "position": "E-4LOCATION 04/07/25 AU 11/07/25 A  HIOLLE TECHNOLOGIE (APGELEC)",
         "dateFinCVI": "2025-10-01"
       },
       {
         "numserie": "1154",
-        "position": "E-4",
         "etatcvi": "oui",
+        "position": "E-4",
         "dateFinCVI": "2025-10-01"
       },
       {
         "numserie": "1156",
-        "position": "E-4",
         "etatcvi": "oui",
+        "position": "E-4",
         "dateFinCVI": "2025-10-01"
       }
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.397Z",
-    "emplacement": "E-4LOCATION 04/07/25 AU 11/07/25 ÃÂ  HIOLLE TECHNOLOGIE (APGELEC) + E-4"
+    "emplacement": "E-4LOCATION 04/07/25 AU 11/07/25 A  HIOLLE TECHNOLOGIE (APGELEC) + E-4"
   },
   {
     "marque": "PHILIPPS",
