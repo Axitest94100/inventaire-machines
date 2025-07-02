@@ -2948,7 +2948,7 @@
     "unites": [
       {
         "numserie": "MY50002907",
-        "position": "LOCATION MANUMESURE -> 07/07/25",
+        "position": "LOCATION MANUMESURE RETOUR 07/07/25",
         "etatcvi": "non",
         "dateFinCVI": null
       }
@@ -2956,7 +2956,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.397Z",
-    "emplacement": "LOCATION MANUMESURE -> 07/07/25"
+    "emplacement": "LOCATION MANUMESURE RETOUR 07/07/25"
   },
   {
     "marque": "ELC",
