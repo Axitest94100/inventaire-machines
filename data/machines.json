@@ -5439,8 +5439,8 @@
       {
         "numserie": "0744018",
         "position": "I-4",
-        "etatcvi": "non",
-        "dateFinCVI": null
+        "etatcvi": "oui",
+        "dateFinCVI": "2025-08-01"
       }
     ],
     "etatcvi": "non",
