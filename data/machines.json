@@ -5728,7 +5728,7 @@
     "unites": [
       {
         "numserie": "220291WKH",
-        "position": "J-3",
+        "position": "J-3(PARTIE CHEZ MENOVA POUR CVI 02/072025)",
         "etatcvi": "oui",
         "dateFinCVI": "2025-06-01"
       }
@@ -5736,7 +5736,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.398Z",
-    "emplacement": "J-3"
+    "emplacement": "J-3(PARTIE CHEZ MENOVA POUR CVI 02/072025)"
   },
   {
     "marque": "CHAUVIN ARNOUX",
