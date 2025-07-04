@@ -20,7 +20,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.641Z"
+    "createdAt": "2025-06-26T15:17:33.396Z",
+    "emplacement": "A-1"
   },
   {
     "marque": "HAMEG",
@@ -36,7 +37,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.642Z"
+    "createdAt": "2025-06-26T15:17:33.396Z",
+    "emplacement": "A-1"
   },
   {
     "marque": "RS PRO",
@@ -53,7 +55,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.642Z"
+    "createdAt": "2025-06-26T15:17:33.396Z",
+    "emplacement": "A-1"
   },
   {
     "marque": "TEKTRONIX",
@@ -82,7 +85,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.642Z"
+    "createdAt": "2025-06-26T15:17:33.396Z",
+    "emplacement": "A-1"
   },
   {
     "marque": "TEKTRONIX",
@@ -98,7 +102,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.642Z"
+    "createdAt": "2025-06-26T15:17:33.396Z",
+    "emplacement": "A-1"
   },
   {
     "marque": "TEKTRONIX",
@@ -115,7 +120,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.642Z"
+    "createdAt": "2025-06-26T15:17:33.396Z",
+    "emplacement": "A-1"
   },
   {
     "marque": "TEKTRONIX (ACCESSOIRES & HOUSSE DE TRANSPORT)",
@@ -132,7 +138,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.642Z"
+    "createdAt": "2025-06-26T15:17:33.396Z",
+    "emplacement": "A-1"
   },
   {
     "marque": "TELEDYNE LECROY",
@@ -148,7 +155,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.642Z"
+    "createdAt": "2025-06-26T15:17:33.396Z",
+    "emplacement": "A-1"
   },
   {
     "marque": "TELEDYNE LECROY",
@@ -165,7 +173,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.642Z"
+    "createdAt": "2025-06-26T15:17:33.396Z",
+    "emplacement": "A-1"
   },
   {
     "marque": "KEYSIGHT",
@@ -181,7 +190,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.642Z"
+    "createdAt": "2025-06-26T15:17:33.396Z",
+    "emplacement": "A-2"
   },
   {
     "marque": "LECROY",
@@ -198,7 +208,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.642Z"
+    "createdAt": "2025-06-26T15:17:33.396Z",
+    "emplacement": "A-2"
   },
   {
     "marque": "TEKTRONIX",
@@ -221,7 +232,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.642Z"
+    "createdAt": "2025-06-26T15:17:33.396Z",
+    "emplacement": "A-2"
   },
   {
     "marque": "TEKTRONIX",
@@ -237,7 +249,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.642Z"
+    "createdAt": "2025-06-26T15:17:33.396Z",
+    "emplacement": "A-2"
   },
   {
     "marque": "TEKTRONIX",
@@ -253,7 +266,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.642Z"
+    "createdAt": "2025-06-26T15:17:33.396Z",
+    "emplacement": "A-2"
   },
   {
     "marque": "TEKTRONIX",
@@ -269,7 +283,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.642Z"
+    "createdAt": "2025-06-26T15:17:33.396Z",
+    "emplacement": "A-2"
   },
   {
     "marque": "TEKTRONIX",
@@ -297,7 +312,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.642Z"
+    "createdAt": "2025-06-26T15:17:33.396Z",
+    "emplacement": "A-2"
   },
   {
     "marque": "TEKTRONIX",
@@ -314,7 +330,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.642Z"
+    "createdAt": "2025-06-26T15:17:33.396Z",
+    "emplacement": "A-3"
   },
   {
     "marque": "TEKTRONIX",
@@ -331,7 +348,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.642Z"
+    "createdAt": "2025-06-26T15:17:33.396Z",
+    "emplacement": "A-3"
   },
   {
     "marque": "TEKTRONIX",
@@ -348,7 +366,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.642Z"
+    "createdAt": "2025-06-26T15:17:33.396Z",
+    "emplacement": "A-3"
   },
   {
     "marque": "TEKTRONIX",
@@ -365,7 +384,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.642Z"
+    "createdAt": "2025-06-26T15:17:33.396Z",
+    "emplacement": "A-3"
   },
   {
     "marque": "TEKTRONIX (HORS SERVICE)",
@@ -382,7 +402,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.642Z"
+    "createdAt": "2025-06-26T15:17:33.396Z",
+    "emplacement": "A-3"
   },
   {
     "marque": "TEKTRONIX",
@@ -399,7 +420,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.642Z"
+    "createdAt": "2025-06-26T15:17:33.396Z",
+    "emplacement": "A-3"
   },
   {
     "marque": "TEKTRONIX",
@@ -416,7 +438,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.642Z"
+    "createdAt": "2025-06-26T15:17:33.396Z",
+    "emplacement": "A-3"
   },
   {
     "marque": "TEKTRONIX",
@@ -433,7 +456,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.642Z"
+    "createdAt": "2025-06-26T15:17:33.396Z",
+    "emplacement": "A-3"
   },
   {
     "marque": "TEKTRONIX",
@@ -450,7 +474,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.642Z"
+    "createdAt": "2025-06-26T15:17:33.396Z",
+    "emplacement": "A-3"
   },
   {
     "marque": "TEKTRONIX",
@@ -473,7 +498,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.642Z"
+    "createdAt": "2025-06-26T15:17:33.396Z",
+    "emplacement": "A-3"
   },
   {
     "marque": "AGILENT",
@@ -489,7 +515,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.642Z"
+    "createdAt": "2025-06-26T15:17:33.396Z",
+    "emplacement": "A-4"
   },
   {
     "marque": "HP",
@@ -506,7 +533,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.642Z"
+    "createdAt": "2025-06-26T15:17:33.396Z",
+    "emplacement": "A-4"
   },
   {
     "marque": "HP",
@@ -523,7 +551,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.642Z"
+    "createdAt": "2025-06-26T15:17:33.396Z",
+    "emplacement": "A-4"
   },
   {
     "marque": "METRIX",
@@ -540,7 +569,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.642Z"
+    "createdAt": "2025-06-26T15:17:33.396Z",
+    "emplacement": "A-4"
   },
   {
     "marque": "TEKTRONIX",
@@ -569,7 +599,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.642Z"
+    "createdAt": "2025-06-26T15:17:33.396Z",
+    "emplacement": "A-4"
   },
   {
     "marque": "YOKOGAWA",
@@ -586,7 +617,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.642Z"
+    "createdAt": "2025-06-26T15:17:33.396Z",
+    "emplacement": "A-4"
   },
   {
     "marque": "TELEDYNE LECROY",
@@ -614,7 +646,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.642Z"
+    "createdAt": "2025-06-26T15:17:33.396Z",
+    "emplacement": "A-4+C-4"
   },
   {
     "marque": "KEITHLEY",
@@ -630,7 +663,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.642Z"
+    "createdAt": "2025-06-26T15:17:33.396Z",
+    "emplacement": "A-5"
   },
   {
     "marque": "KEYSIGHT",
@@ -646,7 +680,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.642Z"
+    "createdAt": "2025-06-26T15:17:33.396Z",
+    "emplacement": "A-5"
   },
   {
     "marque": "TEKTRONIX",
@@ -662,7 +697,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.642Z"
+    "createdAt": "2025-06-26T15:17:33.396Z",
+    "emplacement": "A-5"
   },
   {
     "marque": "TEKTRONIX",
@@ -678,7 +714,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.642Z"
+    "createdAt": "2025-06-26T15:17:33.396Z",
+    "emplacement": "A-5"
   },
   {
     "marque": "TEKTRONIX",
@@ -694,7 +731,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.642Z"
+    "createdAt": "2025-06-26T15:17:33.396Z",
+    "emplacement": "A-5"
   },
   {
     "marque": "TEKTRONIX",
@@ -710,7 +748,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.642Z"
+    "createdAt": "2025-06-26T15:17:33.396Z",
+    "emplacement": "A-5"
   },
   {
     "marque": "TEKTRONIX",
@@ -726,7 +765,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.642Z"
+    "createdAt": "2025-06-26T15:17:33.396Z",
+    "emplacement": "A-5"
   },
   {
     "marque": "TEKTRONIX",
@@ -742,7 +782,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.642Z"
+    "createdAt": "2025-06-26T15:17:33.396Z",
+    "emplacement": "A-5"
   },
   {
     "marque": "TEKTRONIX",
@@ -758,7 +799,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.642Z"
+    "createdAt": "2025-06-26T15:17:33.396Z",
+    "emplacement": "A-5"
   },
   {
     "marque": "TEKTRONIX",
@@ -774,7 +816,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.642Z"
+    "createdAt": "2025-06-26T15:17:33.396Z",
+    "emplacement": "A-5"
   },
   {
     "marque": "TELEDYNE LECROY",
@@ -790,7 +833,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.642Z"
+    "createdAt": "2025-06-26T15:17:33.396Z",
+    "emplacement": "A-5"
   },
   {
     "marque": "TELEDYNE LECROY",
@@ -806,7 +850,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.642Z"
+    "createdAt": "2025-06-26T15:17:33.396Z",
+    "emplacement": "A-5"
   },
   {
     "marque": "TELEDYNE LECROY",
@@ -822,7 +867,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.642Z"
+    "createdAt": "2025-06-26T15:17:33.396Z",
+    "emplacement": "A-5"
   },
   {
     "marque": "TELEDYNE LECROY",
@@ -844,7 +890,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.642Z"
+    "createdAt": "2025-06-26T15:17:33.396Z",
+    "emplacement": "A-5"
   },
   {
     "marque": "TELEDYNE LECROY",
@@ -861,7 +908,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.642Z"
+    "createdAt": "2025-06-26T15:17:33.396Z",
+    "emplacement": "A-5"
   },
   {
     "marque": "TELEDYNE LECROY",
@@ -877,7 +925,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.642Z"
+    "createdAt": "2025-06-26T15:17:33.396Z",
+    "emplacement": "A-5"
   },
   {
     "marque": "TELEDYNE LECROY",
@@ -893,7 +942,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.642Z"
+    "createdAt": "2025-06-26T15:17:33.396Z",
+    "emplacement": "A-5"
   },
   {
     "marque": "TELEDYNE LECROY",
@@ -909,7 +959,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.642Z"
+    "createdAt": "2025-06-26T15:17:33.396Z",
+    "emplacement": "A-5"
   },
   {
     "marque": "AGILENT",
@@ -919,14 +970,15 @@
     "unites": [
       {
         "numserie": "MY46202938",
-        "position": "H-3 (EN LOCATION)",
         "etatcvi": "oui",
+        "position": "H-3 (EN LOCATION)",
         "dateFinCVI": "2025-10-01"
       }
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.642Z"
+    "createdAt": "2025-06-26T15:17:33.396Z",
+    "emplacement": "H-3 (EN LOCATION)"
   },
   {
     "marque": "TELEDYNE LECROY",
@@ -943,7 +995,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.642Z"
+    "createdAt": "2025-06-26T15:17:33.396Z",
+    "emplacement": "ARRIVAGE"
   },
   {
     "marque": "KEYSIGHT",
@@ -959,7 +1012,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.642Z"
+    "createdAt": "2025-06-26T15:17:33.396Z",
+    "emplacement": "B-1"
   },
   {
     "marque": "TELEDYNE LECROY",
@@ -975,7 +1029,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.642Z"
+    "createdAt": "2025-06-26T15:17:33.396Z",
+    "emplacement": "B-1"
   },
   {
     "marque": "TELEDYNE LECROY",
@@ -991,7 +1046,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.642Z"
+    "createdAt": "2025-06-26T15:17:33.396Z",
+    "emplacement": "B-1"
   },
   {
     "marque": "AEROFLEX",
@@ -1008,7 +1064,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.642Z"
+    "createdAt": "2025-06-26T15:17:33.396Z",
+    "emplacement": "B-2"
   },
   {
     "marque": "SORENSEN",
@@ -1025,7 +1082,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.642Z"
+    "createdAt": "2025-06-26T15:17:33.396Z",
+    "emplacement": "B-2"
   },
   {
     "marque": "ROHDE & SCHWARZ",
@@ -1047,7 +1105,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.642Z"
+    "createdAt": "2025-06-26T15:17:33.396Z",
+    "emplacement": "B-2+I-3"
   },
   {
     "marque": "AGILENT",
@@ -1064,7 +1123,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.642Z"
+    "createdAt": "2025-06-26T15:17:33.396Z",
+    "emplacement": "B-3"
   },
   {
     "marque": "KEYSIGHT",
@@ -1081,7 +1141,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.642Z"
+    "createdAt": "2025-06-26T15:17:33.396Z",
+    "emplacement": "B-3"
   },
   {
     "marque": "TEKTRONIX",
@@ -1097,7 +1158,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.642Z"
+    "createdAt": "2025-06-26T15:17:33.396Z",
+    "emplacement": "B-3"
   },
   {
     "marque": "TEKTRONIX",
@@ -1114,7 +1176,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.642Z"
+    "createdAt": "2025-06-26T15:17:33.396Z",
+    "emplacement": "B-3"
   },
   {
     "marque": "TEKTRONIX",
@@ -1131,7 +1194,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.642Z"
+    "createdAt": "2025-06-26T15:17:33.396Z",
+    "emplacement": "B-3"
   },
   {
     "marque": "TEKTRONIX",
@@ -1148,7 +1212,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.642Z"
+    "createdAt": "2025-06-26T15:17:33.396Z",
+    "emplacement": "B-3"
   },
   {
     "marque": "TEKTRONIX",
@@ -1164,7 +1229,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.642Z"
+    "createdAt": "2025-06-26T15:17:33.396Z",
+    "emplacement": "B-3"
   },
   {
     "marque": "TELEDYNE LECROY",
@@ -1181,7 +1247,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.643Z"
+    "createdAt": "2025-06-26T15:17:33.396Z",
+    "emplacement": "B-3"
   },
   {
     "marque": "TELEDYNE LECROY",
@@ -1198,7 +1265,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.643Z"
+    "createdAt": "2025-06-26T15:17:33.396Z",
+    "emplacement": "B-3"
   },
   {
     "marque": "TELEDYNE LECROY",
@@ -1215,7 +1283,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.643Z"
+    "createdAt": "2025-06-26T15:17:33.396Z",
+    "emplacement": "B-3"
   },
   {
     "marque": "tektronix",
@@ -1232,7 +1301,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.643Z"
+    "createdAt": "2025-06-26T15:17:33.396Z",
+    "emplacement": "B-3"
   },
   {
     "marque": "AGILENT",
@@ -1248,13 +1318,13 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.643Z"
+    "createdAt": "2025-06-26T15:17:33.396Z",
+    "emplacement": "B-4"
   },
   {
     "marque": "ROHDE & SCHWARZ",
     "model": "FSP30",
     "quantite": 1,
-    "description": "",
     "unites": [
       {
         "numserie": "100425",
@@ -1265,7 +1335,9 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.643Z"
+    "createdAt": "2025-06-26T15:17:33.396Z",
+    "emplacement": "Arrivage (attente aserti)",
+    "description": ""
   },
   {
     "marque": "TELEDYNE LECROY",
@@ -1281,7 +1353,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.643Z"
+    "createdAt": "2025-06-26T15:17:33.396Z",
+    "emplacement": "B-4"
   },
   {
     "marque": "TELEDYNE LECROY",
@@ -1297,7 +1370,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.643Z"
+    "createdAt": "2025-06-26T15:17:33.396Z",
+    "emplacement": "B-4"
   },
   {
     "marque": "TELEDYNE LECROY",
@@ -1313,7 +1387,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.643Z"
+    "createdAt": "2025-06-26T15:17:33.396Z",
+    "emplacement": "B-4"
   },
   {
     "marque": "TELEDYNE LECROY",
@@ -1329,7 +1404,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.643Z"
+    "createdAt": "2025-06-26T15:17:33.396Z",
+    "emplacement": "B-4"
   },
   {
     "marque": "HP",
@@ -1346,7 +1422,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.643Z"
+    "createdAt": "2025-06-26T15:17:33.396Z",
+    "emplacement": "C-1"
   },
   {
     "marque": "ANRITSU",
@@ -1363,7 +1440,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.643Z"
+    "createdAt": "2025-06-26T15:17:33.396Z",
+    "emplacement": "C-2"
   },
   {
     "marque": "HP",
@@ -1380,7 +1458,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.643Z"
+    "createdAt": "2025-06-26T15:17:33.396Z",
+    "emplacement": "C-2"
   },
   {
     "marque": "HP",
@@ -1403,7 +1482,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.643Z"
+    "createdAt": "2025-06-26T15:17:33.396Z",
+    "emplacement": "C-2+C-5"
   },
   {
     "marque": "AGILENT",
@@ -1420,7 +1500,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.643Z"
+    "createdAt": "2025-06-26T15:17:33.396Z",
+    "emplacement": "C-3"
   },
   {
     "marque": "EA",
@@ -1449,7 +1530,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.643Z"
+    "createdAt": "2025-06-26T15:17:33.396Z",
+    "emplacement": "C-3"
   },
   {
     "marque": "HP",
@@ -1466,7 +1548,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.643Z"
+    "createdAt": "2025-06-26T15:17:33.396Z",
+    "emplacement": "C-3"
   },
   {
     "marque": "HP",
@@ -1483,7 +1566,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.643Z"
+    "createdAt": "2025-06-26T15:17:33.396Z",
+    "emplacement": "C-3"
   },
   {
     "marque": "KEYSIGHT",
@@ -1500,7 +1584,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.643Z"
+    "createdAt": "2025-06-26T15:17:33.396Z",
+    "emplacement": "C-3"
   },
   {
     "marque": "ROHDE & SCHWARZ",
@@ -1516,7 +1601,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.643Z"
+    "createdAt": "2025-06-26T15:17:33.396Z",
+    "emplacement": "C-3"
   },
   {
     "marque": "ROSENBERGER",
@@ -1533,7 +1619,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.643Z"
+    "createdAt": "2025-06-26T15:17:33.396Z",
+    "emplacement": "C-3"
   },
   {
     "marque": "ROSENBERGER",
@@ -1550,7 +1637,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.643Z"
+    "createdAt": "2025-06-26T15:17:33.396Z",
+    "emplacement": "C-3"
   },
   {
     "marque": "SRS",
@@ -1567,7 +1655,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.643Z"
+    "createdAt": "2025-06-26T15:17:33.396Z",
+    "emplacement": "C-3"
   },
   {
     "marque": "TELEDYNE LECROY",
@@ -1583,7 +1672,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.643Z"
+    "createdAt": "2025-06-26T15:17:33.396Z",
+    "emplacement": "C-3"
   },
   {
     "marque": "TELEDYNE LECROY",
@@ -1599,7 +1689,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.643Z"
+    "createdAt": "2025-06-26T15:17:33.396Z",
+    "emplacement": "C-3"
   },
   {
     "marque": "TTI",
@@ -1616,7 +1707,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.643Z"
+    "createdAt": "2025-06-26T15:17:33.396Z",
+    "emplacement": "C-3"
   },
   {
     "marque": "TTI",
@@ -1633,7 +1725,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.643Z"
+    "createdAt": "2025-06-26T15:17:33.396Z",
+    "emplacement": "C-3"
   },
   {
     "marque": "AGILENT",
@@ -1649,7 +1742,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.643Z"
+    "createdAt": "2025-06-26T15:17:33.396Z",
+    "emplacement": "C-5"
   },
   {
     "marque": "AGILENT",
@@ -1666,7 +1760,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.643Z"
+    "createdAt": "2025-06-26T15:17:33.396Z",
+    "emplacement": "C-5"
   },
   {
     "marque": "HP",
@@ -1682,7 +1777,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.643Z"
+    "createdAt": "2025-06-26T15:17:33.396Z",
+    "emplacement": "C-5"
   },
   {
     "marque": "TDK LAMBDA",
@@ -1698,7 +1794,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.643Z"
+    "createdAt": "2025-06-26T15:17:33.396Z",
+    "emplacement": "C-5"
   },
   {
     "marque": "ENERTEC",
@@ -1714,7 +1811,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.643Z"
+    "createdAt": "2025-06-26T15:17:33.396Z",
+    "emplacement": "C-6"
   },
   {
     "marque": "KEYSIGHT",
@@ -1730,13 +1828,13 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.643Z"
+    "createdAt": "2025-06-26T15:17:33.396Z",
+    "emplacement": "C-6"
   },
   {
     "marque": "TELEDYNE LECROY",
     "model": "ACCESSOIRES POUR HDO9404-MS",
     "quantite": 1,
-    "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EkVJgm1DH7NKp0gm9dWov2UBQ4Za4iR99Yeh5HJrP2VvlA?e=ruwZxT",
     "unites": [
       {
         "numserie": "LCRY4403N30170",
@@ -1747,7 +1845,9 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.643Z"
+    "createdAt": "2025-06-26T15:17:33.396Z",
+    "emplacement": "C-6",
+    "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EkVJgm1DH7NKp0gm9dWov2UBQ4Za4iR99Yeh5HJrP2VvlA?e=ruwZxT"
   },
   {
     "marque": "TELEDYNE LECROY",
@@ -1763,13 +1863,13 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.643Z"
+    "createdAt": "2025-06-26T15:17:33.396Z",
+    "emplacement": "C-6"
   },
   {
     "marque": "TELEDYNE LECROY",
     "model": "HDO9404-MS",
     "quantite": 1,
-    "description": "FOURNIS AVEC UN SACHET + UNE BOITE\nhttps://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EkVJgm1DH7NKp0gm9dWov2UBQ4Za4iR99Yeh5HJrP2VvlA?e=ruwZxT",
     "unites": [
       {
         "numserie": "LCRY4403N30170*",
@@ -1780,7 +1880,9 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.643Z"
+    "createdAt": "2025-06-26T15:17:33.396Z",
+    "emplacement": "C-6",
+    "description": "FOURNIS AVEC UN SACHET + UNE BOITE\nhttps://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EkVJgm1DH7NKp0gm9dWov2UBQ4Za4iR99Yeh5HJrP2VvlA?e=ruwZxT"
   },
   {
     "marque": "AGILENT",
@@ -1809,7 +1911,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.643Z"
+    "createdAt": "2025-06-26T15:17:33.396Z",
+    "emplacement": "D-1"
   },
   {
     "marque": "HP",
@@ -1826,7 +1929,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.643Z"
+    "createdAt": "2025-06-26T15:17:33.397Z",
+    "emplacement": "D-1"
   },
   {
     "marque": "KIKUSUI",
@@ -1843,7 +1947,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.643Z"
+    "createdAt": "2025-06-26T15:17:33.397Z",
+    "emplacement": "D-1"
   },
   {
     "marque": "TDK LAMBDA",
@@ -1859,7 +1964,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.643Z"
+    "createdAt": "2025-06-26T15:17:33.397Z",
+    "emplacement": "D-1"
   },
   {
     "marque": "TDK LAMBDA",
@@ -1876,7 +1982,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.643Z"
+    "createdAt": "2025-06-26T15:17:33.397Z",
+    "emplacement": "D-1"
   },
   {
     "marque": "AGILENT",
@@ -1893,7 +2000,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.643Z"
+    "createdAt": "2025-06-26T15:17:33.397Z",
+    "emplacement": "D-2"
   },
   {
     "marque": "LAMBDA",
@@ -1910,7 +2018,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.643Z"
+    "createdAt": "2025-06-26T15:17:33.397Z",
+    "emplacement": "D-2"
   },
   {
     "marque": "LAMBDA",
@@ -1927,7 +2036,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.643Z"
+    "createdAt": "2025-06-26T15:17:33.397Z",
+    "emplacement": "D-2"
   },
   {
     "marque": "SORENSEN",
@@ -1950,7 +2060,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.643Z"
+    "createdAt": "2025-06-26T15:17:33.397Z",
+    "emplacement": "D-2"
   },
   {
     "marque": "TDK LAMBDA",
@@ -1979,7 +2090,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.643Z"
+    "createdAt": "2025-06-26T15:17:33.397Z",
+    "emplacement": "D-2"
   },
   {
     "marque": "TDK LAMBDA",
@@ -1995,7 +2107,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.643Z"
+    "createdAt": "2025-06-26T15:17:33.397Z",
+    "emplacement": "D-2"
   },
   {
     "marque": "KIKUSUI",
@@ -2030,7 +2143,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.643Z"
+    "createdAt": "2025-06-26T15:17:33.397Z",
+    "emplacement": "D-2+D-1"
   },
   {
     "marque": "CHROMA",
@@ -2047,7 +2161,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.643Z"
+    "createdAt": "2025-06-26T15:17:33.397Z",
+    "emplacement": "D-3"
   },
   {
     "marque": "HP",
@@ -2063,7 +2178,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.643Z"
+    "createdAt": "2025-06-26T15:17:33.397Z",
+    "emplacement": "D-3"
   },
   {
     "marque": "HP",
@@ -2080,7 +2196,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.643Z"
+    "createdAt": "2025-06-26T15:17:33.397Z",
+    "emplacement": "D-3"
   },
   {
     "marque": "HP",
@@ -2109,7 +2226,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.643Z"
+    "createdAt": "2025-06-26T15:17:33.397Z",
+    "emplacement": "D-3"
   },
   {
     "marque": "KEYSIGHT",
@@ -2126,7 +2244,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.643Z"
+    "createdAt": "2025-06-26T15:17:33.397Z",
+    "emplacement": "D-3"
   },
   {
     "marque": "AGILENT",
@@ -2143,7 +2262,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.643Z"
+    "createdAt": "2025-06-26T15:17:33.397Z",
+    "emplacement": "D-4"
   },
   {
     "marque": "AGILENT",
@@ -2166,7 +2286,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.643Z"
+    "createdAt": "2025-06-26T15:17:33.397Z",
+    "emplacement": "D-4"
   },
   {
     "marque": "AGILENT",
@@ -2200,7 +2321,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.643Z"
+    "createdAt": "2025-06-26T15:17:33.397Z",
+    "emplacement": "D-4"
   },
   {
     "marque": "CHROMA",
@@ -2216,7 +2338,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.643Z"
+    "createdAt": "2025-06-26T15:17:33.397Z",
+    "emplacement": "D-4"
   },
   {
     "marque": "FLUKE",
@@ -2257,7 +2380,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.643Z"
+    "createdAt": "2025-06-26T15:17:33.397Z",
+    "emplacement": "D-4"
   },
   {
     "marque": "NORTH ATLANTIC",
@@ -2274,7 +2398,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.643Z"
+    "createdAt": "2025-06-26T15:17:33.397Z",
+    "emplacement": "D-4"
   },
   {
     "marque": "PHILIPPS",
@@ -2297,7 +2422,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.643Z"
+    "createdAt": "2025-06-26T15:17:33.397Z",
+    "emplacement": "D-4"
   },
   {
     "marque": "TEKTRONIX",
@@ -2314,7 +2440,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.643Z"
+    "createdAt": "2025-06-26T15:17:33.397Z",
+    "emplacement": "D-4"
   },
   {
     "marque": "HP",
@@ -2330,7 +2457,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.643Z"
+    "createdAt": "2025-06-26T15:17:33.397Z",
+    "emplacement": "D-5"
   },
   {
     "marque": "HP",
@@ -2346,7 +2474,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.643Z"
+    "createdAt": "2025-06-26T15:17:33.397Z",
+    "emplacement": "D-5"
   },
   {
     "marque": "KEITHLEY",
@@ -2363,7 +2492,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.643Z"
+    "createdAt": "2025-06-26T15:17:33.397Z",
+    "emplacement": "D-5"
   },
   {
     "marque": "LDS",
@@ -2380,7 +2510,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.643Z"
+    "createdAt": "2025-06-26T15:17:33.397Z",
+    "emplacement": "D-5"
   },
   {
     "marque": "NATIONAL INSTRUMENT",
@@ -2397,7 +2528,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.643Z"
+    "createdAt": "2025-06-26T15:17:33.397Z",
+    "emplacement": "D-5"
   },
   {
     "marque": "TDK LAMBDA",
@@ -2414,7 +2546,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.643Z"
+    "createdAt": "2025-06-26T15:17:33.397Z",
+    "emplacement": "D-5"
   },
   {
     "marque": "TELEDYNE LECROY",
@@ -2431,7 +2564,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.643Z"
+    "createdAt": "2025-06-26T15:17:33.397Z",
+    "emplacement": "D-5"
   },
   {
     "marque": "XANTREX",
@@ -2459,7 +2593,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.643Z"
+    "createdAt": "2025-06-26T15:17:33.397Z",
+    "emplacement": "D-5"
   },
   {
     "marque": "SORENSEN",
@@ -2488,7 +2623,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.643Z"
+    "createdAt": "2025-06-26T15:17:33.397Z",
+    "emplacement": "D-5+D-3"
   },
   {
     "marque": "AGILENT",
@@ -2505,7 +2641,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.643Z"
+    "createdAt": "2025-06-26T15:17:33.397Z",
+    "emplacement": "E-1"
   },
   {
     "marque": "DATA PHYSICS CORPORATION",
@@ -2522,7 +2659,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.643Z"
+    "createdAt": "2025-06-26T15:17:33.397Z",
+    "emplacement": "E-1"
   },
   {
     "marque": "HP",
@@ -2544,7 +2682,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.643Z"
+    "createdAt": "2025-06-26T15:17:33.397Z",
+    "emplacement": "E-1"
   },
   {
     "marque": "ROHDE & SCHWARZ",
@@ -2560,7 +2699,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.643Z"
+    "createdAt": "2025-06-26T15:17:33.397Z",
+    "emplacement": "E-2"
   },
   {
     "marque": "MARCONI",
@@ -2595,7 +2735,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.643Z"
+    "createdAt": "2025-06-26T15:17:33.397Z",
+    "emplacement": "E-2+E-1"
   },
   {
     "marque": "HP",
@@ -2617,7 +2758,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.643Z"
+    "createdAt": "2025-06-26T15:17:33.397Z",
+    "emplacement": "E-2+E-3"
   },
   {
     "marque": "AEROFLEX",
@@ -2633,7 +2775,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.643Z"
+    "createdAt": "2025-06-26T15:17:33.397Z",
+    "emplacement": "E-3"
   },
   {
     "marque": "AGILENT",
@@ -2650,7 +2793,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.643Z"
+    "createdAt": "2025-06-26T15:17:33.397Z",
+    "emplacement": "E-3"
   },
   {
     "marque": "AGILENT",
@@ -2667,7 +2811,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.643Z"
+    "createdAt": "2025-06-26T15:17:33.397Z",
+    "emplacement": "E-3"
   },
   {
     "marque": "HP",
@@ -2684,7 +2829,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.643Z"
+    "createdAt": "2025-06-26T15:17:33.397Z",
+    "emplacement": "E-3"
   },
   {
     "marque": "KEITHLEY (HORS SERVICE)",
@@ -2701,7 +2847,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.643Z"
+    "createdAt": "2025-06-26T15:17:33.397Z",
+    "emplacement": "E-3"
   },
   {
     "marque": "RIGOL",
@@ -2718,7 +2865,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.643Z"
+    "createdAt": "2025-06-26T15:17:33.397Z",
+    "emplacement": "E-3"
   },
   {
     "marque": "KEITHLEY",
@@ -2753,7 +2901,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.643Z"
+    "createdAt": "2025-06-26T15:17:33.397Z",
+    "emplacement": "E-3+E-4+F-5+F-4"
   },
   {
     "marque": "AGILENT",
@@ -2770,7 +2919,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.643Z"
+    "createdAt": "2025-06-26T15:17:33.397Z",
+    "emplacement": "E-4"
   },
   {
     "marque": "AGILENT",
@@ -2787,7 +2937,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.643Z"
+    "createdAt": "2025-06-26T15:17:33.397Z",
+    "emplacement": "E-4"
   },
   {
     "marque": "AGILENT",
@@ -2804,7 +2955,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.643Z"
+    "createdAt": "2025-06-26T15:17:33.397Z",
+    "emplacement": "LOCATION MANUMESURE RETOUR 07/07/25"
   },
   {
     "marque": "ELC",
@@ -2821,7 +2973,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.643Z"
+    "createdAt": "2025-06-26T15:17:33.397Z",
+    "emplacement": "E-4"
   },
   {
     "marque": "ELC",
@@ -2838,7 +2991,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.643Z"
+    "createdAt": "2025-06-26T15:17:33.397Z",
+    "emplacement": "E-4"
   },
   {
     "marque": "FLUKE",
@@ -2854,7 +3008,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.643Z"
+    "createdAt": "2025-06-26T15:17:33.397Z",
+    "emplacement": "E-4"
   },
   {
     "marque": "MEGGER",
@@ -2864,14 +3019,15 @@
     "unites": [
       {
         "numserie": "7639273",
-        "position": "E-4(LOCATION 04/07/25 AU 11/07/25 A HIOLLE TECHNOLOGIE (APGELEC)",
         "etatcvi": "non",
+        "position": "E-4(LOCATION 04/07/25 AU 11/07/25 A HIOLLE TECHNOLOGIE (APGELEC)",
         "dateFinCVI": null
       }
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.643Z"
+    "createdAt": "2025-06-26T15:17:33.397Z",
+    "emplacement": "E-4(LOCATION 04/07/25 AU 11/07/25 A HIOLLE TECHNOLOGIE (APGELEC)"
   },
   {
     "marque": "MEGGER",
@@ -2881,26 +3037,27 @@
     "unites": [
       {
         "numserie": "1160",
-        "position": "E-4LOCATION 04/07/25 AU 11/07/25 AÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ  HIOLLE TECHNOLOGIE (APGELEC)",
         "etatcvi": "oui",
+        "position": "E-4LOCATION 04/07/25 AU 11/07/25 HIOLLE TECHNOLOGIE (APGELEC)",
         "dateFinCVI": "2025-10-01"
       },
       {
         "numserie": "1154",
-        "position": "E-4",
         "etatcvi": "oui",
+        "position": "E-4LOCATION 04/07/25 AU 11/07/25 HIOLLE TECHNOLOGIE (APGELEC)",
         "dateFinCVI": "2025-10-01"
       },
       {
         "numserie": "1156",
-        "position": "E-4",
         "etatcvi": "oui",
+        "position": "E-4LOCATION 04/07/25 AU 11/07/25 HIOLLE TECHNOLOGIE (APGELEC)",
         "dateFinCVI": "2025-10-01"
       }
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.643Z"
+    "createdAt": "2025-06-26T15:17:33.397Z",
+    "emplacement": "E-4LOCATION 04/07/25 AU 11/07/25 HIOLLE TECHNOLOGIE (APGELEC)"
   },
   {
     "marque": "PHILIPPS",
@@ -2916,7 +3073,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.643Z"
+    "createdAt": "2025-06-26T15:17:33.397Z",
+    "emplacement": "E-4"
   },
   {
     "marque": "GW INSTEK",
@@ -2932,7 +3090,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.643Z"
+    "createdAt": "2025-06-26T15:17:33.397Z",
+    "emplacement": "E-5"
   },
   {
     "marque": "HP",
@@ -2985,7 +3144,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.643Z"
+    "createdAt": "2025-06-26T15:17:33.397Z",
+    "emplacement": "E-5"
   },
   {
     "marque": "HP",
@@ -3001,7 +3161,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.643Z"
+    "createdAt": "2025-06-26T15:17:33.397Z",
+    "emplacement": "E-5"
   },
   {
     "marque": "ISO-TECH",
@@ -3018,7 +3179,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.643Z"
+    "createdAt": "2025-06-26T15:17:33.397Z",
+    "emplacement": "E-5"
   },
   {
     "marque": "KEYSIGHT",
@@ -3034,7 +3196,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.643Z"
+    "createdAt": "2025-06-26T15:17:33.397Z",
+    "emplacement": "E-5"
   },
   {
     "marque": "LAMBDA",
@@ -3051,7 +3214,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.643Z"
+    "createdAt": "2025-06-26T15:17:33.397Z",
+    "emplacement": "E-5"
   },
   {
     "marque": "ROHDE & SCHWARZ",
@@ -3067,7 +3231,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.643Z"
+    "createdAt": "2025-06-26T15:17:33.397Z",
+    "emplacement": "E-5"
   },
   {
     "marque": "TEKTRONIX",
@@ -3084,7 +3249,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.643Z"
+    "createdAt": "2025-06-26T15:17:33.397Z",
+    "emplacement": "E-5"
   },
   {
     "marque": "THURLBY",
@@ -3101,7 +3267,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.643Z"
+    "createdAt": "2025-06-26T15:17:33.397Z",
+    "emplacement": "E-5"
   },
   {
     "marque": "CHAUVIN ARNOUX",
@@ -3321,7 +3488,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.643Z"
+    "createdAt": "2025-06-26T15:17:33.397Z",
+    "emplacement": "F-2+F-1"
   },
   {
     "marque": "AGILENT",
@@ -3355,7 +3523,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.643Z"
+    "createdAt": "2025-06-26T15:17:33.397Z",
+    "emplacement": "F-3"
   },
   {
     "marque": "HP",
@@ -3371,7 +3540,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.643Z"
+    "createdAt": "2025-06-26T15:17:33.397Z",
+    "emplacement": "F-3"
   },
   {
     "marque": "HP",
@@ -3387,7 +3557,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.643Z"
+    "createdAt": "2025-06-26T15:17:33.397Z",
+    "emplacement": "F-3"
   },
   {
     "marque": "KEYSIGHT",
@@ -3403,7 +3574,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.643Z"
+    "createdAt": "2025-06-26T15:17:33.397Z",
+    "emplacement": "F-3"
   },
   {
     "marque": "FLUKE",
@@ -3425,7 +3597,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.643Z"
+    "createdAt": "2025-06-26T15:17:33.397Z",
+    "emplacement": "F-3+F-4"
   },
   {
     "marque": "AGILENT",
@@ -3441,7 +3614,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.643Z"
+    "createdAt": "2025-06-26T15:17:33.397Z",
+    "emplacement": "F-4"
   },
   {
     "marque": "AGILENT",
@@ -3457,7 +3631,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.643Z"
+    "createdAt": "2025-06-26T15:17:33.397Z",
+    "emplacement": "F-4"
   },
   {
     "marque": "AOIP",
@@ -3473,24 +3648,26 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.643Z"
+    "createdAt": "2025-06-26T15:17:33.397Z",
+    "emplacement": "F-4"
   },
   {
     "marque": "HP",
     "model": "34401A",
     "quantite": 1,
-    "description": "",
     "unites": [
       {
         "numserie": "3146A20116",
-        "position": "F-4",
         "etatcvi": "non",
+        "position": "F-4",
         "dateFinCVI": null
       }
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.643Z"
+    "createdAt": "2025-06-26T15:17:33.397Z",
+    "emplacement": "F-4",
+    "description": ""
   },
   {
     "marque": "KEITHLEY",
@@ -3506,7 +3683,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.643Z"
+    "createdAt": "2025-06-26T15:17:33.397Z",
+    "emplacement": "F-4"
   },
   {
     "marque": "KEITHLEY",
@@ -3522,7 +3700,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.643Z"
+    "createdAt": "2025-06-26T15:17:33.397Z",
+    "emplacement": "F-4"
   },
   {
     "marque": "KEITHLEY",
@@ -3538,7 +3717,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.643Z"
+    "createdAt": "2025-06-26T15:17:33.397Z",
+    "emplacement": "F-4"
   },
   {
     "marque": "KEYSIGHT",
@@ -3554,7 +3734,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.643Z"
+    "createdAt": "2025-06-26T15:17:33.397Z",
+    "emplacement": "F-4"
   },
   {
     "marque": "KEITHLEY",
@@ -3588,7 +3769,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.643Z"
+    "createdAt": "2025-06-26T15:17:33.397Z",
+    "emplacement": "F-4+F-3"
   },
   {
     "marque": "KEYSIGHT",
@@ -3610,7 +3792,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.643Z"
+    "createdAt": "2025-06-26T15:17:33.397Z",
+    "emplacement": "F-4+G-5"
   },
   {
     "marque": "AGILENT",
@@ -3626,7 +3809,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.643Z"
+    "createdAt": "2025-06-26T15:17:33.397Z",
+    "emplacement": "F-5"
   },
   {
     "marque": "AGILENT",
@@ -3642,7 +3826,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.643Z"
+    "createdAt": "2025-06-26T15:17:33.397Z",
+    "emplacement": "F-5"
   },
   {
     "marque": "FLUKE",
@@ -3658,7 +3843,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.643Z"
+    "createdAt": "2025-06-26T15:17:33.397Z",
+    "emplacement": "F-5"
   },
   {
     "marque": "KEITHLEY",
@@ -3674,7 +3860,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.643Z"
+    "createdAt": "2025-06-26T15:17:33.397Z",
+    "emplacement": "F-5"
   },
   {
     "marque": "KEITHLEY",
@@ -3690,7 +3877,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.643Z"
+    "createdAt": "2025-06-26T15:17:33.397Z",
+    "emplacement": "F-5"
   },
   {
     "marque": "KEITHLEY",
@@ -3712,7 +3900,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.643Z"
+    "createdAt": "2025-06-26T15:17:33.397Z",
+    "emplacement": "F-5"
   },
   {
     "marque": "KEITHLEY",
@@ -3734,7 +3923,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.643Z"
+    "createdAt": "2025-06-26T15:17:33.397Z",
+    "emplacement": "F-5"
   },
   {
     "marque": "KEITHLEY",
@@ -3750,7 +3940,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.643Z"
+    "createdAt": "2025-06-26T15:17:33.397Z",
+    "emplacement": "F-5"
   },
   {
     "marque": "KEITHLEY",
@@ -3766,7 +3957,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.643Z"
+    "createdAt": "2025-06-26T15:17:33.397Z",
+    "emplacement": "F-5"
   },
   {
     "marque": "KEITHLEY",
@@ -3782,7 +3974,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.643Z"
+    "createdAt": "2025-06-26T15:17:33.397Z",
+    "emplacement": "F-5"
   },
   {
     "marque": "SRS",
@@ -3798,7 +3991,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.643Z"
+    "createdAt": "2025-06-26T15:17:33.397Z",
+    "emplacement": "F-5"
   },
   {
     "marque": "YOKOGAWA",
@@ -3820,13 +4014,13 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.643Z"
+    "createdAt": "2025-06-26T15:17:33.397Z",
+    "emplacement": "F-5"
   },
   {
     "marque": "AGILENT",
     "model": "3458A",
     "quantite": 3,
-    "description": "MY45048857= OPT001\nMY45048957= OPT002\n2823A01207= SANS OPT\n\nhttps://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EmmIzYWcr8dFvvk_v2OvmQkBPkUGEq0Nb8NW37UE5W905Q?e=WPicla",
     "unites": [
       {
         "numserie": "2823A01207",
@@ -3849,7 +4043,9 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.643Z"
+    "createdAt": "2025-06-26T15:17:33.397Z",
+    "emplacement": "F-5+H-1",
+    "description": "MY45048857= OPT001\nMY45048957= OPT002\n2823A01207= SANS OPT\n\nhttps://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EmmIzYWcr8dFvvk_v2OvmQkBPkUGEq0Nb8NW37UE5W905Q?e=WPicla"
   },
   {
     "marque": "KEYSIGHT",
@@ -3871,7 +4067,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.643Z"
+    "createdAt": "2025-06-26T15:17:33.397Z",
+    "emplacement": "F-5+I-3"
   },
   {
     "marque": "FLUKE",
@@ -3887,7 +4084,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.643Z"
+    "createdAt": "2025-06-26T15:17:33.397Z",
+    "emplacement": "G-2"
   },
   {
     "marque": "KEITHLEY",
@@ -3903,7 +4101,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.643Z"
+    "createdAt": "2025-06-26T15:17:33.397Z",
+    "emplacement": "G-2"
   },
   {
     "marque": "MARCONI",
@@ -3919,7 +4118,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.643Z"
+    "createdAt": "2025-06-26T15:17:33.397Z",
+    "emplacement": "G-2"
   },
   {
     "marque": "TDI",
@@ -3935,7 +4135,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.643Z"
+    "createdAt": "2025-06-26T15:17:33.397Z",
+    "emplacement": "G-2"
   },
   {
     "marque": "AGILENT",
@@ -3963,7 +4164,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.643Z"
+    "createdAt": "2025-06-26T15:17:33.397Z",
+    "emplacement": "G-3"
   },
   {
     "marque": "CHAUVIN ARNOUX",
@@ -3979,7 +4181,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.643Z"
+    "createdAt": "2025-06-26T15:17:33.397Z",
+    "emplacement": "G-3"
   },
   {
     "marque": "FLUKE",
@@ -4013,7 +4216,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.643Z"
+    "createdAt": "2025-06-26T15:17:33.397Z",
+    "emplacement": "G-3"
   },
   {
     "marque": "LXI",
@@ -4029,7 +4233,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.643Z"
+    "createdAt": "2025-06-26T15:17:33.397Z",
+    "emplacement": "G-3"
   },
   {
     "marque": "TESTEK",
@@ -4045,7 +4250,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.643Z"
+    "createdAt": "2025-06-26T15:17:33.397Z",
+    "emplacement": "G-3"
   },
   {
     "marque": "VWR",
@@ -4061,7 +4267,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.643Z"
+    "createdAt": "2025-06-26T15:17:33.397Z",
+    "emplacement": "G-3"
   },
   {
     "marque": "AGILENT",
@@ -4077,7 +4284,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.643Z"
+    "createdAt": "2025-06-26T15:17:33.397Z",
+    "emplacement": "G-4"
   },
   {
     "marque": "FLUKE",
@@ -4093,7 +4301,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.643Z"
+    "createdAt": "2025-06-26T15:17:33.397Z",
+    "emplacement": "G-4"
   },
   {
     "marque": "FLUKE",
@@ -4109,7 +4318,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.643Z"
+    "createdAt": "2025-06-26T15:17:33.397Z",
+    "emplacement": "G-4"
   },
   {
     "marque": "GRAPHTEC",
@@ -4125,7 +4335,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.643Z"
+    "createdAt": "2025-06-26T15:17:33.397Z",
+    "emplacement": "G-4"
   },
   {
     "marque": "HP",
@@ -4141,7 +4352,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.643Z"
+    "createdAt": "2025-06-26T15:17:33.397Z",
+    "emplacement": "G-4"
   },
   {
     "marque": "RS",
@@ -4157,7 +4369,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.643Z"
+    "createdAt": "2025-06-26T15:17:33.397Z",
+    "emplacement": "G-4"
   },
   {
     "marque": "VXI",
@@ -4173,7 +4386,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.643Z"
+    "createdAt": "2025-06-26T15:17:33.397Z",
+    "emplacement": "G-4"
   },
   {
     "marque": "AGILENT",
@@ -4195,7 +4409,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.643Z"
+    "createdAt": "2025-06-26T15:17:33.397Z",
+    "emplacement": "G-5"
   },
   {
     "marque": "AGILENT",
@@ -4211,7 +4426,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.643Z"
+    "createdAt": "2025-06-26T15:17:33.397Z",
+    "emplacement": "G-5"
   },
   {
     "marque": "AGILENT",
@@ -4239,7 +4455,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.643Z"
+    "createdAt": "2025-06-26T15:17:33.397Z",
+    "emplacement": "G-5"
   },
   {
     "marque": "CHAUVIN ARNOUX",
@@ -4255,7 +4472,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.643Z"
+    "createdAt": "2025-06-26T15:17:33.397Z",
+    "emplacement": "G-5"
   },
   {
     "marque": "EA",
@@ -4271,7 +4489,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.643Z"
+    "createdAt": "2025-06-26T15:17:33.397Z",
+    "emplacement": "G-5"
   },
   {
     "marque": "HP",
@@ -4287,7 +4506,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.643Z"
+    "createdAt": "2025-06-26T15:17:33.397Z",
+    "emplacement": "G-5"
   },
   {
     "marque": "HP",
@@ -4303,7 +4523,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.643Z"
+    "createdAt": "2025-06-26T15:17:33.397Z",
+    "emplacement": "G-5"
   },
   {
     "marque": "KEITHLEY",
@@ -4319,7 +4540,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.643Z"
+    "createdAt": "2025-06-26T15:17:33.397Z",
+    "emplacement": "G-5"
   },
   {
     "marque": "KEITHLEY",
@@ -4335,7 +4557,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.643Z"
+    "createdAt": "2025-06-26T15:17:33.397Z",
+    "emplacement": "G-5"
   },
   {
     "marque": "KEITHLEY",
@@ -4357,7 +4580,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.643Z"
+    "createdAt": "2025-06-26T15:17:33.397Z",
+    "emplacement": "G-5"
   },
   {
     "marque": "KEYSIGHT",
@@ -4373,13 +4597,13 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.643Z"
+    "createdAt": "2025-06-26T15:17:33.397Z",
+    "emplacement": "G-5"
   },
   {
     "marque": "NATIONAL INSTRUMENT",
     "model": "PXI-1033",
     "quantite": 2,
-    "description": "SN: 303E750  (PARTIE CHEZ MENOVA 27/06/2025)\nSN: 3032344 (PARTIE CHEZ MENOVA 04/07/2025)",
     "unites": [
       {
         "numserie": "303E750",
@@ -4396,7 +4620,9 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.643Z"
+    "createdAt": "2025-06-26T15:17:33.397Z",
+    "emplacement": "G-5 (PARTIE CHEZ MENOVA 27/06/2025)+G-5 (PARTIE CHEZ MENOVA 04/07/2025)",
+    "description": "SN: 303E750  (PARTIE CHEZ MENOVA 27/06/2025)\nSN: 3032344 (PARTIE CHEZ MENOVA 04/07/2025)"
   },
   {
     "marque": "AGILENT",
@@ -4412,7 +4638,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.643Z"
+    "createdAt": "2025-06-26T15:17:33.397Z",
+    "emplacement": "H-1"
   },
   {
     "marque": "HP",
@@ -4428,7 +4655,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.643Z"
+    "createdAt": "2025-06-26T15:17:33.397Z",
+    "emplacement": "H-1"
   },
   {
     "marque": "HP",
@@ -4444,7 +4672,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.643Z"
+    "createdAt": "2025-06-26T15:17:33.397Z",
+    "emplacement": "H-1"
   },
   {
     "marque": "WAYNE KERR",
@@ -4460,7 +4689,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.643Z"
+    "createdAt": "2025-06-26T15:17:33.397Z",
+    "emplacement": "H-1"
   },
   {
     "marque": "GW INSTEK",
@@ -4476,7 +4706,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.644Z"
+    "createdAt": "2025-06-26T15:17:33.397Z",
+    "emplacement": "H-2"
   },
   {
     "marque": "HP",
@@ -4492,7 +4723,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.644Z"
+    "createdAt": "2025-06-26T15:17:33.397Z",
+    "emplacement": "H-2"
   },
   {
     "marque": "HP",
@@ -4508,7 +4740,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.644Z"
+    "createdAt": "2025-06-26T15:17:33.397Z",
+    "emplacement": "H-2"
   },
   {
     "marque": "@",
@@ -4530,7 +4763,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.644Z"
+    "createdAt": "2025-06-26T15:17:33.397Z",
+    "emplacement": "H-3"
   },
   {
     "marque": "AGILENT",
@@ -4546,7 +4780,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.644Z"
+    "createdAt": "2025-06-26T15:17:33.397Z",
+    "emplacement": "H-3"
   },
   {
     "marque": "ANTRITSU",
@@ -4562,7 +4797,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.644Z"
+    "createdAt": "2025-06-26T15:17:33.397Z",
+    "emplacement": "H-3"
   },
   {
     "marque": "FLUKE",
@@ -4578,7 +4814,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.644Z"
+    "createdAt": "2025-06-26T15:17:33.397Z",
+    "emplacement": "H-3"
   },
   {
     "marque": "HP",
@@ -4594,13 +4831,13 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.644Z"
+    "createdAt": "2025-06-26T15:17:33.397Z",
+    "emplacement": "H-3"
   },
   {
     "marque": "HP",
     "model": "16089D",
     "quantite": 1,
-    "description": "(LOCATION 09/07/2025 RETOUR 09/07/2025 SAS BIOPARHOM)",
     "unites": [
       {
         "numserie": "ACCESSOIRES",
@@ -4611,7 +4848,9 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.644Z"
+    "createdAt": "2025-06-26T15:17:33.397Z",
+    "emplacement": "H-3 (LOCATION 09/07/2025 RETOUR 09/07/2025 SAS BIOPARHOM)",
+    "description": "(LOCATION 09/07/2025 RETOUR 09/07/2025 SAS BIOPARHOM)"
   },
   {
     "marque": "PINCE CROCO",
@@ -4627,7 +4866,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.644Z"
+    "createdAt": "2025-06-26T15:17:33.397Z",
+    "emplacement": "H-3"
   },
   {
     "marque": "ROHDE & SCHWARZ",
@@ -4643,7 +4883,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.644Z"
+    "createdAt": "2025-06-26T15:17:33.397Z",
+    "emplacement": "H-3"
   },
   {
     "marque": "SEFELEC",
@@ -4665,7 +4906,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.644Z"
+    "createdAt": "2025-06-26T15:17:33.397Z",
+    "emplacement": "H-3"
   },
   {
     "marque": "SEFELEC",
@@ -4681,7 +4923,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.644Z"
+    "createdAt": "2025-06-26T15:17:33.397Z",
+    "emplacement": "H-3"
   },
   {
     "marque": "SEFELEC",
@@ -4697,7 +4940,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.644Z"
+    "createdAt": "2025-06-26T15:17:33.397Z",
+    "emplacement": "H-3"
   },
   {
     "marque": "SEFELEC",
@@ -4713,7 +4957,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.644Z"
+    "createdAt": "2025-06-26T15:17:33.397Z",
+    "emplacement": "H-3"
   },
   {
     "marque": "TEKTRONIX",
@@ -4729,7 +4974,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.644Z"
+    "createdAt": "2025-06-26T15:17:33.397Z",
+    "emplacement": "H-3"
   },
   {
     "marque": "TREND NETWORKS",
@@ -4745,7 +4991,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.644Z"
+    "createdAt": "2025-06-26T15:17:33.397Z",
+    "emplacement": "H-3"
   },
   {
     "marque": "WAVETEK",
@@ -4761,7 +5008,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.644Z"
+    "createdAt": "2025-06-26T15:17:33.397Z",
+    "emplacement": "H-3"
   },
   {
     "marque": "WAYNE KERR",
@@ -4777,7 +5025,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.644Z"
+    "createdAt": "2025-06-26T15:17:33.397Z",
+    "emplacement": "H-3"
   },
   {
     "marque": "GW INSTEK",
@@ -4794,7 +5043,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.644Z"
+    "createdAt": "2025-06-26T15:17:33.397Z",
+    "emplacement": "H-3 menova"
   },
   {
     "marque": "GW INSTEK",
@@ -4810,7 +5060,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.644Z"
+    "createdAt": "2025-06-26T15:17:33.397Z",
+    "emplacement": "H-4"
   },
   {
     "marque": "SEFELEC",
@@ -4826,7 +5077,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.644Z"
+    "createdAt": "2025-06-26T15:17:33.397Z",
+    "emplacement": "H-4"
   },
   {
     "marque": "ANRITSU",
@@ -4842,7 +5094,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.644Z"
+    "createdAt": "2025-06-26T15:17:33.397Z",
+    "emplacement": "I-1"
   },
   {
     "marque": "KEYSIGHT",
@@ -4858,7 +5111,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.644Z"
+    "createdAt": "2025-06-26T15:17:33.397Z",
+    "emplacement": "I-1"
   },
   {
     "marque": "CHAUVIN ARNOUX",
@@ -4934,7 +5188,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.644Z"
+    "createdAt": "2025-06-26T15:17:33.397Z",
+    "emplacement": "I-1+H-4+J-4"
   },
   {
     "marque": "ANRITSU",
@@ -4950,7 +5205,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.644Z"
+    "createdAt": "2025-06-26T15:17:33.397Z",
+    "emplacement": "I-2"
   },
   {
     "marque": "ANRITSU",
@@ -4966,7 +5222,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.644Z"
+    "createdAt": "2025-06-26T15:17:33.397Z",
+    "emplacement": "I-2"
   },
   {
     "marque": "ANRITSU",
@@ -4982,7 +5239,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.644Z"
+    "createdAt": "2025-06-26T15:17:33.397Z",
+    "emplacement": "I-2"
   },
   {
     "marque": "HP",
@@ -4998,7 +5256,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.644Z"
+    "createdAt": "2025-06-26T15:17:33.397Z",
+    "emplacement": "I-2"
   },
   {
     "marque": "HP",
@@ -5014,7 +5273,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.644Z"
+    "createdAt": "2025-06-26T15:17:33.397Z",
+    "emplacement": "I-2"
   },
   {
     "marque": "RACAL",
@@ -5031,7 +5291,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.644Z"
+    "createdAt": "2025-06-26T15:17:33.397Z",
+    "emplacement": "I-2"
   },
   {
     "marque": "GW INSTEK",
@@ -5054,7 +5315,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.644Z"
+    "createdAt": "2025-06-26T15:17:33.397Z",
+    "emplacement": "I-2+LOCATION MICRO MECANIQUE PYRENENNE 08/07/2025"
   },
   {
     "marque": "AGILENT",
@@ -5070,7 +5332,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.644Z"
+    "createdAt": "2025-06-26T15:17:33.397Z",
+    "emplacement": "I-3"
   },
   {
     "marque": "GW INSTEK",
@@ -5086,7 +5349,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.644Z"
+    "createdAt": "2025-06-26T15:17:33.397Z",
+    "emplacement": "I-3"
   },
   {
     "marque": "MARCONI",
@@ -5102,7 +5366,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.644Z"
+    "createdAt": "2025-06-26T15:17:33.397Z",
+    "emplacement": "I-3"
   },
   {
     "marque": "AGILENT",
@@ -5124,7 +5389,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.644Z"
+    "createdAt": "2025-06-26T15:17:33.397Z",
+    "emplacement": "I-3+H-3"
   },
   {
     "marque": "HP",
@@ -5146,7 +5412,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.644Z"
+    "createdAt": "2025-06-26T15:17:33.397Z",
+    "emplacement": "I-3+H-3"
   },
   {
     "marque": "ADRET",
@@ -5162,7 +5429,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.644Z"
+    "createdAt": "2025-06-26T15:17:33.397Z",
+    "emplacement": "I-4"
   },
   {
     "marque": "ANRITSU",
@@ -5178,7 +5446,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.644Z"
+    "createdAt": "2025-06-26T15:17:33.397Z",
+    "emplacement": "I-4"
   },
   {
     "marque": "ANRITSU",
@@ -5194,13 +5463,13 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.644Z"
+    "createdAt": "2025-06-26T15:17:33.397Z",
+    "emplacement": "I-4"
   },
   {
     "marque": "ANRITSU",
     "model": "MS2720T",
     "quantite": 1,
-    "description": "ARRIVAGE DANS L'ATTENTE D'UNE REPONSE CLIENT VOIR AVEC GIRESSE.\nhttps://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EoyGiJg9RS9IgQzGbpjBt2cBGtxxwnJKWYiUlFdKLbcMzw?e=S6fH3y",
     "unites": [
       {
         "numserie": "1707009",
@@ -5211,7 +5480,9 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.644Z"
+    "createdAt": "2025-06-26T15:17:33.397Z",
+    "emplacement": "I-4",
+    "description": "ARRIVAGE DANS L'ATTENTE D'UNE REPONSE CLIENT VOIR AVEC GIRESSE.\nhttps://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EoyGiJg9RS9IgQzGbpjBt2cBGtxxwnJKWYiUlFdKLbcMzw?e=S6fH3y"
   },
   {
     "marque": "ANRITSU",
@@ -5227,7 +5498,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.644Z"
+    "createdAt": "2025-06-26T15:17:33.397Z",
+    "emplacement": "I-4"
   },
   {
     "marque": "HAMEG",
@@ -5243,7 +5515,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.644Z"
+    "createdAt": "2025-06-26T15:17:33.397Z",
+    "emplacement": "I-4"
   },
   {
     "marque": "METRIX",
@@ -5259,7 +5532,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.644Z"
+    "createdAt": "2025-06-26T15:17:33.398Z",
+    "emplacement": "I-4"
   },
   {
     "marque": "NORTH ATLANTIC",
@@ -5275,7 +5549,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.644Z"
+    "createdAt": "2025-06-26T15:17:33.398Z",
+    "emplacement": "I-4"
   },
   {
     "marque": "GW INSTEK",
@@ -5310,7 +5585,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.644Z"
+    "createdAt": "2025-06-26T15:17:33.398Z",
+    "emplacement": "I-4+I-4(LOCATION MICRO MECANIQUE PYRENENNE 08/07/2025)"
   },
   {
     "marque": "AGILENT",
@@ -5326,7 +5602,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.644Z"
+    "createdAt": "2025-06-26T15:17:33.398Z",
+    "emplacement": "J-1"
   },
   {
     "marque": "AGILENT",
@@ -5342,7 +5619,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.644Z"
+    "createdAt": "2025-06-26T15:17:33.398Z",
+    "emplacement": "J-1"
   },
   {
     "marque": "AGILENT",
@@ -5358,7 +5636,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.644Z"
+    "createdAt": "2025-06-26T15:17:33.398Z",
+    "emplacement": "J-1"
   },
   {
     "marque": "AGILENT",
@@ -5374,7 +5653,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.644Z"
+    "createdAt": "2025-06-26T15:17:33.398Z",
+    "emplacement": "J-2"
   },
   {
     "marque": "HP",
@@ -5390,7 +5670,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.644Z"
+    "createdAt": "2025-06-26T15:17:33.398Z",
+    "emplacement": "J-2"
   },
   {
     "marque": "ROHDE & SCHWARZ",
@@ -5406,7 +5687,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.644Z"
+    "createdAt": "2025-06-26T15:17:33.398Z",
+    "emplacement": "J-2"
   },
   {
     "marque": "TELEDYNE LECROY",
@@ -5422,7 +5704,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.644Z"
+    "createdAt": "2025-06-26T15:17:33.398Z",
+    "emplacement": "J-2"
   },
   {
     "marque": "WILLTEK",
@@ -5438,7 +5721,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.644Z"
+    "createdAt": "2025-06-26T15:17:33.398Z",
+    "emplacement": "J-2"
   },
   {
     "marque": "CHAUVIN ARNOUX",
@@ -5454,7 +5738,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.644Z"
+    "createdAt": "2025-06-26T15:17:33.398Z",
+    "emplacement": "J-3(PARTIE CHEZ MENOVA POUR CVI 02/072025)"
   },
   {
     "marque": "CHAUVIN ARNOUX",
@@ -5470,7 +5755,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.644Z"
+    "createdAt": "2025-06-26T15:17:33.398Z",
+    "emplacement": "J-3"
   },
   {
     "marque": "EIP",
@@ -5487,7 +5773,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.644Z"
+    "createdAt": "2025-06-26T15:17:33.398Z",
+    "emplacement": "J-3"
   },
   {
     "marque": "FLUKE",
@@ -5503,7 +5790,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.644Z"
+    "createdAt": "2025-06-26T15:17:33.398Z",
+    "emplacement": "J-3"
   },
   {
     "marque": "MULTIMETRIX",
@@ -5519,7 +5807,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.644Z"
+    "createdAt": "2025-06-26T15:17:33.398Z",
+    "emplacement": "J-3"
   },
   {
     "marque": "MULTIMETRIX",
@@ -5535,13 +5824,13 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.644Z"
+    "createdAt": "2025-06-26T15:17:33.398Z",
+    "emplacement": "J-3"
   },
   {
     "marque": "FLUKE",
     "model": "DSX5000",
     "quantite": 2,
-    "description": "19385063/19360763(LOCATION DU 02/07/2025 AU 09/07/2025 / RCI VILLIERS LES NANCY)",
     "unites": [
       {
         "numserie": "20263009/19500016",
@@ -5558,7 +5847,9 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.644Z"
+    "createdAt": "2025-06-26T15:17:33.398Z",
+    "emplacement": "J-4+J-4(LOCATION DU 02/07/2025 AU 09/07/2025)",
+    "description": "19385063/19360763(LOCATION DU 02/07/2025 AU 09/07/2025 / RCI VILLIERS LES NANCY)"
   },
   {
     "marque": "EIP",
@@ -5574,7 +5865,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.644Z"
+    "createdAt": "2025-06-26T15:17:33.398Z",
+    "emplacement": "K-1"
   },
   {
     "marque": "HP",
@@ -5590,7 +5882,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.644Z"
+    "createdAt": "2025-06-26T15:17:33.398Z",
+    "emplacement": "K-1"
   },
   {
     "marque": "WANDEL & GOLTERMANN",
@@ -5606,7 +5899,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.644Z"
+    "createdAt": "2025-06-26T15:17:33.398Z",
+    "emplacement": "K-1"
   },
   {
     "marque": "ADDA",
@@ -5622,7 +5916,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.644Z"
+    "createdAt": "2025-06-26T15:17:33.398Z",
+    "emplacement": "K-2"
   },
   {
     "marque": "CABLE MOLEX VERS PCI EXPRESS",
@@ -5638,7 +5933,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.644Z"
+    "createdAt": "2025-06-26T15:17:33.398Z",
+    "emplacement": "K-2"
   },
   {
     "marque": "RS",
@@ -5654,7 +5950,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.644Z"
+    "createdAt": "2025-06-26T15:17:33.398Z",
+    "emplacement": "K-2"
   },
   {
     "marque": "XI LINX",
@@ -5670,7 +5967,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.644Z"
+    "createdAt": "2025-06-26T15:17:33.398Z",
+    "emplacement": "K-2"
   },
   {
     "marque": "CHAUVIN ARNOUX",
@@ -5686,7 +5984,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.644Z"
+    "createdAt": "2025-06-26T15:17:33.398Z",
+    "emplacement": "K-3(PARTIE CHEZ MENOVA POUR CVI 02/07/2025)"
   },
   {
     "marque": "FLUKE",
@@ -5702,7 +6001,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.644Z"
+    "createdAt": "2025-06-26T15:17:33.398Z",
+    "emplacement": "K-3"
   },
   {
     "marque": "ROHDE & SCHWARZ",
@@ -5718,7 +6018,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.644Z"
+    "createdAt": "2025-06-26T15:17:33.398Z",
+    "emplacement": "K-3"
   },
   {
     "marque": "WANDEL & GOLTERMANN",
@@ -5734,7 +6035,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.644Z"
+    "createdAt": "2025-06-26T15:17:33.398Z",
+    "emplacement": "K-3"
   },
   {
     "marque": "BIRD",
@@ -5750,7 +6052,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.644Z"
+    "createdAt": "2025-06-26T15:17:33.398Z",
+    "emplacement": "K-4"
   },
   {
     "marque": "GRAPHTEC",
@@ -5772,7 +6075,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.644Z"
+    "createdAt": "2025-06-26T15:17:33.398Z",
+    "emplacement": "K-4"
   },
   {
     "marque": "HP",
@@ -5788,7 +6092,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.644Z"
+    "createdAt": "2025-06-26T15:17:33.398Z",
+    "emplacement": "K-4"
   },
   {
     "marque": "HP",
@@ -5804,7 +6109,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.644Z"
+    "createdAt": "2025-06-26T15:17:33.398Z",
+    "emplacement": "K-4"
   },
   {
     "marque": "HP",
@@ -5820,7 +6126,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.644Z"
+    "createdAt": "2025-06-26T15:17:33.398Z",
+    "emplacement": "K-4"
   },
   {
     "marque": "HP",
@@ -5836,7 +6143,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.644Z"
+    "createdAt": "2025-06-26T15:17:33.398Z",
+    "emplacement": "K-4"
   },
   {
     "marque": "SIMPSON",
@@ -5852,7 +6160,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.644Z"
+    "createdAt": "2025-06-26T15:17:33.398Z",
+    "emplacement": "K-4"
   },
   {
     "marque": "TEKTRONIX",
@@ -5868,7 +6177,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.644Z"
+    "createdAt": "2025-06-26T15:17:33.398Z",
+    "emplacement": "K-4"
   },
   {
     "marque": "TEKTRONIX",
@@ -5884,7 +6194,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.644Z"
+    "createdAt": "2025-06-26T15:17:33.398Z",
+    "emplacement": "K-4"
   },
   {
     "marque": "TELEDYNE LECROY",
@@ -5900,7 +6211,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.644Z"
+    "createdAt": "2025-06-26T15:17:33.398Z",
+    "emplacement": "K-4"
   },
   {
     "marque": "YOKOGAWA",
@@ -5916,7 +6228,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.644Z"
+    "createdAt": "2025-06-26T15:17:33.398Z",
+    "emplacement": "K-4"
   },
   {
     "marque": "ELGAR",
@@ -5950,7 +6263,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.644Z"
+    "createdAt": "2025-06-26T15:17:33.398Z",
+    "emplacement": "L-1"
   },
   {
     "marque": "TEKTRONIX",
@@ -5972,7 +6286,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.644Z"
+    "createdAt": "2025-06-26T15:17:33.398Z",
+    "emplacement": "L-1"
   },
   {
     "marque": "TEKTRONIX",
@@ -5988,7 +6303,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.644Z"
+    "createdAt": "2025-06-26T15:17:33.398Z",
+    "emplacement": "L-1"
   },
   {
     "marque": "AGILENT",
@@ -6004,7 +6320,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.644Z"
+    "createdAt": "2025-06-26T15:17:33.398Z",
+    "emplacement": "LOC MENOVA"
   },
   {
     "marque": "HP",
@@ -6020,7 +6337,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.644Z"
+    "createdAt": "2025-06-26T15:17:33.398Z",
+    "emplacement": "M-1"
   },
   {
     "marque": "ITECH",
@@ -6096,7 +6414,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.644Z"
+    "createdAt": "2025-06-26T15:17:33.398Z",
+    "emplacement": "M-1"
   },
   {
     "marque": "SCHWARZBEK",
@@ -6112,7 +6431,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.644Z"
+    "createdAt": "2025-06-26T15:17:33.398Z",
+    "emplacement": "M-1"
   },
   {
     "marque": "AGILENT",
@@ -6128,7 +6448,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.644Z"
+    "createdAt": "2025-06-26T15:17:33.398Z",
+    "emplacement": "M-2"
   },
   {
     "marque": "BK PRECISION",
@@ -6144,7 +6465,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.644Z"
+    "createdAt": "2025-06-26T15:17:33.398Z",
+    "emplacement": "M-2"
   },
   {
     "marque": "CHROMA",
@@ -6178,7 +6500,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.644Z"
+    "createdAt": "2025-06-26T15:17:33.398Z",
+    "emplacement": "M-2"
   },
   {
     "marque": "CHROMA",
@@ -6194,7 +6517,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.644Z"
+    "createdAt": "2025-06-26T15:17:33.398Z",
+    "emplacement": "M-2"
   },
   {
     "marque": "HP",
@@ -6210,7 +6534,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.644Z"
+    "createdAt": "2025-06-26T15:17:33.398Z",
+    "emplacement": "M-2"
   },
   {
     "marque": "KEITHLEY",
@@ -6226,7 +6551,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.644Z"
+    "createdAt": "2025-06-26T15:17:33.398Z",
+    "emplacement": "M-2"
   },
   {
     "marque": "TEKTRONIX",
@@ -6242,7 +6568,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.644Z"
+    "createdAt": "2025-06-26T15:17:33.398Z",
+    "emplacement": "M-2"
   },
   {
     "marque": "TEKTRONIX",
@@ -6258,7 +6585,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.644Z"
+    "createdAt": "2025-06-26T15:17:33.398Z",
+    "emplacement": "M-2"
   },
   {
     "marque": "AEROFLEX",
@@ -6275,7 +6603,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.644Z"
+    "createdAt": "2025-06-26T15:17:33.398Z",
+    "emplacement": "M-3"
   },
   {
     "marque": "AGILENT",
@@ -6291,7 +6620,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.644Z"
+    "createdAt": "2025-06-26T15:17:33.398Z",
+    "emplacement": "M-3"
   },
   {
     "marque": "ANRITSU",
@@ -6307,7 +6637,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.644Z"
+    "createdAt": "2025-06-26T15:17:33.398Z",
+    "emplacement": "M-3"
   },
   {
     "marque": "ELC",
@@ -6323,7 +6654,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.644Z"
+    "createdAt": "2025-06-26T15:17:33.398Z",
+    "emplacement": "M-3"
   },
   {
     "marque": "FLUKE",
@@ -6351,7 +6683,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.644Z"
+    "createdAt": "2025-06-26T15:17:33.398Z",
+    "emplacement": "M-3"
   },
   {
     "marque": "FLUKE",
@@ -6367,7 +6700,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.644Z"
+    "createdAt": "2025-06-26T15:17:33.398Z",
+    "emplacement": "M-3"
   },
   {
     "marque": "TELEDYNE LECROY",
@@ -6383,7 +6717,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.644Z"
+    "createdAt": "2025-06-26T15:17:33.398Z",
+    "emplacement": "M-3"
   },
   {
     "marque": "DARE",
@@ -6399,7 +6734,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.644Z"
+    "createdAt": "2025-06-26T15:17:33.398Z",
+    "emplacement": "M-4"
   },
   {
     "marque": "NATURO + ICS ELECT",
@@ -6415,7 +6751,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.644Z"
+    "createdAt": "2025-06-26T15:17:33.398Z",
+    "emplacement": "M-4"
   },
   {
     "marque": "ROHDE & SCHWARZ",
@@ -6432,7 +6769,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.644Z"
+    "createdAt": "2025-06-26T15:17:33.398Z",
+    "emplacement": "M-4"
   },
   {
     "marque": "ROHDE & SCHWARZ",
@@ -6448,7 +6786,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.644Z"
+    "createdAt": "2025-06-26T15:17:33.398Z",
+    "emplacement": "M-4"
   },
   {
     "marque": "ROHDE & SCHWARZ",
@@ -6476,7 +6815,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.644Z"
+    "createdAt": "2025-06-26T15:17:33.398Z",
+    "emplacement": "M-4"
   },
   {
     "marque": "ROHDE & SCHWARZ",
@@ -6492,7 +6832,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.644Z"
+    "createdAt": "2025-06-26T15:17:33.398Z",
+    "emplacement": "M-4"
   },
   {
     "marque": "AGILENT",
@@ -6509,7 +6850,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.644Z"
+    "createdAt": "2025-06-26T15:17:33.398Z",
+    "emplacement": "E-4"
   },
   {
     "marque": "FLUKE",
@@ -6526,7 +6868,8 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.644Z"
+    "createdAt": "2025-06-26T15:17:33.398Z",
+    "emplacement": "G-3"
   },
   {
     "marque": "TEKTRONIX",
@@ -6543,12 +6886,14 @@
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.644Z"
+    "createdAt": "2025-06-26T15:17:33.398Z",
+    "emplacement": "MENOVA"
   },
   {
     "marque": "EA",
     "model": "PS9080-200-4HE",
     "quantite": 1,
+    "emplacement": "M-2",
     "description": "",
     "unites": [
       {
@@ -6558,31 +6903,29 @@
         "dateFinCVI": null
       }
     ],
-    "etatcvi": "non",
-    "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.644Z"
+    "createdAt": "2025-06-27T12:53:29.277Z"
   },
   {
     "marque": "TELEDYNE LECROY",
     "model": "ACCESSOIRES POUR HDO 9404-MS (MSO-DLS-001)",
     "quantite": 1,
+    "emplacement": "C-6",
     "description": "SACHET FOURNIS AVEC 1x CABLE D'ALIM / 1x MSO-DLS-001 / 1x SACHET(20x GROUND EXTENDERS) / 1x SACHET(5x GROUND FLYING LEAD) / 1x SACHET(20x GROUND EXTENDERS) / 1x SACHET(22x XL MICROGRIPPERS)\nhttps://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EkVJgm1DH7NKp0gm9dWov2UBQ4Za4iR99Yeh5HJrP2VvlA?e=ruwZxT",
     "unites": [
       {
         "numserie": "LCRY4403N30170",
-        "position": "C-6",
         "etatcvi": "non",
+        "position": "C-6",
         "dateFinCVI": null
       }
     ],
-    "etatcvi": "non",
-    "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.644Z"
+    "createdAt": "2025-06-30T15:01:18.858Z"
   },
   {
     "marque": "CHAUVIN ARNOUX",
     "model": "CA6255",
     "quantite": 1,
+    "emplacement": "H-2",
     "description": "",
     "unites": [
       {
@@ -6592,43 +6935,40 @@
         "dateFinCVI": null
       }
     ],
-    "etatcvi": "non",
-    "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.644Z"
+    "createdAt": "2025-07-01T08:50:04.466Z"
   },
   {
     "marque": "AGILENT",
     "model": "34401A",
     "quantite": 4,
+    "emplacement": "LAB (ENVOYER A MENOVA POUR CVI)",
     "description": "4x APPAREILS ENVOYER A MENOVA POUR CVI\nCLIENT: THERMOCOAX",
     "unites": [
       {
         "numserie": "MY53007035",
-        "position": "LAB (ENVOYER A MENOVA POUR CVI)",
         "etatcvi": "non",
+        "position": "LAB (ENVOYER A MENOVA POUR CVI)",
         "dateFinCVI": null
       },
       {
         "numserie": "MY53007187",
-        "position": "LAB (ENVOYER A MENOVA POUR CVI)",
         "etatcvi": "non",
+        "position": "LAB (ENVOYER A MENOVA POUR CVI)",
         "dateFinCVI": null
       },
       {
         "numserie": "MY53007182",
-        "position": "LAB (ENVOYER A MENOVA POUR CVI)",
         "etatcvi": "non",
+        "position": "LAB (ENVOYER A MENOVA POUR CVI)",
         "dateFinCVI": null
       },
       {
         "numserie": "MY53007030",
-        "position": "LAB (ENVOYER A MENOVA POUR CVI)",
         "etatcvi": "non",
+        "position": "LAB (ENVOYER A MENOVA POUR CVI)",
         "dateFinCVI": null
       }
     ],
-    "etatcvi": "non",
-    "dateFinCVI": null,
-    "createdAt": "2025-07-04T09:24:07.644Z"
+    "createdAt": "2025-07-02T13:47:08.246Z"
   }
 ]
