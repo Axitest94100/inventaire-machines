@@ -999,23 +999,6 @@
     "emplacement": "ARRIVAGE"
   },
   {
-    "marque": "KEYSIGHT",
-    "model": "E4980AL",
-    "quantite": 1,
-    "unites": [
-      {
-        "numserie": "MY54305346",
-        "position": "B-1",
-        "etatcvi": "non",
-        "dateFinCVI": null
-      }
-    ],
-    "etatcvi": "non",
-    "dateFinCVI": null,
-    "createdAt": "2025-06-26T15:17:33.396Z",
-    "emplacement": "B-1"
-  },
-  {
     "marque": "TELEDYNE LECROY",
     "model": "HDO8058",
     "quantite": 1,
