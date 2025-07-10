@@ -6971,5 +6971,21 @@
       }
     ],
     "createdAt": "2025-07-08T14:22:35.877Z"
+  },
+  {
+    "marque": "TDK LAMBDA",
+    "model": "GEN250-40-3P400",
+    "quantite": 1,
+    "emplacement": "ARRIVAGE",
+    "description": "",
+    "unites": [
+      {
+        "numserie": "18E7985T",
+        "position": "ARRIVAGE",
+        "etatcvi": "oui",
+        "dateFinCVI": "2026-07-01"
+      }
+    ],
+    "createdAt": "2025-07-10T08:49:23.324Z"
   }
 ]
