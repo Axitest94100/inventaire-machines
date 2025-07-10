@@ -5104,7 +5104,7 @@
     "unites": [
       {
         "numserie": "197866",
-        "position": "I-1",
+        "position": "I-1(LOCATION ARCADIA 1 SEMAINE A PARTIR DU 11/07/2025)",
         "etatcvi": "non",
         "dateFinCVI": null
       },
@@ -5116,7 +5116,7 @@
       },
       {
         "numserie": "197861",
-        "position": "I-1",
+        "position": "I-1 (LOCATION ARCADIA 1 SEMAINE A PARTIR DU 11/07/2025)",
         "etatcvi": "non",
         "dateFinCVI": null
       },
@@ -5164,7 +5164,7 @@
       },
       {
         "numserie": "164376UFH",
-        "position": "J-4",
+        "position": "J-4(LOCATION ARCADIA 1 SEMAINE A PARTIR DU 11/07/2025)",
         "etatcvi": "non",
         "dateFinCVI": null
       }
@@ -5172,7 +5172,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.397Z",
-    "emplacement": "I-1+H-4+J-4"
+    "emplacement": "I-1(LOCATION ARCADIA 1 SEMAINE A PARTIR DU 11/07/2025) + I-1 + I-1 (LOCATION ARCADIA 1 SEMAINE A PARTIR DU 11/07/2025) + H-4 + J-4 + J-4(LOCATION ARCADIA 1 SEMAINE A PARTIR DU 11/07/2025)"
   },
   {
     "marque": "ANRITSU",
