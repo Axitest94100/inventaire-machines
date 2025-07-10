@@ -3003,14 +3003,14 @@
       {
         "numserie": "7639273",
         "etatcvi": "non",
-        "position": "E-4(LOCATION 04/07/25 AU 11/07/25 A HIOLLE TECHNOLOGIE (APGELEC)",
+        "position": "E-4(LOCATION 04/07/25 AU 11/07/25 HIOLLE TECHNOLOGIE (APGELEC)",
         "dateFinCVI": null
       }
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.397Z",
-    "emplacement": "E-4(LOCATION 04/07/25 AU 11/07/25 A HIOLLE TECHNOLOGIE (APGELEC)"
+    "emplacement": "E-4(LOCATION 04/07/25 AU 11/07/25 HIOLLE TECHNOLOGIE (APGELEC)"
   },
   {
     "marque": "MEGGER",
