@@ -6987,5 +6987,21 @@
       }
     ],
     "createdAt": "2025-07-10T08:49:23.324Z"
+  },
+  {
+    "marque": "CHROMA",
+    "model": "61601 + GPIB",
+    "quantite": 1,
+    "emplacement": "ARRIVAGE",
+    "description": "CLIENT SLB",
+    "unites": [
+      {
+        "numserie": "ABO000000768",
+        "position": "ARRIVAGE",
+        "etatcvi": "oui",
+        "dateFinCVI": "2026-07-01"
+      }
+    ],
+    "createdAt": "2025-07-10T09:00:25.486Z"
   }
 ]
