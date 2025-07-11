@@ -3003,14 +3003,14 @@
       {
         "numserie": "7639273",
         "etatcvi": "non",
-        "position": "E-4(LOCATION 04/07/25 AU 11/07/25 HIOLLE TECHNOLOGIE (APGELEC)",
+        "position": "E-4",
         "dateFinCVI": null
       }
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.397Z",
-    "emplacement": "E-4(LOCATION 04/07/25 AU 11/07/25 HIOLLE TECHNOLOGIE (APGELEC)"
+    "emplacement": "E-4"
   },
   {
     "marque": "MEGGER",
@@ -3021,7 +3021,7 @@
       {
         "numserie": "1160",
         "etatcvi": "oui",
-        "position": "E-4LOCATION 04/07/25 AU 11/07/25 HIOLLE TECHNOLOGIE (APGELEC)",
+        "position": "E-4",
         "dateFinCVI": "2025-10-01"
       },
       {
@@ -3040,7 +3040,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.397Z",
-    "emplacement": "E-4LOCATION 04/07/25 AU 11/07/25 HIOLLE TECHNOLOGIE (APGELEC)"
+    "emplacement": "E-4 + E-4LOCATION 04/07/25 AU 11/07/25 HIOLLE TECHNOLOGIE (APGELEC)"
   },
   {
     "marque": "PHILIPPS",
