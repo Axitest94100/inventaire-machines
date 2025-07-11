@@ -971,14 +971,14 @@
       {
         "numserie": "MY46202938",
         "etatcvi": "oui",
-        "position": "H-3 (EN LOCATION)",
+        "position": "H-3 ",
         "dateFinCVI": "2025-10-01"
       }
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.396Z",
-    "emplacement": "H-3 (EN LOCATION)"
+    "emplacement": "H-3"
   },
   {
     "marque": "TELEDYNE LECROY",
@@ -4824,7 +4824,7 @@
     "unites": [
       {
         "numserie": "ACCESSOIRES",
-        "position": "H-3 (LOCATION 09/07/2025 RETOUR 09/07/2025 SAS BIOPARHOM)",
+        "position": "H-3",
         "etatcvi": "non",
         "dateFinCVI": null
       }
@@ -4832,7 +4832,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.397Z",
-    "emplacement": "H-3 (LOCATION 09/07/2025 RETOUR 09/07/2025 SAS BIOPARHOM)",
+    "emplacement": "H-3",
     "description": "(LOCATION 09/07/2025 RETOUR 09/07/2025 SAS BIOPARHOM)"
   },
   {
