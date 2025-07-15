@@ -6841,7 +6841,7 @@
     "unites": [
       {
         "numserie": "C025380",
-        "position": "Arrivage ",
+        "position": "Arrivage  (pour safran)",
         "etatcvi": "oui",
         "dateFinCVI": "2026-07-01"
       }
@@ -6849,7 +6849,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.398Z",
-    "emplacement": "Arrivage"
+    "emplacement": "Arrivage  (pour safran)"
   },
   {
     "marque": "EA",
