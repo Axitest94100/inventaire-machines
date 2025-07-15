@@ -966,19 +966,19 @@
     "marque": "AGILENT",
     "model": "E4980A",
     "quantite": 1,
-    "description": "(LOCATION : SAS BIOPARHOM ; RETOUR: 09/07/2025 )(COMPLEMENT: HP 16089D ACCESSOIRE)\nhttps://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/ElAMdXX0WShItC2dzTcPANIBk5dlrQLoF0GGztq34h3Bag?e=EZ59iX",
+    "description": "(CHEZ MENOVA LE 15/07/2025)\nhttps://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/ElAMdXX0WShItC2dzTcPANIBk5dlrQLoF0GGztq34h3Bag?e=EZ59iX",
     "unites": [
       {
         "numserie": "MY46202938",
         "etatcvi": "oui",
-        "position": "H-3 ",
+        "position": "H-3 (CHEZ MENOVA LE 15/07/2025)",
         "dateFinCVI": "2025-10-01"
       }
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.396Z",
-    "emplacement": "H-3"
+    "emplacement": "H-3 (CHEZ MENOVA LE 15/07/2025)"
   },
   {
     "marque": "TELEDYNE LECROY",
