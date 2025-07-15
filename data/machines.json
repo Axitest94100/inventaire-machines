@@ -6841,15 +6841,15 @@
     "unites": [
       {
         "numserie": "C025380",
-        "position": "MENOVA",
+        "position": "Arrivage ",
         "etatcvi": "oui",
-        "dateFinCVI": "2025-10-01"
+        "dateFinCVI": "2026-07-01"
       }
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.398Z",
-    "emplacement": "MENOVA"
+    "emplacement": "Arrivage"
   },
   {
     "marque": "EA",
