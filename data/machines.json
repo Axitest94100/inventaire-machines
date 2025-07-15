@@ -3040,7 +3040,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.397Z",
-    "emplacement": "E-4 + E-4LOCATION 04/07/25 AU 11/07/25 HIOLLE TECHNOLOGIE (APGELEC)"
+    "emplacement": "E-4+E-4LOCATION 04/07/25 AU 11/07/25 HIOLLE TECHNOLOGIE (APGELEC)"
   },
   {
     "marque": "PHILIPPS",
@@ -5587,7 +5587,8 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.398Z",
-    "emplacement": "J-1"
+    "emplacement": "J-1",
+    "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/Erl0s-A-g4BAmaRG4eVzPp4B7jkqbA4biFtmHq9iZ6sAOg?e=c6e6Tf"
   },
   {
     "marque": "AGILENT",
