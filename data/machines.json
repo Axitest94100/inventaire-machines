@@ -4584,30 +4584,6 @@
     "emplacement": "G-5"
   },
   {
-    "marque": "NATIONAL INSTRUMENT",
-    "model": "PXI-1033",
-    "quantite": 2,
-    "unites": [
-      {
-        "numserie": "303E750",
-        "position": "G-5 (PARTIE CHEZ MENOVA 27/06/2025)",
-        "etatcvi": "non",
-        "dateFinCVI": null
-      },
-      {
-        "numserie": "3032344",
-        "position": "G-5 (PARTIE CHEZ MENOVA 04/07/2025)",
-        "etatcvi": "non",
-        "dateFinCVI": null
-      }
-    ],
-    "etatcvi": "non",
-    "dateFinCVI": null,
-    "createdAt": "2025-06-26T15:17:33.397Z",
-    "emplacement": "G-5 (PARTIE CHEZ MENOVA 27/06/2025)+G-5 (PARTIE CHEZ MENOVA 04/07/2025)",
-    "description": "SN: 303E750  (PARTIE CHEZ MENOVA 27/06/2025)\nSN: 3032344 (PARTIE CHEZ MENOVA 04/07/2025)"
-  },
-  {
     "marque": "AGILENT",
     "model": "4294A",
     "quantite": 1,
