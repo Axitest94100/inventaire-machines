@@ -39,7 +39,7 @@
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.396Z",
     "emplacement": "A-1",
-    "description": "Problème d'affichage\nhttps://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/Emfe2EPBnLVHuGWCuXgCGnMBA8dNGKQEg3_7Yp77UVmelA?e=hchyQ5"
+    "description": "ProblÃ¨me d'affichage\nhttps://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/Emfe2EPBnLVHuGWCuXgCGnMBA8dNGKQEg3_7Yp77UVmelA?e=hchyQ5"
   },
   {
     "marque": "RS PRO",
@@ -6997,5 +6997,21 @@
       }
     ],
     "createdAt": "2025-07-10T15:20:18.029Z"
+  },
+  {
+    "marque": "KEYSIGHT",
+    "model": "34972A",
+    "quantite": 1,
+    "emplacement": "F-5",
+    "description": "CVI: M2407066",
+    "unites": [
+      {
+        "numserie": "MY49020031",
+        "position": "F-5",
+        "etatcvi": "oui",
+        "dateFinCVI": "2026-07-01"
+      }
+    ],
+    "createdAt": "2025-07-16T08:31:26.270Z"
   }
 ]
