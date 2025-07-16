@@ -5939,16 +5939,16 @@
     "unites": [
       {
         "numserie": "19260039",
-        "position": "K-3(PARTIE EN LOCATION FEA TECHNOLOGIE DU 09/07/2025 AU 15/07/2025))",
         "etatcvi": "oui",
+        "position": "K-3",
         "dateFinCVI": "2026-07-01"
       }
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.398Z",
-    "emplacement": "K-3(PARTIE EN LOCATION FEA TECHNOLOGIE DU 09/07/2025 AU 15/07/2025))",
-    "description": "(PARTIE EN LOCATION FEA TECHNOLOGIE DU 09/07/2025 AU 15/07/2025))"
+    "emplacement": "K-3",
+    "description": ""
   },
   {
     "marque": "FLUKE",
