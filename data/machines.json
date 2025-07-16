@@ -38,7 +38,8 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.396Z",
-    "emplacement": "A-1"
+    "emplacement": "A-1",
+    "description": "Problème d'affichage"
   },
   {
     "marque": "RS PRO",
@@ -5442,7 +5443,7 @@
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.397Z",
     "emplacement": "I-4 (LOCATION CICOR COMBREE DU 07/07/2025 A 04/08/2025)",
-    "description": "(LOCATION CICOR COMBREE DU 07/07/2025 A 04/08/2025)\nhttps://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EoyGiJg9RS9IgQzGbpjBt2cBGtxxwnJKWYiUlFdKLbcMzw?e=S6fH3y"
+    "description": "(LOCATION CICOR COMBREE DU 07/07/2025 A 04/08/2025)\nhttps://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EoyGiJg9RS9IgQzGbpjBt2cBGtxxwnJKWYiUlFdKLbcMzw?e=S6fH3y\nhttps://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EoyGiJg9RS9IgQzGbpjBt2cBGtxxwnJKWYiUlFdKLbcMzw?e=Xl5Pct"
   },
   {
     "marque": "ANRITSU",
