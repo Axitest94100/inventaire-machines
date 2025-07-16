@@ -3017,7 +3017,7 @@
     "marque": "MEGGER",
     "model": "MIT520/2",
     "quantite": 3,
-    "description": "SN: 1160 :LOCATION 04/07/25 AU 11/07/25  HIOLLE TECHNOLOGIE (APGELEC)\nhttps://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EkddRY-HaxVLvK1QaAtJ0cUBsSMnHYb7OIEE-VUGu1wjsQ?e=vImef8",
+    "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EkddRY-HaxVLvK1QaAtJ0cUBsSMnHYb7OIEE-VUGu1wjsQ?e=vImef8",
     "unites": [
       {
         "numserie": "1160",
@@ -3028,20 +3028,20 @@
       {
         "numserie": "1154",
         "etatcvi": "oui",
-        "position": "E-4LOCATION 04/07/25 AU 11/07/25 HIOLLE TECHNOLOGIE (APGELEC)",
+        "position": "E-4",
         "dateFinCVI": "2025-10-01"
       },
       {
         "numserie": "1156",
         "etatcvi": "oui",
-        "position": "E-4LOCATION 04/07/25 AU 11/07/25 HIOLLE TECHNOLOGIE (APGELEC)",
+        "position": "E-4",
         "dateFinCVI": "2025-10-01"
       }
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.397Z",
-    "emplacement": "E-4+E-4LOCATION 04/07/25 AU 11/07/25 HIOLLE TECHNOLOGIE (APGELEC)"
+    "emplacement": "E-4"
   },
   {
     "marque": "PHILIPPS",
@@ -5081,75 +5081,75 @@
     "unites": [
       {
         "numserie": "197866",
-        "position": "I-1(LOCATION ARCADIA 1 SEMAINE A PARTIR DU 11/07/2025)",
         "etatcvi": "non",
+        "position": "I-1(LOCATION ARCADIA 1 SEMAINE A PARTIR DU 11/07/2025)",
         "dateFinCVI": null
       },
       {
         "numserie": "197860",
-        "position": "I-1",
         "etatcvi": "non",
+        "position": "I-1",
         "dateFinCVI": null
       },
       {
         "numserie": "197861",
-        "position": "I-1 (LOCATION ARCADIA 1 SEMAINE A PARTIR DU 11/07/2025)",
         "etatcvi": "non",
+        "position": "I-1 (LOCATION ARCADIA 1 SEMAINE A PARTIR DU 11/07/2025)",
         "dateFinCVI": null
       },
       {
         "numserie": "197865",
-        "position": "I-1",
         "etatcvi": "non",
+        "position": "I-1",
         "dateFinCVI": null
       },
       {
         "numserie": "201959",
-        "position": "I-1",
         "etatcvi": "non",
+        "position": "I-1",
         "dateFinCVI": null
       },
       {
         "numserie": "201960",
-        "position": "I-1",
         "etatcvi": "non",
+        "position": "I-1",
         "dateFinCVI": null
       },
       {
         "numserie": "197869",
-        "position": "I-1",
         "etatcvi": "non",
+        "position": "I-1",
         "dateFinCVI": null
       },
       {
         "numserie": "197859",
-        "position": "H-4",
         "etatcvi": "non",
+        "position": "H-4",
         "dateFinCVI": null
       },
       {
         "numserie": "201957",
-        "position": "H-4",
         "etatcvi": "non",
+        "position": "H-4",
         "dateFinCVI": null
       },
       {
         "numserie": "191101WGH",
-        "position": "J-4",
         "etatcvi": "non",
+        "position": "J-4",
         "dateFinCVI": null
       },
       {
         "numserie": "164376UFH",
-        "position": "J-4(LOCATION ARCADIA 1 SEMAINE A PARTIR DU 11/07/2025)",
         "etatcvi": "non",
+        "position": "J-4(LOCATION ARCADIA 1 SEMAINE A PARTIR DU 11/07/2025)",
         "dateFinCVI": null
       }
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.397Z",
-    "emplacement": "I-1(LOCATION ARCADIA 1 SEMAINE A PARTIR DU 11/07/2025)+I-1+I-1 (LOCATION ARCADIA 1 SEMAINE A PARTIR DU 11/07/2025)+H-4+J-4+J-4(LOCATION ARCADIA 1 SEMAINE A PARTIR DU 11/07/2025)"
+    "emplacement": "I-1(LOCATION ARCADIA 1 SEMAINE A PARTIR DU 11/07/2025) + I-1 + I-1 (LOCATION ARCADIA 1 SEMAINE A PARTIR DU 11/07/2025) + H-4 + J-4 + J-4(LOCATION ARCADIA 1 SEMAINE A PARTIR DU 11/07/2025)"
   },
   {
     "marque": "ANRITSU",
