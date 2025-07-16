@@ -39,7 +39,7 @@
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.396Z",
     "emplacement": "A-1",
-    "description": "ProblÃÂÃÂÃÂÃÂ¨me d'affichage\nhttps://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/Emfe2EPBnLVHuGWCuXgCGnMBA8dNGKQEg3_7Yp77UVmelA?e=hchyQ5"
+    "description": "ProblÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¨me d'affichage\nhttps://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/Emfe2EPBnLVHuGWCuXgCGnMBA8dNGKQEg3_7Yp77UVmelA?e=hchyQ5"
   },
   {
     "marque": "RS PRO",
@@ -7014,5 +7014,21 @@
       }
     ],
     "createdAt": "2025-07-16T08:31:26.270Z"
+  },
+  {
+    "marque": "TELEDYNE LECROY",
+    "model": "WAVESURFER510",
+    "quantite": 1,
+    "emplacement": "A-5",
+    "description": "",
+    "unites": [
+      {
+        "numserie": "LCRY4501N30314",
+        "position": "A-5",
+        "etatcvi": "oui",
+        "dateFinCVI": "2025-10-16"
+      }
+    ],
+    "createdAt": "2025-07-16T15:45:49.498Z"
   }
 ]
