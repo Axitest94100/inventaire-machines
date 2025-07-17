@@ -6881,9 +6881,9 @@
     "unites": [
       {
         "numserie": "MY53007035",
-        "etatcvi": "non",
+        "etatcvi": "oui",
         "position": "ARRIVAGE",
-        "dateFinCVI": null
+        "dateFinCVI": "2026-07-01"
       },
       {
         "numserie": "MY53007187",
