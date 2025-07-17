@@ -6893,9 +6893,9 @@
       },
       {
         "numserie": "MY53007182",
-        "etatcvi": "non",
-        "position": "LAB (ENVOYER A MENOVA POUR CVI)",
-        "dateFinCVI": null
+        "etatcvi": "oui",
+        "position": "ARRIVAGE",
+        "dateFinCVI": "2026-07-01"
       },
       {
         "numserie": "MY53007030",
