@@ -39,7 +39,7 @@
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.396Z",
     "emplacement": "A-1",
-    "description": "ProblÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¨me d'affichage\nhttps://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/Emfe2EPBnLVHuGWCuXgCGnMBA8dNGKQEg3_7Yp77UVmelA?e=hchyQ5"
+    "description": "ProblÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¨me d'affichage\nhttps://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/Emfe2EPBnLVHuGWCuXgCGnMBA8dNGKQEg3_7Yp77UVmelA?e=hchyQ5"
   },
   {
     "marque": "RS PRO",
@@ -1806,7 +1806,7 @@
   },
   {
     "marque": "KEYSIGHT",
-    "model": "MSO5804A",
+    "model": "MSOS804A",
     "quantite": 1,
     "unites": [
       {
@@ -1819,7 +1819,8 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.396Z",
-    "emplacement": "C-6"
+    "emplacement": "C-6",
+    "description": ""
   },
   {
     "marque": "TELEDYNE LECROY",
@@ -4034,7 +4035,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.397Z",
-    "emplacement": "F-5 + H-1",
+    "emplacement": "F-5+H-1",
     "description": "MY45048857= OPT001\nMY45048957= OPT002\n2823A01207= SANS OPT\n\nhttps://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EmmIzYWcr8dFvvk_v2OvmQkBPkUGEq0Nb8NW37UE5W905Q?e=WPicla"
   },
   {
