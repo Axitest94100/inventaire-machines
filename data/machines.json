@@ -486,7 +486,7 @@
   {
     "marque": "TEKTRONIX",
     "model": "TDS3012",
-    "quantite": 2,
+    "quantite": 3,
     "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EuoYUoxux6pPnMwCB-qzHB0BIAxVKUkV1o3sDiWV0NsohA",
     "unites": [
       {
@@ -500,6 +500,12 @@
         "position": "A-3",
         "etatcvi": "non",
         "dateFinCVI": null
+      },
+      {
+        "numserie": "B016968",
+        "position": "A-3",
+        "etatcvi": "oui",
+        "dateFinCVI": "2024-12-01"
       }
     ],
     "etatcvi": "non",
