@@ -258,7 +258,7 @@
   },
   {
     "marque": "TEKTRONIX",
-    "model": "MS04054B",
+    "model": "MSO4054B",
     "quantite": 1,
     "unites": [
       {
@@ -271,7 +271,8 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.396Z",
-    "emplacement": "A-2"
+    "emplacement": "A-2",
+    "description": ""
   },
   {
     "marque": "TEKTRONIX",
