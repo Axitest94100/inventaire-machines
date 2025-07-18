@@ -6910,13 +6910,13 @@
     "marque": "AOIP",
     "model": "OM16",
     "quantite": 1,
-    "emplacement": "ARRIVAGE",
-    "description": "PARTIE CHEZ MENOVA 09/07/2025",
+    "emplacement": "G-5",
+    "description": "ACCESSOIRES:\n-1x PINCE CROCO NOIRE VERS XLR\n-2x POINTES DE TEST VERS XLR\n-1x GUIDE D'UTILISATION",
     "unites": [
       {
         "numserie": "DM2845",
-        "position": "ARRIVAGE",
         "etatcvi": "oui",
+        "position": "G-5",
         "dateFinCVI": "2026-07-01"
       }
     ],
