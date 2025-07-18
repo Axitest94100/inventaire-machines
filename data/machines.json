@@ -6910,14 +6910,14 @@
     "marque": "AOIP",
     "model": "OM16",
     "quantite": 1,
-    "emplacement": "LAB (ENVOYER A MENOVA POUR CVI)",
+    "emplacement": "ARRIVAGE",
     "description": "PARTIE CHEZ MENOVA 09/07/2025",
     "unites": [
       {
         "numserie": "DM2845",
-        "position": "LAB (ENVOYER A MENOVA POUR CVI)",
-        "etatcvi": "non",
-        "dateFinCVI": null
+        "position": "ARRIVAGE",
+        "etatcvi": "oui",
+        "dateFinCVI": "2026-07-01"
       }
     ],
     "createdAt": "2025-07-08T14:22:35.877Z"
