@@ -7017,5 +7017,21 @@
       }
     ],
     "createdAt": "2025-07-17T13:46:20.530Z"
+  },
+  {
+    "marque": "ROHDE & SCHWARZ",
+    "model": "URE2",
+    "quantite": 1,
+    "emplacement": "F-5",
+    "description": "CVI: M2507032",
+    "unites": [
+      {
+        "numserie": "100044",
+        "position": "F-5",
+        "etatcvi": "oui",
+        "dateFinCVI": "2026-07-01"
+      }
+    ],
+    "createdAt": "2025-07-18T07:48:22.974Z"
   }
 ]
