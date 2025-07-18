@@ -258,7 +258,7 @@
   },
   {
     "marque": "TEKTRONIX",
-    "model": "MSO4054B",
+    "model": "MS04054B",
     "quantite": 1,
     "unites": [
       {
@@ -272,7 +272,7 @@
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.396Z",
     "emplacement": "A-2",
-    "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/Er5u9-54g_tDoMrSAFtGCi0BArPQredSv9cPyDLyacecEA?e=QGIad3"
+    "description": ""
   },
   {
     "marque": "TEKTRONIX",
@@ -438,8 +438,8 @@
       {
         "numserie": "B014364",
         "position": "A-3",
-        "etatcvi": "non",
-        "dateFinCVI": null
+        "etatcvi": "oui",
+        "dateFinCVI": "2024-12-01"
       }
     ],
     "etatcvi": "non",
@@ -486,7 +486,7 @@
   {
     "marque": "TEKTRONIX",
     "model": "TDS3012",
-    "quantite": 3,
+    "quantite": 2,
     "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EuoYUoxux6pPnMwCB-qzHB0BIAxVKUkV1o3sDiWV0NsohA",
     "unites": [
       {
@@ -500,12 +500,6 @@
         "position": "A-3",
         "etatcvi": "non",
         "dateFinCVI": null
-      },
-      {
-        "numserie": "B016968",
-        "position": "A-3",
-        "etatcvi": "oui",
-        "dateFinCVI": "2024-12-01"
       }
     ],
     "etatcvi": "non",
