@@ -7183,12 +7183,12 @@
     "marque": "hp",
     "model": "16060a",
     "quantite": 1,
-    "emplacement": "",
+    "emplacement": "H-3",
     "description": "",
     "unites": [
       {
         "numserie": "accessoires",
-        "position": "",
+        "position": "H-3",
         "etatcvi": "non",
         "dateFinCVI": null
       }
