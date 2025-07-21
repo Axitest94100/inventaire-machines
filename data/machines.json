@@ -7146,5 +7146,21 @@
       }
     ],
     "createdAt": "2025-07-21T14:07:36.491Z"
+  },
+  {
+    "marque": "metrix",
+    "model": "ox724-csd",
+    "quantite": 1,
+    "emplacement": "",
+    "description": "",
+    "unites": [
+      {
+        "numserie": "accessoires",
+        "position": "",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      }
+    ],
+    "createdAt": "2025-07-21T14:08:16.380Z"
   }
 ]
