@@ -7100,15 +7100,15 @@
     "createdAt": "2025-07-21T14:02:49.915Z"
   },
   {
-    "marque": "sefelec",
+    "marque": "SEFELEC",
     "model": "565",
     "quantite": 1,
-    "emplacement": "",
+    "emplacement": "H-3",
     "description": "",
     "unites": [
       {
         "numserie": "2456079",
-        "position": "",
+        "position": "H-3",
         "etatcvi": "non",
         "dateFinCVI": null
       }
@@ -7116,15 +7116,15 @@
     "createdAt": "2025-07-21T14:05:00.168Z"
   },
   {
-    "marque": "willteck",
-    "model": "4202r",
+    "marque": "WILLTECK",
+    "model": "4202R",
     "quantite": 1,
-    "emplacement": "",
+    "emplacement": "H-3",
     "description": "",
     "unites": [
       {
         "numserie": "0813514",
-        "position": "",
+        "position": "H-3",
         "etatcvi": "non",
         "dateFinCVI": null
       }
@@ -7132,15 +7132,15 @@
     "createdAt": "2025-07-21T14:06:14.487Z"
   },
   {
-    "marque": "sefelec",
-    "model": "ght114",
+    "marque": "SEFELEC",
+    "model": "GHT114",
     "quantite": 1,
-    "emplacement": "",
+    "emplacement": "H-3",
     "description": "",
     "unites": [
       {
         "numserie": "accessoires",
-        "position": "",
+        "position": "H-3",
         "etatcvi": "non",
         "dateFinCVI": null
       }
@@ -7148,8 +7148,8 @@
     "createdAt": "2025-07-21T14:07:36.491Z"
   },
   {
-    "marque": "metrix",
-    "model": "ox724-csd",
+    "marque": "METRIX",
+    "model": "OX724-CSD",
     "quantite": 1,
     "emplacement": "H-3",
     "description": "",
@@ -7164,8 +7164,8 @@
     "createdAt": "2025-07-21T14:08:16.380Z"
   },
   {
-    "marque": "sefelec",
-    "model": "te75 sonde",
+    "marque": "SEFELEC",
+    "model": "TE75 sonde",
     "quantite": 1,
     "emplacement": "H-3",
     "description": "",
