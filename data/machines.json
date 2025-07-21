@@ -3003,7 +3003,7 @@
     "marque": "MEGGER",
     "model": "ACCESSOIRE MIT 520/2",
     "quantite": 1,
-    "description": "LOCATION 04/07/25 AU 11/07/25 HIOLLE TECHNOLOGIE (APGELEC)",
+    "description": "",
     "unites": [
       {
         "numserie": "7639273",
@@ -7073,7 +7073,7 @@
     "model": "MS2038C",
     "quantite": 1,
     "emplacement": "I-4",
-    "description": "-ACCESSOIRES FOURNIS : \n-1 SACOCHE/\n-1x CHARGEUR / \n-1x CABLE COAXIAL (MALE/FEMELLE)/ \n-1x TERMINATION 50 OHM (28N50R : ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ« SN :203002 ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ»)/ \n-1x ANRITSU 22N50 (SN :402154)/ \n-1x FICHE DE TYPE N (FEMELLE/FEMELLE).\n --  OPTIONS: 2/15/19/25/27/31/77 DISPONIBLE",
+    "description": "-ACCESSOIRES FOURNIS : \n-1 SACOCHE/\n-1x CHARGEUR / \n-1x CABLE COAXIAL (MALE/FEMELLE)/ \n-1x TERMINATION 50 OHM (28N50R : SN :203002)/ \n-1x ANRITSU 22N50 (SN :402154)/ \n-1x FICHE DE TYPE N (FEMELLE/FEMELLE).\n --  OPTIONS: 2/15/19/25/27/31/77 DISPONIBLE",
     "unites": [
       {
         "numserie": "1035073",
