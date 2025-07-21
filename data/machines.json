@@ -7162,5 +7162,21 @@
       }
     ],
     "createdAt": "2025-07-21T14:08:16.380Z"
+  },
+  {
+    "marque": "sefelec",
+    "model": "te75 sonde",
+    "quantite": 1,
+    "emplacement": "",
+    "description": "",
+    "unites": [
+      {
+        "numserie": "accessoires",
+        "position": "",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      }
+    ],
+    "createdAt": "2025-07-21T14:09:00.720Z"
   }
 ]
