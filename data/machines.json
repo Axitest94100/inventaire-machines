@@ -7178,5 +7178,21 @@
       }
     ],
     "createdAt": "2025-07-21T14:09:00.720Z"
+  },
+  {
+    "marque": "hp",
+    "model": "16060a",
+    "quantite": 1,
+    "emplacement": "",
+    "description": "",
+    "unites": [
+      {
+        "numserie": "accessoires",
+        "position": "",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      }
+    ],
+    "createdAt": "2025-07-21T14:11:40.268Z"
   }
 ]
