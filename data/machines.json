@@ -5521,7 +5521,7 @@
   {
     "marque": "GW INSTEK",
     "model": "GHT205",
-    "quantite": 4,
+    "quantite": 5,
     "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/Epcu1mgv-ddCm5ibRLQPAaABjs_sTNeeOelEtiRnZxbvVA?e=nxAG6G",
     "unites": [
       {
@@ -5547,12 +5547,18 @@
         "position": "I-4",
         "etatcvi": "non",
         "dateFinCVI": null
+      },
+      {
+        "numserie": "@1",
+        "position": "I-4",
+        "etatcvi": "non",
+        "dateFinCVI": null
       }
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.398Z",
-    "emplacement": "I-4+I-4 (LOCATION MICRO MECANIQUE PYRENENNE 08/07/2025)"
+    "emplacement": "I-4 + I-4 (LOCATION MICRO MECANIQUE PYRENENNE 08/07/2025)"
   },
   {
     "marque": "AGILENT",
