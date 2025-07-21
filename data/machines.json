@@ -7130,5 +7130,21 @@
       }
     ],
     "createdAt": "2025-07-21T14:06:14.487Z"
+  },
+  {
+    "marque": "sefelec",
+    "model": "ght114",
+    "quantite": 1,
+    "emplacement": "",
+    "description": "",
+    "unites": [
+      {
+        "numserie": "accessoires",
+        "position": "",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      }
+    ],
+    "createdAt": "2025-07-21T14:07:36.491Z"
   }
 ]
