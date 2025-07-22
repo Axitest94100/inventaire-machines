@@ -4570,7 +4570,8 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.397Z",
-    "emplacement": "G-5 CHEZ MENOVA 23/07/2025 CLIENT SERMA + G-5"
+    "emplacement": "G-5 CHEZ MENOVA 23/07/2025 CLIENT SERMA + G-5",
+    "description": "0904415 : CHEZ MENOVA 23/07/2025 CLIENT SERMA"
   },
   {
     "marque": "KEYSIGHT",
@@ -5644,7 +5645,8 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.398Z",
-    "emplacement": "J-2 CHEZ MENOVA 23/07/2025"
+    "emplacement": "J-2 CHEZ MENOVA 23/07/2025",
+    "description": "CHEZ MENOVA 23/07/2025"
   },
   {
     "marque": "ROHDE & SCHWARZ",
