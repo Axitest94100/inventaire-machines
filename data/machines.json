@@ -7078,12 +7078,12 @@
     "marque": "ANRITSU",
     "model": "MS2038C",
     "quantite": 1,
-    "emplacement": "I-4",
+    "emplacement": "I-4(menova le 23/07/2025)",
     "description": "-ACCESSOIRES FOURNIS : \n-1 SACOCHE/\n-1x CHARGEUR / \n-1x CABLE COAXIAL (MALE/FEMELLE)/ \n-1x TERMINATION 50 OHM (28N50R : SN :203002)/ \n-1x ANRITSU 22N50 (SN :402154)/ \n-1x FICHE DE TYPE N (FEMELLE/FEMELLE).\n --  OPTIONS: 2/15/19/25/27/31/77 DISPONIBLE",
     "unites": [
       {
         "numserie": "1035073",
-        "position": "I-4",
+        "position": "I-4(menova le 23/07/2025)",
         "etatcvi": "non",
         "dateFinCVI": null
       }
