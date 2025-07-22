@@ -4556,7 +4556,7 @@
     "unites": [
       {
         "numserie": "0904415",
-        "position": "G-5",
+        "position": "G-5 CHEZ MENOVA 23/07/2025 CLIENT SERMA",
         "etatcvi": "non",
         "dateFinCVI": null
       },
@@ -4570,7 +4570,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.397Z",
-    "emplacement": "G-5"
+    "emplacement": "G-5 CHEZ MENOVA 23/07/2025 CLIENT SERMA + G-5"
   },
   {
     "marque": "KEYSIGHT",
@@ -5636,7 +5636,7 @@
     "unites": [
       {
         "numserie": "2940A-01589",
-        "position": "J-2",
+        "position": "J-2 CHEZ MENOVA 23/07/2025",
         "etatcvi": "non",
         "dateFinCVI": null
       }
@@ -5644,7 +5644,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.398Z",
-    "emplacement": "J-2"
+    "emplacement": "J-2 CHEZ MENOVA 23/07/2025"
   },
   {
     "marque": "ROHDE & SCHWARZ",
