@@ -4570,7 +4570,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.397Z",
-    "emplacement": "G-5 CHEZ MENOVA 23/07/2025 CLIENT SERMA + G-5",
+    "emplacement": "G-5 CHEZ MENOVA 23/07/2025 CLIENT SERMA+G-5",
     "description": "0904415 : CHEZ MENOVA 23/07/2025 CLIENT SERMA"
   },
   {
@@ -6952,12 +6952,12 @@
     "marque": "TDK LAMBDA",
     "model": "GEN250-40-3P400",
     "quantite": 1,
-    "emplacement": "ARRIVAGE",
+    "emplacement": "B-2",
     "description": "",
     "unites": [
       {
         "numserie": "18E7985T",
-        "position": "ARRIVAGE",
+        "position": "B-2",
         "etatcvi": "oui",
         "dateFinCVI": "2026-07-01"
       }
