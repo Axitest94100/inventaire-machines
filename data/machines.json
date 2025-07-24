@@ -5539,7 +5539,7 @@
       },
       {
         "numserie": "GTX180602",
-        "position": "I-4 (LOCATION MICRO MECANIQUE PYRENENNE 08/07/2025)",
+        "position": "I-4 ",
         "etatcvi": "non",
         "dateFinCVI": null
       },
@@ -5559,7 +5559,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.398Z",
-    "emplacement": "I-4+I-4 (LOCATION MICRO MECANIQUE PYRENENNE 08/07/2025)"
+    "emplacement": "I-4"
   },
   {
     "marque": "AGILENT",
