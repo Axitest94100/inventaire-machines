@@ -7032,14 +7032,14 @@
     "marque": "FLUKE",
     "model": "190-204",
     "quantite": 1,
-    "emplacement": "MENOVA 18/07/2025",
+    "emplacement": "G-3",
     "description": "ACCESSOIRES FOURNIS AVEC: \n-1 CHARGEUR/ \n-1 CABLE USB VERS MICRO USB/ \n-2 CROCHETS/ \n-1 SANGLE/ \n-4 CABLES NOIRS (CROCO VERS MINI BANANE)/ \n-4 POINTES TEST(ROUGE/GRIS/VERT/BLEU)/ \n-1 MODE EMPLOI/ \n-1 CD/",
     "unites": [
       {
         "numserie": "22652814",
-        "position": "MENOVA 18/07/2025",
-        "etatcvi": "non",
-        "dateFinCVI": null
+        "position": "G-3",
+        "etatcvi": "oui",
+        "dateFinCVI": "2026-07-01"
       }
     ],
     "createdAt": "2025-07-17T13:46:20.530Z"
