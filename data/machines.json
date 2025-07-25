@@ -7267,5 +7267,21 @@
       }
     ],
     "createdAt": "2025-07-21T14:24:02.081Z"
+  },
+  {
+    "marque": "agilent",
+    "model": "n9030a",
+    "quantite": 1,
+    "emplacement": "I-1",
+    "description": "",
+    "unites": [
+      {
+        "numserie": "my49431173",
+        "position": "I-1",
+        "etatcvi": "oui",
+        "dateFinCVI": "2023-10-01"
+      }
+    ],
+    "createdAt": "2025-07-25T08:05:09.616Z"
   }
 ]
