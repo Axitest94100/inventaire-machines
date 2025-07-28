@@ -7331,5 +7331,39 @@
       }
     ],
     "createdAt": "2025-07-28T12:31:39.052Z"
+  },
+  {
+    "marque": "NATIONAL INSTRUMENT",
+    "model": "GPIB-USB-HS",
+    "quantite": 4,
+    "emplacement": "K-3",
+    "description": "",
+    "unites": [
+      {
+        "numserie": "116DA9E",
+        "position": "K-3",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      },
+      {
+        "numserie": "127CA3F",
+        "position": "K-3",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      },
+      {
+        "numserie": "12BABFC",
+        "position": "K-3",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      },
+      {
+        "numserie": "135F56D",
+        "position": "K-3",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      }
+    ],
+    "createdAt": "2025-07-28T13:25:12.835Z"
   }
 ]
