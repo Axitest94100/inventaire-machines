@@ -7283,5 +7283,21 @@
       }
     ],
     "createdAt": "2025-07-25T08:05:09.616Z"
+  },
+  {
+    "marque": "rohde & schwarz",
+    "model": "fsp30",
+    "quantite": 1,
+    "emplacement": "B-4",
+    "description": "",
+    "unites": [
+      {
+        "numserie": "100425",
+        "position": "B-4",
+        "etatcvi": "oui",
+        "dateFinCVI": "2026-07-24"
+      }
+    ],
+    "createdAt": "2025-07-28T12:25:42.311Z"
   }
 ]
