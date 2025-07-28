@@ -7315,5 +7315,21 @@
       }
     ],
     "createdAt": "2025-07-28T12:30:46.445Z"
+  },
+  {
+    "marque": "pmm",
+    "model": "l3-32",
+    "quantite": 1,
+    "emplacement": "",
+    "description": "",
+    "unites": [
+      {
+        "numserie": "22wt50824",
+        "position": "",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      }
+    ],
+    "createdAt": "2025-07-28T12:31:39.052Z"
   }
 ]
