@@ -7335,8 +7335,8 @@
   {
     "marque": "NATIONAL INSTRUMENT",
     "model": "GPIB-USB-HS",
-    "quantite": 4,
-    "emplacement": "K-3",
+    "quantite": 5,
+    "emplacement": "K-3 + LAB (CLIENT EDF)",
     "description": "",
     "unites": [
       {
@@ -7360,6 +7360,12 @@
       {
         "numserie": "135F56D",
         "position": "K-3",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      },
+      {
+        "numserie": "12A8134",
+        "position": "LAB (CLIENT EDF)",
         "etatcvi": "non",
         "dateFinCVI": null
       }
