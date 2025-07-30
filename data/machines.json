@@ -1003,24 +1003,6 @@
   },
   {
     "marque": "TELEDYNE LECROY",
-    "model": "LT372",
-    "quantite": 1,
-    "description": "",
-    "unites": [
-      {
-        "numserie": "00114",
-        "position": "ARRIVAGE",
-        "etatcvi": "non",
-        "dateFinCVI": null
-      }
-    ],
-    "etatcvi": "non",
-    "dateFinCVI": null,
-    "createdAt": "2025-06-26T15:17:33.396Z",
-    "emplacement": "ARRIVAGE"
-  },
-  {
-    "marque": "TELEDYNE LECROY",
     "model": "HDO8058",
     "quantite": 1,
     "unites": [
