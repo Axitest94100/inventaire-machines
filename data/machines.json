@@ -3745,17 +3745,11 @@
   {
     "marque": "KEYSIGHT",
     "model": "34901A",
-    "quantite": 2,
+    "quantite": 1,
     "unites": [
       {
         "numserie": "570",
         "position": "F-4",
-        "etatcvi": "non",
-        "dateFinCVI": null
-      },
-      {
-        "numserie": "MY58136884",
-        "position": "G-5",
         "etatcvi": "non",
         "dateFinCVI": null
       }
@@ -3763,7 +3757,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.397Z",
-    "emplacement": "F-4+G-5"
+    "emplacement": "F-4"
   },
   {
     "marque": "AGILENT",
@@ -4360,29 +4354,6 @@
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.397Z",
     "emplacement": "G-4"
-  },
-  {
-    "marque": "AGILENT",
-    "model": "34901A",
-    "quantite": 2,
-    "unites": [
-      {
-        "numserie": "MY41148489",
-        "position": "G-5",
-        "etatcvi": "non",
-        "dateFinCVI": null
-      },
-      {
-        "numserie": "MY41129008",
-        "position": "G-5",
-        "etatcvi": "non",
-        "dateFinCVI": null
-      }
-    ],
-    "etatcvi": "non",
-    "dateFinCVI": null,
-    "createdAt": "2025-06-26T15:17:33.397Z",
-    "emplacement": "G-5"
   },
   {
     "marque": "AGILENT",
