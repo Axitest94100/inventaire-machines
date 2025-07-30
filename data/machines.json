@@ -3142,7 +3142,7 @@
     "unites": [
       {
         "numserie": "2847A02457",
-        "position": "E-5",
+        "position": "E-5 (PARTIE CHEZ AIR FRANCE 30/07/2025) AVEC AXEL",
         "etatcvi": "non",
         "dateFinCVI": null
       }
@@ -3150,7 +3150,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.397Z",
-    "emplacement": "E-5"
+    "emplacement": "E-5 (PARTIE CHEZ AIR FRANCE 30/07/2025) AVEC AXEL"
   },
   {
     "marque": "ISO-TECH",
@@ -4057,7 +4057,8 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.397Z",
-    "emplacement": "F-5+I-3"
+    "emplacement": "F-5+I-3",
+    "description": ""
   },
   {
     "marque": "FLUKE",
