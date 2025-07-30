@@ -5016,7 +5016,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.397Z",
-    "emplacement": "H-3 menova + H-2"
+    "emplacement": "H-3 menova+H-2"
   },
   {
     "marque": "GW INSTEK",
@@ -7102,12 +7102,12 @@
     "marque": "AGILENT",
     "model": "N9320B",
     "quantite": 1,
-    "emplacement": "H-3",
+    "emplacement": "H-3 (PARTIE CHEZ MENOVA 30/07/2025)",
     "description": "",
     "unites": [
       {
         "numserie": "CN03225025",
-        "position": "H-3",
+        "position": "H-3 (PARTIE CHEZ MENOVA 30/07/2025)",
         "etatcvi": "non",
         "dateFinCVI": null
       }
