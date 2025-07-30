@@ -4951,15 +4951,9 @@
   {
     "marque": "GW INSTEK",
     "model": "PST-3201",
-    "quantite": 2,
+    "quantite": 1,
     "description": "",
     "unites": [
-      {
-        "numserie": "EM911738",
-        "position": "H-3 menova",
-        "etatcvi": "non",
-        "dateFinCVI": null
-      },
       {
         "numserie": "EF710056",
         "position": "H-2",
@@ -4970,7 +4964,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.397Z",
-    "emplacement": "H-3 menova+H-2"
+    "emplacement": "H-2"
   },
   {
     "marque": "GW INSTEK",
