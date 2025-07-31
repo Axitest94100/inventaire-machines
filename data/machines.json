@@ -1043,7 +1043,7 @@
     "unites": [
       {
         "numserie": "3410031054",
-        "position": "B-2",
+        "position": "B-2 (chez menova 01/08/2025)",
         "etatcvi": "oui",
         "dateFinCVI": "2025-01-01"
       }
@@ -1051,7 +1051,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.396Z",
-    "emplacement": "B-2"
+    "emplacement": "B-2 (chez menova 01/08/2025)"
   },
   {
     "marque": "SORENSEN",
@@ -5778,7 +5778,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.398Z",
-    "emplacement": "J-4 + J-4(LOCATION DU 24/072025 AU 31/07/2025 A --ZDITO--)",
+    "emplacement": "J-4+J-4(LOCATION DU 24/072025 AU 31/07/2025 A --ZDITO--)",
     "description": "19385063/19360763 :(LOCATION --ZDITO-- DU 24/072025 AU 31/07/2025 )\n20263009/19500016 :(LOCATION --ELITE TELECOMS-- DU 17/07/2025 AU 31/07/2025)"
   },
   {
@@ -6529,15 +6529,15 @@
     "unites": [
       {
         "numserie": "1604004",
-        "position": "M-3",
-        "etatcvi": "non",
-        "dateFinCVI": null
+        "position": "M-3(chez menova 01/08/2025)",
+        "etatcvi": "oui",
+        "dateFinCVI": "2023-12-30"
       }
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.398Z",
-    "emplacement": "M-3"
+    "emplacement": "M-3(chez menova 01/08/2025)"
   },
   {
     "marque": "AGILENT",
