@@ -4476,7 +4476,7 @@
     "unites": [
       {
         "numserie": "0907005",
-        "position": "G-5",
+        "position": "G-5 menova 01/08/2025",
         "etatcvi": "non",
         "dateFinCVI": null
       }
@@ -4484,7 +4484,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.397Z",
-    "emplacement": "G-5"
+    "emplacement": "G-5 menova 01/08/2025"
   },
   {
     "marque": "KEITHLEY",
