@@ -1043,7 +1043,7 @@
     "unites": [
       {
         "numserie": "3410031054",
-        "position": "B-2 (chez menova 01/08/2025)",
+        "position": "B-2 (chez menova 01/08/2025) CLIENT SILAS",
         "etatcvi": "oui",
         "dateFinCVI": "2025-01-01"
       }
@@ -1051,7 +1051,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.396Z",
-    "emplacement": "B-2 (chez menova 01/08/2025)"
+    "emplacement": "B-2 (chez menova 01/08/2025) CLIENT SILAS"
   },
   {
     "marque": "SORENSEN",
@@ -2738,7 +2738,7 @@
     "unites": [
       {
         "numserie": "3410051037",
-        "position": "E-3",
+        "position": "E-3 (CHEZ MENOVA 01/08/2025) CLIENT SILAS",
         "etatcvi": "oui",
         "dateFinCVI": "2024-11-01"
       }
@@ -2746,7 +2746,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.397Z",
-    "emplacement": "E-3"
+    "emplacement": "E-3 (CHEZ MENOVA 01/08/2025) CLIENT SILAS"
   },
   {
     "marque": "AGILENT",
