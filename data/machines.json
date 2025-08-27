@@ -730,7 +730,8 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.396Z",
-    "emplacement": "A-5"
+    "emplacement": "A-5",
+    "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EhpuupR1TylGs-MNXVBoPpEBYF6S1FtQFZNvu9d_HaDQUw?e=L3SPrr"
   },
   {
     "marque": "TEKTRONIX",
@@ -5109,7 +5110,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.397Z",
-    "emplacement": "I-1 + H-4 + J-4 + J-3"
+    "emplacement": "I-1+H-4+J-4+J-3"
   },
   {
     "marque": "ANRITSU",
