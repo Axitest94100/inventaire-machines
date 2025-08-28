@@ -3787,7 +3787,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.397Z",
-    "emplacement": "F-5 + E-5"
+    "emplacement": "F-5+E-5"
   },
   {
     "marque": "AGILENT",
@@ -5033,7 +5033,7 @@
   {
     "marque": "CHAUVIN ARNOUX",
     "model": "CA8336",
-    "quantite": 11,
+    "quantite": 12,
     "unites": [
       {
         "numserie": "197866",
@@ -5100,12 +5100,18 @@
         "etatcvi": "non",
         "position": "J-3",
         "dateFinCVI": null
+      },
+      {
+        "numserie": "191099WGH",
+        "position": "J-4",
+        "etatcvi": "non",
+        "dateFinCVI": null
       }
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.397Z",
-    "emplacement": "I-1+H-4+J-4+J-3"
+    "emplacement": "I-1 + H-4 + J-4 + J-3"
   },
   {
     "marque": "ANRITSU",
@@ -6858,7 +6864,7 @@
     "marque": "AGILENT",
     "model": "34401A",
     "quantite": 5,
-    "emplacement": "ARRIVAGE + E-5",
+    "emplacement": "ARRIVAGE+E-5",
     "description": "4x APPAREILS ENVOYER A MENOVA POUR CVI\nCLIENT: THERMOCOAX",
     "unites": [
       {
