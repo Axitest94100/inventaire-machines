@@ -5762,7 +5762,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.398Z",
-    "emplacement": "J-4 (EN LOCATION A ZDITO DU 29/08/2025 AU 05/09/2025) + J-4",
+    "emplacement": "J-4 (EN LOCATION A ZDITO DU 29/08/2025 AU 05/09/2025)+J-4",
     "description": "20263009/19500016 EN LOCATION A ZDITO DU 29/08/2025 AU 05/09/2025"
   },
   {
@@ -6680,8 +6680,8 @@
       {
         "numserie": "101426",
         "position": "M-4",
-        "etatcvi": "non",
-        "dateFinCVI": null
+        "etatcvi": "oui",
+        "dateFinCVI": "2025-01-29"
       }
     ],
     "etatcvi": "non",
