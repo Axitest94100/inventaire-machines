@@ -7315,5 +7315,21 @@
       }
     ],
     "createdAt": "2025-08-28T14:57:27.976Z"
+  },
+  {
+    "marque": "PHILIPS",
+    "model": "1542/00",
+    "quantite": 1,
+    "emplacement": "H-3",
+    "description": "",
+    "unites": [
+      {
+        "numserie": "9416 015 42001 N",
+        "position": "H-3",
+        "etatcvi": "oui",
+        "dateFinCVI": "2026-08-01"
+      }
+    ],
+    "createdAt": "2025-08-28T15:06:09.311Z"
   }
 ]
