@@ -7376,16 +7376,32 @@
     "marque": "TTI",
     "model": "MX180TP",
     "quantite": 1,
-    "emplacement": "",
+    "emplacement": "J-2",
     "description": "",
     "unites": [
       {
         "numserie": "600009",
-        "position": "",
+        "position": "J-2",
         "etatcvi": "non",
         "dateFinCVI": null
       }
     ],
     "createdAt": "2025-08-28T15:34:52.035Z"
+  },
+  {
+    "marque": "rpodigit",
+    "model": "3310f",
+    "quantite": 1,
+    "emplacement": "",
+    "description": "",
+    "unites": [
+      {
+        "numserie": "20702fl0524",
+        "position": "",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      }
+    ],
+    "createdAt": "2025-08-28T15:36:08.737Z"
   }
 ]
