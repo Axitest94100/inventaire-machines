@@ -3763,7 +3763,7 @@
   {
     "marque": "AGILENT",
     "model": "34410A",
-    "quantite": 2,
+    "quantite": 3,
     "unites": [
       {
         "numserie": "MY47012053",
@@ -3773,6 +3773,12 @@
       },
       {
         "numserie": "MY47006229",
+        "position": "E-5",
+        "etatcvi": "oui",
+        "dateFinCVI": "2026-08-01"
+      },
+      {
+        "numserie": "MY47002075",
         "position": "E-5",
         "etatcvi": "oui",
         "dateFinCVI": "2026-08-01"
