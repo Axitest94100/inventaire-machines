@@ -5183,7 +5183,7 @@
   {
     "marque": "RACAL",
     "model": "6103",
-    "quantite": 1,
+    "quantite": 2,
     "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EuEn-C2_BPpFpGfvYQ3VhuQBbFO1E3Kj4vpg9zYRB8tOZA?e=NiVfPL",
     "unites": [
       {
@@ -5191,12 +5191,18 @@
         "position": "I-2",
         "etatcvi": "non",
         "dateFinCVI": null
+      },
+      {
+        "numserie": "61031273",
+        "position": "I-1",
+        "etatcvi": "non",
+        "dateFinCVI": null
       }
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.397Z",
-    "emplacement": "I-2"
+    "emplacement": "I-2 + I-1"
   },
   {
     "marque": "GW INSTEK",
