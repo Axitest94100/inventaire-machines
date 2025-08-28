@@ -7435,5 +7435,21 @@
       }
     ],
     "createdAt": "2025-08-28T15:45:14.502Z"
+  },
+  {
+    "marque": "YOKOGAWA",
+    "model": "WT1010",
+    "quantite": 1,
+    "emplacement": "K-1",
+    "description": "",
+    "unites": [
+      {
+        "numserie": "12WA09531",
+        "position": "K-1",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      }
+    ],
+    "createdAt": "2025-08-28T15:53:39.046Z"
   }
 ]
