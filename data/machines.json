@@ -7371,5 +7371,21 @@
       }
     ],
     "createdAt": "2025-08-28T15:08:54.760Z"
+  },
+  {
+    "marque": "TTI",
+    "model": "MX180TP",
+    "quantite": 1,
+    "emplacement": "",
+    "description": "",
+    "unites": [
+      {
+        "numserie": "600009",
+        "position": "",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      }
+    ],
+    "createdAt": "2025-08-28T15:34:52.035Z"
   }
 ]
