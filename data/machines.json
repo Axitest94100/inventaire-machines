@@ -5202,7 +5202,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.397Z",
-    "emplacement": "I-2 + I-1"
+    "emplacement": "I-2+I-1"
   },
   {
     "marque": "GW INSTEK",
@@ -7299,5 +7299,21 @@
       }
     ],
     "createdAt": "2025-08-28T14:40:13.971Z"
+  },
+  {
+    "marque": "HP",
+    "model": "E1306A",
+    "quantite": 1,
+    "emplacement": "G-4",
+    "description": "",
+    "unites": [
+      {
+        "numserie": "US34000326",
+        "position": "G-4",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      }
+    ],
+    "createdAt": "2025-08-28T14:57:27.976Z"
   }
 ]
