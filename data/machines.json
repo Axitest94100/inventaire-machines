@@ -7365,21 +7365,5 @@
       }
     ],
     "createdAt": "2025-08-28T15:08:54.760Z"
-  },
-  {
-    "marque": "TEST",
-    "model": "123456",
-    "quantite": 1,
-    "emplacement": "",
-    "description": "",
-    "unites": [
-      {
-        "numserie": "123456",
-        "position": "",
-        "etatcvi": "non",
-        "dateFinCVI": null
-      }
-    ],
-    "createdAt": "2025-08-28T15:23:22.795Z"
   }
 ]
