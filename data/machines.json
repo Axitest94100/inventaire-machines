@@ -7191,8 +7191,8 @@
     "createdAt": "2025-07-21T14:24:02.081Z"
   },
   {
-    "marque": "agilent",
-    "model": "n9030a",
+    "marque": "AGILENT",
+    "model": "N9030A",
     "quantite": 1,
     "emplacement": "I-1",
     "description": "",
@@ -7207,8 +7207,8 @@
     "createdAt": "2025-07-25T08:05:09.616Z"
   },
   {
-    "marque": "rohde & schwarz",
-    "model": "fsp30",
+    "marque": "ROHDE & SCHWARZ",
+    "model": "FSP30",
     "quantite": 1,
     "emplacement": "B-4",
     "description": "",
@@ -7221,22 +7221,6 @@
       }
     ],
     "createdAt": "2025-07-28T12:25:42.311Z"
-  },
-  {
-    "marque": "tti",
-    "model": "mx180tp",
-    "quantite": 1,
-    "emplacement": "",
-    "description": "",
-    "unites": [
-      {
-        "numserie": "600009",
-        "position": "",
-        "etatcvi": "non",
-        "dateFinCVI": null
-      }
-    ],
-    "createdAt": "2025-07-28T12:30:46.445Z"
   },
   {
     "marque": "PMM",
