@@ -5019,23 +5019,6 @@
     "emplacement": "I-1"
   },
   {
-    "marque": "KEYSIGHT",
-    "model": "E4990A",
-    "quantite": 1,
-    "unites": [
-      {
-        "numserie": "MY5410092A",
-        "position": "I-1",
-        "etatcvi": "oui",
-        "dateFinCVI": "2024-11-01"
-      }
-    ],
-    "etatcvi": "non",
-    "dateFinCVI": null,
-    "createdAt": "2025-06-26T15:17:33.397Z",
-    "emplacement": "I-1"
-  },
-  {
     "marque": "CHAUVIN ARNOUX",
     "model": "CA8336",
     "quantite": 11,
