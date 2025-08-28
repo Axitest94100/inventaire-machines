@@ -7396,10 +7396,10 @@
     "description": "",
     "unites": [
       {
-        "numserie": "20702fl0524",
+        "numserie": "20702FL0524",
+        "etatcvi": "oui",
         "position": "J-2",
-        "etatcvi": "non",
-        "dateFinCVI": null
+        "dateFinCVI": "2024-07-01"
       }
     ],
     "createdAt": "2025-08-28T15:36:08.737Z"
