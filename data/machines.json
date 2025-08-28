@@ -5111,7 +5111,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.397Z",
-    "emplacement": "I-1 + H-4 + J-4 + J-3"
+    "emplacement": "I-1+H-4+J-4+J-3"
   },
   {
     "marque": "ANRITSU",
@@ -7389,15 +7389,15 @@
     "createdAt": "2025-08-28T15:34:52.035Z"
   },
   {
-    "marque": "rpodigit",
-    "model": "3310f",
+    "marque": "PRODIGIT",
+    "model": "3310F",
     "quantite": 1,
-    "emplacement": "",
+    "emplacement": "J-2",
     "description": "",
     "unites": [
       {
         "numserie": "20702fl0524",
-        "position": "",
+        "position": "J-2",
         "etatcvi": "non",
         "dateFinCVI": null
       }
