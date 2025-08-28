@@ -7403,5 +7403,21 @@
       }
     ],
     "createdAt": "2025-08-28T15:36:08.737Z"
+  },
+  {
+    "marque": "agilent",
+    "model": "1680ad",
+    "quantite": 1,
+    "emplacement": "J-1",
+    "description": "",
+    "unites": [
+      {
+        "numserie": "my41001131",
+        "position": "J-1",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      }
+    ],
+    "createdAt": "2025-08-28T15:43:21.421Z"
   }
 ]
