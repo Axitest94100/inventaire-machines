@@ -5033,7 +5033,7 @@
   {
     "marque": "CHAUVIN ARNOUX",
     "model": "CA8336",
-    "quantite": 12,
+    "quantite": 13,
     "unites": [
       {
         "numserie": "197866",
@@ -5106,12 +5106,18 @@
         "position": "J-4",
         "etatcvi": "non",
         "dateFinCVI": null
+      },
+      {
+        "numserie": "197862ykh",
+        "position": "",
+        "etatcvi": "non",
+        "dateFinCVI": null
       }
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.397Z",
-    "emplacement": "I-1+H-4+J-4+J-3"
+    "emplacement": "I-1 + H-4 + J-4 + J-3"
   },
   {
     "marque": "ANRITSU",
