@@ -1345,10 +1345,16 @@
   {
     "marque": "TELEDYNE LECROY",
     "model": "W54104HB",
-    "quantite": 1,
+    "quantite": 2,
     "unites": [
       {
         "numserie": "",
+        "position": "B-4",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      },
+      {
+        "numserie": "@",
         "position": "B-4",
         "etatcvi": "non",
         "dateFinCVI": null
@@ -1677,7 +1683,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.396Z",
-    "emplacement": "C-3 + C-4"
+    "emplacement": "C-3+C-4"
   },
   {
     "marque": "TTI",
