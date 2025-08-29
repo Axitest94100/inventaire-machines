@@ -5117,7 +5117,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.397Z",
-    "emplacement": "I-1 + H-4 + J-4 + J-3"
+    "emplacement": "I-1+H-4+J-4+J-3"
   },
   {
     "marque": "ANRITSU",
@@ -5693,8 +5693,8 @@
       {
         "numserie": "500526",
         "position": "J-3",
-        "etatcvi": "non",
-        "dateFinCVI": null
+        "etatcvi": "oui",
+        "dateFinCVI": "2025-09-01"
       }
     ],
     "etatcvi": "non",
