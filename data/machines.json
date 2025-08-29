@@ -4420,7 +4420,7 @@
     "quantite": 1,
     "unites": [
       {
-        "numserie": "",
+        "numserie": "@",
         "position": "G-5",
         "etatcvi": "non",
         "dateFinCVI": null
