@@ -1058,19 +1058,19 @@
     "marque": "SORENSEN",
     "model": "DHP15-440",
     "quantite": 1,
-    "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/Es_quaiUsLBMryd8mnDkCDIBg2oFOod2EQQbTbMZxGy2Gw?e=fsSxp8",
+    "description": "",
     "unites": [
       {
         "numserie": "0136C0074",
-        "position": "B-2",
         "etatcvi": "oui",
+        "position": "B-2 (PRET MENOVA DEPUIS LE 02/09/2025)",
         "dateFinCVI": "2024-11-11"
       }
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.396Z",
-    "emplacement": "B-2"
+    "emplacement": "B-2 (PRET MENOVA DEPUIS LE 02/09/2025)"
   },
   {
     "marque": "ROHDE & SCHWARZ",
