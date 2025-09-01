@@ -1553,14 +1553,14 @@
       {
         "numserie": "MY46523473",
         "etatcvi": "oui",
-        "position": "C-3 (PRET MENOVA DEPUIS LE 02/09/2025)",
+        "position": "C-4 (PRET MENOVA DEPUIS LE 02/09/2025)",
         "dateFinCVI": "2023-10-01"
       }
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.396Z",
-    "emplacement": "C-3 (PRET MENOVA DEPUIS LE 02/09/2025)"
+    "emplacement": "C-4 (PRET MENOVA DEPUIS LE 02/09/2025)"
   },
   {
     "marque": "ROHDE & SCHWARZ",
