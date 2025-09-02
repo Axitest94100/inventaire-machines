@@ -7513,5 +7513,21 @@
       }
     ],
     "createdAt": "2025-09-01T12:45:22.883Z"
+  },
+  {
+    "marque": "IDEAL INDUSTRIES",
+    "model": "SIGNAL TEK III",
+    "quantite": 1,
+    "emplacement": "H-3",
+    "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EsJ6JMT8zpZNiNZT-_7q_3IBgQn9H55p7bA4qZhR8J6cZQ?e=ArhzQA",
+    "unites": [
+      {
+        "numserie": "15610106/03121 + 15610407/02147",
+        "position": "H-3",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      }
+    ],
+    "createdAt": "2025-09-02T12:41:48.123Z"
   }
 ]
