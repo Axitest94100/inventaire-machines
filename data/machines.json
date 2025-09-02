@@ -242,7 +242,7 @@
   },
   {
     "marque": "AGILENT",
-    "model": "E5061A-350",
+    "model": "E5061A-ATO-25493",
     "quantite": 1,
     "unites": [
       {
@@ -255,7 +255,8 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.396Z",
-    "emplacement": "C-5"
+    "emplacement": "C-5",
+    "description": "OPT: 016 250\nhttps://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EmTHaTnTulRAuKiI9RG4VI0B7v_xopq2miIufMMwAZRM9g?e=hSSpfV"
   },
   {
     "marque": "AGILENT",
