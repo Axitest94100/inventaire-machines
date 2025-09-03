@@ -3174,20 +3174,21 @@
   },
   {
     "marque": "HP",
-    "model": "34907",
+    "model": "34907A",
     "quantite": 1,
     "unites": [
       {
         "numserie": "US37002637",
-        "position": "G-5",
         "etatcvi": "oui",
+        "position": "G-5",
         "dateFinCVI": "2025-07-01"
       }
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.397Z",
-    "emplacement": "G-5"
+    "emplacement": "G-5",
+    "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/Etz4Rryo34xMridTHBqMMxMB9X-mQa-IqG9gZRYJMo_wQw?e=Cstl6L"
   },
   {
     "marque": "HP",
