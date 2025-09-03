@@ -614,20 +614,21 @@
   },
   {
     "marque": "AGILENT",
-    "model": "ES810A",
+    "model": "E5810A",
     "quantite": 1,
     "unites": [
       {
         "numserie": "MY48081029",
-        "position": "F-5",
         "etatcvi": "non",
+        "position": "F-5",
         "dateFinCVI": null
       }
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.397Z",
-    "emplacement": "F-5"
+    "emplacement": "F-5",
+    "description": ""
   },
   {
     "marque": "AGILENT",
