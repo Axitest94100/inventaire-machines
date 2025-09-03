@@ -3096,20 +3096,21 @@
   },
   {
     "marque": "HP",
-    "model": "5318A",
+    "model": "53181A",
     "quantite": 1,
     "unites": [
       {
         "numserie": "3736A05611",
-        "position": "F-3",
         "etatcvi": "non",
+        "position": "F-3",
         "dateFinCVI": null
       }
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.397Z",
-    "emplacement": "F-3"
+    "emplacement": "F-3",
+    "description": ""
   },
   {
     "marque": "HP",
