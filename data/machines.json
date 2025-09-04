@@ -177,14 +177,14 @@
       {
         "numserie": "MY46202938",
         "etatcvi": "oui",
-        "position": "H-3 (CHEZ MENOVA LE 15/07/2025)",
-        "dateFinCVI": "2025-10-01"
+        "position": "ARRIVAGE (SAFRAN)",
+        "dateFinCVI": "2026-09-01"
       }
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.396Z",
-    "emplacement": "H-3 (CHEZ MENOVA LE 15/07/2025)"
+    "emplacement": "ARRIVAGE (SAFRAN)"
   },
   {
     "marque": "AGILENT",
