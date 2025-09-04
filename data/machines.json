@@ -781,7 +781,7 @@
     "unites": [
       {
         "numserie": "9001791208",
-        "position": "H-3",
+        "position": "H-3---------------------------",
         "etatcvi": "non",
         "dateFinCVI": null
       }
@@ -789,7 +789,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.397Z",
-    "emplacement": "H-3"
+    "emplacement": "H-3---------------------------"
   },
   {
     "marque": "AGILENT",
