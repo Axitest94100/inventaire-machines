@@ -955,28 +955,10 @@
   {
     "marque": "AGILENT",
     "model": "34401A",
-    "quantite": 4,
-    "emplacement": "ARRIVAGE + E-5",
+    "quantite": 1,
+    "emplacement": "E-5",
     "description": "4x APPAREILS ENVOYER A MENOVA POUR CVI\nCLIENT: THERMOCOAX",
     "unites": [
-      {
-        "numserie": "MY53007035",
-        "etatcvi": "oui",
-        "position": "ARRIVAGE",
-        "dateFinCVI": "2026-07-01"
-      },
-      {
-        "numserie": "MY53007182",
-        "etatcvi": "oui",
-        "position": "ARRIVAGE",
-        "dateFinCVI": "2026-07-01"
-      },
-      {
-        "numserie": "MY53007030",
-        "etatcvi": "oui",
-        "position": "ARRIVAGE",
-        "dateFinCVI": "2026-07-01"
-      },
       {
         "numserie": "MY41022435",
         "position": "E-5",
