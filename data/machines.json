@@ -170,24 +170,6 @@
   },
   {
     "marque": "AGILENT",
-    "model": "E4980A",
-    "quantite": 1,
-    "description": "(CHEZ MENOVA LE 15/07/2025)\nhttps://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/ElAMdXX0WShItC2dzTcPANIBk5dlrQLoF0GGztq34h3Bag?e=EZ59iX",
-    "unites": [
-      {
-        "numserie": "MY46202938",
-        "etatcvi": "oui",
-        "position": "ARRIVAGE (SAFRAN)",
-        "dateFinCVI": "2026-09-01"
-      }
-    ],
-    "etatcvi": "non",
-    "dateFinCVI": null,
-    "createdAt": "2025-06-26T15:17:33.396Z",
-    "emplacement": "ARRIVAGE (SAFRAN)"
-  },
-  {
-    "marque": "AGILENT",
     "model": "DSO-X-2012A",
     "quantite": 1,
     "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/Esr1sGBf8iVJijAglYTGzq8BpveCxmgoZASLrg2CTO1qjg?e=XW3HQf",
