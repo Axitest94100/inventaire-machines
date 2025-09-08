@@ -889,7 +889,7 @@
     "unites": [
       {
         "numserie": "MY57281138",
-        "position": "LOC MENOVA",
+        "position": "D-5 (PRET CHEZ MENOVA) DEPUIS 06/2025",
         "etatcvi": "non",
         "dateFinCVI": null
       }
@@ -897,8 +897,8 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.398Z",
-    "emplacement": "LOC MENOVA",
-    "description": "LOC MENOVA"
+    "emplacement": "D-5 (PRET CHEZ MENOVA) DEPUIS 06/2025",
+    "description": "PRET CHEZ MENOVA DEPUIS 06/2025"
   },
   {
     "marque": "AGILENT",
