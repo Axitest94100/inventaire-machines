@@ -769,7 +769,7 @@
     "unites": [
       {
         "numserie": "9001791208",
-        "position": "H-3---------------------------",
+        "position": "H-3",
         "etatcvi": "non",
         "dateFinCVI": null
       }
@@ -777,7 +777,8 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.397Z",
-    "emplacement": "H-3---------------------------"
+    "emplacement": "H-3",
+    "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/En9s2gBSUYFPqnXkW0DfHq8BnHxfTq_XF7a0qq7l_M1pPg?e=KRS3Ws"
   },
   {
     "marque": "AGILENT",
