@@ -829,7 +829,7 @@
     "unites": [
       {
         "numserie": "MY46001243",
-        "position": "J-1",
+        "position": "J-1 PARTIE CHEZ MENOVA",
         "etatcvi": "non",
         "dateFinCVI": null
       }
@@ -837,8 +837,8 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.398Z",
-    "emplacement": "J-1",
-    "description": "ECRAN HS\nhttps://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/Erl0s-A-g4BAmaRG4eVzPp4B7jkqbA4biFtmHq9iZ6sAOg?e=c6e6Tf"
+    "emplacement": "J-1 PARTIE CHEZ MENOVA",
+    "description": "ECRAN HS / PARTIE CHEZ MENOVA\nhttps://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/Erl0s-A-g4BAmaRG4eVzPp4B7jkqbA4biFtmHq9iZ6sAOg?e=c6e6Tf"
   },
   {
     "marque": "AGILENT",
