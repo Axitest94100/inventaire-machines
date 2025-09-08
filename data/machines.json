@@ -495,31 +495,37 @@
   {
     "marque": "AGILENT",
     "model": "53181A",
-    "quantite": 4,
+    "quantite": 5,
     "unites": [
       {
         "numserie": "3736A05231",
-        "position": "F-3",
         "etatcvi": "oui",
+        "position": "F-3",
         "dateFinCVI": "2025-10-01"
       },
       {
         "numserie": "MY40009160",
-        "position": "F-3",
         "etatcvi": "non",
+        "position": "F-3",
         "dateFinCVI": null
       },
       {
         "numserie": "MY40005334",
-        "position": "F-3",
         "etatcvi": "oui",
+        "position": "F-3",
         "dateFinCVI": "2025-10-01"
       },
       {
         "numserie": "MY40008710",
-        "position": "F-3",
         "etatcvi": "oui",
+        "position": "F-3",
         "dateFinCVI": "2025-10-01"
+      },
+      {
+        "numserie": "MY47001986",
+        "etatcvi": "oui",
+        "position": "F-3",
+        "dateFinCVI": "2026-09-01"
       }
     ],
     "etatcvi": "non",
