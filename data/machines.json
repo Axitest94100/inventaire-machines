@@ -2332,23 +2332,6 @@
   },
   {
     "marque": "FLUKE",
-    "model": "435-II",
-    "quantite": 1,
-    "unites": [
-      {
-        "numserie": "27483105",
-        "position": "K-3",
-        "etatcvi": "non",
-        "dateFinCVI": null
-      }
-    ],
-    "etatcvi": "non",
-    "dateFinCVI": null,
-    "createdAt": "2025-06-26T15:17:33.398Z",
-    "emplacement": "K-3"
-  },
-  {
-    "marque": "FLUKE",
     "model": "DSXPLA004",
     "quantite": 3,
     "unites": [
