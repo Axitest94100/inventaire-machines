@@ -3040,23 +3040,6 @@
   },
   {
     "marque": "HP",
-    "model": "3325B",
-    "quantite": 1,
-    "unites": [
-      {
-        "numserie": "2847A02457",
-        "position": "E-5 (PARTIE CHEZ AIR FRANCE 30/07/2025) AVEC AXEL",
-        "etatcvi": "non",
-        "dateFinCVI": null
-      }
-    ],
-    "etatcvi": "non",
-    "dateFinCVI": null,
-    "createdAt": "2025-06-26T15:17:33.397Z",
-    "emplacement": "E-5 (PARTIE CHEZ AIR FRANCE 30/07/2025) AVEC AXEL"
-  },
-  {
-    "marque": "HP",
     "model": "53181A",
     "quantite": 1,
     "unites": [
