@@ -968,22 +968,6 @@
   },
   {
     "marque": "AGILENT",
-    "model": "34401A",
-    "quantite": 1,
-    "emplacement": "E-5",
-    "description": "4x APPAREILS ENVOYER A MENOVA POUR CVI\nCLIENT: THERMOCOAX\n\nhttps://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EhoXnXJCoRNHvuRiQNgZrKQBqREWX7rM5wStfb7s3C-elw?e=Sk6vFn",
-    "unites": [
-      {
-        "numserie": "MY41022435",
-        "position": "E-5",
-        "etatcvi": "oui",
-        "dateFinCVI": "2026-08-01"
-      }
-    ],
-    "createdAt": "2025-07-02T13:47:08.246Z"
-  },
-  {
-    "marque": "AGILENT",
     "model": "N9320B",
     "quantite": 1,
     "emplacement": "H-3 (PARTIE CHEZ MENOVA 30/07/2025) client: safran",
