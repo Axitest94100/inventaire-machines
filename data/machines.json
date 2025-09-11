@@ -986,13 +986,13 @@
     "marque": "AGILENT",
     "model": "N9030A",
     "quantite": 1,
-    "emplacement": "I-1 -------",
+    "emplacement": "I-1",
     "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/Evkq78F-9rtJudU7n1Y6oIkBN01hgolpVbwPACA_Iyo9Cg?e=LZoZWC",
     "unites": [
       {
         "numserie": "MY49431173",
-        "position": "I-1 -------",
         "etatcvi": "oui",
+        "position": "I-1",
         "dateFinCVI": "2023-10-01"
       }
     ],
@@ -1002,12 +1002,12 @@
     "marque": "AGILENT",
     "model": "1680AD",
     "quantite": 1,
-    "emplacement": "J-1",
+    "emplacement": "J-1-------",
     "description": "",
     "unites": [
       {
         "numserie": "MY41001131",
-        "position": "J-1",
+        "position": "J-1-------",
         "etatcvi": "non",
         "dateFinCVI": null
       }
