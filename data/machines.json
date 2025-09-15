@@ -1002,12 +1002,12 @@
     "marque": "AGILENT",
     "model": "1680AD",
     "quantite": 1,
-    "emplacement": "J-1-------",
+    "emplacement": "J-1------- CONTROLE",
     "description": "",
     "unites": [
       {
         "numserie": "MY41001131",
-        "position": "J-1-------",
+        "position": "J-1------- CONTROLE",
         "etatcvi": "non",
         "dateFinCVI": null
       }
@@ -1039,7 +1039,7 @@
     "unites": [
       {
         "numserie": "030608",
-        "position": "I-1",
+        "position": "I-1 -------",
         "etatcvi": "non",
         "dateFinCVI": null
       }
@@ -1047,7 +1047,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.397Z",
-    "emplacement": "I-1",
+    "emplacement": "I-1 -------",
     "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EsK1CSHqVEtDgh2MGayoz2EByoe2RCy93vCfI3L6GtosUg?e=RmAJNP"
   },
   {
@@ -1065,7 +1065,8 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.397Z",
-    "emplacement": "I-2"
+    "emplacement": "I-2",
+    "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/Emy89c31X_pOlVCjUD9PZ-IBVpwtSq9be05c_-ZoI7gF9g?e=Dr66cu"
   },
   {
     "marque": "ANRITSU",
