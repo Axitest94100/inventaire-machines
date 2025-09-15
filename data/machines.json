@@ -1093,15 +1093,16 @@
     "unites": [
       {
         "numserie": "6200507989",
-        "etatcvi": "non",
+        "etatcvi": "oui",
         "position": "I-2------",
-        "dateFinCVI": null
+        "dateFinCVI": "2023-09-01"
       }
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.397Z",
-    "emplacement": "I-2------"
+    "emplacement": "I-2------",
+    "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EqDZbesVMqJMqGyIWDXcVLoBNFRvYVFCHqS6riVNhXxZ0w?e=tu7p2X"
   },
   {
     "marque": "ANRITSU",
