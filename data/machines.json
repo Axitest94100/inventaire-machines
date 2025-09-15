@@ -1039,15 +1039,15 @@
     "unites": [
       {
         "numserie": "030608",
-        "position": "I-1 -------",
         "etatcvi": "non",
+        "position": "I-1",
         "dateFinCVI": null
       }
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.397Z",
-    "emplacement": "I-1 -------",
+    "emplacement": "I-1",
     "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EsK1CSHqVEtDgh2MGayoz2EByoe2RCy93vCfI3L6GtosUg?e=RmAJNP"
   },
   {
@@ -1083,7 +1083,8 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.397Z",
-    "emplacement": "I-2"
+    "emplacement": "I-2",
+    "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EqxTz-CE_sJIlFeIe8kfY3YB43IwT2I1hfC1rvtOw7vCKg?e=eKeER4"
   },
   {
     "marque": "ANRITSU",
@@ -1092,15 +1093,15 @@
     "unites": [
       {
         "numserie": "6200507989",
-        "position": "I-2",
         "etatcvi": "non",
+        "position": "I-2------",
         "dateFinCVI": null
       }
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.397Z",
-    "emplacement": "I-2"
+    "emplacement": "I-2------"
   },
   {
     "marque": "ANRITSU",
