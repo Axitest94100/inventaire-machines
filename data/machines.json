@@ -7471,22 +7471,6 @@
     "createdAt": "2025-08-28T15:53:39.046Z"
   },
   {
-    "marque": "SOLARTRON",
-    "model": "7061",
-    "quantite": 1,
-    "emplacement": "LAB",
-    "description": "",
-    "unites": [
-      {
-        "numserie": "201772",
-        "position": "LAB",
-        "etatcvi": "non",
-        "dateFinCVI": null
-      }
-    ],
-    "createdAt": "2025-09-09T08:27:43.002Z"
-  },
-  {
     "marque": "AGILENT",
     "model": "34401A",
     "quantite": 1,
