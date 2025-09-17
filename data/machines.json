@@ -1235,7 +1235,7 @@
     "unites": [
       {
         "numserie": "D9600942-101B6",
-        "position": "F-4",
+        "position": "G-4",
         "etatcvi": "non",
         "dateFinCVI": null
       }
@@ -1243,7 +1243,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.397Z",
-    "emplacement": "F-4"
+    "emplacement": "G-4"
   },
   {
     "marque": "AOIP",
