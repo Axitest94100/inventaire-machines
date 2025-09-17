@@ -1217,15 +1217,16 @@
     "unites": [
       {
         "numserie": "6K00005726",
-        "position": "H-3",
         "etatcvi": "non",
+        "position": "H-3",
         "dateFinCVI": null
       }
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.397Z",
-    "emplacement": "H-3"
+    "emplacement": "H-3",
+    "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EqigaBg1RQZMpW1TOELfMUMBHwc6uwDldniIQDy6TRjHCg?e=IuxQc2"
   },
   {
     "marque": "AOIP",
