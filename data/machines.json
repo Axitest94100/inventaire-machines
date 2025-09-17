@@ -1715,8 +1715,8 @@
       {
         "numserie": "112755YMH",
         "position": "H-2",
-        "etatcvi": "non",
-        "dateFinCVI": null
+        "etatcvi": "oui",
+        "dateFinCVI": "2026-03-01"
       }
     ],
     "createdAt": "2025-07-01T08:50:04.466Z"
