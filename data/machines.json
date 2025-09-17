@@ -1191,7 +1191,8 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.398Z",
-    "emplacement": "M-3"
+    "emplacement": "M-3",
+    "description": "APPAREIL NON DISPONIBLE"
   },
   {
     "marque": "ANRITSU",
