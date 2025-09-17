@@ -1002,13 +1002,13 @@
     "marque": "AGILENT",
     "model": "1680A",
     "quantite": 1,
-    "emplacement": "J-1------- CONTROLE",
+    "emplacement": "J-1",
     "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/ElSHA1WrP2lPhHMj0CnwWskBTtFB1Pf3wSuSQsEr8sHe6A",
     "unites": [
       {
         "numserie": "MY41001131",
         "etatcvi": "non",
-        "position": "J-1------- CONTROLE",
+        "position": "J-1",
         "dateFinCVI": null
       }
     ],
