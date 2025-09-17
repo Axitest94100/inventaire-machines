@@ -1709,12 +1709,12 @@
     "marque": "CHAUVIN ARNOUX",
     "model": "CA6255",
     "quantite": 1,
-    "emplacement": "H-2",
-    "description": "AVEC UN CVI MAIS SANS ETIQUETTE",
+    "emplacement": "H-2 (EN LOCATION CHEZ NUCLETUDES DU 19/09/25 AU 26/09/2025)",
+    "description": "AVEC UN CVI MAIS SANS ETIQUETTE\nEN LOCATION CHEZ NUCLETUDES DU 19/09/25 AU 26/09/2025",
     "unites": [
       {
         "numserie": "112755YMH",
-        "position": "H-2",
+        "position": "H-2 (EN LOCATION CHEZ NUCLETUDES DU 19/09/25 AU 26/09/2025)",
         "etatcvi": "oui",
         "dateFinCVI": "2026-03-01"
       }
