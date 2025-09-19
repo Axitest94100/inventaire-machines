@@ -4120,24 +4120,6 @@
   },
   {
     "marque": "KEYSIGHT",
-    "model": "81150A",
-    "quantite": 1,
-    "description": "OPTION 002\nhttps://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/Ejj62IMq0PZHs6M2KMIDeEABALzD5o4zWupHrkEdwPY3cg?e=ZRcZrx",
-    "unites": [
-      {
-        "numserie": "MY53820512",
-        "position": "D-3",
-        "etatcvi": "oui",
-        "dateFinCVI": "2025-10-01"
-      }
-    ],
-    "etatcvi": "non",
-    "dateFinCVI": null,
-    "createdAt": "2025-06-26T15:17:33.397Z",
-    "emplacement": "D-3"
-  },
-  {
-    "marque": "KEYSIGHT",
     "model": "33510B",
     "quantite": 1,
     "unites": [
