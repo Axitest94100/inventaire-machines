@@ -7502,19 +7502,19 @@
     "marque": "AEROFLEX",
     "model": "3550R",
     "quantite": 2,
-    "emplacement": "H-3",
+    "emplacement": "G-3",
     "description": "OPTION POUR LE 1000579798 :\n- OPT001 CHANNEL ANALYZER\n- OPT002 OSCILLOSCOPE\n- OPT008 TRACKING GEN\n- OPT034 DMR\nOPTION POUR LE 1000657026 :\n-OPT001 CHANNEL ANALYZER\n-OPT002 OSCILLOSCOPE\n-OPT007 P25\n-OPT008 TRACKING GEN\n-OPT033 NXDN\n-OPT034 DMR\n\nAPPAREIL SANS BATTERIE POUR LE 1000657026\nhttps://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EkHlRqQuh4NCl4kaBHd-lTUB3PMI9u2ebFMg-0e7j-vXjQ?e=TVMyuR",
     "unites": [
       {
         "numserie": "1000579798",
-        "position": "H-3",
         "etatcvi": "oui",
+        "position": "G-3",
         "dateFinCVI": "2026-06-01"
       },
       {
         "numserie": "1000657026",
-        "position": "H-3",
         "etatcvi": "oui",
+        "position": "G-3",
         "dateFinCVI": "2026-04-01"
       }
     ],
