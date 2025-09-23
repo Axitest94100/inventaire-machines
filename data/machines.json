@@ -7497,5 +7497,21 @@
       }
     ],
     "createdAt": "2025-09-17T14:44:45.912Z"
+  },
+  {
+    "marque": "AEROFLEX",
+    "model": "3550R",
+    "quantite": 1,
+    "emplacement": "H-3",
+    "description": "OPTION POUR LE 1000579798 :\n- OPT001 CHANNEL ANALYZER\n- OPT002 OSCILLOSCOPE\n- OPT008 TRACKING GEN\n- OPT034 DMR\nhttps://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EkHlRqQuh4NCl4kaBHd-lTUB3PMI9u2ebFMg-0e7j-vXjQ?e=TVMyuR",
+    "unites": [
+      {
+        "numserie": "1000579798",
+        "position": "H-3",
+        "etatcvi": "oui",
+        "dateFinCVI": "2026-06-01"
+      }
+    ],
+    "createdAt": "2025-09-23T14:44:18.701Z"
   }
 ]
