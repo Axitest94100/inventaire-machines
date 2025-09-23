@@ -968,22 +968,6 @@
   },
   {
     "marque": "AGILENT",
-    "model": "N9320B",
-    "quantite": 1,
-    "emplacement": "H-3 (PARTIE CHEZ MENOVA 30/07/2025) client: safran",
-    "description": "",
-    "unites": [
-      {
-        "numserie": "CN03225025",
-        "position": "H-3 (PARTIE CHEZ MENOVA 30/07/2025) client: safran",
-        "etatcvi": "non",
-        "dateFinCVI": null
-      }
-    ],
-    "createdAt": "2025-07-21T14:02:49.915Z"
-  },
-  {
-    "marque": "AGILENT",
     "model": "N9030A",
     "quantite": 1,
     "emplacement": "I-1",
