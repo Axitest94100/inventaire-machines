@@ -94,24 +94,6 @@
   },
   {
     "marque": "AEROFLEX",
-    "model": "3251",
-    "quantite": 1,
-    "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/Eqk850nw2YtIp2oE8Z7zzhUBWldibxL6XNbMqlqwneKMcQ?e=kdFRIw",
-    "unites": [
-      {
-        "numserie": "1604004",
-        "position": "M-3(chez menova 01/08/2025)",
-        "etatcvi": "oui",
-        "dateFinCVI": "2023-12-30"
-      }
-    ],
-    "etatcvi": "non",
-    "dateFinCVI": null,
-    "createdAt": "2025-06-26T15:17:33.398Z",
-    "emplacement": "M-3(chez menova 01/08/2025)"
-  },
-  {
-    "marque": "AEROFLEX",
     "model": "3920B",
     "quantite": 1,
     "emplacement": "H-1",
