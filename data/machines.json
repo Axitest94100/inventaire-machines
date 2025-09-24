@@ -1719,12 +1719,12 @@
     "marque": "FLUKE",
     "model": "DSX8000",
     "quantite": 1,
-    "emplacement": "J-4",
+    "emplacement": "J-4-----------",
     "description": "",
     "unites": [
       {
         "numserie": "1735360/1746409 + 17370376/1746336",
-        "position": "J-4",
+        "position": "J-4-----------",
         "etatcvi": "oui",
         "dateFinCVI": "2026-01-31"
       }
