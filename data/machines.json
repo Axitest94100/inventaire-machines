@@ -5825,7 +5825,7 @@
     "unites": [
       {
         "numserie": "C010359",
-        "position": "A-3",
+        "position": "ARRIVAGE",
         "etatcvi": "non",
         "dateFinCVI": null
       }
@@ -5833,7 +5833,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.396Z",
-    "emplacement": "A-3"
+    "emplacement": "ARRIVAGE"
   },
   {
     "marque": "TEKTRONIX",
