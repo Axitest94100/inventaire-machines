@@ -5819,24 +5819,6 @@
   },
   {
     "marque": "TEKTRONIX",
-    "model": "DPO2014B",
-    "quantite": 1,
-    "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/Elk0yTZL4X5KuzSllTWycMsBFP7zm7IOGDCn4dyQgCvVmg?e=iOuHnk",
-    "unites": [
-      {
-        "numserie": "C010359",
-        "position": "ARRIVAGE",
-        "etatcvi": "non",
-        "dateFinCVI": null
-      }
-    ],
-    "etatcvi": "non",
-    "dateFinCVI": null,
-    "createdAt": "2025-06-26T15:17:33.396Z",
-    "emplacement": "ARRIVAGE"
-  },
-  {
-    "marque": "TEKTRONIX",
     "model": "DPO4034B",
     "quantite": 1,
     "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EsyojWmtBIBGkEYCGijZLxUBugyc69AIONpCPc5BFr6lpA?e=2txZae",
