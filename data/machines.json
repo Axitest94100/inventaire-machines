@@ -1719,13 +1719,13 @@
     "marque": "FLUKE",
     "model": "DSX8000",
     "quantite": 1,
-    "emplacement": "J-4-----------",
-    "description": "",
+    "emplacement": "J-4",
+    "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/Eh-GHMAdnrBOohansdABaNUBXsdasJpCLAKp47iiJtMkoQ?e=ZqgUui",
     "unites": [
       {
         "numserie": "1735360/1746409 + 17370376/1746336",
-        "position": "J-4-----------",
         "etatcvi": "oui",
+        "position": "J-4",
         "dateFinCVI": "2026-01-31"
       }
     ],
@@ -2037,7 +2037,8 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.398Z",
-    "emplacement": "L-1"
+    "emplacement": "L-1",
+    "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/ErxtaZfuADpCkzYYSzTBl_0BclmKqqVJbM5AbWo8oUKeRA?e=i1Jsok"
   },
   {
     "marque": "ENERTEC",
@@ -2443,7 +2444,7 @@
     "unites": [
       {
         "numserie": "GEY180038",
-        "position": "H-2",
+        "position": "H-2 (PRET A MENOVA LE 02/10/2025)",
         "etatcvi": "non",
         "dateFinCVI": null
       }
@@ -2451,7 +2452,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.397Z",
-    "emplacement": "H-2",
+    "emplacement": "H-2 (PRET A MENOVA LE 02/10/2025)",
     "description": "PRET A MENOVA LE 02/10/2025\nhttps://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/El0-6J-mSftEkRX33Y5uUBQButXMz-XC4vMZTehqaDnR1A?e=1soS00\n"
   },
   {
