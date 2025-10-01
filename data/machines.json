@@ -1755,7 +1755,7 @@
     "quantite": 1,
     "unites": [
       {
-        "numserie": "",
+        "numserie": "@",
         "position": "D-4",
         "etatcvi": "non",
         "dateFinCVI": null
@@ -1764,7 +1764,8 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.397Z",
-    "emplacement": "D-4"
+    "emplacement": "D-4",
+    "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EivxOBw5VCdOk5aF46gmhQwBs1BSTVBjR1ViYav7wWO4Ng?e=jpPIIr"
   },
   {
     "marque": "CHROMA",
