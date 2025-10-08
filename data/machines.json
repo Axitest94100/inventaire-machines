@@ -1149,16 +1149,16 @@
     "unites": [
       {
         "numserie": "1746447",
+        "etatcvi": "oui",
         "position": "M-3",
-        "etatcvi": "non",
-        "dateFinCVI": null
+        "dateFinCVI": "2025-03-01"
       }
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.398Z",
     "emplacement": "M-3",
-    "description": "APPAREIL NON DISPONIBLE"
+    "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/En_EjsUDuv5GiFav_UyyeAMBvsRTmadc2-uAJmyckgpcHw?e=vPFKj3"
   },
   {
     "marque": "ANRITSU",
