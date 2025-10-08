@@ -1687,12 +1687,12 @@
     "marque": "CHAUVIN ARNOUX",
     "model": "CA6255",
     "quantite": 1,
-    "emplacement": "H-2",
+    "emplacement": "I-2",
     "description": "",
     "unites": [
       {
         "numserie": "112755YMH",
-        "position": "H-2",
+        "position": "I-2",
         "etatcvi": "oui",
         "dateFinCVI": "2026-03-01"
       }
