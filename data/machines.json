@@ -3186,7 +3186,7 @@
   },
   {
     "marque": "HP",
-    "model": "16034E",
+    "model": "16034E------",
     "quantite": 1,
     "unites": [
       {
@@ -3199,7 +3199,8 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.397Z",
-    "emplacement": "H-3"
+    "emplacement": "H-3",
+    "description": ""
   },
   {
     "marque": "HP",
