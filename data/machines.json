@@ -2766,23 +2766,6 @@
   },
   {
     "marque": "HP",
-    "model": "85056A",
-    "quantite": 1,
-    "unites": [
-      {
-        "numserie": "2729A03660",
-        "position": "C-5",
-        "etatcvi": "non",
-        "dateFinCVI": null
-      }
-    ],
-    "etatcvi": "non",
-    "dateFinCVI": null,
-    "createdAt": "2025-06-26T15:17:33.396Z",
-    "emplacement": "C-5"
-  },
-  {
-    "marque": "HP",
     "model": "6634A",
     "quantite": 1,
     "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/Etrkoi_bXFBIhsfAdJjeCrABthKP_dc-f3NiRDiXMoejgg?e=unOkmG",
