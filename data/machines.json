@@ -2521,8 +2521,8 @@
       {
         "numserie": "GEW161427",
         "position": "I-2",
-        "etatcvi": "non",
-        "dateFinCVI": null
+        "etatcvi": "oui",
+        "dateFinCVI": "2025-10-01"
       },
       {
         "numserie": "GEX211317",
