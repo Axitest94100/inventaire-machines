@@ -2544,8 +2544,8 @@
       {
         "numserie": "GEW210981",
         "position": "I-3",
-        "etatcvi": "non",
-        "dateFinCVI": null
+        "etatcvi": "oui",
+        "dateFinCVI": "2025-10-01"
       }
     ],
     "etatcvi": "non",
