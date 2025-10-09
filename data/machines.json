@@ -2496,7 +2496,7 @@
   },
   {
     "marque": "GW INSTEK",
-    "model": "APS5050E",
+    "model": "APS7050E",
     "quantite": 1,
     "unites": [
       {
@@ -2509,7 +2509,8 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.397Z",
-    "emplacement": "H-4"
+    "emplacement": "H-4",
+    "description": ""
   },
   {
     "marque": "GW INSTEK",
