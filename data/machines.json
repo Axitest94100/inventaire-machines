@@ -2526,7 +2526,7 @@
       },
       {
         "numserie": "GEX211317",
-        "position": "M-3",
+        "position": "J-1",
         "etatcvi": "non",
         "dateFinCVI": null
       }
@@ -2534,7 +2534,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.397Z",
-    "emplacement": "I-2+M-3"
+    "emplacement": "I-2 + J-1"
   },
   {
     "marque": "GW INSTEK",
