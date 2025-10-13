@@ -952,13 +952,13 @@
     "marque": "AGILENT",
     "model": "N9030A",
     "quantite": 1,
-    "emplacement": "I-1",
+    "emplacement": "I-1 (partie chez menova 14/10/2025)",
     "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/Evkq78F-9rtJudU7n1Y6oIkBN01hgolpVbwPACA_Iyo9Cg?e=LZoZWC",
     "unites": [
       {
         "numserie": "MY49431173",
         "etatcvi": "oui",
-        "position": "I-1",
+        "position": "I-1 (partie chez menova 14/10/2025)",
         "dateFinCVI": "2023-10-01"
       }
     ],
