@@ -4525,7 +4525,7 @@
     "unites": [
       {
         "numserie": "1886078EH",
-        "position": "A-4",
+        "position": "A-4 (partie chez menova 14/10/2025)",
         "etatcvi": "oui",
         "dateFinCVI": "2025-10-01"
       }
@@ -4533,7 +4533,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.396Z",
-    "emplacement": "A-4"
+    "emplacement": "A-4 (partie chez menova 14/10/2025)"
   },
   {
     "marque": "METRIX",
