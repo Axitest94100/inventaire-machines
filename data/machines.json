@@ -4300,8 +4300,8 @@
     "unites": [
       {
         "numserie": "22L7391",
-        "position": "D-2",
         "etatcvi": "oui",
+        "position": "D-2",
         "dateFinCVI": "2025-05-01"
       }
     ],
@@ -4312,7 +4312,7 @@
   },
   {
     "marque": "LAMBDA",
-    "model": "EM57.5-130",
+    "model": "EMS7.5-130",
     "quantite": 1,
     "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EpzXydF7y11EoTxlhN1KD5cBNQGG0PN7mRmLnKyRc4R5cA?e=3sx3US",
     "unites": [
