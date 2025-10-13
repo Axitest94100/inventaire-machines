@@ -6758,7 +6758,7 @@
     "unites": [
       {
         "numserie": "01313",
-        "position": "B-3",
+        "position": "B-3 (partie chez menova 14/10/2025)",
         "etatcvi": "non",
         "dateFinCVI": null
       }
@@ -6766,7 +6766,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.396Z",
-    "emplacement": "B-3"
+    "emplacement": "B-3 (partie chez menova 14/10/2025)"
   },
   {
     "marque": "TELEDYNE LECROY",
