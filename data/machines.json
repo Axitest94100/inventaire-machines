@@ -7529,5 +7529,21 @@
       }
     ],
     "createdAt": "2025-10-08T10:01:41.493Z"
+  },
+  {
+    "marque": "AGILENT",
+    "model": "34970A",
+    "quantite": 1,
+    "emplacement": "E-5",
+    "description": "",
+    "unites": [
+      {
+        "numserie": "MY41020633",
+        "position": "E-5",
+        "etatcvi": "oui",
+        "dateFinCVI": "2026-10-01"
+      }
+    ],
+    "createdAt": "2025-10-14T08:13:42.010Z"
   }
 ]
