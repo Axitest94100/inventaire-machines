@@ -7527,5 +7527,21 @@
       }
     ],
     "createdAt": "2025-10-14T08:13:42.010Z"
+  },
+  {
+    "marque": "GW INSTEK",
+    "model": "GPS-3303",
+    "quantite": 1,
+    "emplacement": "E-2",
+    "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/Es0T7JHn_01HnRFv5OnyCS0B6C5mj4cE2Bb0swbU1REDZQ?e=JipCMr",
+    "unites": [
+      {
+        "numserie": "C911287",
+        "position": "E-2",
+        "etatcvi": "oui",
+        "dateFinCVI": "2026-09-01"
+      }
+    ],
+    "createdAt": "2025-10-14T12:31:02.424Z"
   }
 ]
