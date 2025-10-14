@@ -4844,24 +4844,6 @@
     "emplacement": "I-2+I-1"
   },
   {
-    "marque": "RIGOL",
-    "model": "DSA815",
-    "quantite": 1,
-    "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EnyKMxFsRnBCtZV0RrTSrTgBlwaJmBUA8RunwX5rMhJ5qA?e=F97fUI",
-    "unites": [
-      {
-        "numserie": "DSA8A212700588",
-        "position": "E-3",
-        "etatcvi": "non",
-        "dateFinCVI": null
-      }
-    ],
-    "etatcvi": "non",
-    "dateFinCVI": null,
-    "createdAt": "2025-06-26T15:17:33.397Z",
-    "emplacement": "E-3"
-  },
-  {
     "marque": "ROHDE & SCHWARZ",
     "model": "FSP38",
     "quantite": 2,
