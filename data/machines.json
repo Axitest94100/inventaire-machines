@@ -3337,7 +3337,7 @@
   {
     "marque": "HP",
     "model": "E4418B",
-    "quantite": 2,
+    "quantite": 3,
     "unites": [
       {
         "numserie": "GB41299789",
@@ -3348,6 +3348,12 @@
       {
         "numserie": "GB41299786",
         "position": "K-4",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      },
+      {
+        "numserie": "GB41299789",
+        "position": "",
         "etatcvi": "non",
         "dateFinCVI": null
       }
