@@ -3245,7 +3245,7 @@
     "unites": [
       {
         "numserie": "2841A00135",
-        "position": "I-2",
+        "position": "I-2 (NON DISPO)",
         "etatcvi": "non",
         "dateFinCVI": null
       }
@@ -3253,7 +3253,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.397Z",
-    "emplacement": "I-2",
+    "emplacement": "I-2 (NON DISPO)",
     "description": "HS (A BRULER)"
   },
   {
