@@ -3245,7 +3245,7 @@
     "unites": [
       {
         "numserie": "2841A00135",
-        "position": "I-2 (NON DISPO)",
+        "position": "I-2",
         "etatcvi": "non",
         "dateFinCVI": null
       }
@@ -3253,8 +3253,8 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.397Z",
-    "emplacement": "I-2 (NON DISPO)",
-    "description": "HS (A BRULER)"
+    "emplacement": "I-2",
+    "description": "HS (A BRULER)\nhttps://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/El7hTPvLtM1OghsY9u6CcLUB89qY9vKBelpH5pdaazG6fg?e=nBJbFR"
   },
   {
     "marque": "HP",
@@ -3277,7 +3277,8 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.397Z",
-    "emplacement": "I-3+H-3"
+    "emplacement": "I-3+H-3",
+    "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EnRdZJkOio5JiVu0YtGB_g4B41qfxgOoYMtbRCdxv_0Mow?e=rfkCCX"
   },
   {
     "marque": "HP",
@@ -3312,7 +3313,8 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.398Z",
-    "emplacement": "K-1"
+    "emplacement": "K-1",
+    "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/Eu9SihaShglMung5lPIlcy0Bcim8akUiitLeXlZOMbQ7zQ?e=kAFnNt"
   },
   {
     "marque": "HP",
