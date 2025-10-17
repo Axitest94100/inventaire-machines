@@ -4190,7 +4190,7 @@
     "unites": [
       {
         "numserie": "570",
-        "position": "F-4 (client: lab assistance)",
+        "position": "TABLE DE TRAVAIL (client: lab assistance)",
         "etatcvi": "non",
         "dateFinCVI": null
       }
@@ -4198,7 +4198,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.397Z",
-    "emplacement": "F-4 (client: lab assistance)"
+    "emplacement": "TABLE DE TRAVAIL (client: lab assistance)"
   },
   {
     "marque": "KEYSIGHT",
@@ -4245,12 +4245,12 @@
     "marque": "KEYSIGHT",
     "model": "34972A",
     "quantite": 1,
-    "emplacement": "F-5 (client : lab assistance)",
+    "emplacement": "TABLE DE TRAVAIL (client : lab assistance)",
     "description": "CVI: M2407066",
     "unites": [
       {
         "numserie": "MY49020031",
-        "position": "F-5 (client : lab assistance)",
+        "position": "TABLE DE TRAVAIL (client : lab assistance)",
         "etatcvi": "oui",
         "dateFinCVI": "2026-07-01"
       }
