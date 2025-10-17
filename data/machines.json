@@ -4190,7 +4190,7 @@
     "unites": [
       {
         "numserie": "570",
-        "position": "F-4",
+        "position": "F-4 (client: lab assistance)",
         "etatcvi": "non",
         "dateFinCVI": null
       }
@@ -4198,7 +4198,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.397Z",
-    "emplacement": "F-4"
+    "emplacement": "F-4 (client: lab assistance)"
   },
   {
     "marque": "KEYSIGHT",
