@@ -4245,12 +4245,12 @@
     "marque": "KEYSIGHT",
     "model": "34972A",
     "quantite": 1,
-    "emplacement": "F-5",
+    "emplacement": "F-5 (client : lab assistance)",
     "description": "CVI: M2407066",
     "unites": [
       {
         "numserie": "MY49020031",
-        "position": "F-5",
+        "position": "F-5 (client : lab assistance)",
         "etatcvi": "oui",
         "dateFinCVI": "2026-07-01"
       }
