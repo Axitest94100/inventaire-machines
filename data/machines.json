@@ -3817,7 +3817,7 @@
       },
       {
         "numserie": "0611536",
-        "position": "F-5",
+        "position": "F-4",
         "etatcvi": "non",
         "dateFinCVI": null
       }
@@ -3825,7 +3825,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.397Z",
-    "emplacement": "F-5"
+    "emplacement": "F-5 + F-4"
   },
   {
     "marque": "KEITHLEY",
