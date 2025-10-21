@@ -3825,7 +3825,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.397Z",
-    "emplacement": "F-5 + F-4"
+    "emplacement": "F-5+F-4"
   },
   {
     "marque": "KEITHLEY",
@@ -7291,7 +7291,8 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.397Z",
-    "emplacement": "H-3"
+    "emplacement": "H-3",
+    "description": "ACCESSOIRES "
   },
   {
     "marque": "WILLTECK",
