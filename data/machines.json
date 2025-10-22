@@ -4114,8 +4114,8 @@
     "unites": [
       {
         "numserie": "MY54150212",
-        "position": "C-6 ",
         "etatcvi": "oui",
+        "position": "C-6",
         "dateFinCVI": "2023-10-01"
       }
     ],
