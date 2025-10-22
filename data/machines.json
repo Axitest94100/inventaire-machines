@@ -3872,7 +3872,7 @@
   },
   {
     "marque": "KEITHLEY",
-    "model": "3750",
+    "model": "3730",
     "quantite": 1,
     "unites": [
       {
@@ -3885,7 +3885,8 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.397Z",
-    "emplacement": "F-5"
+    "emplacement": "F-5",
+    "description": ""
   },
   {
     "marque": "KEITHLEY",
