@@ -7560,5 +7560,21 @@
       }
     ],
     "createdAt": "2025-10-14T12:31:02.424Z"
+  },
+  {
+    "marque": "KEYSIGHT",
+    "model": "DAQM901A",
+    "quantite": 1,
+    "emplacement": "F-5",
+    "description": "MODULE DANS LE KEYSIGHT DAQ970A SN: MY58015425\nhttps://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EnXWcEOlhDNPntEbVJT_KCYBBtpMNn2Z6WeRVBah-HuTOg?e=84WVrv",
+    "unites": [
+      {
+        "numserie": "MY58027918",
+        "position": "F-5",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      }
+    ],
+    "createdAt": "2025-10-22T15:28:52.708Z"
   }
 ]
