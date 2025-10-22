@@ -4134,13 +4134,14 @@
         "numserie": "MY52202297",
         "position": "E-5",
         "etatcvi": "oui",
-        "dateFinCVI": "2023-03-01"
+        "dateFinCVI": "2025-03-01"
       }
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.397Z",
-    "emplacement": "E-5"
+    "emplacement": "E-5",
+    "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EnE34UgLSyJGubYLeONA674B2ZmPKcU5IG_HoE-J_Ir0OA?e=URchN2"
   },
   {
     "marque": "KEYSIGHT",
