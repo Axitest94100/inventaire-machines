@@ -4018,22 +4018,6 @@
     "createdAt": "2025-08-28T15:08:54.760Z"
   },
   {
-    "marque": "KEITHLEY",
-    "model": "2000",
-    "quantite": 1,
-    "emplacement": "F-5",
-    "description": "",
-    "unites": [
-      {
-        "numserie": "0758298",
-        "position": "F-5",
-        "etatcvi": "oui",
-        "dateFinCVI": "2026-06-01"
-      }
-    ],
-    "createdAt": "2025-09-01T12:45:22.883Z"
-  },
-  {
     "marque": "KEITHLEY (HORS SERVICE)",
     "model": "2100",
     "quantite": 1,
