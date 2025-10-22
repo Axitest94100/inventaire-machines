@@ -4115,8 +4115,8 @@
       {
         "numserie": "MY54150212",
         "position": "C-6 ",
-        "etatcvi": "non",
-        "dateFinCVI": null
+        "etatcvi": "oui",
+        "dateFinCVI": "2023-10-01"
       }
     ],
     "etatcvi": "non",
