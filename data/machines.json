@@ -3849,7 +3849,8 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.397Z",
-    "emplacement": "F-5"
+    "emplacement": "F-5",
+    "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EqeksEmYl_RBou4YWl6ex9cBo_151R222f02OtEFKPEeFQ?e=2QwduM"
   },
   {
     "marque": "KEITHLEY",
@@ -4998,7 +4999,7 @@
     "unites": [
       {
         "numserie": "101426",
-        "position": "M-4",
+        "position": "TABLE DE TRAVAIL (client: HTTX)",
         "etatcvi": "oui",
         "dateFinCVI": "2025-01-29"
       }
@@ -5006,7 +5007,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.398Z",
-    "emplacement": "M-4"
+    "emplacement": "TABLE DE TRAVAIL (client: HTTX)"
   },
   {
     "marque": "ROHDE & SCHWARZ",
