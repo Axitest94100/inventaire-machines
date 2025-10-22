@@ -4186,7 +4186,7 @@
     "unites": [
       {
         "numserie": "570",
-        "position": "TABLE DE TRAVAIL (client: lab assistance)",
+        "position": "F-4",
         "etatcvi": "non",
         "dateFinCVI": null
       }
@@ -4194,7 +4194,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.397Z",
-    "emplacement": "TABLE DE TRAVAIL (client: lab assistance)"
+    "emplacement": "F-4"
   },
   {
     "marque": "KEYSIGHT",
