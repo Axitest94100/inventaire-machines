@@ -4836,14 +4836,8 @@
   {
     "marque": "ROHDE & SCHWARZ",
     "model": "FSP38",
-    "quantite": 2,
+    "quantite": 1,
     "unites": [
-      {
-        "numserie": "100399",
-        "position": "B-2",
-        "etatcvi": "non",
-        "dateFinCVI": null
-      },
       {
         "numserie": "101043",
         "position": "I-3",
@@ -4854,7 +4848,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.396Z",
-    "emplacement": "B-2+I-3"
+    "emplacement": "I-3"
   },
   {
     "marque": "ROHDE & SCHWARZ",
