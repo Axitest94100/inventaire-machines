@@ -4782,7 +4782,7 @@
     "model": "I3-32",
     "quantite": 1,
     "emplacement": "M-4",
-    "description": "",
+    "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/ErvHpBS0rQ5Lgdjbf8m42X0BW4z5bN0nivFLEzuqM9y9qw?e=XN0xog",
     "unites": [
       {
         "numserie": "22wt50824",
@@ -4795,7 +4795,7 @@
   },
   {
     "marque": "PRODIGIT",
-    "model": "3310F",
+    "model": "3310F + 3302F",
     "quantite": 1,
     "emplacement": "J-2",
     "description": "",
