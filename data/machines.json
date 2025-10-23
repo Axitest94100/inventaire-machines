@@ -4748,7 +4748,7 @@
     "model": "1542/00",
     "quantite": 1,
     "emplacement": "H-3",
-    "description": "",
+    "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/Eg5GUpLbhclHo2-pLmO4K0sBEe0kuexxKuTgQ-NZUu7lyw?e=NfDfM4",
     "unites": [
       {
         "numserie": "9416 015 42001 N",
@@ -4774,7 +4774,8 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.397Z",
-    "emplacement": "H-3"
+    "emplacement": "H-3",
+    "description": "MERCI DE REGARDER SUR GOOGLE"
   },
   {
     "marque": "PMM",
