@@ -4744,24 +4744,6 @@
     "emplacement": "D-4"
   },
   {
-    "marque": "PHILIPPS",
-    "model": "PM5138",
-    "quantite": 1,
-    "unites": [
-      {
-        "numserie": "LO580928",
-        "position": "E-4",
-        "etatcvi": "non",
-        "dateFinCVI": null
-      }
-    ],
-    "etatcvi": "non",
-    "dateFinCVI": null,
-    "createdAt": "2025-06-26T15:17:33.397Z",
-    "emplacement": "E-4",
-    "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/Enhy7JG8nppJhQv54Q-LR8IB7h1HgZmBoEnRiWijmss9Pw"
-  },
-  {
     "marque": "PHILIPS",
     "model": "1542/00",
     "quantite": 1,
