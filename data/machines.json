@@ -4646,9 +4646,9 @@
   {
     "marque": "NATIONAL INSTRUMENT",
     "model": "GPIB-USB-HS",
-    "quantite": 5,
-    "emplacement": "K-3+LAB (CLIENT EDF)",
-    "description": "",
+    "quantite": 2,
+    "emplacement": "K-3",
+    "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EpU9Z0x_u0lHhqgtfr9HK90BBfl1VoPiB4fhCIAdzT3CAg?e=yqUOz4",
     "unites": [
       {
         "numserie": "116DA9E",
@@ -4659,24 +4659,6 @@
       {
         "numserie": "127CA3F",
         "position": "K-3",
-        "etatcvi": "non",
-        "dateFinCVI": null
-      },
-      {
-        "numserie": "12BABFC",
-        "position": "K-3",
-        "etatcvi": "non",
-        "dateFinCVI": null
-      },
-      {
-        "numserie": "135F56D",
-        "position": "K-3",
-        "etatcvi": "non",
-        "dateFinCVI": null
-      },
-      {
-        "numserie": "12A8134",
-        "position": "LAB (CLIENT EDF)",
         "etatcvi": "non",
         "dateFinCVI": null
       }
@@ -4698,7 +4680,8 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.398Z",
-    "emplacement": "M-4"
+    "emplacement": "M-4",
+    "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/Esw2bC8veihJt_UYbBjVA_wBpaPM7UFawnYE4wIcCC4lWA?e=SPhbmU"
   },
   {
     "marque": "NORTH ATLANTIC",
