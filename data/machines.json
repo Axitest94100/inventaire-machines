@@ -4562,7 +4562,7 @@
     "unites": [
       {
         "numserie": "412581",
-        "position": "I-4",
+        "position": "I-1",
         "etatcvi": "non",
         "dateFinCVI": null
       }
@@ -4570,7 +4570,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.398Z",
-    "emplacement": "I-4"
+    "emplacement": "I-1"
   },
   {
     "marque": "METRIX",
