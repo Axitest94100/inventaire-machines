@@ -4871,23 +4871,6 @@
   },
   {
     "marque": "ROHDE & SCHWARZ",
-    "model": "SME03(HS)",
-    "quantite": 1,
-    "unites": [
-      {
-        "numserie": "844425/028",
-        "position": "E-2",
-        "etatcvi": "non",
-        "dateFinCVI": null
-      }
-    ],
-    "etatcvi": "non",
-    "dateFinCVI": null,
-    "createdAt": "2025-06-26T15:17:33.397Z",
-    "emplacement": "E-2"
-  },
-  {
-    "marque": "ROHDE & SCHWARZ",
     "model": "SMY02",
     "quantite": 1,
     "unites": [
