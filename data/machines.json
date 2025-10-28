@@ -7570,5 +7570,21 @@
       }
     ],
     "createdAt": "2025-10-28T11:17:48.171Z"
+  },
+  {
+    "marque": "IFR",
+    "model": "2399A",
+    "quantite": 1,
+    "emplacement": "I-2",
+    "description": "",
+    "unites": [
+      {
+        "numserie": "103062099",
+        "position": "I-2",
+        "etatcvi": "oui",
+        "dateFinCVI": "2026-10-01"
+      }
+    ],
+    "createdAt": "2025-10-28T16:56:53.302Z"
   }
 ]
