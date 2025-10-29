@@ -5259,7 +5259,7 @@
   },
   {
     "marque": "SEFELEC",
-    "model": "1050M",
+    "model": "1500M",
     "quantite": 1,
     "unites": [
       {
@@ -5272,7 +5272,8 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.397Z",
-    "emplacement": "H-4"
+    "emplacement": "H-4",
+    "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EvSA9ZMRD5NAhfWhjEspqL4BoNsyXQBg7dqykC4crirn6A?e=rAnYyt"
   },
   {
     "marque": "SEFELEC",
