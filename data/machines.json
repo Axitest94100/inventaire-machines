@@ -93,22 +93,6 @@
     "emplacement": "E-3 (CHEZ MENOVA 01/08/2025) CLIENT CILAS"
   },
   {
-    "marque": "AEROFLEX",
-    "model": "3920B",
-    "quantite": 1,
-    "emplacement": "H-1",
-    "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EgsMa4RVRL1MgIE2fvcZQDIBhw8ruaP96t9GocjXKGhfjQ?e=4xUWyW",
-    "unites": [
-      {
-        "numserie": "1001681618",
-        "position": "H-1",
-        "etatcvi": "oui",
-        "dateFinCVI": "2026-05-21"
-      }
-    ],
-    "createdAt": "2025-07-21T14:23:04.808Z"
-  },
-  {
     "marque": "AGILENT",
     "model": "MSO7034A",
     "quantite": 2,
@@ -4218,7 +4202,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.397Z",
-    "emplacement": "PRET MENOVA DEPUIS LE 30/10/2025 + I-3",
+    "emplacement": "PRET MENOVA DEPUIS LE 30/10/2025+I-3",
     "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/Es6XvwntU6BMsmZ8qTle924BDpuZe9YKh6kkPsgFUgrn7A?e=xHnwor"
   },
   {
