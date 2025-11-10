@@ -275,7 +275,7 @@
   {
     "marque": "AGILENT",
     "model": "6645A",
-    "quantite": 1,
+    "quantite": 2,
     "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EkeZOoNO5eVDotDhGsJwHGsBZFbBEhN9Y_mowAsj0yByjQ?e=KkADDk",
     "unites": [
       {
@@ -283,12 +283,18 @@
         "position": "D-4",
         "etatcvi": "non",
         "dateFinCVI": null
+      },
+      {
+        "numserie": "MY40000719",
+        "position": "H-1",
+        "etatcvi": "non",
+        "dateFinCVI": null
       }
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.397Z",
-    "emplacement": "D-4"
+    "emplacement": "D-4 + H-1"
   },
   {
     "marque": "AGILENT",
