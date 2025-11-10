@@ -5390,7 +5390,7 @@
     "marque": "SORENSEN",
     "model": "XFR600-4",
     "quantite": 3,
-    "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EmZmQmLJoHdNjHfwUXACYCcBztKap6O8JliuuwzD59e4TA?e=Lxhrcf",
+    "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/Err3IpZRQlZOrMGOy1EJLboBAMGv7iCxFJZ0aNR5lxvtbQ?e=V9VLiH",
     "unites": [
       {
         "numserie": "1211A02284",
@@ -7626,5 +7626,21 @@
       }
     ],
     "createdAt": "2025-11-10T10:49:01.556Z"
+  },
+  {
+    "marque": "XANTREX",
+    "model": "XFR 600-4",
+    "quantite": 1,
+    "emplacement": "D-3",
+    "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/Err3IpZRQlZOrMGOy1EJLboBAMGv7iCxFJZ0aNR5lxvtbQ?e=V9VLiH",
+    "unites": [
+      {
+        "numserie": "E00141043",
+        "position": "D-3",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      }
+    ],
+    "createdAt": "2025-11-10T11:01:10.041Z"
   }
 ]
