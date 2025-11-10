@@ -7610,5 +7610,21 @@
       }
     ],
     "createdAt": "2025-11-10T10:17:18.909Z"
+  },
+  {
+    "marque": "FLUKE",
+    "model": "PM5139",
+    "quantite": 1,
+    "emplacement": "E-4",
+    "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/ElxrYforVfBIipYSQTQgIeMBgY9StaLbIGMbpoItx9nzbQ?e=KO5DPg",
+    "unites": [
+      {
+        "numserie": "944505139021",
+        "position": "E-4",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      }
+    ],
+    "createdAt": "2025-11-10T10:49:01.556Z"
   }
 ]
