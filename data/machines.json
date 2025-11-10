@@ -2859,11 +2859,17 @@
   {
     "marque": "HP",
     "model": "6623A",
-    "quantite": 1,
+    "quantite": 2,
     "unites": [
       {
         "numserie": "3448A04307",
         "position": "D-5",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      },
+      {
+        "numserie": "3448A04904",
+        "position": "H-1",
         "etatcvi": "non",
         "dateFinCVI": null
       }
@@ -2871,7 +2877,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.397Z",
-    "emplacement": "D-5",
+    "emplacement": "D-5 + H-1",
     "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EmJwCFwNSQlHnuR-1fAYIt4BEdMVrKJph_fv7NhMe9ykVQ?e=euJznf"
   },
   {
@@ -7652,12 +7658,18 @@
   {
     "marque": "HP",
     "model": "6642A",
-    "quantite": 1,
+    "quantite": 2,
     "emplacement": "H-1",
     "description": "",
     "unites": [
       {
         "numserie": "3619A01513",
+        "position": "H-1",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      },
+      {
+        "numserie": "3347A00702",
         "position": "H-1",
         "etatcvi": "non",
         "dateFinCVI": null
