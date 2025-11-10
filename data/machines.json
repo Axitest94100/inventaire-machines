@@ -7658,8 +7658,8 @@
   {
     "marque": "HP",
     "model": "6642A",
-    "quantite": 2,
-    "emplacement": "H-1",
+    "quantite": 3,
+    "emplacement": "H-1 + H-2",
     "description": "",
     "unites": [
       {
@@ -7671,6 +7671,12 @@
       {
         "numserie": "3347A00702",
         "position": "H-1",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      },
+      {
+        "numserie": "3518A01234",
+        "position": "H-2",
         "etatcvi": "non",
         "dateFinCVI": null
       }
