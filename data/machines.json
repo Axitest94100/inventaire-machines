@@ -7572,5 +7572,21 @@
       }
     ],
     "createdAt": "2025-11-10T09:58:29.311Z"
+  },
+  {
+    "marque": "KOLINKER",
+    "model": "KH1200",
+    "quantite": 1,
+    "emplacement": "H-4",
+    "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EqHCUHYw9_RHgbLSVgwkg5kBY6sWNDi0_6AYMCwe0DKb_A?e=Wri6Nm",
+    "unites": [
+      {
+        "numserie": "1200-529",
+        "position": "H-4",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      }
+    ],
+    "createdAt": "2025-11-10T10:01:56.715Z"
   }
 ]
