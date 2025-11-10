@@ -7642,5 +7642,21 @@
       }
     ],
     "createdAt": "2025-11-10T11:01:10.041Z"
+  },
+  {
+    "marque": "HP",
+    "model": "6642A",
+    "quantite": 1,
+    "emplacement": "H-1",
+    "description": "",
+    "unites": [
+      {
+        "numserie": "3619A01513",
+        "position": "H-1",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      }
+    ],
+    "createdAt": "2025-11-10T11:08:03.781Z"
   }
 ]
