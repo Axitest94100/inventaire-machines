@@ -3773,10 +3773,16 @@
   {
     "marque": "KEITHLEY",
     "model": "196",
-    "quantite": 1,
+    "quantite": 2,
     "unites": [
       {
         "numserie": "439026",
+        "position": "F-5",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      },
+      {
+        "numserie": "504092",
         "position": "F-5",
         "etatcvi": "non",
         "dateFinCVI": null
@@ -7588,5 +7594,21 @@
       }
     ],
     "createdAt": "2025-11-10T10:01:56.715Z"
+  },
+  {
+    "marque": "HP",
+    "model": "E3620A",
+    "quantite": 1,
+    "emplacement": "F-4",
+    "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/Eu0QChNaUH9ApJsrlx6iFWwBZ7YeYtQaWXRxtvyYJ1oPqA?e=CBjmo6",
+    "unites": [
+      {
+        "numserie": "KR51301501",
+        "position": "F-4",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      }
+    ],
+    "createdAt": "2025-11-10T10:17:18.909Z"
   }
 ]
