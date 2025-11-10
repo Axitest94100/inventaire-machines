@@ -1610,7 +1610,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.397Z",
-    "emplacement": "J-4 + I-1 + H-4 + K-5",
+    "emplacement": "J-4+I-1+H-4+K-5",
     "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EpCznoBjFOZJnSdllLODe-8ByVyoyCE1HCy9wvxa4FEOAg?e=xcSLCC"
   },
   {
@@ -7556,5 +7556,21 @@
       }
     ],
     "createdAt": "2025-10-28T16:56:53.302Z"
+  },
+  {
+    "marque": "SPIRENT",
+    "model": "GSS6100",
+    "quantite": 1,
+    "emplacement": "H-4",
+    "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/Esc1B92tuwFHi_4M-2YTgZMBLKcT33bWEGfcE9sNQx9xNg?e=Lwz4Sh",
+    "unites": [
+      {
+        "numserie": "1972",
+        "position": "H-4",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      }
+    ],
+    "createdAt": "2025-11-10T09:58:29.311Z"
   }
 ]
