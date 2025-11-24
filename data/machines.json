@@ -7742,5 +7742,21 @@
       }
     ],
     "createdAt": "2025-11-24T16:09:35.584Z"
+  },
+  {
+    "marque": "MEATEST",
+    "model": "M194",
+    "quantite": 1,
+    "emplacement": "E-2",
+    "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EieOqS63a7dLlk1GhJ1aiWIBLqN8mJvi8hUKjGdGot5jbw?e=V4LMtS",
+    "unites": [
+      {
+        "numserie": "590231",
+        "position": "E-2",
+        "etatcvi": "oui",
+        "dateFinCVI": "2026-09-01"
+      }
+    ],
+    "createdAt": "2025-11-24T16:44:10.114Z"
   }
 ]
