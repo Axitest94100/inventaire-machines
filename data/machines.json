@@ -4207,8 +4207,8 @@
       {
         "numserie": "MY58015425",
         "position": "F-5",
-        "etatcvi": "non",
-        "dateFinCVI": null
+        "etatcvi": "oui",
+        "dateFinCVI": "2026-11-01"
       },
       {
         "numserie": "MY58035873",
