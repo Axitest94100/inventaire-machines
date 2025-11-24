@@ -7682,5 +7682,21 @@
       }
     ],
     "createdAt": "2025-11-10T11:08:03.781Z"
+  },
+  {
+    "marque": "HP",
+    "model": "8648A",
+    "quantite": 1,
+    "emplacement": "I-3",
+    "description": "OPT: 1E5\nCVI: M2507741\nhttps://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EpPMEe5CtP9MhoBcUJQkxs0BzyaS6dJyuL174ZsabfPhrA?e=xduoPb",
+    "unites": [
+      {
+        "numserie": "3426A01045",
+        "position": "I-3",
+        "etatcvi": "oui",
+        "dateFinCVI": "2026-11-01"
+      }
+    ],
+    "createdAt": "2025-11-24T10:15:34.073Z"
   }
 ]
