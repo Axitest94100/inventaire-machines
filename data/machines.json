@@ -7720,5 +7720,21 @@
       }
     ],
     "createdAt": "2025-11-24T15:44:37.164Z"
+  },
+  {
+    "marque": "WAVETEK",
+    "model": "81",
+    "quantite": 1,
+    "emplacement": "E-5",
+    "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EoOavpaXdHVAt5LuEopzRlwBD_MjGb0jQBw024QvIFUqxA?e=psNAm9",
+    "unites": [
+      {
+        "numserie": "766908",
+        "position": "E-5",
+        "etatcvi": "oui",
+        "dateFinCVI": "2026-10-01"
+      }
+    ],
+    "createdAt": "2025-11-24T16:09:35.584Z"
   }
 ]
