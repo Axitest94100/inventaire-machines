@@ -7479,14 +7479,14 @@
     "marque": "AOIP",
     "model": "PJ6301",
     "quantite": 1,
-    "emplacement": "LAB",
+    "emplacement": "I-4",
     "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/ErQsRtiSrp9FsF5uA48Bx-0B3C5nLXt84SYJxBOF6dRjcA?e=AK8Y7p",
     "unites": [
       {
         "numserie": "618001",
-        "position": "LAB",
-        "etatcvi": "non",
-        "dateFinCVI": null
+        "position": "I-4",
+        "etatcvi": "oui",
+        "dateFinCVI": "2026-10-01"
       }
     ],
     "createdAt": "2025-10-08T10:01:41.493Z"
