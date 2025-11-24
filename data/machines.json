@@ -4206,7 +4206,7 @@
     "unites": [
       {
         "numserie": "MY58015425",
-        "position": "PRET MENOVA DEPUIS LE 30/10/2025",
+        "position": "F-5",
         "etatcvi": "non",
         "dateFinCVI": null
       },
@@ -4220,7 +4220,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.397Z",
-    "emplacement": "PRET MENOVA DEPUIS LE 30/10/2025+I-3",
+    "emplacement": "F-5 + I-3",
     "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/Es6XvwntU6BMsmZ8qTle924BDpuZe9YKh6kkPsgFUgrn7A?e=xHnwor"
   },
   {
@@ -7698,5 +7698,21 @@
       }
     ],
     "createdAt": "2025-11-24T10:15:34.073Z"
+  },
+  {
+    "marque": "KEITHLEY",
+    "model": "2000",
+    "quantite": 1,
+    "emplacement": "F-4",
+    "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/Ep5PK55A-QdGkhFD78GLh9EB9CH7wgjJK1K-ZHLlf9-uFg?e=a6kAeR",
+    "unites": [
+      {
+        "numserie": "1041082",
+        "position": "F-4",
+        "etatcvi": "oui",
+        "dateFinCVI": "2026-11-01"
+      }
+    ],
+    "createdAt": "2025-11-24T15:44:37.164Z"
   }
 ]
