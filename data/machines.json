@@ -4226,7 +4226,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.397Z",
-    "emplacement": "F-5 + I-3",
+    "emplacement": "F-5+I-3",
     "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/Es6XvwntU6BMsmZ8qTle924BDpuZe9YKh6kkPsgFUgrn7A?e=xHnwor"
   },
   {
@@ -7403,7 +7403,7 @@
     "marque": "AGILENT",
     "model": "34401A",
     "quantite": 2,
-    "emplacement": "E-5 + E-4",
+    "emplacement": "E-5+E-4",
     "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EhoXnXJCoRNHvuRiQNgZrKQBqREWX7rM5wStfb7s3C-elw?e=Sk6vFn",
     "unites": [
       {
