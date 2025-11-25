@@ -6507,16 +6507,16 @@
     "quantite": 1,
     "unites": [
       {
-        "numserie": "LCRY2811N614442",
-        "position": "A-5",
-        "etatcvi": "non",
-        "dateFinCVI": null
+        "numserie": "LCRY2811N61442",
+        "position": "ATTENTE D'EXPEDITION",
+        "etatcvi": "oui",
+        "dateFinCVI": "2026-11-01"
       }
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.396Z",
-    "emplacement": "A-5"
+    "emplacement": "ATTENTE D'EXPEDITION"
   },
   {
     "marque": "TELEDYNE LECROY",
