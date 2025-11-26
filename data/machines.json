@@ -723,15 +723,15 @@
     "unites": [
       {
         "numserie": "JP2JG00653",
-        "position": "H-1",
-        "etatcvi": "non",
-        "dateFinCVI": null
+        "position": "J-2",
+        "etatcvi": "oui",
+        "dateFinCVI": "2026-11-01"
       }
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.397Z",
-    "emplacement": "H-1",
+    "emplacement": "J-2",
     "description": "REMARQUE: ECRAN HS\nhttps://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/Ekh63agCmy1FnV-14oY5TWABo5uu4D4hdzwZ8LiHHf-Ptg?e=ori48o"
   },
   {
@@ -7735,5 +7735,21 @@
       }
     ],
     "createdAt": "2025-11-24T16:44:10.114Z"
+  },
+  {
+    "marque": "ISO-TECH",
+    "model": "IPS-603",
+    "quantite": 1,
+    "emplacement": "G-4",
+    "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EiAotiey8zJEv5rqPM77CNIBr4LquqS-DwtRk2tQjVNrUA?e=w9swf5",
+    "unites": [
+      {
+        "numserie": "701D392G1",
+        "position": "G-4",
+        "etatcvi": "oui",
+        "dateFinCVI": "2026-11-01"
+      }
+    ],
+    "createdAt": "2025-11-26T16:38:44.873Z"
   }
 ]
