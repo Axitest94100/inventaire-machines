@@ -593,7 +593,7 @@
   {
     "marque": "AGILENT",
     "model": "3458A",
-    "quantite": 3,
+    "quantite": 2,
     "unites": [
       {
         "numserie": "2823A01207",
@@ -606,18 +606,12 @@
         "position": "F-5",
         "etatcvi": "non",
         "dateFinCVI": null
-      },
-      {
-        "numserie": "MY45048957",
-        "position": "H-1 ",
-        "etatcvi": "oui",
-        "dateFinCVI": "2027-05-01"
       }
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.397Z",
-    "emplacement": "F-5+H-1",
+    "emplacement": "F-5",
     "description": "MY45048857= OPT001\nMY45048957= OPT002 ASERTI 08/09/25 client: LNE\n2823A01207= SANS OPT ASERTI 07/10/2025\n\nhttps://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EmmIzYWcr8dFvvk_v2OvmQkBPkUGEq0Nb8NW37UE5W905Q?e=WPicla"
   },
   {
