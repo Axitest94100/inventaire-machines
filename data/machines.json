@@ -597,7 +597,7 @@
     "unites": [
       {
         "numserie": "2823A01207",
-        "position": "F-5",
+        "position": "F-5 (07/10/2025 (EN PANNE CHEZ ASERTI))",
         "etatcvi": "non",
         "dateFinCVI": null
       },
@@ -611,8 +611,8 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.397Z",
-    "emplacement": "F-5",
-    "description": "MY45048857= OPT001\n2823A01207= SANS OPT ASERTI 07/10/2025\n\nhttps://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EmmIzYWcr8dFvvk_v2OvmQkBPkUGEq0Nb8NW37UE5W905Q?e=WPicla"
+    "emplacement": "F-5 (07/10/2025 (EN PANNE CHEZ ASERTI)) + F-5",
+    "description": "MY45048857= OPT001\n2823A01207= SANS OPT ASERTI 07/10/2025 (EN PANNE CHEZ ASERTI)\n\nhttps://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EmmIzYWcr8dFvvk_v2OvmQkBPkUGEq0Nb8NW37UE5W905Q?e=WPicla"
   },
   {
     "marque": "AGILENT",
