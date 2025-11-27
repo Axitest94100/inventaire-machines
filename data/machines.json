@@ -611,7 +611,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.397Z",
-    "emplacement": "F-5 (07/10/2025 (EN PANNE CHEZ ASERTI)) + F-5",
+    "emplacement": "F-5 (07/10/2025 (EN PANNE CHEZ ASERTI))+F-5",
     "description": "MY45048857= OPT001\n2823A01207= SANS OPT ASERTI 07/10/2025 (EN PANNE CHEZ ASERTI)\n\nhttps://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EmmIzYWcr8dFvvk_v2OvmQkBPkUGEq0Nb8NW37UE5W905Q?e=WPicla"
   },
   {
@@ -2303,7 +2303,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.398Z",
-    "emplacement": "J-4 EN LOCATION POUR AGILE (DU 27/11/2025 AU 02/12/2025) + J-4 EN LOCATION (DU 05/11/2025 AU XX/XX/2025) PROLONGATION INCONNUE",
+    "emplacement": "J-4 EN LOCATION POUR AGILE (DU 27/11/2025 AU 02/12/2025)+J-4 EN LOCATION (DU 05/11/2025 AU XX/XX/2025) PROLONGATION INCONNUE",
     "description": "-19385063/19360763 EN LOCATION POUR MEDEKOM CONSULTING (DU 05/11/2025 AU XX/XX/2025) PROLONGATION INCONNUE\n\n-20263009/19500016 EN LOCATION POUR AGILE (DU 27/11/2025 AU 02/12/2025)\n\n\nhttps://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EnvkZSiEkXdNnMs8SFs1BiABRF-lD4J-2giJUCF5FvJN5w?e=bGlDWr"
   },
   {
@@ -7751,5 +7751,21 @@
       }
     ],
     "createdAt": "2025-11-26T16:38:44.873Z"
+  },
+  {
+    "marque": "TTI",
+    "model": "EX752M",
+    "quantite": 1,
+    "emplacement": "E-2",
+    "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EnOLnSLKe0REgtc9vWYK2oUBfQL2p7LBkmErkMTWKYbmOg?e=KIRg0S",
+    "unites": [
+      {
+        "numserie": "479592",
+        "position": "E-2",
+        "etatcvi": "oui",
+        "dateFinCVI": "2026-11-01"
+      }
+    ],
+    "createdAt": "2025-11-27T09:34:57.340Z"
   }
 ]
