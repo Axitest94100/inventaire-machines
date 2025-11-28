@@ -7258,7 +7258,7 @@
   {
     "marque": "XANTREX",
     "model": "XFR600-4",
-    "quantite": 3,
+    "quantite": 2,
     "unites": [
       {
         "numserie": "EDO136292",
@@ -7268,12 +7268,6 @@
       },
       {
         "numserie": "75620",
-        "position": "D-5",
-        "etatcvi": "oui",
-        "dateFinCVI": "2025-10-01"
-      },
-      {
-        "numserie": "EDO133526",
         "position": "D-5",
         "etatcvi": "oui",
         "dateFinCVI": "2025-10-01"
