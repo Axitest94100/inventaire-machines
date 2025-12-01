@@ -1616,7 +1616,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.397Z",
-    "emplacement": "J-4 (CLIENT: S.E.E.G.E (LOCATION DU 08-12-2025 AU 15-12-2025)) + I-1 + H-4 + J-4 + K-5",
+    "emplacement": "J-4 (CLIENT: S.E.E.G.E (LOCATION DU 08-12-2025 AU 15-12-2025))+I-1+H-4+J-4+K-5",
     "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EpCznoBjFOZJnSdllLODe-8ByVyoyCE1HCy9wvxa4FEOAg?e=xcSLCC"
   },
   {
@@ -1663,15 +1663,15 @@
       {
         "numserie": "19260039",
         "etatcvi": "oui",
-        "position": "J-3",
+        "position": "J-3 (EN LOCATION MOB-ENERGY 01/12/2025 AU 06/01/2025)",
         "dateFinCVI": "2026-07-01"
       }
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.398Z",
-    "emplacement": "J-3",
-    "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EgK-5RdfJ15AhumkR5GdDQQBOtl_yn7I4Rjo13cer3qS7w?e=KwavLj"
+    "emplacement": "J-3 (EN LOCATION MOB-ENERGY 01/12/2025 AU 06/01/2025)",
+    "description": "EN LOCATION MOB-ENERGY 01/12/2025 AU 06/01/2025\nhttps://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EgK-5RdfJ15AhumkR5GdDQQBOtl_yn7I4Rjo13cer3qS7w?e=KwavLj"
   },
   {
     "marque": "CHAUVIN ARNOUX",
