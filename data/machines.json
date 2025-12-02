@@ -759,15 +759,15 @@
     "unites": [
       {
         "numserie": "US44300449",
-        "position": "I-3 (ASERTI 19/11/2025)",
+        "position": "I-3 LOCATION",
         "etatcvi": "oui",
-        "dateFinCVI": "2023-10-27"
+        "dateFinCVI": "2026-12-01"
       }
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.397Z",
-    "emplacement": "I-3 (ASERTI 19/11/2025)",
+    "emplacement": "I-3 LOCATION",
     "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/Eus4BuOG4fNFinJ_B0m3EnABLgFQTzjTt_mpf6-ZmrVcrw?e=w6694H"
   },
   {
