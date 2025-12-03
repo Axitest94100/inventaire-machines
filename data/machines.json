@@ -7480,14 +7480,14 @@
     "marque": "KEYSIGHT",
     "model": "DAQM901A",
     "quantite": 1,
-    "emplacement": "CHEZ MENOVA DEPUIS LE 28/10/2025",
+    "emplacement": "F-5",
     "description": "MODULE DANS LE KEYSIGHT DAQ970A SN: MY58015425\nhttps://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EnXWcEOlhDNPntEbVJT_KCYBBtpMNn2Z6WeRVBah-HuTOg?e=84WVrv",
     "unites": [
       {
         "numserie": "MY58027918",
-        "etatcvi": "non",
-        "position": "CHEZ MENOVA DEPUIS LE 28/10/2025",
-        "dateFinCVI": null
+        "etatcvi": "oui",
+        "position": "F-5",
+        "dateFinCVI": "2026-11-01"
       }
     ],
     "createdAt": "2025-10-22T15:28:52.708Z"
