@@ -4063,7 +4063,7 @@
     "unites": [
       {
         "numserie": "MY58030723",
-        "position": "B-3",
+        "position": "B-3 (MENOVA 04/12/2025)",
         "etatcvi": "oui",
         "dateFinCVI": "2025-10-01"
       }
@@ -4071,7 +4071,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.396Z",
-    "emplacement": "B-3"
+    "emplacement": "B-3 (MENOVA 04/12/2025)"
   },
   {
     "marque": "KEYSIGHT",
