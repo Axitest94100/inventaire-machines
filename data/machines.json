@@ -1547,10 +1547,10 @@
         "dateFinCVI": null
       },
       {
-        "numserie": "197865",
-        "etatcvi": "non",
-        "position": "I-1",
-        "dateFinCVI": null
+        "numserie": "197865YKH",
+        "etatcvi": "oui",
+        "position": "I-1 (LOCATION BOUYGUES 05/12/2025 AU 19/12/2025)",
+        "dateFinCVI": "2026-01-01"
       },
       {
         "numserie": "201959",
@@ -1610,7 +1610,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.397Z",
-    "emplacement": "J-4 (CLIENT: S.E.E.G.E (LOCATION DU 08-12-2025 AU 15-12-2025)) + I-1 + H-4 + H-4 (LOCATION BOUYGUES 05/12/2025 AU 19/12/2025) + J-4 + K-5",
+    "emplacement": "J-4 (CLIENT: S.E.E.G.E (LOCATION DU 08-12-2025 AU 15-12-2025)) + I-1 + I-1 (LOCATION BOUYGUES 05/12/2025 AU 19/12/2025) + H-4 + H-4 (LOCATION BOUYGUES 05/12/2025 AU 19/12/2025) + J-4 + K-5",
     "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EpCznoBjFOZJnSdllLODe-8ByVyoyCE1HCy9wvxa4FEOAg?e=xcSLCC"
   },
   {
