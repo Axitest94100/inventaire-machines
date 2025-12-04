@@ -617,7 +617,7 @@
   {
     "marque": "AGILENT",
     "model": "U1253B",
-    "quantite": 4,
+    "quantite": 3,
     "unites": [
       {
         "numserie": "MY52260025",
@@ -636,12 +636,6 @@
         "position": "G-3",
         "etatcvi": "non",
         "dateFinCVI": null
-      },
-      {
-        "numserie": "MY53440006",
-        "position": "G-3",
-        "etatcvi": "oui",
-        "dateFinCVI": "2026-10-01"
       }
     ],
     "etatcvi": "non",
