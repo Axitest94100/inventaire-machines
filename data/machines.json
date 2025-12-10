@@ -1056,24 +1056,6 @@
   },
   {
     "marque": "ANRITSU",
-    "model": "MS2036A",
-    "quantite": 1,
-    "unites": [
-      {
-        "numserie": "0744018",
-        "position": "I-4",
-        "etatcvi": "oui",
-        "dateFinCVI": "2025-08-01"
-      }
-    ],
-    "etatcvi": "non",
-    "dateFinCVI": null,
-    "createdAt": "2025-06-26T15:17:33.397Z",
-    "emplacement": "I-4",
-    "description": "REMARQUE: SANS BATTERIE\n-1 KIT DE CALIBRATION \nhttps://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/ErwswolWSStKl34BRnTrXukBsEjw42S_LLlr4ibVjzfMZw?e=QEgxhb"
-  },
-  {
-    "marque": "ANRITSU",
     "model": "MS2711B",
     "quantite": 1,
     "unites": [
@@ -1490,7 +1472,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.397Z",
-    "emplacement": "F-2 (LOCATION BOUYGUES 05/12/2025 AU 19/12/2025) 201957YKH + F-2 (LOCATION BOUYGUES 05/12/2025 AU 19/12/2025) 197865YKH + F-2 (LOCATION BOUYGUES 05/12/2025 AU 19/12/2025) 197859YKH + F-2(LOCATION BOUYGUES 05/12/2025 AU 19/12/2025) 197865YKH + F-1 + F-1(CHEZ MENOVA DEPUIS LE 10/12/2025 POUR CVI) + F-1 (LOCATION BOUYGUES 05/12/2025 AU 19/12/2025) 197859YKH + F-1 (LOCATION BOUYGUES 05/12/2025 AU 19/12/2025) 201957YKH + F-1 (CHEZ MENOVA DEPUIS LE 10/12/2025 POUR CVI)",
+    "emplacement": "F-2 (LOCATION BOUYGUES 05/12/2025 AU 19/12/2025) 201957YKH+F-2 (LOCATION BOUYGUES 05/12/2025 AU 19/12/2025) 197865YKH+F-2 (LOCATION BOUYGUES 05/12/2025 AU 19/12/2025) 197859YKH+F-2(LOCATION BOUYGUES 05/12/2025 AU 19/12/2025) 197865YKH+F-1+F-1(CHEZ MENOVA DEPUIS LE 10/12/2025 POUR CVI)+F-1 (LOCATION BOUYGUES 05/12/2025 AU 19/12/2025) 197859YKH+F-1 (LOCATION BOUYGUES 05/12/2025 AU 19/12/2025) 201957YKH+F-1 (CHEZ MENOVA DEPUIS LE 10/12/2025 POUR CVI)",
     "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/Eor1HwFrA6lPrNK-ay_seJEB9Fckxo2jKTe2vJjUPV7cQA?e=OolCAO"
   },
   {
@@ -1610,7 +1592,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.397Z",
-    "emplacement": "J-4 (CLIENT: S.E.E.G.E (LOCATION DU 08-12-2025 AU 15-12-2025)) + I-1 + I-1 (LOCATION BOUYGUES 05/12/2025 AU 19/12/2025) + I-1 (CHEZ MENOVA DEPUIS LE 10/12/2025 POUR CVI) + H-4 (LOCATION BOUYGUES 05/12/2025 AU 19/12/2025) + J-4(CHEZ MENOVA DEPUIS LE 10/12/2025 POUR CVI) + K-5 (EN LOCATION POUR CHANTIERS ATLANTIQUE DU 10/12/2025 AU 17/12/2025)",
+    "emplacement": "J-4 (CLIENT: S.E.E.G.E (LOCATION DU 08-12-2025 AU 15-12-2025))+I-1+I-1 (LOCATION BOUYGUES 05/12/2025 AU 19/12/2025)+I-1 (CHEZ MENOVA DEPUIS LE 10/12/2025 POUR CVI)+H-4 (LOCATION BOUYGUES 05/12/2025 AU 19/12/2025)+J-4(CHEZ MENOVA DEPUIS LE 10/12/2025 POUR CVI)+K-5 (EN LOCATION POUR CHANTIERS ATLANTIQUE DU 10/12/2025 AU 17/12/2025)",
     "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EpCznoBjFOZJnSdllLODe-8ByVyoyCE1HCy9wvxa4FEOAg?e=xcSLCC"
   },
   {
