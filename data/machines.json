@@ -2261,7 +2261,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.398Z",
-    "emplacement": "J-4 + J-4 EN LOCATION (DU 05/11/2025 AU XX/XX/2025) PROLONGATION INCONNUE",
+    "emplacement": "J-4+J-4 EN LOCATION (DU 05/11/2025 AU XX/XX/2025) PROLONGATION INCONNUE",
     "description": "-19385063/19360763 EN LOCATION POUR MEDEKOM CONSULTING (DU 05/11/2025 AU XX/XX/2025) PROLONGATION INCONNUE\n\n-20263009/19500016 EN LOCATION POUR AGILE (DU 27/11/2025 AU 02/12/2025)\n\n\nhttps://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EnvkZSiEkXdNnMs8SFs1BiABRF-lD4J-2giJUCF5FvJN5w?e=bGlDWr"
   },
   {
@@ -6083,24 +6083,6 @@
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.396Z",
     "emplacement": "B-3"
-  },
-  {
-    "marque": "TEKTRONIX",
-    "model": "MDO34",
-    "quantite": 1,
-    "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/Ep7MHL1YEWZGsyEEqqXd4TsB4Aa1Yli1-f6SyX40j83qSw?e=XgECLh",
-    "unites": [
-      {
-        "numserie": "C041016",
-        "position": "B-3 (MENOVA 19/11/2025)",
-        "etatcvi": "non",
-        "dateFinCVI": null
-      }
-    ],
-    "etatcvi": "non",
-    "dateFinCVI": null,
-    "createdAt": "2025-06-26T15:17:33.396Z",
-    "emplacement": "B-3 (MENOVA 19/11/2025)"
   },
   {
     "marque": "TEKTRONIX",
