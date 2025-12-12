@@ -972,7 +972,7 @@
     "unites": [
       {
         "numserie": "060604",
-        "position": "C-2 (CHEZ MENOVA POUR CVI CLIENT: IRAM)",
+        "position": "C-2 (CHEZ MENOVA DEPUIS 12/12/2025 POUR CVI CLIENT: IRAM)",
         "etatcvi": "non",
         "dateFinCVI": null
       }
@@ -980,7 +980,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.396Z",
-    "emplacement": "C-2 (CHEZ MENOVA POUR CVI CLIENT: IRAM)"
+    "emplacement": "C-2 (CHEZ MENOVA DEPUIS 12/12/2025 POUR CVI CLIENT: IRAM)"
   },
   {
     "marque": "ANRITSU",
@@ -7314,13 +7314,13 @@
     "marque": "AGILENT",
     "model": "34401A",
     "quantite": 2,
-    "emplacement": "E-5+E-4",
+    "emplacement": "E-5 (CHEZ MENOVA DEPUIS LE12/12/2025 CLIENT: ASERTI) + E-4",
     "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EhoXnXJCoRNHvuRiQNgZrKQBqREWX7rM5wStfb7s3C-elw?e=Sk6vFn",
     "unites": [
       {
         "numserie": "MY53007143",
         "etatcvi": "non",
-        "position": "E-5",
+        "position": "E-5 (CHEZ MENOVA DEPUIS LE12/12/2025 CLIENT: ASERTI)",
         "dateFinCVI": null
       },
       {
