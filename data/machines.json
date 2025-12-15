@@ -4039,15 +4039,15 @@
     "unites": [
       {
         "numserie": "MY58030723",
-        "position": "B-3 (MENOVA 04/12/2025)",
+        "position": "EXPEDITION",
         "etatcvi": "oui",
-        "dateFinCVI": "2025-10-01"
+        "dateFinCVI": "2026-12-01"
       }
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.396Z",
-    "emplacement": "B-3 (MENOVA 04/12/2025)"
+    "emplacement": "EXPEDITION"
   },
   {
     "marque": "KEYSIGHT",
