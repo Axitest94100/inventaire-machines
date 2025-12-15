@@ -2247,7 +2247,7 @@
     "unites": [
       {
         "numserie": "20263009/19500016",
-        "position": "J-4",
+        "position": "J-4 (LOCATION CHEZ AGILE DU 15/12/2025 AU 22/12/2025)",
         "etatcvi": "oui",
         "dateFinCVI": "2026-01-01"
       },
@@ -2261,7 +2261,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.398Z",
-    "emplacement": "J-4+J-4 EN LOCATION (DU 05/11/2025 AU XX/XX/2025) PROLONGATION INCONNUE",
+    "emplacement": "J-4 (LOCATION CHEZ AGILE DU 15/12/2025 AU 22/12/2025) + J-4 EN LOCATION (DU 05/11/2025 AU XX/XX/2025) PROLONGATION INCONNUE",
     "description": "-19385063/19360763 EN LOCATION POUR MEDEKOM CONSULTING (DU 05/11/2025 AU XX/XX/2025) PROLONGATION INCONNUE\n\n-20263009/19500016 EN LOCATION POUR AGILE (DU 27/11/2025 AU 02/12/2025)\n\n\nhttps://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EnvkZSiEkXdNnMs8SFs1BiABRF-lD4J-2giJUCF5FvJN5w?e=bGlDWr"
   },
   {
@@ -7314,7 +7314,7 @@
     "marque": "AGILENT",
     "model": "34401A",
     "quantite": 2,
-    "emplacement": "E-5 (CHEZ MENOVA DEPUIS LE12/12/2025 CLIENT: ASERTI) + E-4",
+    "emplacement": "E-5 (CHEZ MENOVA DEPUIS LE12/12/2025 CLIENT: ASERTI)+E-4",
     "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EhoXnXJCoRNHvuRiQNgZrKQBqREWX7rM5wStfb7s3C-elw?e=Sk6vFn",
     "unites": [
       {
