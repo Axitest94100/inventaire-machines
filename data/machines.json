@@ -7722,12 +7722,12 @@
     "marque": "FUSION SLM",
     "model": "01DB",
     "quantite": 1,
-    "emplacement": "F-2",
+    "emplacement": "F-2 (LOCATION CHEZ ANEKOIK DU 16/12/2025 AU 23/12/2025)",
     "description": "",
     "unites": [
       {
         "numserie": "14522",
-        "position": "F-2",
+        "position": "F-2 (LOCATION CHEZ ANEKOIK DU 16/12/2025 AU 23/12/2025)",
         "etatcvi": "oui",
         "dateFinCVI": "2026-05-01"
       }
