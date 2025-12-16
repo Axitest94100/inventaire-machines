@@ -2261,7 +2261,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.398Z",
-    "emplacement": "J-4 (LOCATION CHEZ AGILE DU 15/12/2025 AU 22/12/2025) + J-4 EN LOCATION (DU 05/11/2025 AU XX/XX/2025) PROLONGATION INCONNUE",
+    "emplacement": "J-4 (LOCATION CHEZ AGILE DU 15/12/2025 AU 22/12/2025)+J-4 EN LOCATION (DU 05/11/2025 AU XX/XX/2025) PROLONGATION INCONNUE",
     "description": "-19385063/19360763 EN LOCATION POUR MEDEKOM CONSULTING (DU 05/11/2025 AU XX/XX/2025) PROLONGATION INCONNUE\n\n-20263009/19500016 EN LOCATION POUR AGILE (DU 27/11/2025 AU 02/12/2025)\n\n\nhttps://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EnvkZSiEkXdNnMs8SFs1BiABRF-lD4J-2giJUCF5FvJN5w?e=bGlDWr"
   },
   {
@@ -7733,5 +7733,21 @@
       }
     ],
     "createdAt": "2025-12-11T16:14:40.291Z"
+  },
+  {
+    "marque": "AGILENT",
+    "model": "E4980A",
+    "quantite": 1,
+    "emplacement": "E-3",
+    "description": "OPTION: 001\n\nhttps://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/IgBQDHV19FkoSLQtnc03DwDSAZAoqH3TmjSrL4UCi1i0zhE?e=ILe9Ic",
+    "unites": [
+      {
+        "numserie": "MY46101689",
+        "position": "E-3",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      }
+    ],
+    "createdAt": "2025-12-16T15:47:57.466Z"
   }
 ]
