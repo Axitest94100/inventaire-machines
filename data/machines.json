@@ -4200,22 +4200,6 @@
     "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EqSKikYh1sBAizMx6Xz5TaQBZPsvJEmoZKkihY9k2DHySg?e=0lMe7p"
   },
   {
-    "marque": "KEYSIGHT",
-    "model": "34972A",
-    "quantite": 1,
-    "emplacement": "TABLE DE TRAVAIL (client : lab assistance)",
-    "description": "CVI: M2407066\n\nhttps://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EhZTC762-j5DppJ1t_AOKioBf4bx-8aR4hgM1WykFBYy6g?e=mYPAqy",
-    "unites": [
-      {
-        "numserie": "MY49020031",
-        "position": "TABLE DE TRAVAIL (client : lab assistance)",
-        "etatcvi": "oui",
-        "dateFinCVI": "2026-07-01"
-      }
-    ],
-    "createdAt": "2025-07-16T08:31:26.270Z"
-  },
-  {
     "marque": "KIKUSUI",
     "model": "PIA4830",
     "quantite": 1,
