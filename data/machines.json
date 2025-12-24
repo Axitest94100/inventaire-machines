@@ -4762,11 +4762,17 @@
   {
     "marque": "ROHDE & SCHWARZ",
     "model": "FSP38",
-    "quantite": 1,
+    "quantite": 2,
     "unites": [
       {
         "numserie": "101043",
         "position": "I-3",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      },
+      {
+        "numserie": "100399",
+        "position": "DANS UN CARTON  EN FACE ALLEE B",
         "etatcvi": "non",
         "dateFinCVI": null
       }
@@ -4774,7 +4780,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.396Z",
-    "emplacement": "I-3",
+    "emplacement": "I-3 + DANS UN CARTON  EN FACE ALLEE B",
     "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/En_9gijA--RNmUgaRBKMRU4BQYrpInkV4lhvKvB7MHeBuA?e=9tpRkL"
   },
   {
