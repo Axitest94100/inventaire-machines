@@ -6402,7 +6402,7 @@
       },
       {
         "numserie": "LCRY0352N10179",
-        "position": "A-4",
+        "position": "A-4(invent)",
         "etatcvi": "oui",
         "dateFinCVI": "2024-04-04"
       },
@@ -6416,7 +6416,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.396Z",
-    "emplacement": "A-4(invent) + A-4 + C-4",
+    "emplacement": "A-4(invent) + C-4",
     "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EjkY1XfA2UtNqXcXSmtcSwsBdzxFSIlk67lf2aFoXGLh4g?e=M2tsRh"
   },
   {
