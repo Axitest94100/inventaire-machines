@@ -3699,7 +3699,7 @@
       },
       {
         "numserie": "4457161",
-        "position": "F-4",
+        "position": "F-4(invent)",
         "etatcvi": "non",
         "dateFinCVI": null
       },
@@ -3719,7 +3719,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.397Z",
-    "emplacement": "F-4+F-3(invent)",
+    "emplacement": "F-4 + F-4(invent) + F-3(invent)",
     "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/Eg9zZ1yLz8tNmt0tscTbSvEBWS6XPV7x62HCg66Gvfn76w?e=kDo4Ko"
   },
   {
@@ -4164,7 +4164,7 @@
     "unites": [
       {
         "numserie": "MY58015425",
-        "position": "F-5",
+        "position": "F-5(invent)",
         "etatcvi": "oui",
         "dateFinCVI": "2026-11-01"
       },
@@ -4178,7 +4178,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.397Z",
-    "emplacement": "F-5+I-3",
+    "emplacement": "F-5(invent) + I-3",
     "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/Es6XvwntU6BMsmZ8qTle924BDpuZe9YKh6kkPsgFUgrn7A?e=xHnwor"
   },
   {
@@ -7416,13 +7416,13 @@
     "marque": "KEYSIGHT",
     "model": "DAQM901A",
     "quantite": 1,
-    "emplacement": "F-5",
+    "emplacement": "F-5(invent)",
     "description": "MODULE DANS LE KEYSIGHT DAQ970A SN: MY58015425\nhttps://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EnXWcEOlhDNPntEbVJT_KCYBBtpMNn2Z6WeRVBah-HuTOg?e=84WVrv",
     "unites": [
       {
         "numserie": "MY58027918",
         "etatcvi": "oui",
-        "position": "F-5",
+        "position": "F-5(invent)",
         "dateFinCVI": "2026-11-01"
       }
     ],
