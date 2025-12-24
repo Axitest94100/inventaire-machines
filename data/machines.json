@@ -3259,7 +3259,7 @@
     "unites": [
       {
         "numserie": "3446U04021",
-        "position": "K-1",
+        "position": "K-1(invent)",
         "etatcvi": "non",
         "dateFinCVI": null
       }
@@ -3267,7 +3267,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.398Z",
-    "emplacement": "K-1",
+    "emplacement": "K-1(invent)",
     "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/Eu9SihaShglMung5lPIlcy0Bcim8akUiitLeXlZOMbQ7zQ?e=kAFnNt"
   },
   {
