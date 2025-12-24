@@ -9161,5 +9161,37 @@
       }
     ],
     "createdAt": "2025-12-24T15:10:56.950Z"
+  },
+  {
+    "marque": "GW INSTEK",
+    "model": "APS5050E",
+    "quantite": 1,
+    "emplacement": "L-2(invent)",
+    "description": "",
+    "unites": [
+      {
+        "numserie": "GEW120577",
+        "position": "L-2(invent)",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      }
+    ],
+    "createdAt": "2025-12-24T15:13:39.289Z"
+  },
+  {
+    "marque": "GLASSMAN",
+    "model": "PS/EK20N30.0F22",
+    "quantite": 1,
+    "emplacement": "L-2(invent)",
+    "description": "HS",
+    "unites": [
+      {
+        "numserie": "N384319-01-NR130809",
+        "position": "L-2(invent)",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      }
+    ],
+    "createdAt": "2025-12-24T15:17:03.931Z"
   }
 ]
