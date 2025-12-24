@@ -1687,7 +1687,7 @@
     "unites": [
       {
         "numserie": "616040003055",
-        "position": "D-3",
+        "position": "D-3(invent)",
         "etatcvi": "non",
         "dateFinCVI": null
       }
@@ -1695,7 +1695,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.397Z",
-    "emplacement": "D-3"
+    "emplacement": "D-3(invent)"
   },
   {
     "marque": "CHROMA",
@@ -5488,19 +5488,19 @@
     "unites": [
       {
         "numserie": "LOC-946A230-0002",
-        "position": "D-2",
+        "position": "D-2(invent)",
         "etatcvi": "oui",
         "dateFinCVI": "2025-05-01"
       },
       {
         "numserie": "LOC-946A230-0001",
-        "position": "D-2",
+        "position": "D-2(invent)",
         "etatcvi": "oui",
         "dateFinCVI": "2025-05-01"
       },
       {
         "numserie": "M2305403",
-        "position": "D-2",
+        "position": "D-2(invent)",
         "etatcvi": "oui",
         "dateFinCVI": "2025-05-01"
       }
@@ -5508,7 +5508,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.397Z",
-    "emplacement": "D-2"
+    "emplacement": "D-2(invent)"
   },
   {
     "marque": "TDK LAMBDA",
