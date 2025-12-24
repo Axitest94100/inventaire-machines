@@ -1566,9 +1566,9 @@
       },
       {
         "numserie": "191101WGH",
-        "etatcvi": "non",
-        "position": "J-4(CHEZ MENOVA DEPUIS LE 10/12/2025 POUR CVI)",
-        "dateFinCVI": null
+        "etatcvi": "oui",
+        "position": "J-4 (invent)",
+        "dateFinCVI": "2026-12-01"
       },
       {
         "numserie": "164376UFH",
@@ -1584,15 +1584,15 @@
       },
       {
         "numserie": "197862YKH",
-        "position": "J-4(CHEZ MENOVA DEPUIS LE 10/12/2025 POUR CVI)",
-        "etatcvi": "non",
-        "dateFinCVI": null
+        "position": "J-4 (invent)",
+        "etatcvi": "oui",
+        "dateFinCVI": "2026-12-01"
       }
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.397Z",
-    "emplacement": "J-4 + I-1 + I-1 (CHEZ MENOVA DEPUIS LE 10/12/2025 POUR CVI) + J-4(CHEZ MENOVA DEPUIS LE 10/12/2025 POUR CVI) + K-5 (EN LOCATION POUR CHANTIERS ATLANTIQUE DU 10/12/2025 AU 17/12/2025) + J-4 (invent)",
+    "emplacement": "J-4 + I-1 + I-1 (CHEZ MENOVA DEPUIS LE 10/12/2025 POUR CVI) + J-4 (invent) + K-5 (EN LOCATION POUR CHANTIERS ATLANTIQUE DU 10/12/2025 AU 17/12/2025)",
     "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EpCznoBjFOZJnSdllLODe-8ByVyoyCE1HCy9wvxa4FEOAg?e=xcSLCC"
   },
   {
