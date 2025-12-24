@@ -2211,7 +2211,7 @@
     "unites": [
       {
         "numserie": "945206306021",
-        "position": "H-3",
+        "position": "H-3(invent)",
         "etatcvi": "non",
         "dateFinCVI": null
       }
@@ -2219,7 +2219,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.397Z",
-    "emplacement": "H-3",
+    "emplacement": "H-3(invent)",
     "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/Euix8HR5uNhOiRChNeW604YBhLo9ZDl3mwiZOgoxL8VK0A?e=yPx6D5"
   },
   {
@@ -3452,12 +3452,12 @@
     "marque": "IDEAL INDUSTRIES",
     "model": "SIGNAL TEK III",
     "quantite": 1,
-    "emplacement": "H-3",
+    "emplacement": "H-3(invent)",
     "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EsJ6JMT8zpZNiNZT-_7q_3IBgQn9H55p7bA4qZhR8J6cZQ?e=ArhzQA",
     "unites": [
       {
         "numserie": "15610106/03121 + 15610407/02147",
-        "position": "H-3",
+        "position": "H-3(invent)",
         "etatcvi": "non",
         "dateFinCVI": null
       }
@@ -6188,7 +6188,7 @@
     "unites": [
       {
         "numserie": "B030986",
-        "position": "H-3",
+        "position": "H-3(invent)",
         "etatcvi": "non",
         "dateFinCVI": null
       }
@@ -6196,7 +6196,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.397Z",
-    "emplacement": "H-3"
+    "emplacement": "H-3(invent)"
   },
   {
     "marque": "TEKTRONIX",
@@ -8931,5 +8931,21 @@
       }
     ],
     "createdAt": "2025-12-24T13:11:09.343Z"
+  },
+  {
+    "marque": "TEKTRONIX",
+    "model": "TSG601",
+    "quantite": 1,
+    "emplacement": "H-3(invent)",
+    "description": "",
+    "unites": [
+      {
+        "numserie": "B041300",
+        "position": "H-3(invent)",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      }
+    ],
+    "createdAt": "2025-12-24T13:30:58.116Z"
   }
 ]
