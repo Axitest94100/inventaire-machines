@@ -2395,7 +2395,7 @@
     "unites": [
       {
         "numserie": "EM910312",
-        "position": "E-5",
+        "position": "E-5(invent)",
         "etatcvi": "non",
         "dateFinCVI": null
       }
@@ -2403,7 +2403,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.397Z",
-    "emplacement": "E-5",
+    "emplacement": "E-5(invent)",
     "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EmAziyfFTN5MjhmFQ9J-d8wB-EYXVCilXiT_UuKmBwHTFQ?e=7aMtY2"
   },
   {
@@ -3753,7 +3753,7 @@
       },
       {
         "numserie": "504092",
-        "position": "F-5",
+        "position": "F-5(invent)",
         "etatcvi": "non",
         "dateFinCVI": null
       }
@@ -3761,7 +3761,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.397Z",
-    "emplacement": "F-5",
+    "emplacement": "F-5 + F-5(invent)",
     "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EtgxE1qIG1JLlOUKlLSAEnsBwHdcXN6pc1zxL5jxcI1Pkw?e=o18b2H"
   },
   {
@@ -4961,12 +4961,12 @@
     "marque": "ROHDE & SCHWARZ",
     "model": "URE2",
     "quantite": 1,
-    "emplacement": "F-5",
+    "emplacement": "F-5(invent)",
     "description": "CVI: M2507032\nhttps://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EsSs9Ir4W-tIu_xBlkN9T8cBy6V5etpBO2XZVaadGUM17w?e=uIQC3B",
     "unites": [
       {
         "numserie": "100044",
-        "position": "F-5",
+        "position": "F-5(invent)",
         "etatcvi": "oui",
         "dateFinCVI": "2026-07-01"
       }
