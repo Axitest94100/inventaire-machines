@@ -717,7 +717,7 @@
     "unites": [
       {
         "numserie": "JP2JG00653",
-        "position": "J-2",
+        "position": "J-2(invent)",
         "etatcvi": "oui",
         "dateFinCVI": "2026-11-01"
       }
@@ -725,7 +725,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.397Z",
-    "emplacement": "J-2",
+    "emplacement": "J-2(invent)",
     "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/Ekh63agCmy1FnV-14oY5TWABo5uu4D4hdzwZ8LiHHf-Ptg?e=ori48o"
   },
   {
@@ -813,7 +813,7 @@
     "unites": [
       {
         "numserie": "MY4100521",
-        "position": "J-1",
+        "position": "J-1(invent)",
         "etatcvi": "non",
         "dateFinCVI": null
       }
@@ -821,7 +821,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.398Z",
-    "emplacement": "J-1",
+    "emplacement": "J-1(invent)",
     "description": "REMARQUE: L'APPAREIL NE S'ALLUME PAS\n\nhttps://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/ElSHA1WrP2lPhHMj0CnwWskBTtFB1Pf3wSuSQsEr8sHe6A?e=9TuBI1"
   },
   {
@@ -831,7 +831,7 @@
     "unites": [
       {
         "numserie": "MY41000633",
-        "position": "J-1",
+        "position": "J-1(invent)",
         "etatcvi": "non",
         "dateFinCVI": null
       }
@@ -839,7 +839,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.398Z",
-    "emplacement": "J-1",
+    "emplacement": "J-1(invent)",
     "description": "ECRAN HS\nhttps://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EqvC5fU-7CBAvm2AKh6hzsQB8dS4I2Fwo_XzmGaYDfMLdg?e=D7Bktc"
   },
   {
@@ -952,13 +952,13 @@
     "marque": "AGILENT",
     "model": "1680A",
     "quantite": 1,
-    "emplacement": "J-1",
+    "emplacement": "J-1(invent)",
     "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/ElSHA1WrP2lPhHMj0CnwWskBTtFB1Pf3wSuSQsEr8sHe6A",
     "unites": [
       {
         "numserie": "MY41001131",
         "etatcvi": "non",
-        "position": "J-1",
+        "position": "J-1(invent)",
         "dateFinCVI": null
       }
     ],
@@ -2474,7 +2474,7 @@
       },
       {
         "numserie": "GEX211317",
-        "position": "J-1",
+        "position": "J-1(invent)",
         "etatcvi": "non",
         "dateFinCVI": null
       }
@@ -2482,7 +2482,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.397Z",
-    "emplacement": "I-2(invent) + J-1"
+    "emplacement": "I-2(invent) + J-1(invent)"
   },
   {
     "marque": "GW INSTEK",
@@ -4844,7 +4844,7 @@
     "unites": [
       {
         "numserie": "827758/004",
-        "position": "J-2",
+        "position": "J-2(invent)",
         "etatcvi": "oui",
         "dateFinCVI": "2025-01-01"
       }
@@ -4852,7 +4852,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.398Z",
-    "emplacement": "J-2",
+    "emplacement": "J-2(invent)",
     "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EklMOu9wULVPhrVmEdZ_XyYB2LyatzakGKAwmWWz8kGFJg?e=NmD6tk"
   },
   {
