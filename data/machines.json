@@ -868,7 +868,7 @@
     "unites": [
       {
         "numserie": "MY44000718",
-        "position": "M-2",
+        "position": "M-2(invent)",
         "etatcvi": "oui",
         "dateFinCVI": "2024-11-01"
       }
@@ -876,7 +876,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.398Z",
-    "emplacement": "M-2",
+    "emplacement": "M-2(invent)",
     "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EoOr95_2QohAmUJGUwOZsKkBB4iUeY4iVc1_CnH3jBE4jw?e=bLaLPF"
   },
   {
@@ -1705,7 +1705,7 @@
     "unites": [
       {
         "numserie": "MODULES",
-        "position": "M-2",
+        "position": "M-2(invent)",
         "etatcvi": "oui",
         "dateFinCVI": "2025-04-01"
       },
@@ -1731,7 +1731,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.398Z",
-    "emplacement": "M-2",
+    "emplacement": "M-2(invent) + M-2",
     "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EkILrX6bz91ErOSjs-I4cLYB85gQgBOnF4kxHAGsOTPfuQ?e=GTIuZK"
   },
   {
@@ -6267,7 +6267,7 @@
     "unites": [
       {
         "numserie": "B011354",
-        "position": "M-2",
+        "position": "M-2(invent)",
         "etatcvi": "non",
         "dateFinCVI": null
       }
@@ -6275,7 +6275,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.398Z",
-    "emplacement": "M-2",
+    "emplacement": "M-2(invent)",
     "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/Eq2Qz76BkVxCqcLsohTFpdYBsf8C5IvYvvkPkt3pIeIcpA?e=GO8iB9"
   },
   {
