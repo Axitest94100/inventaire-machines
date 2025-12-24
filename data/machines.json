@@ -1602,7 +1602,7 @@
     "unites": [
       {
         "numserie": "500526",
-        "position": "J-3",
+        "position": "J-3(invent)",
         "etatcvi": "oui",
         "dateFinCVI": "2025-09-01"
       }
@@ -1610,7 +1610,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.398Z",
-    "emplacement": "J-3",
+    "emplacement": "J-3(invent)",
     "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/Euypf7Z2mnVKl13Cpn7T0E4ByECD7M2fACpRZzD7Rdp6Fw?e=McTbN9"
   },
   {
@@ -1877,7 +1877,7 @@
     "unites": [
       {
         "numserie": "00167",
-        "position": "J-3",
+        "position": "J-3(invent)",
         "etatcvi": "oui",
         "dateFinCVI": "2026-06-23"
       }
@@ -1885,7 +1885,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.398Z",
-    "emplacement": "J-3"
+    "emplacement": "J-3(invent)"
   },
   {
     "marque": "EIP",
@@ -2229,7 +2229,7 @@
     "unites": [
       {
         "numserie": "5394166",
-        "position": "J-3",
+        "position": "J-3(invent)",
         "etatcvi": "non",
         "dateFinCVI": null
       }
@@ -2237,7 +2237,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.398Z",
-    "emplacement": "J-3",
+    "emplacement": "J-3(invent)",
     "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EhcLvdUpK-1FjT9-qXjanZ4BwcrLwKi92k95Ct-OpLa_YQ?e=Scb7r3"
   },
   {
@@ -2253,7 +2253,7 @@
       },
       {
         "numserie": "19385063/19360763",
-        "position": "J-4 ",
+        "position": "J-4 (invent)",
         "etatcvi": "oui",
         "dateFinCVI": "2026-05-01"
       }
@@ -2261,7 +2261,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.398Z",
-    "emplacement": "J-4 (LOCATION CHEZ AGILE DU 15/12/2025 AU 22/12/2025)+J-4",
+    "emplacement": "J-4 (LOCATION CHEZ AGILE DU 15/12/2025 AU 22/12/2025) + J-4 (invent)",
     "description": "-19385063/19360763 EN LOCATION POUR MEDEKOM CONSULTING (DU 05/11/2025 AU XX/XX/2025) PROLONGATION INCONNUE\n\n-20263009/19500016 EN LOCATION POUR AGILE (DU 27/11/2025 AU 02/12/2025)\n\n\nhttps://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EnvkZSiEkXdNnMs8SFs1BiABRF-lD4J-2giJUCF5FvJN5w?e=bGlDWr"
   },
   {
@@ -4522,7 +4522,7 @@
     "unites": [
       {
         "numserie": "9928692",
-        "position": "J-3",
+        "position": "J-3(invent)",
         "etatcvi": "non",
         "dateFinCVI": null
       }
@@ -4530,7 +4530,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.398Z",
-    "emplacement": "J-3",
+    "emplacement": "J-3(invent)",
     "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EusBtWlzYHdLuRKzxwhoQMYBJqaYLVWPufIv4ld1pXYhZA?e=IKgO2U"
   },
   {
@@ -4540,7 +4540,7 @@
     "unites": [
       {
         "numserie": "1337499",
-        "position": "J-3",
+        "position": "J-3(invent)",
         "etatcvi": "non",
         "dateFinCVI": null
       }
@@ -4548,7 +4548,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.398Z",
-    "emplacement": "J-3",
+    "emplacement": "J-3(invent)",
     "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EvZp2fPBKqZIjYl10uhW2fAB-pAM1hXPaXfhksWiUO5DzQ?e=Df9fpf"
   },
   {
