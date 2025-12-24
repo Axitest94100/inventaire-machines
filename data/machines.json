@@ -6,7 +6,7 @@
     "unites": [
       {
         "numserie": "ACCESSOIRES",
-        "position": "H-3",
+        "position": "H-3(invent)",
         "etatcvi": "non",
         "dateFinCVI": null
       },
@@ -20,7 +20,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.397Z",
-    "emplacement": "H-3 + H-3(invent)"
+    "emplacement": "H-3(invent)"
   },
   {
     "marque": "ADDA",
@@ -1150,14 +1150,14 @@
       {
         "numserie": "6K00005726",
         "etatcvi": "non",
-        "position": "H-3",
+        "position": "H-3(invent)",
         "dateFinCVI": null
       }
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.397Z",
-    "emplacement": "H-3",
+    "emplacement": "H-3(invent)",
     "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EqigaBg1RQZMpW1TOELfMUMBHwc6uwDldniIQDy6TRjHCg?e=IuxQc2"
   },
   {
@@ -3217,7 +3217,7 @@
     "unites": [
       {
         "numserie": "16047A161121",
-        "position": "I-3",
+        "position": "I-3(invent)",
         "etatcvi": "non",
         "dateFinCVI": null
       },
@@ -3231,7 +3231,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.397Z",
-    "emplacement": "I-3 + H-3(invent)",
+    "emplacement": "I-3(invent) + H-3(invent)",
     "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EnRdZJkOio5JiVu0YtGB_g4B41qfxgOoYMtbRCdxv_0Mow?e=rfkCCX"
   },
   {
@@ -4673,12 +4673,12 @@
     "marque": "PHILIPS",
     "model": "1542/00",
     "quantite": 1,
-    "emplacement": "H-3",
+    "emplacement": "H-3(invent)",
     "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/Eg5GUpLbhclHo2-pLmO4K0sBEe0kuexxKuTgQ-NZUu7lyw?e=NfDfM4",
     "unites": [
       {
         "numserie": "9416 015 42001 N",
-        "position": "H-3",
+        "position": "H-3(invent)",
         "etatcvi": "oui",
         "dateFinCVI": "2026-08-01"
       }
@@ -4692,7 +4692,7 @@
     "unites": [
       {
         "numserie": "ACCESSOIRESS",
-        "position": "H-3",
+        "position": "H-3(invent)",
         "etatcvi": "non",
         "dateFinCVI": null
       }
@@ -4700,7 +4700,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.397Z",
-    "emplacement": "H-3",
+    "emplacement": "H-3(invent)",
     "description": "MERCI DE REGARDER SUR GOOGLE"
   },
   {
@@ -4827,14 +4827,14 @@
       {
         "numserie": "100361",
         "etatcvi": "non",
-        "position": "H-3",
+        "position": "H-3(invent)",
         "dateFinCVI": null
       }
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.397Z",
-    "emplacement": "H-3",
+    "emplacement": "H-3(invent)",
     "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EgGE7aV_UQBGmoFfYbCFiAMBUlTyWlx6qMw935FUkEvQaA?e=mUBvdX"
   },
   {
@@ -5162,7 +5162,7 @@
     "unites": [
       {
         "numserie": "ACCESSOIRES",
-        "position": "H-3",
+        "position": "H-3(invent)",
         "etatcvi": "non",
         "dateFinCVI": null
       }
@@ -5170,7 +5170,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.397Z",
-    "emplacement": "H-3"
+    "emplacement": "H-3(invent)"
   },
   {
     "marque": "SEFELEC",
@@ -5243,12 +5243,12 @@
     "marque": "SEFELEC",
     "model": "GHT114",
     "quantite": 1,
-    "emplacement": "H-3",
+    "emplacement": "H-3(invent)",
     "description": "",
     "unites": [
       {
         "numserie": "accessoires",
-        "position": "H-3",
+        "position": "H-3(invent)",
         "etatcvi": "non",
         "dateFinCVI": null
       }
@@ -7095,7 +7095,7 @@
     "unites": [
       {
         "numserie": "0413521",
-        "position": "H-3",
+        "position": "H-3(invent)",
         "etatcvi": "non",
         "dateFinCVI": null
       }
@@ -7103,7 +7103,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.397Z",
-    "emplacement": "H-3"
+    "emplacement": "H-3(invent)"
   },
   {
     "marque": "WAYNE KERR",
@@ -7129,7 +7129,7 @@
     "unites": [
       {
         "numserie": "ACCESSOIRES",
-        "position": "H-3",
+        "position": "H-3(invent)",
         "etatcvi": "non",
         "dateFinCVI": null
       }
@@ -7137,19 +7137,19 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.397Z",
-    "emplacement": "H-3",
+    "emplacement": "H-3(invent)",
     "description": "ACCESSOIRES SANS APPAREIL\nhttps://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EmRwh1QItvxOhfcElNrPGo4BqPMl32TmU6NnLucUpOlVWQ?e=zvpyfE"
   },
   {
     "marque": "WILLTECK",
     "model": "4202R",
     "quantite": 1,
-    "emplacement": "H-3",
+    "emplacement": "H-3(invent)",
     "description": "",
     "unites": [
       {
         "numserie": "0813514",
-        "position": "H-3",
+        "position": "H-3(invent)",
         "etatcvi": "non",
         "dateFinCVI": null
       }
