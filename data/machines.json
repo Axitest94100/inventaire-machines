@@ -5651,7 +5651,7 @@
     "unites": [
       {
         "numserie": "C020036",
-        "position": "A-2",
+        "position": "A-2(invent)",
         "etatcvi": "non",
         "dateFinCVI": null
       }
@@ -5659,7 +5659,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.396Z",
-    "emplacement": "A-2",
+    "emplacement": "A-2(invent)",
     "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EgIPx1Ocy-pCsbpi8q-Rx30BXz5HmAQTnK4LIHnZVFlBVA?e=dV4wxn"
   },
   {
