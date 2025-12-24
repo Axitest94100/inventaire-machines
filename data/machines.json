@@ -232,19 +232,19 @@
     "unites": [
       {
         "numserie": "US37471888",
-        "position": "D-1",
+        "position": "D-1(invent)",
         "etatcvi": "non",
         "dateFinCVI": null
       },
       {
         "numserie": "US37472114",
-        "position": "D-1",
+        "position": "D-1(invent)",
         "etatcvi": "non",
         "dateFinCVI": null
       },
       {
         "numserie": "US37471840",
-        "position": "D-1",
+        "position": "D-1(invent)",
         "etatcvi": "non",
         "dateFinCVI": null
       }
@@ -252,7 +252,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.396Z",
-    "emplacement": "D-1"
+    "emplacement": "D-1(invent)"
   },
   {
     "marque": "AGILENT",
@@ -262,7 +262,7 @@
     "unites": [
       {
         "numserie": "US14A0973M",
-        "position": "D-2",
+        "position": "D-2(invent)",
         "etatcvi": "oui",
         "dateFinCVI": "2025-10-01"
       }
@@ -270,7 +270,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.397Z",
-    "emplacement": "D-2"
+    "emplacement": "D-2(invent)"
   },
   {
     "marque": "AGILENT",
@@ -2720,7 +2720,7 @@
     "unites": [
       {
         "numserie": "3145A-02312",
-        "position": "D-1",
+        "position": "D-1(invent)",
         "etatcvi": "non",
         "dateFinCVI": null
       }
@@ -2728,7 +2728,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.397Z",
-    "emplacement": "D-1"
+    "emplacement": "D-1(invent)"
   },
   {
     "marque": "HP",
@@ -4261,7 +4261,7 @@
     "unites": [
       {
         "numserie": "22L7394",
-        "position": "D-2",
+        "position": "D-2(invent)",
         "etatcvi": "oui",
         "dateFinCVI": "2025-05-01"
       }
@@ -4269,7 +4269,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.397Z",
-    "emplacement": "D-2"
+    "emplacement": "D-2(invent)"
   },
   {
     "marque": "LAMBDA",
@@ -5517,7 +5517,7 @@
     "unites": [
       {
         "numserie": "LOC-5392013-0060",
-        "position": "D-2",
+        "position": "D-2(invent)",
         "etatcvi": "oui",
         "dateFinCVI": "2024-05-01"
       }
@@ -5525,7 +5525,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.397Z",
-    "emplacement": "D-2"
+    "emplacement": "D-2(invent)"
   },
   {
     "marque": "TDK LAMBDA",
@@ -7180,7 +7180,7 @@
     "unites": [
       {
         "numserie": "EDO136292",
-        "position": "D-5",
+        "position": "D-5(invent)",
         "etatcvi": "oui",
         "dateFinCVI": "2025-10-01"
       },
@@ -7194,7 +7194,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.397Z",
-    "emplacement": "D-5",
+    "emplacement": "D-5(invent) + D-5",
     "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/Err3IpZRQlZOrMGOy1EJLboBAMGv7iCxFJZ0aNR5lxvtbQ?e=V9VLiH"
   },
   {
