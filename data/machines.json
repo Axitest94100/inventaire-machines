@@ -1201,7 +1201,7 @@
     "unites": [
       {
         "numserie": "ACCESSOIRES",
-        "position": "K-4",
+        "position": "K-4(invent)",
         "etatcvi": "non",
         "dateFinCVI": null
       }
@@ -1209,7 +1209,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.398Z",
-    "emplacement": "K-4",
+    "emplacement": "K-4(invent)",
     "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EpZcWsIv3kNEkQlie7kwuBgBe6ekC61istXcU3gpkE4N_Q?e=goN5a1"
   },
   {
@@ -3295,9 +3295,9 @@
     "unites": [
       {
         "numserie": "GB41299786",
-        "position": "K-4 CHEZ MENOVA DEPUIS 09/12/2025",
-        "etatcvi": "non",
-        "dateFinCVI": null
+        "position": "EXP(invent)",
+        "etatcvi": "oui",
+        "dateFinCVI": "2026-12-01"
       },
       {
         "numserie": "GB41299789",
@@ -3309,7 +3309,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.398Z",
-    "emplacement": "K-4 CHEZ MENOVA DEPUIS 09/12/2025",
+    "emplacement": "EXP(invent) + K-4 CHEZ MENOVA DEPUIS 09/12/2025",
     "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/ElC_zKp5HkRAu8lrZUTF4bEB2NuRHpfFNrL5xdxNWgUcfw?e=RJVdUw"
   },
   {
@@ -3337,7 +3337,7 @@
     "unites": [
       {
         "numserie": "MY45108396",
-        "position": "K-4 CHEZ MENOVA DEPUIS 09/12/2025",
+        "position": "EXP (invent)",
         "etatcvi": "non",
         "dateFinCVI": null
       }
@@ -3345,7 +3345,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.398Z",
-    "emplacement": "K-4 CHEZ MENOVA DEPUIS 09/12/2025",
+    "emplacement": "EXP (invent)",
     "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/ElC_zKp5HkRAu8lrZUTF4bEB2NuRHpfFNrL5xdxNWgUcfw?e=RJVdUw"
   },
   {
@@ -9011,5 +9011,53 @@
       }
     ],
     "createdAt": "2025-12-24T14:22:02.330Z"
+  },
+  {
+    "marque": "rohde & schwarz",
+    "model": "nrp-751",
+    "quantite": 1,
+    "emplacement": "K-4(invent)",
+    "description": "",
+    "unites": [
+      {
+        "numserie": "100900",
+        "position": "K-4(invent)",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      }
+    ],
+    "createdAt": "2025-12-24T14:22:56.573Z"
+  },
+  {
+    "marque": "AGILENT",
+    "model": "E4418B",
+    "quantite": 1,
+    "emplacement": "EXP(invent)",
+    "description": "",
+    "unites": [
+      {
+        "numserie": "MY40511716",
+        "position": "EXP(invent)",
+        "etatcvi": "oui",
+        "dateFinCVI": "2026-12-01"
+      }
+    ],
+    "createdAt": "2025-12-24T14:25:36.924Z"
+  },
+  {
+    "marque": "RACAL",
+    "model": "6061A",
+    "quantite": 1,
+    "emplacement": "EXP(invent)",
+    "description": "",
+    "unites": [
+      {
+        "numserie": "0044156",
+        "position": "EXP(invent)",
+        "etatcvi": "oui",
+        "dateFinCVI": "2026-12-01"
+      }
+    ],
+    "createdAt": "2025-12-24T14:29:02.037Z"
   }
 ]
