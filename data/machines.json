@@ -5790,7 +5790,7 @@
     "unites": [
       {
         "numserie": "C040619",
-        "position": "A-3",
+        "position": "A-3(invent)",
         "etatcvi": "non",
         "dateFinCVI": null
       }
@@ -5798,7 +5798,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.396Z",
-    "emplacement": "A-3"
+    "emplacement": "A-3(invent)"
   },
   {
     "marque": "TEKTRONIX",
