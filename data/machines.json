@@ -5401,7 +5401,7 @@
     "unites": [
       {
         "numserie": "137517",
-        "position": "F-5",
+        "position": "F-5(invent)",
         "etatcvi": "non",
         "dateFinCVI": null
       }
@@ -5409,7 +5409,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.397Z",
-    "emplacement": "F-5"
+    "emplacement": "F-5(invent)"
   },
   {
     "marque": "TDI",
@@ -7239,13 +7239,13 @@
     "unites": [
       {
         "numserie": "41CB0013",
-        "position": "F-5",
+        "position": "F-5(invent)",
         "etatcvi": "non",
         "dateFinCVI": null
       },
       {
         "numserie": "51WFD687",
-        "position": "F-5",
+        "position": "F-5(invent)",
         "etatcvi": "non",
         "dateFinCVI": null
       }
@@ -7253,7 +7253,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.397Z",
-    "emplacement": "F-5"
+    "emplacement": "F-5(invent)"
   },
   {
     "marque": "YOKOGAWA",
