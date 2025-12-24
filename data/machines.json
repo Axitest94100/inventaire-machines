@@ -753,7 +753,7 @@
     "unites": [
       {
         "numserie": "US44300449",
-        "position": "B-2",
+        "position": "B-2(invent)",
         "etatcvi": "oui",
         "dateFinCVI": "2026-12-01"
       }
@@ -761,7 +761,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.397Z",
-    "emplacement": "B-2",
+    "emplacement": "B-2(invent)",
     "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/Eus4BuOG4fNFinJ_B0m3EnABLgFQTzjTt_mpf6-ZmrVcrw?e=w6694H"
   },
   {
