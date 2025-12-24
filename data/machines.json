@@ -5549,12 +5549,12 @@
     "marque": "TDK LAMBDA",
     "model": "GEN250-40-3P400",
     "quantite": 1,
-    "emplacement": "B-2",
+    "emplacement": "B-2(invent)",
     "description": "",
     "unites": [
       {
         "numserie": "18E7985T",
-        "position": "B-2",
+        "position": "B-2(invent)",
         "etatcvi": "oui",
         "dateFinCVI": "2026-07-01"
       }
