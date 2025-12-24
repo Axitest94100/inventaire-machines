@@ -4971,12 +4971,12 @@
     "marque": "ROHDE & SCHWARZ",
     "model": "FSP30",
     "quantite": 1,
-    "emplacement": "B-4",
+    "emplacement": "B-4(invent)",
     "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/Eh77VeSA-fZMjzQEJu_rmQgB91kxPb7JjhD6Vn_Hbi5YSw?e=IOPhze",
     "unites": [
       {
         "numserie": "100425",
-        "position": "B-4",
+        "position": "B-4(invent)",
         "etatcvi": "oui",
         "dateFinCVI": "2026-07-24"
       }
@@ -6455,7 +6455,7 @@
     "unites": [
       {
         "numserie": "LCRY3803N01660",
-        "position": "A-5",
+        "position": "A-5(invent)",
         "etatcvi": "non",
         "dateFinCVI": null
       }
@@ -6463,7 +6463,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.396Z",
-    "emplacement": "A-5"
+    "emplacement": "A-5(invent)"
   },
   {
     "marque": "TELEDYNE LECROY",
@@ -6513,7 +6513,7 @@
     "unites": [
       {
         "numserie": "LCRY0716N47792",
-        "position": "A-5",
+        "position": "A-5(invent)",
         "etatcvi": "non",
         "dateFinCVI": null
       }
@@ -6521,7 +6521,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.396Z",
-    "emplacement": "A-5",
+    "emplacement": "A-5(invent)",
     "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EhrmQfnHM51An7-1RL4Ihf0Bhx1MYLFzYpYQkxUr1_hEFg?e=9X2a5e"
   },
   {
