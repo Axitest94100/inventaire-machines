@@ -4002,7 +4002,7 @@
     "unites": [
       {
         "numserie": "MY56310576",
-        "position": "A-2",
+        "position": "A-2(invent)",
         "etatcvi": "non",
         "dateFinCVI": null
       }
@@ -4010,7 +4010,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.396Z",
-    "emplacement": "A-2",
+    "emplacement": "A-2(invent)",
     "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EowzOxP2Ef1JtlFxe3ekXQAB4bp5ZQ4NDca_3s0M2cbiag?e=bCvuyi"
   },
   {
@@ -5874,7 +5874,7 @@
       },
       {
         "numserie": "B016968",
-        "position": "A-3",
+        "position": "A-3(invent)",
         "etatcvi": "oui",
         "dateFinCVI": "2024-12-01"
       }
