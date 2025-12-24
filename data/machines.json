@@ -7853,5 +7853,27 @@
       }
     ],
     "createdAt": "2025-12-24T11:24:34.897Z"
+  },
+  {
+    "marque": "TEKTRONIX",
+    "model": "SONDE 100MHZ",
+    "quantite": 2,
+    "emplacement": "TABLE DE TRAVAIL(invent)",
+    "description": "",
+    "unites": [
+      {
+        "numserie": "",
+        "position": "TABLE DE TRAVAIL(invent)",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      },
+      {
+        "numserie": "",
+        "position": "TABLE DE TRAVAIL(invent)",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      }
+    ],
+    "createdAt": "2025-12-24T11:25:12.396Z"
   }
 ]
