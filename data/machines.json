@@ -2845,13 +2845,13 @@
     "unites": [
       {
         "numserie": "2519A01266",
-        "position": "E-1",
+        "position": "E-1(invent)",
         "etatcvi": "oui",
         "dateFinCVI": "2023-09-01"
       },
       {
         "numserie": "2942A02133",
-        "position": "E-1",
+        "position": "E-1(invent)",
         "etatcvi": "oui",
         "dateFinCVI": "2025-09-01"
       }
@@ -2859,7 +2859,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.397Z",
-    "emplacement": "E-1",
+    "emplacement": "E-1(invent)",
     "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EjAWB56z8c9CjXeZqoFRGBUBoSK-1mV43qOsGwCSaHacKQ?e=HfxCio"
   },
   {
@@ -4369,7 +4369,7 @@
       },
       {
         "numserie": "119374/022",
-        "position": "E-1",
+        "position": "E-1(invent)",
         "etatcvi": "non",
         "dateFinCVI": null
       }
@@ -4377,7 +4377,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.397Z",
-    "emplacement": "E-2+E-1"
+    "emplacement": "E-2 + E-1 + E-1(invent)"
   },
   {
     "marque": "MARCONI",
