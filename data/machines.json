@@ -8963,5 +8963,21 @@
       }
     ],
     "createdAt": "2025-12-24T14:17:36.713Z"
+  },
+  {
+    "marque": "bird",
+    "model": "4314b",
+    "quantite": 1,
+    "emplacement": "K-4(invent)",
+    "description": "",
+    "unites": [
+      {
+        "numserie": "@",
+        "position": "K-4(invent)",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      }
+    ],
+    "createdAt": "2025-12-24T14:19:31.027Z"
   }
 ]
