@@ -6822,8 +6822,8 @@
     "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EtcaJtyx3tNFkOcMeGVXb4oB5e8MywOjvSqOQkf7S1hcqQ?e=rD0ogN",
     "unites": [
       {
-        "numserie": "",
-        "position": "D-5",
+        "numserie": "@",
+        "position": "D-5(invent)",
         "etatcvi": "non",
         "dateFinCVI": null
       }
@@ -6831,7 +6831,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.397Z",
-    "emplacement": "D-5"
+    "emplacement": "D-5(invent)"
   },
   {
     "marque": "TELEDYNE LECROY",
