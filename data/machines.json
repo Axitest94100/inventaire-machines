@@ -3985,7 +3985,7 @@
     "unites": [
       {
         "numserie": "1183192",
-        "position": "E-3",
+        "position": "E-3(invent)",
         "etatcvi": "non",
         "dateFinCVI": null
       }
@@ -3993,7 +3993,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.397Z",
-    "emplacement": "E-3"
+    "emplacement": "E-3(invent)"
   },
   {
     "marque": "KEYSIGHT",
@@ -7292,7 +7292,7 @@
     "marque": "AGILENT",
     "model": "34401A",
     "quantite": 2,
-    "emplacement": "E-5 (CHEZ MENOVA DEPUIS LE12/12/2025 CLIENT: ASERTI)+E-4",
+    "emplacement": "E-5 (CHEZ MENOVA DEPUIS LE12/12/2025 CLIENT: ASERTI) + E-4(invent)",
     "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EhoXnXJCoRNHvuRiQNgZrKQBqREWX7rM5wStfb7s3C-elw?e=Sk6vFn",
     "unites": [
       {
@@ -7303,7 +7303,7 @@
       },
       {
         "numserie": "MY41002358",
-        "position": "E-4",
+        "position": "E-4(invent)",
         "etatcvi": "oui",
         "dateFinCVI": "2026-10-01"
       }
