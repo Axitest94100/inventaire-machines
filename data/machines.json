@@ -8245,5 +8245,27 @@
       }
     ],
     "createdAt": "2025-12-24T11:29:18.729Z"
+  },
+  {
+    "marque": "TEKTRONIX",
+    "model": "P5120",
+    "quantite": 2,
+    "emplacement": "TABLE DE TRAVAIL(invent)",
+    "description": "",
+    "unites": [
+      {
+        "numserie": "",
+        "position": "TABLE DE TRAVAIL(invent)",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      },
+      {
+        "numserie": "",
+        "position": "TABLE DE TRAVAIL(invent)",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      }
+    ],
+    "createdAt": "2025-12-24T11:29:40.385Z"
   }
 ]
