@@ -8053,10 +8053,16 @@
   {
     "marque": "TEKTRONIX",
     "model": "P2220",
-    "quantite": 1,
+    "quantite": 2,
     "emplacement": "TABLE DE TRAVAIL(invent)",
     "description": "",
     "unites": [
+      {
+        "numserie": "",
+        "position": "TABLE DE TRAVAIL(invent)",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      },
       {
         "numserie": "",
         "position": "TABLE DE TRAVAIL(invent)",
@@ -8267,5 +8273,27 @@
       }
     ],
     "createdAt": "2025-12-24T11:29:40.385Z"
+  },
+  {
+    "marque": "TELEDYNE LECROY",
+    "model": "PP009",
+    "quantite": 2,
+    "emplacement": "TABLE DE TRAVAIL(invent)",
+    "description": "",
+    "unites": [
+      {
+        "numserie": "",
+        "position": "TABLE DE TRAVAIL(invent)",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      },
+      {
+        "numserie": "",
+        "position": "TABLE DE TRAVAIL(invent)",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      }
+    ],
+    "createdAt": "2025-12-24T11:30:33.298Z"
   }
 ]
