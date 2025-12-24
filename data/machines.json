@@ -9150,12 +9150,12 @@
     "marque": "SEFELEC",
     "model": "1050M",
     "quantite": 1,
-    "emplacement": "L-2",
+    "emplacement": "L-2(invent)",
     "description": "",
     "unites": [
       {
         "numserie": "2456098",
-        "position": "L-2",
+        "position": "L-2(invent)",
         "etatcvi": "non",
         "dateFinCVI": null
       }
