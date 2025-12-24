@@ -7450,12 +7450,12 @@
     "marque": "TELEDYNE LECROY",
     "model": "SDA7ZI-A",
     "quantite": 1,
-    "emplacement": "B-1",
+    "emplacement": "B-1(invent)",
     "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EkiatqjFp2xEnJKn_aX_8NEBvTpWKPW9pv5rGDKeGvGLZg?e=4bx8gN",
     "unites": [
       {
         "numserie": "LCRY0437N69924",
-        "position": "B-1",
+        "position": "B-1(invent)",
         "etatcvi": "oui",
         "dateFinCVI": "2026-10-01"
       }
