@@ -3277,7 +3277,7 @@
     "unites": [
       {
         "numserie": "2031V01112",
-        "position": "K-4",
+        "position": "K-4(invent)",
         "etatcvi": "non",
         "dateFinCVI": null
       }
@@ -3285,7 +3285,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.398Z",
-    "emplacement": "K-4",
+    "emplacement": "K-4(invent)",
     "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/Evt5jNje9gFLr__HQ2p5i5UB2sPIjpcmYAtsUKqWkkZGxA?e=fKE0pC"
   },
   {
@@ -7262,7 +7262,7 @@
     "unites": [
       {
         "numserie": "91J229126",
-        "position": "K-4",
+        "position": "K-4(invent)",
         "etatcvi": "oui",
         "dateFinCVI": "2024-05-01"
       }
@@ -7270,7 +7270,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.398Z",
-    "emplacement": "K-4"
+    "emplacement": "K-4(invent)"
   },
   {
     "marque": "YOKOGAWA",
@@ -8979,5 +8979,37 @@
       }
     ],
     "createdAt": "2025-12-24T14:19:31.027Z"
+  },
+  {
+    "marque": "wandel & goltermann",
+    "model": "pa-25",
+    "quantite": 1,
+    "emplacement": "K-4(invent)",
+    "description": "",
+    "unites": [
+      {
+        "numserie": "4542/02",
+        "position": "K-4(invent)",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      }
+    ],
+    "createdAt": "2025-12-24T14:21:05.202Z"
+  },
+  {
+    "marque": "bird",
+    "model": "bouchons",
+    "quantite": 1,
+    "emplacement": "K-4",
+    "description": "BOUCHONS",
+    "unites": [
+      {
+        "numserie": "@",
+        "position": "K-4",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      }
+    ],
+    "createdAt": "2025-12-24T14:22:02.330Z"
   }
 ]
