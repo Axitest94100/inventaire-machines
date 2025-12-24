@@ -6311,12 +6311,12 @@
     "marque": "TEKTRONIX",
     "model": "TPS2012",
     "quantite": 1,
-    "emplacement": "B-3",
+    "emplacement": "B-3(invent)",
     "description": "EXT TRIG BNC ENDOMMAGE",
     "unites": [
       {
         "numserie": "C011310",
-        "position": "B-3",
+        "position": "B-3(invent)",
         "etatcvi": "oui",
         "dateFinCVI": "2026-08-01"
       }
