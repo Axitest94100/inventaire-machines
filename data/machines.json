@@ -1931,7 +1931,7 @@
     "unites": [
       {
         "numserie": "J/0023",
-        "position": "M-3",
+        "position": "M-3(invent)",
         "etatcvi": "non",
         "dateFinCVI": null
       }
@@ -1939,7 +1939,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.398Z",
-    "emplacement": "M-3"
+    "emplacement": "M-3(invent)"
   },
   {
     "marque": "ELGAR",
