@@ -5628,13 +5628,13 @@
     "unites": [
       {
         "numserie": "C010253",
-        "position": "A-2",
+        "position": "A-2(invent)",
         "etatcvi": "non",
         "dateFinCVI": null
       },
       {
         "numserie": "C010254",
-        "position": "A-2",
+        "position": "A-2(invent)",
         "etatcvi": "non",
         "dateFinCVI": null
       }
@@ -5642,7 +5642,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.396Z",
-    "emplacement": "A-2"
+    "emplacement": "A-2(invent)"
   },
   {
     "marque": "TEKTRONIX",
