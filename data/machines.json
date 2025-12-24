@@ -2320,7 +2320,7 @@
     "unites": [
       {
         "numserie": "80980115",
-        "position": "G-3",
+        "position": "G-3(invent)",
         "etatcvi": "oui",
         "dateFinCVI": "2025-11-01"
       }
@@ -2328,7 +2328,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.398Z",
-    "emplacement": "G-3"
+    "emplacement": "G-3(invent)"
   },
   {
     "marque": "FLUKE",
