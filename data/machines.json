@@ -310,7 +310,7 @@
       },
       {
         "numserie": "MY40030600",
-        "position": "D-4",
+        "position": "D-4(invent)",
         "etatcvi": "non",
         "dateFinCVI": null
       }
@@ -318,7 +318,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.397Z",
-    "emplacement": "D-4"
+    "emplacement": "D-4 + D-4(invent)"
   },
   {
     "marque": "AGILENT",
@@ -327,7 +327,7 @@
     "unites": [
       {
         "numserie": "MY43000959",
-        "position": "D-4",
+        "position": "D-4(invent)",
         "etatcvi": "non",
         "dateFinCVI": null
       },
@@ -339,7 +339,7 @@
       },
       {
         "numserie": "MY43000958",
-        "position": "D-4",
+        "position": "D-4(invent)",
         "etatcvi": "non",
         "dateFinCVI": null
       },
@@ -353,7 +353,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.397Z",
-    "emplacement": "D-4",
+    "emplacement": "D-4(invent) + D-4",
     "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/Ep4rIn9LKmtKujt0bydulPgBwwpLpjh0--5iG8069oKE-A?e=GBbWda"
   },
   {
