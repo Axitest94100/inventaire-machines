@@ -5920,8 +5920,8 @@
     "quantite": 1,
     "unites": [
       {
-        "numserie": "",
-        "position": "A-5",
+        "numserie": "@",
+        "position": "A-5(invent)",
         "etatcvi": "non",
         "dateFinCVI": null
       }
@@ -5929,7 +5929,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.396Z",
-    "emplacement": "A-5"
+    "emplacement": "A-5(invent)"
   },
   {
     "marque": "TEKTRONIX",
@@ -6012,8 +6012,8 @@
     "quantite": 1,
     "unites": [
       {
-        "numserie": "",
-        "position": "A-5",
+        "numserie": "@",
+        "position": "A-5(invent)",
         "etatcvi": "non",
         "dateFinCVI": null
       }
@@ -6021,7 +6021,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.396Z",
-    "emplacement": "A-5"
+    "emplacement": "A-5(invent)"
   },
   {
     "marque": "TEKTRONIX",
@@ -6043,17 +6043,11 @@
   {
     "marque": "TEKTRONIX",
     "model": "TCA292 ACCESSOIRES",
-    "quantite": 2,
+    "quantite": 1,
     "unites": [
       {
-        "numserie": "",
-        "position": "A-5",
-        "etatcvi": "non",
-        "dateFinCVI": null
-      },
-      {
         "numserie": "@",
-        "position": "A-5",
+        "position": "A-5(invent)",
         "etatcvi": "non",
         "dateFinCVI": null
       }
@@ -6061,7 +6055,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.396Z",
-    "emplacement": "A-5"
+    "emplacement": "A-5(invent)"
   },
   {
     "marque": "TEKTRONIX",
