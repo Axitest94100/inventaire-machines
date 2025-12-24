@@ -1965,19 +1965,19 @@
     "unites": [
       {
         "numserie": "0005A1001",
-        "position": "L-1",
+        "position": "L-1(invent)",
         "etatcvi": "non",
         "dateFinCVI": null
       },
       {
         "numserie": "0103A1010",
-        "position": "L-1",
+        "position": "L-1(invent)",
         "etatcvi": "non",
         "dateFinCVI": null
       },
       {
         "numserie": "526",
-        "position": "L-1",
+        "position": "L-1(invent)",
         "etatcvi": "non",
         "dateFinCVI": null
       },
@@ -1991,7 +1991,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.398Z",
-    "emplacement": "L-1",
+    "emplacement": "L-1(invent) + L-1",
     "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/ErxtaZfuADpCkzYYSzTBl_0BclmKqqVJbM5AbWo8oUKeRA?e=i1Jsok"
   },
   {
@@ -3355,7 +3355,7 @@
     "unites": [
       {
         "numserie": "1750A02514",
-        "position": "M-1",
+        "position": "M-1(invent)",
         "etatcvi": "non",
         "dateFinCVI": null
       }
@@ -3363,7 +3363,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.398Z",
-    "emplacement": "M-1",
+    "emplacement": "M-1(invent)",
     "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EtMGqE6UdlZEu-FUKRujAMoBuy1BSKuGLcue1QYNZq0Q9Q?e=cttGVT"
   },
   {
@@ -5102,7 +5102,7 @@
     "unites": [
       {
         "numserie": "8121356",
-        "position": "M-1",
+        "position": "M-1(invent)",
         "etatcvi": "non",
         "dateFinCVI": null
       }
@@ -5110,7 +5110,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.398Z",
-    "emplacement": "M-1",
+    "emplacement": "M-1(invent)",
     "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EtlpqCcp8PdIq1x_wG3HVL8BCfA-dXDP7-dmNxTokxVtVA?e=mjeBUT"
   },
   {
