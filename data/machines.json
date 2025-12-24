@@ -286,7 +286,7 @@
       },
       {
         "numserie": "MY40000719",
-        "position": "H-1",
+        "position": "H-1(invent)",
         "etatcvi": "non",
         "dateFinCVI": null
       }
@@ -294,7 +294,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.397Z",
-    "emplacement": "D-4(invent)+H-1"
+    "emplacement": "D-4(invent) + H-1(invent)"
   },
   {
     "marque": "AGILENT",
@@ -693,7 +693,7 @@
       },
       {
         "numserie": "US37007254",
-        "position": "G-5",
+        "position": "G-5(invent)",
         "etatcvi": "non",
         "dateFinCVI": null
       },
@@ -707,7 +707,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.397Z",
-    "emplacement": "G-5(invent) + G-5",
+    "emplacement": "G-5(invent)",
     "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EiCGae-6VLBBh5gunhMT7voBwoSlq6yjKkMvZbcKBLLMrw?e=Lbw0XV"
   },
   {
@@ -2827,7 +2827,7 @@
       },
       {
         "numserie": "3448A04904",
-        "position": "H-1",
+        "position": "H-1(invent)",
         "etatcvi": "non",
         "dateFinCVI": null
       }
@@ -2835,7 +2835,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.397Z",
-    "emplacement": "D-5+H-1",
+    "emplacement": "D-5 + H-1(invent)",
     "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EmJwCFwNSQlHnuR-1fAYIt4BEdMVrKJph_fv7NhMe9ykVQ?e=euJznf"
   },
   {
@@ -3037,7 +3037,7 @@
     "unites": [
       {
         "numserie": "US37001478",
-        "position": "G-5",
+        "position": "G-5(invent)",
         "etatcvi": "non",
         "dateFinCVI": null
       }
@@ -3045,7 +3045,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.397Z",
-    "emplacement": "G-5",
+    "emplacement": "G-5(invent)",
     "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EosEEWbcBulBnHe162CDFQYBYXFEsses8qtt2fheEdFqHQ?e=EiqZyT"
   },
   {
@@ -3056,14 +3056,14 @@
       {
         "numserie": "US37002637",
         "etatcvi": "oui",
-        "position": "G-5",
+        "position": "G-5(invent)",
         "dateFinCVI": "2025-07-01"
       }
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.397Z",
-    "emplacement": "G-5",
+    "emplacement": "G-5(invent)",
     "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/Etz4Rryo34xMridTHBqMMxMB9X-mQa-IqG9gZRYJMo_wQw?e=Cstl6L"
   },
   {
@@ -3073,7 +3073,7 @@
     "unites": [
       {
         "numserie": "2147J01882",
-        "position": "H-1",
+        "position": "H-1(invent)",
         "etatcvi": "non",
         "dateFinCVI": null
       }
@@ -3081,7 +3081,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.397Z",
-    "emplacement": "H-1",
+    "emplacement": "H-1(invent)",
     "description": "NON-CONFORME: CAL IMPOSSIBLE / SELF-TEST DEFECTEUSE\nhttps://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/Eqet0coccbJAjA4-q4c210oBIYTFmHCK2Fvn1zESSZxfEw?e=8Uj0xO"
   },
   {
@@ -3091,7 +3091,7 @@
     "unites": [
       {
         "numserie": "3413J00690",
-        "position": "H-1",
+        "position": "H-1(invent)",
         "etatcvi": "oui",
         "dateFinCVI": "2024-05-01"
       }
@@ -3099,7 +3099,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.397Z",
-    "emplacement": "H-1",
+    "emplacement": "H-1(invent)",
     "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/Ek00FqSGZYdLkeoyTjTAAboBkm6C22ONmSXBolhUNxQWzg?e=j3Q4Eb"
   },
   {
@@ -3109,7 +3109,7 @@
     "unites": [
       {
         "numserie": "294J03291",
-        "position": "H-2",
+        "position": "H-2(invent)",
         "etatcvi": "oui",
         "dateFinCVI": "2023-03-01"
       }
@@ -3117,7 +3117,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.397Z",
-    "emplacement": "H-2",
+    "emplacement": "H-2(invent)",
     "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EspKRSNm3z5KmH94YPnfhPcBMLiMgaH4HsrP3cnRm8D1jw?e=CG3BAo"
   },
   {
@@ -3127,7 +3127,7 @@
     "unites": [
       {
         "numserie": "2904J03291",
-        "position": "H-2",
+        "position": "H-2(invent)",
         "etatcvi": "oui",
         "dateFinCVI": "2023-03-01"
       }
@@ -3135,7 +3135,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.397Z",
-    "emplacement": "H-2",
+    "emplacement": "H-2(invent)",
     "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EpUd42WvD1JKoEjjbGCd-JoBZ1geXKj9WTsYQENT2Xhqug?e=zfWJAU"
   },
   {
@@ -3404,12 +3404,12 @@
     "marque": "HP",
     "model": "85047A",
     "quantite": 1,
-    "emplacement": "H-1",
+    "emplacement": "H-1(invent)",
     "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EgXpiXzXfAxLnFHFINP22_MB220eIcUl3Ub1KYyE-tvRLw?e=vLwLyE",
     "unites": [
       {
         "numserie": "2904A0062",
-        "position": "H-1",
+        "position": "H-1(invent)",
         "etatcvi": "non",
         "dateFinCVI": null
       }
@@ -3420,12 +3420,12 @@
     "marque": "HP",
     "model": "8970A",
     "quantite": 1,
-    "emplacement": "H-1",
+    "emplacement": "H-1(invent)",
     "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/Ej3znD0e-h5JpzDuN8zedgwBdBZMSV_qA03ru3SGPLcZiA?e=R0rEBD",
     "unites": [
       {
         "numserie": "2303A01451",
-        "position": "H-1",
+        "position": "H-1(invent)",
         "etatcvi": "non",
         "dateFinCVI": null
       }
@@ -7112,7 +7112,7 @@
     "unites": [
       {
         "numserie": "1091324",
-        "position": "H-1",
+        "position": "H-1(invent)",
         "etatcvi": "oui",
         "dateFinCVI": "2025-05-01"
       }
@@ -7120,7 +7120,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.397Z",
-    "emplacement": "H-1"
+    "emplacement": "H-1(invent)"
   },
   {
     "marque": "WAYNE KERR",
@@ -7560,18 +7560,18 @@
     "marque": "HP",
     "model": "6642A",
     "quantite": 3,
-    "emplacement": "H-1+H-2",
+    "emplacement": "H-1(invent) + H-2",
     "description": "",
     "unites": [
       {
         "numserie": "3619A01513",
-        "position": "H-1",
+        "position": "H-1(invent)",
         "etatcvi": "non",
         "dateFinCVI": null
       },
       {
         "numserie": "3347A00702",
-        "position": "H-1",
+        "position": "H-1(invent)",
         "etatcvi": "non",
         "dateFinCVI": null
       },
@@ -8915,5 +8915,21 @@
       }
     ],
     "createdAt": "2025-12-24T11:39:21.249Z"
+  },
+  {
+    "marque": "ADRET",
+    "model": "7100D",
+    "quantite": 1,
+    "emplacement": "H-2(invent)",
+    "description": "",
+    "unites": [
+      {
+        "numserie": "386616",
+        "position": "H-2(invent)",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      }
+    ],
+    "createdAt": "2025-12-24T13:11:09.343Z"
   }
 ]
