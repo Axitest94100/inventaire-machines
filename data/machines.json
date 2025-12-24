@@ -1759,7 +1759,7 @@
     "unites": [
       {
         "numserie": "15I000375N066",
-        "position": "M-4",
+        "position": "M-4(invent)",
         "etatcvi": "non",
         "dateFinCVI": null
       }
@@ -1767,7 +1767,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.398Z",
-    "emplacement": "M-4",
+    "emplacement": "M-4(invent)",
     "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/ErMpTqMGEx9Hk9LjbyxH-80BhOmiToxogNpNZE9tYapzCw?e=kVYG3N"
   },
   {
@@ -9179,5 +9179,21 @@
       }
     ],
     "createdAt": "2025-12-24T15:39:16.810Z"
+  },
+  {
+    "marque": "PONTIS",
+    "model": "CON4",
+    "quantite": 1,
+    "emplacement": "M-4(invent)",
+    "description": "",
+    "unites": [
+      {
+        "numserie": "6061346314",
+        "position": "M-4(invent)",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      }
+    ],
+    "createdAt": "2025-12-24T15:41:08.100Z"
   }
 ]
