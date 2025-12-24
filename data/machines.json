@@ -5592,7 +5592,7 @@
     "unites": [
       {
         "numserie": "B026752",
-        "position": "A-1",
+        "position": "A-1(invent)",
         "etatcvi": "oui",
         "dateFinCVI": "2025-07-01"
       }
@@ -5600,7 +5600,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.396Z",
-    "emplacement": "A-1"
+    "emplacement": "A-1(invent)"
   },
   {
     "marque": "TEKTRONIX",
@@ -5610,7 +5610,7 @@
     "unites": [
       {
         "numserie": "B020030",
-        "position": "A-1",
+        "position": "A-1(invent)",
         "etatcvi": "non",
         "dateFinCVI": null
       }
@@ -5618,7 +5618,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.396Z",
-    "emplacement": "A-1"
+    "emplacement": "A-1(invent)"
   },
   {
     "marque": "TEKTRONIX",
@@ -6360,7 +6360,7 @@
     "unites": [
       {
         "numserie": "0541",
-        "position": "A-1",
+        "position": "A-1(invent)",
         "etatcvi": "non",
         "dateFinCVI": null
       }
@@ -6368,7 +6368,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.396Z",
-    "emplacement": "A-1",
+    "emplacement": "A-1(invent)",
     "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/Ek-BppjwZWBLiNlt5bC1cmYBkxIGV-fEHolPrEcblkVmag?e=rx6OUO"
   },
   {
