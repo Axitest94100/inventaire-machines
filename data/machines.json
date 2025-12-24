@@ -5354,7 +5354,7 @@
     "unites": [
       {
         "numserie": "1211A02284",
-        "position": "D-5",
+        "position": "D-5(invent)",
         "etatcvi": "non",
         "dateFinCVI": null
       },
@@ -5374,7 +5374,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.397Z",
-    "emplacement": "D-5 + D-3(invent)"
+    "emplacement": "D-5(invent) + D-5 + D-3(invent)"
   },
   {
     "marque": "SRS",
