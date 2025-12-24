@@ -8783,5 +8783,27 @@
       }
     ],
     "createdAt": "2025-12-24T11:37:17.851Z"
+  },
+  {
+    "marque": "ROHDE & SCHWARZ",
+    "model": "RT-ZP03",
+    "quantite": 2,
+    "emplacement": "TABLE DE TRAVAIL(invent)",
+    "description": "",
+    "unites": [
+      {
+        "numserie": "",
+        "position": "TABLE DE TRAVAIL(invent)",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      },
+      {
+        "numserie": "",
+        "position": "TABLE DE TRAVAIL(invent)",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      }
+    ],
+    "createdAt": "2025-12-24T11:38:03.567Z"
   }
 ]
