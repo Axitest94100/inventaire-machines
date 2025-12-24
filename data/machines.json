@@ -4363,7 +4363,7 @@
       },
       {
         "numserie": "119659/032",
-        "position": "E-1",
+        "position": "E-1(invent)",
         "etatcvi": "non",
         "dateFinCVI": null
       },
@@ -4377,7 +4377,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.397Z",
-    "emplacement": "E-2 + E-1 + E-1(invent)"
+    "emplacement": "E-2 + E-1(invent)"
   },
   {
     "marque": "MARCONI",
