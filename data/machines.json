@@ -5435,7 +5435,7 @@
     "unites": [
       {
         "numserie": "LOC-904A142-0001",
-        "position": "C-5",
+        "position": "C-5(invent)",
         "etatcvi": "non",
         "dateFinCVI": null
       }
@@ -5443,7 +5443,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.396Z",
-    "emplacement": "C-5"
+    "emplacement": "C-5(invent)"
   },
   {
     "marque": "TDK LAMBDA",
