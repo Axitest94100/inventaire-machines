@@ -9145,5 +9145,21 @@
       }
     ],
     "createdAt": "2025-12-24T14:44:59.278Z"
+  },
+  {
+    "marque": "SEFELEC",
+    "model": "1050M",
+    "quantite": 1,
+    "emplacement": "L-2",
+    "description": "",
+    "unites": [
+      {
+        "numserie": "2456098",
+        "position": "L-2",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      }
+    ],
+    "createdAt": "2025-12-24T15:10:56.950Z"
   }
 ]
