@@ -2254,13 +2254,13 @@
     "unites": [
       {
         "numserie": "24470404",
-        "position": "M-3",
+        "position": "M-3(invent)",
         "etatcvi": "non",
         "dateFinCVI": null
       },
       {
         "numserie": "ACCESSOIRES",
-        "position": "M-3",
+        "position": "M-3(invent)",
         "etatcvi": "non",
         "dateFinCVI": null
       },
@@ -2280,7 +2280,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.398Z",
-    "emplacement": "M-3 + M-3(invent)",
+    "emplacement": "M-3(invent)",
     "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EnY7EE8B2nVHj8Jgj8vD92UBWHMqxN0Lk0Tury1YfLObOg?e=b30u0Q"
   },
   {
