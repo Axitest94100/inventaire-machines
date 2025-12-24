@@ -7186,7 +7186,7 @@
       },
       {
         "numserie": "75620",
-        "position": "D-5",
+        "position": "D-5(invent)",
         "etatcvi": "oui",
         "dateFinCVI": "2025-10-01"
       }
@@ -7194,7 +7194,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.397Z",
-    "emplacement": "D-5(invent) + D-5",
+    "emplacement": "D-5(invent)",
     "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/Err3IpZRQlZOrMGOy1EJLboBAMGv7iCxFJZ0aNR5lxvtbQ?e=V9VLiH"
   },
   {
