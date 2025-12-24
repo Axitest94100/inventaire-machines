@@ -5418,7 +5418,7 @@
     "unites": [
       {
         "numserie": "0442-0117",
-        "position": "G-2",
+        "position": "G-2(invent)",
         "etatcvi": "oui",
         "dateFinCVI": "2025-05-01"
       }
@@ -5426,7 +5426,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.397Z",
-    "emplacement": "G-2"
+    "emplacement": "G-2(invent)"
   },
   {
     "marque": "TDK LAMBDA",
