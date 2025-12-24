@@ -6804,7 +6804,7 @@
     "unites": [
       {
         "numserie": "LCRY4404N30428",
-        "position": "C-6",
+        "position": "C-6(invent)",
         "etatcvi": "non",
         "dateFinCVI": null
       }
@@ -6812,7 +6812,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.396Z",
-    "emplacement": "C-6",
+    "emplacement": "C-6(invent)",
     "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EsGW3m1XmnhBg_u2fnelWnkBg9gdJcCQ7eAKoq8qtOY0ig?e=azY25L"
   },
   {
