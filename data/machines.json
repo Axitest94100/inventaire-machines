@@ -9129,5 +9129,21 @@
       }
     ],
     "createdAt": "2025-12-24T14:37:58.672Z"
+  },
+  {
+    "marque": "KEYSIGHT",
+    "model": "E5061B-3L5",
+    "quantite": 1,
+    "emplacement": "LAB(invent)",
+    "description": "",
+    "unites": [
+      {
+        "numserie": "MY49406878",
+        "position": "LAB(invent)",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      }
+    ],
+    "createdAt": "2025-12-24T14:44:59.278Z"
   }
 ]
