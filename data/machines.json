@@ -9059,5 +9059,21 @@
       }
     ],
     "createdAt": "2025-12-24T14:29:02.037Z"
+  },
+  {
+    "marque": "SEFELEC",
+    "model": "PREMIER 2802",
+    "quantite": 1,
+    "emplacement": "EXP(invent)",
+    "description": "NEUF",
+    "unites": [
+      {
+        "numserie": "GNX197001",
+        "position": "EXP(invent)",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      }
+    ],
+    "createdAt": "2025-12-24T14:31:18.950Z"
   }
 ]
