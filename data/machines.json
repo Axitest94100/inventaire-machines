@@ -382,7 +382,7 @@
     "unites": [
       {
         "numserie": "MY49060759",
-        "position": "E-3",
+        "position": "E-3(invent)",
         "etatcvi": "oui",
         "dateFinCVI": "2023-07-01"
       }
@@ -390,7 +390,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.397Z",
-    "emplacement": "E-3"
+    "emplacement": "E-3(invent)"
   },
   {
     "marque": "AGILENT",
@@ -400,7 +400,7 @@
     "unites": [
       {
         "numserie": "6053817",
-        "position": "E-3",
+        "position": "E-3(invent)",
         "etatcvi": "non",
         "dateFinCVI": null
       }
@@ -408,7 +408,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.397Z",
-    "emplacement": "E-3"
+    "emplacement": "E-3(invent)"
   },
   {
     "marque": "AGILENT",
@@ -2875,7 +2875,7 @@
       },
       {
         "numserie": "GB38450387",
-        "position": "E-3",
+        "position": "E-3(invent)",
         "etatcvi": "non",
         "dateFinCVI": null
       }
@@ -2883,7 +2883,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.397Z",
-    "emplacement": "E-2(invent) + E-3",
+    "emplacement": "E-2(invent) + E-3(invent)",
     "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EnjcrzbwJJlMjEm23Qzg_foBBtAtnGu9dgpy11uL_Mskig?e=sy60Iw"
   },
   {
@@ -3604,7 +3604,7 @@
     "unites": [
       {
         "numserie": "4437773",
-        "position": "E-3",
+        "position": "E-3(invent)",
         "etatcvi": "non",
         "dateFinCVI": null
       },
@@ -3630,7 +3630,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.397Z",
-    "emplacement": "E-3+E-4+F-5+F-4"
+    "emplacement": "E-3(invent) + E-4 + F-5 + F-4"
   },
   {
     "marque": "KEITHLEY",
@@ -7330,12 +7330,12 @@
     "marque": "ADVANTEST",
     "model": "R3131A",
     "quantite": 1,
-    "emplacement": "E-3",
+    "emplacement": "E-3(invent)",
     "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/Ero7g8KbZ9VOrCiJsWIjvKoBvRzoUXOVmUjuRyzseWBiYg?e=sbBcNQ",
     "unites": [
       {
         "numserie": "100803822",
-        "position": "E-3",
+        "position": "E-3(invent)",
         "etatcvi": "oui",
         "dateFinCVI": "2026-09-01"
       }
