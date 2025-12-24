@@ -9113,5 +9113,21 @@
       }
     ],
     "createdAt": "2025-12-24T14:37:16.236Z"
+  },
+  {
+    "marque": "SEFELEC",
+    "model": "CSX40",
+    "quantite": 1,
+    "emplacement": "LAB(invent)",
+    "description": "",
+    "unites": [
+      {
+        "numserie": "1944644",
+        "position": "LAB(invent)",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      }
+    ],
+    "createdAt": "2025-12-24T14:37:58.672Z"
   }
 ]
