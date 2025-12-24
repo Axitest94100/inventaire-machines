@@ -6379,7 +6379,7 @@
     "unites": [
       {
         "numserie": "1017",
-        "position": "A-1",
+        "position": "A-1(invent)",
         "etatcvi": "non",
         "dateFinCVI": null
       }
@@ -6387,7 +6387,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.396Z",
-    "emplacement": "A-1"
+    "emplacement": "A-1(invent)"
   },
   {
     "marque": "TELEDYNE LECROY",
