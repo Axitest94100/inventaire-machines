@@ -1840,12 +1840,12 @@
     "marque": "EA",
     "model": "PS9080-200-4HE",
     "quantite": 1,
-    "emplacement": "M-2",
+    "emplacement": "M-2(invent)",
     "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EmBjRhgD-MNAqZ32xiVNZcEB04fuD7dUJ461TbvqxeOM-Q?e=0m0uxu",
     "unites": [
       {
         "numserie": "1448230001",
-        "position": "M-2",
+        "position": "M-2(invent)",
         "etatcvi": "non",
         "dateFinCVI": null
       }
@@ -3344,7 +3344,7 @@
     "unites": [
       {
         "numserie": "2830501576",
-        "position": "M-2",
+        "position": "M-2(invent)",
         "etatcvi": "non",
         "dateFinCVI": null
       }
@@ -3352,7 +3352,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.398Z",
-    "emplacement": "M-2",
+    "emplacement": "M-2(invent)",
     "description": "JUSTE L'OPTION 375 SANS LE 4194A\nhttps://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EpF177TlUXpHhaYRvp2OfZ0BJzv0tFkIRW--WIkjj8z1-w?e=puzIiw"
   },
   {
