@@ -7971,5 +7971,21 @@
       }
     ],
     "createdAt": "2025-12-24T11:26:17.031Z"
+  },
+  {
+    "marque": "TEKTRONIX",
+    "model": "P6139N",
+    "quantite": 1,
+    "emplacement": "TABLE DE TRAVAIL(invent)",
+    "description": "",
+    "unites": [
+      {
+        "numserie": "",
+        "position": "TABLE DE TRAVAIL(invent)",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      }
+    ],
+    "createdAt": "2025-12-24T11:26:36.486Z"
   }
 ]
