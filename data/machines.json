@@ -651,7 +651,7 @@
     "unites": [
       {
         "numserie": "CN40051983",
-        "position": "G-4",
+        "position": "G-4(invent)",
         "etatcvi": "non",
         "dateFinCVI": null
       }
@@ -659,7 +659,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.397Z",
-    "emplacement": "G-4",
+    "emplacement": "G-4(invent)",
     "description": "REMARQUE: NE S'ALLUME PAS\nhttps://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EhVbrm40LMhHmUvoaf_DWXUBd1Szju59atvTyhUyATX35g?e=BIsIWL"
   },
   {
@@ -2139,13 +2139,13 @@
     "unites": [
       {
         "numserie": "32260609",
-        "position": "G-3",
+        "position": "G-3(invent)",
         "etatcvi": "non",
         "dateFinCVI": null
       },
       {
         "numserie": "37110194",
-        "position": "G-3",
+        "position": "G-3(invent)",
         "etatcvi": "non",
         "dateFinCVI": null
       },
@@ -2165,7 +2165,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.397Z",
-    "emplacement": "G-3 + G-3(invent)",
+    "emplacement": "G-3(invent)",
     "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EuCedLm07fxNnI-WK-KkmTYBYRi609uhv1M6bDAoloFk8g?e=aarafE"
   },
   {
@@ -7027,7 +7027,7 @@
     "unites": [
       {
         "numserie": "01685",
-        "position": "G-3",
+        "position": "G-3(invent)",
         "etatcvi": "non",
         "dateFinCVI": null
       }
@@ -7035,7 +7035,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.397Z",
-    "emplacement": "G-3"
+    "emplacement": "G-3(invent)"
   },
   {
     "marque": "VXI",
