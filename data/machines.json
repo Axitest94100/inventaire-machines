@@ -5944,7 +5944,7 @@
     "unites": [
       {
         "numserie": "C400362",
-        "position": "B-2",
+        "position": "B-2(invent)",
         "etatcvi": "oui",
         "dateFinCVI": "2025-07-01"
       }
@@ -5952,7 +5952,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.396Z",
-    "emplacement": "B-2",
+    "emplacement": "B-2(invent)",
     "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EhpuupR1TylGs-MNXVBoPpEBYF6S1FtQFZNvu9d_HaDQUw?e=L3SPrr"
   },
   {
