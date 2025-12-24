@@ -9075,5 +9075,27 @@
       }
     ],
     "createdAt": "2025-12-24T14:31:18.950Z"
+  },
+  {
+    "marque": "NI",
+    "model": "PXI8176",
+    "quantite": 2,
+    "emplacement": "LAB(invent)",
+    "description": "",
+    "unites": [
+      {
+        "numserie": "D58E27",
+        "position": "LAB(invent)",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      },
+      {
+        "numserie": "DE61B4",
+        "position": "LAB(invent)",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      }
+    ],
+    "createdAt": "2025-12-24T14:35:54.139Z"
   }
 ]
