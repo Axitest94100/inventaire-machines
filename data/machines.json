@@ -2001,7 +2001,7 @@
     "unites": [
       {
         "numserie": "220013-23D",
-        "position": "C-6",
+        "position": "C-6(invent)",
         "etatcvi": "non",
         "dateFinCVI": null
       }
@@ -2009,7 +2009,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.396Z",
-    "emplacement": "C-6",
+    "emplacement": "C-6(invent)",
     "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EgcYImQzOKpDu-FLs433d0ABGjGhkeIfYuuJmcnQ-6lBMg?e=2fBf3C"
   },
   {
