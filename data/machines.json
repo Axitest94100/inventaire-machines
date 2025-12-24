@@ -9097,5 +9097,21 @@
       }
     ],
     "createdAt": "2025-12-24T14:35:54.139Z"
+  },
+  {
+    "marque": "SEFELEC",
+    "model": "56D",
+    "quantite": 1,
+    "emplacement": "EXP(invent)",
+    "description": "NEUF",
+    "unites": [
+      {
+        "numserie": "2560874",
+        "position": "EXP(invent)",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      }
+    ],
+    "createdAt": "2025-12-24T14:37:16.236Z"
   }
 ]
