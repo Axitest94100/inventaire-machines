@@ -46,7 +46,7 @@
     "unites": [
       {
         "numserie": "14/01",
-        "position": "I-4",
+        "position": "I-4(invent)",
         "etatcvi": "oui",
         "dateFinCVI": "2025-10-01"
       }
@@ -54,7 +54,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.397Z",
-    "emplacement": "I-4",
+    "emplacement": "I-4(invent)",
     "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/Eir6o2TYzBNEqQnPQj8PR2sB2V2tGmsQYbXVL_g784RWjg?e=qCxNXu"
   },
   {
@@ -1007,7 +1007,7 @@
     "unites": [
       {
         "numserie": "M37189",
-        "position": "I-2",
+        "position": "I-2(invent)",
         "etatcvi": "non",
         "dateFinCVI": null
       }
@@ -1015,7 +1015,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.397Z",
-    "emplacement": "I-2",
+    "emplacement": "I-2(invent)",
     "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/Emy89c31X_pOlVCjUD9PZ-IBVpwtSq9be05c_-ZoI7gF9g?e=Dr66cu"
   },
   {
@@ -1044,14 +1044,14 @@
       {
         "numserie": "6200507989",
         "etatcvi": "oui",
-        "position": "I-2",
+        "position": "I-2(invent)",
         "dateFinCVI": "2023-09-01"
       }
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.397Z",
-    "emplacement": "I-2",
+    "emplacement": "I-2(invent)",
     "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EqDZbesVMqJMqGyIWDXcVLoBNFRvYVFCHqS6riVNhXxZ0w?e=tu7p2X"
   },
   {
@@ -1097,7 +1097,7 @@
     "unites": [
       {
         "numserie": "0911037",
-        "position": "I-4",
+        "position": "I-4(invent)",
         "etatcvi": "oui",
         "dateFinCVI": "2025-11-01"
       }
@@ -1105,7 +1105,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.397Z",
-    "emplacement": "I-4",
+    "emplacement": "I-4(invent)",
     "description": "ACCESSOIRES FOURNIS: \n-1 CHARGEUR + CABLE D'ALIM\n-1 KIT DE CALIBRATION\n-1 CD\n-1 NOTICE\nhttps://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EtSaA9XHjOlDpqKBw66XQbwBI0WCECuDQkqCdW_um3d-bQ?e=XamaJg"
   },
   {
@@ -2491,7 +2491,7 @@
     "unites": [
       {
         "numserie": "GEW210981",
-        "position": "I-3",
+        "position": "I-3(invent)",
         "etatcvi": "oui",
         "dateFinCVI": "2025-10-01"
       }
@@ -2499,7 +2499,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.397Z",
-    "emplacement": "I-3",
+    "emplacement": "I-3(invent)",
     "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EhyqdXJ8oVVEp0Fy4RNxNGoB2UzNwBldiPfXF3LHt7XIsQ?e=pqUOxo"
   },
   {
@@ -2516,13 +2516,13 @@
       },
       {
         "numserie": "@",
-        "position": "I-4",
+        "position": "I-4(invent)",
         "etatcvi": "non",
         "dateFinCVI": null
       },
       {
         "numserie": "GTX180602",
-        "position": "I-4",
+        "position": "I-4(invent)",
         "etatcvi": "non",
         "dateFinCVI": null
       },
@@ -2569,7 +2569,7 @@
     "unites": [
       {
         "numserie": "80972",
-        "position": "I-4",
+        "position": "I-4(invent)",
         "etatcvi": "non",
         "dateFinCVI": null
       }
@@ -2577,7 +2577,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.397Z",
-    "emplacement": "I-4",
+    "emplacement": "I-4(invent)",
     "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/Eo83P81yuUtOt-rjdH5wi24BNW0RVriHGm8TGSG6oJGqYw?e=Zl8hvQ"
   },
   {
@@ -3181,7 +3181,7 @@
     "unites": [
       {
         "numserie": "JP2KL01347",
-        "position": "I-2",
+        "position": "I-2(invent)",
         "etatcvi": "non",
         "dateFinCVI": null
       }
@@ -3189,7 +3189,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.397Z",
-    "emplacement": "I-2",
+    "emplacement": "I-2(invent)",
     "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/Ettq-WGiRkRCtclYYjV6pPgBfxtowiKoHbACUjzSrrMaSg?e=ldkV6i"
   },
   {
@@ -4170,7 +4170,7 @@
       },
       {
         "numserie": "MY58035873",
-        "position": "I-3",
+        "position": "I-3(invent)",
         "etatcvi": "non",
         "dateFinCVI": null
       }
@@ -4178,7 +4178,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.397Z",
-    "emplacement": "F-5(invent) + I-3",
+    "emplacement": "F-5(invent) + I-3(invent)",
     "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/Es6XvwntU6BMsmZ8qTle924BDpuZe9YKh6kkPsgFUgrn7A?e=xHnwor"
   },
   {
@@ -4404,7 +4404,7 @@
     "unites": [
       {
         "numserie": "010740101076",
-        "position": "I-3",
+        "position": "I-3(invent)",
         "etatcvi": "non",
         "dateFinCVI": null
       }
@@ -4412,7 +4412,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.397Z",
-    "emplacement": "I-3",
+    "emplacement": "I-3(invent)",
     "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EqfHKF-JbQpItpwS2VDiyjEBfqFeG5eUrJRFBbh7PHACmQ?e=a6KdQe"
   },
   {
@@ -4766,7 +4766,7 @@
     "unites": [
       {
         "numserie": "101043",
-        "position": "I-3",
+        "position": "I-3(invent)",
         "etatcvi": "non",
         "dateFinCVI": null
       },
@@ -4780,7 +4780,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.396Z",
-    "emplacement": "I-3+DANS UN CARTON  EN FACE ALLEE B",
+    "emplacement": "I-3(invent) + DANS UN CARTON  EN FACE ALLEE B",
     "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/En_9gijA--RNmUgaRBKMRU4BQYrpInkV4lhvKvB7MHeBuA?e=9tpRkL"
   },
   {
@@ -5211,12 +5211,12 @@
     "marque": "SEFELEC",
     "model": "M 1500 UFA",
     "quantite": 1,
-    "emplacement": "I-3",
+    "emplacement": "I-3(invent)",
     "description": "REPRISE D'EXXELIA\nhttps://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EvJjPRSHzcNCo7idwZsFAQQBFCFDl3B1YlJgUe7I5gFUxg?e=UKJhEr",
     "unites": [
       {
         "numserie": "288",
-        "position": "I-3",
+        "position": "I-3(invent)",
         "etatcvi": "oui",
         "dateFinCVI": "2026-04-01"
       }
@@ -7368,12 +7368,12 @@
     "marque": "AOIP",
     "model": "PJ6301",
     "quantite": 1,
-    "emplacement": "I-4",
+    "emplacement": "I-4(invent)",
     "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/ErQsRtiSrp9FsF5uA48Bx-0B3C5nLXt84SYJxBOF6dRjcA?e=AK8Y7p",
     "unites": [
       {
         "numserie": "618001",
-        "position": "I-4",
+        "position": "I-4(invent)",
         "etatcvi": "oui",
         "dateFinCVI": "2026-10-01"
       }
@@ -7464,12 +7464,12 @@
     "marque": "IFR",
     "model": "2399A",
     "quantite": 1,
-    "emplacement": "I-2",
+    "emplacement": "I-2(invent)",
     "description": "",
     "unites": [
       {
         "numserie": "103062099",
-        "position": "I-2",
+        "position": "I-2(invent)",
         "etatcvi": "oui",
         "dateFinCVI": "2026-10-01"
       }
@@ -7588,12 +7588,12 @@
     "marque": "HP",
     "model": "8648A",
     "quantite": 1,
-    "emplacement": "I-3",
+    "emplacement": "I-3(invent)",
     "description": "OPT: 1E5\nCVI: M2507741\nhttps://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EpPMEe5CtP9MhoBcUJQkxs0BzyaS6dJyuL174ZsabfPhrA?e=xduoPb",
     "unites": [
       {
         "numserie": "3426A01045",
-        "position": "I-3",
+        "position": "I-3(invent)",
         "etatcvi": "oui",
         "dateFinCVI": "2026-11-01"
       }
