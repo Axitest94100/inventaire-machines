@@ -4020,7 +4020,7 @@
     "unites": [
       {
         "numserie": "MY57160101",
-        "position": "A-5",
+        "position": "A-5(invent)",
         "etatcvi": "non",
         "dateFinCVI": null
       }
@@ -4028,7 +4028,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.396Z",
-    "emplacement": "A-5",
+    "emplacement": "A-5(invent)",
     "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/Euo6wDFzix1PsjvBj5FK7xoBNHRCHL5jBAILf5oMsb0PzA?e=kZ8pbX"
   },
   {
@@ -5973,7 +5973,7 @@
     "unites": [
       {
         "numserie": "010-0818-00",
-        "position": "A-5",
+        "position": "A-5(invent)",
         "etatcvi": "non",
         "dateFinCVI": null
       }
@@ -5981,7 +5981,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.396Z",
-    "emplacement": "A-5"
+    "emplacement": "A-5(invent)"
   },
   {
     "marque": "TEKTRONIX",
@@ -6548,7 +6548,7 @@
     "unites": [
       {
         "numserie": "2329",
-        "position": "A-5",
+        "position": "A-5(invent)",
         "etatcvi": "non",
         "dateFinCVI": null
       }
@@ -6556,7 +6556,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.396Z",
-    "emplacement": "A-5"
+    "emplacement": "A-5(invent)"
   },
   {
     "marque": "TELEDYNE LECROY",
@@ -6916,12 +6916,12 @@
     "marque": "TELEDYNE LECROY",
     "model": "WAVESURFER510",
     "quantite": 1,
-    "emplacement": "A-5",
+    "emplacement": "A-5(invent)",
     "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EpySiODBZzFAkjmVIcbm6yABiMs0vce1wGIjqCVoHqIkIw?e=QCV46y",
     "unites": [
       {
         "numserie": "LCRY4501N30314",
-        "position": "A-5",
+        "position": "A-5(invent)",
         "etatcvi": "oui",
         "dateFinCVI": "2025-10-16"
       }
