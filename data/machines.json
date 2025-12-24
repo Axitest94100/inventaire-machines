@@ -2894,7 +2894,7 @@
     "unites": [
       {
         "numserie": "GB38410187",
-        "position": "E-3",
+        "position": "E-3(invent)",
         "etatcvi": "non",
         "dateFinCVI": null
       }
@@ -2902,7 +2902,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.397Z",
-    "emplacement": "E-3"
+    "emplacement": "E-3(invent)"
   },
   {
     "marque": "HP",
