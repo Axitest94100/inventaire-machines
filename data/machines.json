@@ -8627,5 +8627,21 @@
       }
     ],
     "createdAt": "2025-12-24T11:35:23.166Z"
+  },
+  {
+    "marque": "AGILENT",
+    "model": "N2862B",
+    "quantite": 1,
+    "emplacement": "TABLE DE TRAVAIL(invent)",
+    "description": "",
+    "unites": [
+      {
+        "numserie": "",
+        "position": "TABLE DE TRAVAIL(invent)",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      }
+    ],
+    "createdAt": "2025-12-24T11:35:40.299Z"
   }
 ]
