@@ -4581,7 +4581,7 @@
     "unites": [
       {
         "numserie": "@",
-        "position": "M-4",
+        "position": "M-4(invent)",
         "etatcvi": "non",
         "dateFinCVI": null
       }
@@ -4589,7 +4589,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.398Z",
-    "emplacement": "M-4",
+    "emplacement": "M-4(invent)",
     "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/Esw2bC8veihJt_UYbBjVA_wBpaPM7UFawnYE4wIcCC4lWA?e=SPhbmU"
   },
   {
