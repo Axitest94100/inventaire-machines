@@ -7448,12 +7448,12 @@
     "marque": "TEKTRONIX",
     "model": "013-0282-00",
     "quantite": 1,
-    "emplacement": "K-3",
+    "emplacement": "K-3(invent)",
     "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EjdiUF-6ZSlGtzowgJlxLmkBGgBjZxmWZxkepiVZTS26Cg?e=LSpnd6",
     "unites": [
       {
         "numserie": "@",
-        "position": "K-3",
+        "position": "K-3(invent)",
         "etatcvi": "non",
         "dateFinCVI": null
       }
