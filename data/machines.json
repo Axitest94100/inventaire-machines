@@ -8727,5 +8727,21 @@
       }
     ],
     "createdAt": "2025-12-24T11:36:36.980Z"
+  },
+  {
+    "marque": "TEKTRONIX",
+    "model": "P6137",
+    "quantite": 1,
+    "emplacement": "TABLE DE TRAVAIL(invent)",
+    "description": "",
+    "unites": [
+      {
+        "numserie": "",
+        "position": "TABLE DE TRAVAIL(invent)",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      }
+    ],
+    "createdAt": "2025-12-24T11:37:01.573Z"
   }
 ]
