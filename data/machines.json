@@ -2588,7 +2588,7 @@
     "unites": [
       {
         "numserie": "US3915070B",
-        "position": "A-4",
+        "position": "A-4(invent)",
         "etatcvi": "non",
         "dateFinCVI": null
       }
@@ -2596,7 +2596,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.396Z",
-    "emplacement": "A-4"
+    "emplacement": "A-4(invent)"
   },
   {
     "marque": "HP",
