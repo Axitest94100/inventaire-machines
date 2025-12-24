@@ -1446,19 +1446,19 @@
       },
       {
         "numserie": "199458YKH",
-        "position": "F-1",
+        "position": "F-1(invent)",
         "etatcvi": "non",
         "dateFinCVI": null
       },
       {
         "numserie": "199473YKH",
-        "position": "F-1",
+        "position": "F-1(invent)",
         "etatcvi": "non",
         "dateFinCVI": null
       },
       {
         "numserie": "199456YKH",
-        "position": "F-1",
+        "position": "F-1(invent)",
         "etatcvi": "non",
         "dateFinCVI": null
       },
@@ -1472,7 +1472,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.397Z",
-    "emplacement": "F-2 (LOCATION BOUYGUES 05/12/2025 AU 19/12/2025) 201957YKH+J-4 (CA8336 SN:197859YKH)+J-4 (CA8336 SN:197865YKH)+F-2 (LOCATION BOUYGUES 05/12/2025 AU 19/12/2025) 197865YKH+F-1+F-1(CHEZ MENOVA DEPUIS LE 10/12/2025 POUR CVI)+F-1 (LOCATION BOUYGUES 05/12/2025 AU 19/12/2025) 197859YKH+F-1 (CHEZ MENOVA DEPUIS LE 10/12/2025 POUR CVI)+F-1 (LOCATION BOUYGUES 05/12/2025 AU 19/12/2025) 201957YKH",
+    "emplacement": "F-2 (LOCATION BOUYGUES 05/12/2025 AU 19/12/2025) 201957YKH + J-4 (CA8336 SN:197859YKH) + J-4 (CA8336 SN:197865YKH) + F-2 (LOCATION BOUYGUES 05/12/2025 AU 19/12/2025) 197865YKH + F-1 + F-1(CHEZ MENOVA DEPUIS LE 10/12/2025 POUR CVI) + F-1 (LOCATION BOUYGUES 05/12/2025 AU 19/12/2025) 197859YKH + F-1 (CHEZ MENOVA DEPUIS LE 10/12/2025 POUR CVI) + F-1(invent) + F-1 (LOCATION BOUYGUES 05/12/2025 AU 19/12/2025) 201957YKH",
     "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/Eor1HwFrA6lPrNK-ay_seJEB9Fckxo2jKTe2vJjUPV7cQA?e=OolCAO"
   },
   {
@@ -4279,7 +4279,7 @@
     "unites": [
       {
         "numserie": "A40092",
-        "position": "E-5",
+        "position": "E-5(invent)",
         "etatcvi": "non",
         "dateFinCVI": null
       }
@@ -4287,7 +4287,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.397Z",
-    "emplacement": "E-5"
+    "emplacement": "E-5(invent)"
   },
   {
     "marque": "LDS",
@@ -6171,7 +6171,7 @@
     "unites": [
       {
         "numserie": "TW53796",
-        "position": "E-5",
+        "position": "E-5(invent)",
         "etatcvi": "non",
         "dateFinCVI": null
       }
@@ -6179,7 +6179,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.397Z",
-    "emplacement": "E-5"
+    "emplacement": "E-5(invent)"
   },
   {
     "marque": "TEKTRONIX",
@@ -6941,7 +6941,7 @@
     "unites": [
       {
         "numserie": "33366",
-        "position": "E-5",
+        "position": "E-5(invent)",
         "etatcvi": "non",
         "dateFinCVI": null
       }
@@ -6949,7 +6949,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.397Z",
-    "emplacement": "E-5"
+    "emplacement": "E-5(invent)"
   },
   {
     "marque": "TREND NETWORKS",
