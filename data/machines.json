@@ -3873,7 +3873,7 @@
     "unites": [
       {
         "numserie": "454758",
-        "position": "G-2",
+        "position": "G-2(invent)",
         "etatcvi": "non",
         "dateFinCVI": null
       }
@@ -3881,7 +3881,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.397Z",
-    "emplacement": "G-2",
+    "emplacement": "G-2(invent)",
     "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/Eh3r3ZKTSmpNmA5BuNyXJpwBvPv0Lh6G5ug3oMo_clijoQ?e=e2vahU"
   },
   {
