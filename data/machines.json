@@ -1237,7 +1237,7 @@
     "unites": [
       {
         "numserie": "ACCESSOIRES",
-        "position": "K-2",
+        "position": "K-2(invent)",
         "etatcvi": "non",
         "dateFinCVI": null
       }
@@ -1245,7 +1245,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.398Z",
-    "emplacement": "K-2"
+    "emplacement": "K-2(invent)"
   },
   {
     "marque": "CHAUVIN ARNOUX",
@@ -5066,7 +5066,7 @@
     "unites": [
       {
         "numserie": "140900177",
-        "position": "K-2",
+        "position": "K-2(invent)",
         "etatcvi": "non",
         "dateFinCVI": null
       }
@@ -5074,7 +5074,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.398Z",
-    "emplacement": "K-2",
+    "emplacement": "K-2(invent)",
     "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EjW82wW6DGBMv463RhhlxA0B1Agy9Z4mgaV7HgvFRivVZg?e=nkrkP7"
   },
   {
