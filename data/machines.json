@@ -3586,7 +3586,7 @@
     "unites": [
       {
         "numserie": "7013-172-03B",
-        "position": "D-5",
+        "position": "D-5(invent)",
         "etatcvi": "non",
         "dateFinCVI": null
       }
@@ -3594,7 +3594,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.397Z",
-    "emplacement": "D-5"
+    "emplacement": "D-5(invent)"
   },
   {
     "marque": "KEITHLEY",
@@ -4297,7 +4297,7 @@
     "unites": [
       {
         "numserie": "W6143826/0000-40",
-        "position": "D-5",
+        "position": "D-5(invent)",
         "etatcvi": "non",
         "dateFinCVI": null
       }
@@ -4305,7 +4305,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.397Z",
-    "emplacement": "D-5"
+    "emplacement": "D-5(invent)"
   },
   {
     "marque": "LECROY",
@@ -4559,7 +4559,7 @@
     "unites": [
       {
         "numserie": "18CB961",
-        "position": "D-5",
+        "position": "D-5(invent)",
         "etatcvi": "non",
         "dateFinCVI": null
       }
@@ -4567,7 +4567,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.397Z",
-    "emplacement": "D-5"
+    "emplacement": "D-5(invent)"
   },
   {
     "marque": "NATIONAL INSTRUMENT",
