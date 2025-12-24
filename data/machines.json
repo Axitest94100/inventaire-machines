@@ -771,13 +771,13 @@
     "unites": [
       {
         "numserie": "MY44102483",
-        "position": "H-3",
+        "position": "H-3(invent)",
         "etatcvi": "non",
         "dateFinCVI": null
       },
       {
         "numserie": "MY44101866",
-        "position": "H-3",
+        "position": "H-3(invent)",
         "etatcvi": "non",
         "dateFinCVI": null
       }
@@ -785,7 +785,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.397Z",
-    "emplacement": "H-3",
+    "emplacement": "H-3(invent)",
     "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EvUDKXvM7r1BlRkaxFmyyCABt0jDYYZS624qK7xUcC4VDQ?e=HfEr4p"
   },
   {
@@ -3145,7 +3145,7 @@
     "unites": [
       {
         "numserie": "ACCESSOIRES",
-        "position": "H-3",
+        "position": "H-3(invent)",
         "etatcvi": "non",
         "dateFinCVI": null
       }
@@ -3153,7 +3153,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.397Z",
-    "emplacement": "H-3",
+    "emplacement": "H-3(invent)",
     "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EvXTRCONi3tIr063jhQrRdQBT6MY5a2gQEWLLc7pS-hRMA?e=niRLaf"
   },
   {
@@ -5120,13 +5120,13 @@
     "unites": [
       {
         "numserie": "ACCESSOIRES",
-        "position": "H-3",
+        "position": "H-3(invent)",
         "etatcvi": "non",
         "dateFinCVI": null
       },
       {
         "numserie": "ACCESSOIRES2",
-        "position": "H-3",
+        "position": "H-3(invent)",
         "etatcvi": "non",
         "dateFinCVI": null
       }
@@ -5134,7 +5134,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.397Z",
-    "emplacement": "H-3",
+    "emplacement": "H-3(invent)",
     "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EsOyteQK7FhOkoMLtwajgxkB5oVZH0Hdns1vgLMIpvGmUg?e=rcBDFe"
   },
   {
@@ -5275,12 +5275,12 @@
     "marque": "SEFELEC",
     "model": "2715",
     "quantite": 1,
-    "emplacement": "H-3",
+    "emplacement": "H-3(invent)",
     "description": "",
     "unites": [
       {
         "numserie": "1867080",
-        "position": "H-3",
+        "position": "H-3(invent)",
         "etatcvi": "oui",
         "dateFinCVI": "2024-03-21"
       }
