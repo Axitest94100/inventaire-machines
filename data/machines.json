@@ -1025,7 +1025,7 @@
     "unites": [
       {
         "numserie": "MW12742",
-        "position": "I-2",
+        "position": "I-2(invent)",
         "etatcvi": "non",
         "dateFinCVI": null
       }
@@ -1033,7 +1033,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.397Z",
-    "emplacement": "I-2",
+    "emplacement": "I-2(invent)",
     "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EqxTz-CE_sJIlFeIe8kfY3YB43IwT2I1hfC1rvtOw7vCKg?e=eKeER4"
   },
   {
@@ -2468,7 +2468,7 @@
     "unites": [
       {
         "numserie": "GEW161427",
-        "position": "I-2",
+        "position": "I-2(invent)",
         "etatcvi": "oui",
         "dateFinCVI": "2025-10-01"
       },
@@ -2482,7 +2482,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.397Z",
-    "emplacement": "I-2+J-1"
+    "emplacement": "I-2(invent) + J-1"
   },
   {
     "marque": "GW INSTEK",
@@ -4743,7 +4743,7 @@
     "unites": [
       {
         "numserie": "1505",
-        "position": "I-2",
+        "position": "I-2(invent)",
         "etatcvi": "non",
         "dateFinCVI": null
       },
@@ -4757,7 +4757,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.397Z",
-    "emplacement": "I-2+I-1"
+    "emplacement": "I-2(invent) + I-1"
   },
   {
     "marque": "ROHDE & SCHWARZ",
