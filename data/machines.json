@@ -5227,12 +5227,12 @@
     "marque": "SEFELEC",
     "model": "565",
     "quantite": 1,
-    "emplacement": "H-3",
+    "emplacement": "H-3(invent)",
     "description": "",
     "unites": [
       {
         "numserie": "2456079",
-        "position": "H-3",
+        "position": "H-3(invent)",
         "etatcvi": "non",
         "dateFinCVI": null
       }
@@ -7480,12 +7480,12 @@
     "marque": "SPIRENT",
     "model": "GSS6100",
     "quantite": 1,
-    "emplacement": "H-4",
+    "emplacement": "H-4(invent)",
     "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/Esc1B92tuwFHi_4M-2YTgZMBLKcT33bWEGfcE9sNQx9xNg?e=Lwz4Sh",
     "unites": [
       {
         "numserie": "1972",
-        "position": "H-4",
+        "position": "H-4(invent)",
         "etatcvi": "non",
         "dateFinCVI": null
       }
@@ -7496,12 +7496,12 @@
     "marque": "KOLINKER",
     "model": "KH1200",
     "quantite": 1,
-    "emplacement": "H-4",
+    "emplacement": "H-4(invent)",
     "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EqHCUHYw9_RHgbLSVgwkg5kBY6sWNDi0_6AYMCwe0DKb_A?e=Wri6Nm",
     "unites": [
       {
         "numserie": "1200-529",
-        "position": "H-4",
+        "position": "H-4(invent)",
         "etatcvi": "non",
         "dateFinCVI": null
       }
