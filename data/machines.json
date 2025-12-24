@@ -603,7 +603,7 @@
       },
       {
         "numserie": "MY45048857",
-        "position": "F-5",
+        "position": "F-5(invent)",
         "etatcvi": "non",
         "dateFinCVI": null
       }
@@ -611,7 +611,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.397Z",
-    "emplacement": "F-5 (07/10/2025 (EN PANNE CHEZ ASERTI))+F-5",
+    "emplacement": "F-5 (07/10/2025 (EN PANNE CHEZ ASERTI)) + F-5(invent)",
     "description": "MY45048857= OPT001\n2823A01207= SANS OPT ASERTI 07/10/2025 (EN PANNE CHEZ ASERTI)\n\nhttps://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EmmIzYWcr8dFvvk_v2OvmQkBPkUGEq0Nb8NW37UE5W905Q?e=WPicla"
   },
   {
@@ -3616,7 +3616,7 @@
       },
       {
         "numserie": "1292068",
-        "position": "F-5",
+        "position": "F-5(invent)",
         "etatcvi": "non",
         "dateFinCVI": null
       },
@@ -3630,7 +3630,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.397Z",
-    "emplacement": "E-3(invent)+E-4(invent)+F-5+F-4(invent)"
+    "emplacement": "E-3(invent) + E-4(invent) + F-5(invent) + F-4(invent)"
   },
   {
     "marque": "KEITHLEY",
@@ -3771,7 +3771,7 @@
     "unites": [
       {
         "numserie": "0544203",
-        "position": "F-5",
+        "position": "F-5(invent)",
         "etatcvi": "non",
         "dateFinCVI": null
       },
@@ -3785,7 +3785,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.397Z",
-    "emplacement": "F-5+F-4(invent)",
+    "emplacement": "F-5(invent) + F-4(invent)",
     "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/Eh5bKTh18ZJPmD_ZqPlT1MwBHmUDSAQI8KpdmfKn4wlRDg?e=PJucmn"
   },
   {
@@ -3801,7 +3801,7 @@
       },
       {
         "numserie": "1203534",
-        "position": "F-5",
+        "position": "F-5(invent)",
         "etatcvi": "non",
         "dateFinCVI": null
       }
@@ -3809,7 +3809,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.397Z",
-    "emplacement": "F-5(invent)+F-5",
+    "emplacement": "F-5(invent)",
     "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EqeksEmYl_RBou4YWl6ex9cBo_151R222f02OtEFKPEeFQ?e=2QwduM"
   },
   {
@@ -3819,7 +3819,7 @@
     "unites": [
       {
         "numserie": "1202507",
-        "position": "F-5",
+        "position": "F-5(invent)",
         "etatcvi": "non",
         "dateFinCVI": null
       }
@@ -3827,7 +3827,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.397Z",
-    "emplacement": "F-5",
+    "emplacement": "F-5(invent)",
     "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EiExLyMllCpMgyfbKEtvpZ0Bi96J4_R4JgYkli3vZX1pqQ?e=ZpyS9s"
   },
   {
@@ -3837,7 +3837,7 @@
     "unites": [
       {
         "numserie": "1203695",
-        "position": "F-5",
+        "position": "F-5(invent)",
         "etatcvi": "non",
         "dateFinCVI": null
       }
@@ -3845,7 +3845,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.397Z",
-    "emplacement": "F-5",
+    "emplacement": "F-5(invent)",
     "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EiExLyMllCpMgyfbKEtvpZ0Bi96J4_R4JgYkli3vZX1pqQ?e=ZpyS9s"
   },
   {
@@ -3855,7 +3855,7 @@
     "unites": [
       {
         "numserie": "0781604",
-        "position": "F-5",
+        "position": "F-5(invent)",
         "etatcvi": "oui",
         "dateFinCVI": "2025-05-01"
       }
@@ -3863,7 +3863,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.397Z",
-    "emplacement": "F-5",
+    "emplacement": "F-5(invent)",
     "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EodkVTLvxuFOlo9Q05TEKTkBN5MfNdL8AwmEdw6VHYuvkw?e=kRByt1"
   },
   {
