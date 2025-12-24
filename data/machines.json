@@ -4315,7 +4315,7 @@
     "unites": [
       {
         "numserie": "PA22030031",
-        "position": "A-2",
+        "position": "A-2(invent)",
         "etatcvi": "oui",
         "dateFinCVI": "2025-05-25"
       }
@@ -4323,7 +4323,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.396Z",
-    "emplacement": "A-2"
+    "emplacement": "A-2(invent)"
   },
   {
     "marque": "LXI",
