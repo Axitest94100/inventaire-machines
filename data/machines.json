@@ -418,7 +418,7 @@
     "unites": [
       {
         "numserie": "MY52200139",
-        "position": "E-4",
+        "position": "E-4(invent)",
         "etatcvi": "non",
         "dateFinCVI": null
       }
@@ -426,7 +426,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.397Z",
-    "emplacement": "E-4"
+    "emplacement": "E-4(invent)"
   },
   {
     "marque": "AGILENT",
@@ -436,7 +436,7 @@
     "unites": [
       {
         "numserie": "MY50001699",
-        "position": "E-4",
+        "position": "E-4(invent)",
         "etatcvi": "non",
         "dateFinCVI": null
       }
@@ -444,7 +444,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.397Z",
-    "emplacement": "E-4"
+    "emplacement": "E-4(invent)"
   },
   {
     "marque": "AGILENT",
@@ -3610,7 +3610,7 @@
       },
       {
         "numserie": "1192297",
-        "position": "E-4",
+        "position": "E-4(invent)",
         "etatcvi": "non",
         "dateFinCVI": null
       },
@@ -3630,7 +3630,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.397Z",
-    "emplacement": "E-3(invent) + E-4 + F-5 + F-4"
+    "emplacement": "E-3(invent) + E-4(invent) + F-5 + F-4"
   },
   {
     "marque": "KEITHLEY",
