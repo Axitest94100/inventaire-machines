@@ -2624,7 +2624,7 @@
     "unites": [
       {
         "numserie": "3039A02758",
-        "position": "C-1",
+        "position": "C-1(invent)",
         "etatcvi": "non",
         "dateFinCVI": null
       }
@@ -2632,7 +2632,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.396Z",
-    "emplacement": "C-1"
+    "emplacement": "C-1(invent)"
   },
   {
     "marque": "HP",
