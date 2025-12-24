@@ -5569,7 +5569,7 @@
       },
       {
         "numserie": "C001489",
-        "position": "A-1",
+        "position": "A-1(invent)",
         "etatcvi": "non",
         "dateFinCVI": null
       },
@@ -5583,7 +5583,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.396Z",
-    "emplacement": "A-1"
+    "emplacement": "A-1 + A-1(invent)"
   },
   {
     "marque": "TEKTRONIX",
