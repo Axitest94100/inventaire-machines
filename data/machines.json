@@ -8947,5 +8947,21 @@
       }
     ],
     "createdAt": "2025-12-24T13:30:58.116Z"
+  },
+  {
+    "marque": "YOKOGAWA",
+    "model": "WT1600",
+    "quantite": 1,
+    "emplacement": "K-1(invent)",
+    "description": "APPAREIL MISE PAR MAGIE DANS LE STOCK SANS M'EN INFORMER",
+    "unites": [
+      {
+        "numserie": "@",
+        "position": "K-1(invent)",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      }
+    ],
+    "createdAt": "2025-12-24T14:17:36.713Z"
   }
 ]
