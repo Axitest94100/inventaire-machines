@@ -633,7 +633,7 @@
       },
       {
         "numserie": "MY52020090",
-        "position": "G-3",
+        "position": "G-3(invent)",
         "etatcvi": "non",
         "dateFinCVI": null
       }
@@ -1482,7 +1482,7 @@
     "unites": [
       {
         "numserie": "904315PHC",
-        "position": "G-3",
+        "position": "G-3(invent)",
         "etatcvi": "non",
         "dateFinCVI": null
       }
@@ -1490,7 +1490,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.397Z",
-    "emplacement": "G-3",
+    "emplacement": "G-3(invent)",
     "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/Etd5eZYMzxFAhyqFxDKjJNABMS6wHmRdDqr8mRG8JFQoYA?e=kxRkaU"
   },
   {
@@ -2151,13 +2151,13 @@
       },
       {
         "numserie": "43670149",
-        "position": "G-3",
+        "position": "G-3(invent)",
         "etatcvi": "non",
         "dateFinCVI": null
       },
       {
         "numserie": "21420365",
-        "position": "G-3",
+        "position": "G-3(invent)",
         "etatcvi": "non",
         "dateFinCVI": null
       }
@@ -2165,7 +2165,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.397Z",
-    "emplacement": "G-3",
+    "emplacement": "G-3 + G-3(invent)",
     "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EuCedLm07fxNnI-WK-KkmTYBYRi609uhv1M6bDAoloFk8g?e=aarafE"
   },
   {
