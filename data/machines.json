@@ -106,7 +106,7 @@
       },
       {
         "numserie": "MY48080126",
-        "position": "A-1",
+        "position": "A-1(invent)",
         "etatcvi": "non",
         "dateFinCVI": null
       }
@@ -114,7 +114,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.396Z",
-    "emplacement": "A-1"
+    "emplacement": "A-1 + A-1(invent)"
   },
   {
     "marque": "AGILENT",
@@ -5563,7 +5563,7 @@
     "unites": [
       {
         "numserie": "C001765",
-        "position": "A-1",
+        "position": "A-1(invent)",
         "etatcvi": "non",
         "dateFinCVI": null
       },
@@ -5583,7 +5583,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.396Z",
-    "emplacement": "A-1 + A-1(invent)"
+    "emplacement": "A-1(invent) + A-1"
   },
   {
     "marque": "TEKTRONIX",
