@@ -2285,24 +2285,6 @@
   },
   {
     "marque": "FLUKE",
-    "model": "DSXPLAA004",
-    "quantite": 1,
-    "unites": [
-      {
-        "numserie": "24470404",
-        "position": "M-3",
-        "etatcvi": "non",
-        "dateFinCVI": null
-      }
-    ],
-    "etatcvi": "non",
-    "dateFinCVI": null,
-    "createdAt": "2025-06-26T15:17:33.398Z",
-    "emplacement": "M-3",
-    "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EnY7EE8B2nVHj8Jgj8vD92UBWHMqxN0Lk0Tury1YfLObOg?e=b30u0Q"
-  },
-  {
-    "marque": "FLUKE",
     "model": "87",
     "quantite": 1,
     "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EkNztLmWSy9KvI5-XhIpvRcBweMXstQdFnB07iCJcWtJdA?e=mEAQjJ",
