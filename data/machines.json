@@ -5952,14 +5952,8 @@
   {
     "marque": "TEKTRONIX",
     "model": "P6245 ACCESSOIRES",
-    "quantite": 2,
+    "quantite": 1,
     "unites": [
-      {
-        "numserie": "",
-        "position": "A-5",
-        "etatcvi": "non",
-        "dateFinCVI": null
-      },
       {
         "numserie": "@",
         "position": "A-5(invent)",
@@ -5970,7 +5964,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.396Z",
-    "emplacement": "A-5 + A-5(invent)"
+    "emplacement": "A-5(invent)"
   },
   {
     "marque": "TEKTRONIX",
