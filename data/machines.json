@@ -4653,13 +4653,13 @@
     "unites": [
       {
         "numserie": "DM7461007",
-        "position": "D-4",
+        "position": "D-4(invent)",
         "etatcvi": "non",
         "dateFinCVI": null
       },
       {
         "numserie": "DM588001",
-        "position": "D-4",
+        "position": "D-4(invent)",
         "etatcvi": "non",
         "dateFinCVI": null
       }
@@ -4667,7 +4667,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.397Z",
-    "emplacement": "D-4"
+    "emplacement": "D-4(invent)"
   },
   {
     "marque": "PHILIPS",
