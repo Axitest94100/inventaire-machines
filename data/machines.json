@@ -8855,5 +8855,21 @@
       }
     ],
     "createdAt": "2025-12-24T11:38:36.885Z"
+  },
+  {
+    "marque": "SONDE",
+    "model": "100MHZ",
+    "quantite": 1,
+    "emplacement": "TABLE DE TRAVAIL(invent)",
+    "description": "",
+    "unites": [
+      {
+        "numserie": "",
+        "position": "TABLE DE TRAVAIL(invent)",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      }
+    ],
+    "createdAt": "2025-12-24T11:38:51.347Z"
   }
 ]
