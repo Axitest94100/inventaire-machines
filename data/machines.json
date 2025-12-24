@@ -4075,14 +4075,14 @@
       {
         "numserie": "MY54150212",
         "etatcvi": "oui",
-        "position": "C-6",
+        "position": "C-6(invent)",
         "dateFinCVI": "2023-10-01"
       }
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.396Z",
-    "emplacement": "C-6",
+    "emplacement": "C-6(invent)",
     "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EjQRfr1j7fhBufJ9xznnt2MBYQxiqkPcFqR4Dir7KPZHJg?e=62Ypjm"
   },
   {
