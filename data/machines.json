@@ -4573,7 +4573,7 @@
     "marque": "NATIONAL INSTRUMENT",
     "model": "GPIB-USB-HS",
     "quantite": 2,
-    "emplacement": "K-3",
+    "emplacement": "K-3 + K-3(invent)",
     "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EpU9Z0x_u0lHhqgtfr9HK90BBfl1VoPiB4fhCIAdzT3CAg?e=yqUOz4",
     "unites": [
       {
@@ -4584,7 +4584,7 @@
       },
       {
         "numserie": "127CA3F",
-        "position": "K-3",
+        "position": "K-3(invent)",
         "etatcvi": "non",
         "dateFinCVI": null
       }
