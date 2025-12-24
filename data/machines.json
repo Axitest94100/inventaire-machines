@@ -454,7 +454,7 @@
     "unites": [
       {
         "numserie": "MY50002907",
-        "position": "G-4",
+        "position": "G-4(invent)",
         "etatcvi": "non",
         "dateFinCVI": null
       }
@@ -462,7 +462,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.397Z",
-    "emplacement": "G-4"
+    "emplacement": "G-4(invent)"
   },
   {
     "marque": "AGILENT",
@@ -1167,7 +1167,7 @@
     "unites": [
       {
         "numserie": "D9600942-101B6",
-        "position": "G-4",
+        "position": "G-4(invent)",
         "etatcvi": "non",
         "dateFinCVI": null
       }
@@ -1175,7 +1175,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.397Z",
-    "emplacement": "G-4",
+    "emplacement": "G-4(invent)",
     "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EmmOILP8PzBHvJ5iCwmDdTsBeHnc-LApRsM1ewUBpGbuVQ?e=xWmmJZ"
   },
   {
@@ -1842,7 +1842,7 @@
     "unites": [
       {
         "numserie": "246797668",
-        "position": "G-5",
+        "position": "G-5(invent)",
         "etatcvi": "oui",
         "dateFinCVI": "2025-05-01"
       }
@@ -1850,7 +1850,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.397Z",
-    "emplacement": "G-5",
+    "emplacement": "G-5(invent)",
     "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EppGETs8EQ9OohfZivEaZ4UBHZW-b5IOI0S9wnpwW_QFcA?e=egZelp"
   },
   {
@@ -2175,7 +2175,7 @@
     "unites": [
       {
         "numserie": "6446301",
-        "position": "G-4",
+        "position": "G-4(invent)",
         "etatcvi": "non",
         "dateFinCVI": null
       }
@@ -2183,7 +2183,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.397Z",
-    "emplacement": "G-4",
+    "emplacement": "G-4(invent)",
     "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EkPnsU1bLnRAg6HMurhjcssBQgUjZbJLe8na1UL37I_H5Q?e=sIpk8f"
   },
   {
@@ -2193,7 +2193,7 @@
     "unites": [
       {
         "numserie": "7206313",
-        "position": "G-4",
+        "position": "G-4(invent)",
         "etatcvi": "non",
         "dateFinCVI": null
       }
@@ -2201,7 +2201,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.397Z",
-    "emplacement": "G-4",
+    "emplacement": "G-4(invent)",
     "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EqOdsVBWWflCmBJlRJNqI8wBTJC4ENerkIAtezYvT_lPuw?e=2OZEIi"
   },
   {
@@ -2353,7 +2353,7 @@
     "unites": [
       {
         "numserie": "C207C1747",
-        "position": "G-4",
+        "position": "G-4(invent)",
         "etatcvi": "oui",
         "dateFinCVI": "2022-10-21"
       }
@@ -2361,7 +2361,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.397Z",
-    "emplacement": "G-4",
+    "emplacement": "G-4(invent)",
     "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EqAueXFLiZ5NsrrYB__8_OkB1LbOYsNNTvoKjL-q_HNrHg?e=3fHwuE"
   },
   {
@@ -3019,7 +3019,7 @@
     "unites": [
       {
         "numserie": "3125U16240",
-        "position": "G-4",
+        "position": "G-4(invent)",
         "etatcvi": "non",
         "dateFinCVI": null
       }
@@ -3027,7 +3027,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.397Z",
-    "emplacement": "G-4",
+    "emplacement": "G-4(invent)",
     "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EicrO-Lxu7JOldRaDpB2kygBGfbBn8HLLbaUoT0VIpHG9g?e=HyJyMf"
   },
   {
@@ -3436,12 +3436,12 @@
     "marque": "HP",
     "model": "E1306A",
     "quantite": 1,
-    "emplacement": "G-4",
+    "emplacement": "G-4(invent)",
     "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EoKK3m4wrZdLi8P2MsRWab8B03t2_kZNIth624bbP3fi9Q?e=ueQ0Js",
     "unites": [
       {
         "numserie": "US34000326",
-        "position": "G-4",
+        "position": "G-4(invent)",
         "etatcvi": "non",
         "dateFinCVI": null
       }
@@ -3932,7 +3932,7 @@
       },
       {
         "numserie": "0905624",
-        "position": "G-5",
+        "position": "G-5(invent)",
         "etatcvi": "non",
         "dateFinCVI": null
       }
@@ -3940,7 +3940,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.397Z",
-    "emplacement": "G-5 CHEZ MENOVA 23/07/2025 CLIENT SERMA+G-5",
+    "emplacement": "G-5 CHEZ MENOVA 23/07/2025 CLIENT SERMA + G-5(invent)",
     "description": "0904415 : CHEZ MENOVA 23/07/2025 CLIENT SERMA\nhttps://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EpQN76SomvJHmMNMmmMZqSwBNuJLRZPZhY3rDR8nQjo8NA?e=TzngWC"
   },
   {
@@ -5048,7 +5048,7 @@
     "unites": [
       {
         "numserie": "047B105G2",
-        "position": "G-4",
+        "position": "G-4(invent)",
         "etatcvi": "non",
         "dateFinCVI": null
       }
@@ -5056,7 +5056,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.397Z",
-    "emplacement": "G-4",
+    "emplacement": "G-4(invent)",
     "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EvA6NtYll8hBi5eG-KW8QsIBQSoyEO1UcO7mdiVdsFmF8w?e=MLDGGU"
   },
   {
@@ -7044,7 +7044,7 @@
     "unites": [
       {
         "numserie": "00111001",
-        "position": "G-4",
+        "position": "G-4(invent)",
         "etatcvi": "non",
         "dateFinCVI": null
       }
@@ -7052,7 +7052,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.397Z",
-    "emplacement": "G-4"
+    "emplacement": "G-4(invent)"
   },
   {
     "marque": "WANDEL & GOLTERMANN",
@@ -7652,12 +7652,12 @@
     "marque": "ISO-TECH",
     "model": "IPS-603",
     "quantite": 1,
-    "emplacement": "G-4",
+    "emplacement": "G-4(invent)",
     "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EiAotiey8zJEv5rqPM77CNIBr4LquqS-DwtRk2tQjVNrUA?e=w9swf5",
     "unites": [
       {
         "numserie": "701D392G1",
-        "position": "G-4",
+        "position": "G-4(invent)",
         "etatcvi": "oui",
         "dateFinCVI": "2026-11-01"
       }
