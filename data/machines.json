@@ -6768,8 +6768,8 @@
         "dateFinCVI": null
       },
       {
-        "numserie": "",
-        "position": "C-4",
+        "numserie": "@",
+        "position": "C-4(invent)",
         "etatcvi": "non",
         "dateFinCVI": null
       }
@@ -6777,7 +6777,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.396Z",
-    "emplacement": "C-3+C-4"
+    "emplacement": "C-3 + C-4 + C-4(invent)"
   },
   {
     "marque": "TELEDYNE LECROY",
