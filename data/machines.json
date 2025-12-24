@@ -478,7 +478,7 @@
       {
         "numserie": "MY40009160",
         "etatcvi": "non",
-        "position": "F-3",
+        "position": "F-3(invent)",
         "dateFinCVI": null
       },
       {
@@ -2965,7 +2965,7 @@
     "unites": [
       {
         "numserie": "3736A05502",
-        "position": "F-3",
+        "position": "F-3(invent)",
         "etatcvi": "non",
         "dateFinCVI": null
       }
@@ -2973,7 +2973,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.397Z",
-    "emplacement": "F-3",
+    "emplacement": "F-3(invent)",
     "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EueReOpYiJVPp5oZ2YJkJTsBRqpBnizY4GgOpa9AkSPHjQ?e=4fGY55"
   },
   {
@@ -2984,14 +2984,14 @@
       {
         "numserie": "3736A05611",
         "etatcvi": "non",
-        "position": "F-3",
+        "position": "F-3(invent)",
         "dateFinCVI": null
       }
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.397Z",
-    "emplacement": "F-3",
+    "emplacement": "F-3(invent)",
     "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EueReOpYiJVPp5oZ2YJkJTsBRqpBnizY4GgOpa9AkSPHjQ?e=4fGY55"
   },
   {
