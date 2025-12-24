@@ -3489,61 +3489,61 @@
     "unites": [
       {
         "numserie": "803422022766860025/803422022766840047",
-        "position": "M-1",
+        "position": "M-1(invent)",
         "etatcvi": "non",
         "dateFinCVI": null
       },
       {
         "numserie": "803422022766860023/803422022766840039",
-        "position": "M-1",
+        "position": "M-1(invent)",
         "etatcvi": "non",
         "dateFinCVI": null
       },
       {
         "numserie": "803422022766860022/803422022766860016",
-        "position": "M-1",
+        "position": "M-1(invent)",
         "etatcvi": "non",
         "dateFinCVI": null
       },
       {
         "numserie": "803422022766850033/803422022766820013",
-        "position": "M-1",
+        "position": "M-1(invent)",
         "etatcvi": "non",
         "dateFinCVI": null
       },
       {
         "numserie": "803422022766860026/803422022766860021",
-        "position": "M-1",
+        "position": "M-1(invent)",
         "etatcvi": "non",
         "dateFinCVI": null
       },
       {
         "numserie": "803422022766820012/803422022766850035",
-        "position": "M-1",
+        "position": "M-1(invent)",
         "etatcvi": "non",
         "dateFinCVI": null
       },
       {
         "numserie": "8034220227668820014/8034220227668860017",
-        "position": "M-1",
+        "position": "M-1(invent)",
         "etatcvi": "non",
         "dateFinCVI": null
       },
       {
         "numserie": "803422022766840043/803422022766820009",
-        "position": "M-1",
+        "position": "M-1(invent)",
         "etatcvi": "non",
         "dateFinCVI": null
       },
       {
         "numserie": "8034220227668860020/8034220227668840037",
-        "position": "M-1",
+        "position": "M-1(invent)",
         "etatcvi": "non",
         "dateFinCVI": null
       },
       {
         "numserie": "803422022766850028/803422022766850029",
-        "position": "M-1",
+        "position": "M-1(invent)",
         "etatcvi": "non",
         "dateFinCVI": null
       },
@@ -3557,7 +3557,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.398Z",
-    "emplacement": "M-1 + M-1(invent)",
+    "emplacement": "M-1(invent)",
     "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EuocbnAjCHFLjdb7uzi0_eUBXLMSyXTaS3_yy6ZTAaV4Mg?e=Fkjrql"
   },
   {
