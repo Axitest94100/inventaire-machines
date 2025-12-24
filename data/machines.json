@@ -4231,13 +4231,13 @@
       },
       {
         "numserie": "RL001803",
-        "position": "D-2",
+        "position": "D-2(invent)",
         "etatcvi": "non",
         "dateFinCVI": null
       },
       {
         "numserie": "RL001804",
-        "position": "D-2",
+        "position": "D-2(invent)",
         "etatcvi": "non",
         "dateFinCVI": null
       },
@@ -4251,7 +4251,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.397Z",
-    "emplacement": "D-2 + D-1(invent)"
+    "emplacement": "D-2 + D-2(invent) + D-1(invent)"
   },
   {
     "marque": "LAMBDA",
