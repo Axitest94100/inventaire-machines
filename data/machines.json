@@ -1813,7 +1813,7 @@
     "unites": [
       {
         "numserie": "2676910488",
-        "position": "C-3",
+        "position": "C-3(invent)",
         "etatcvi": "oui",
         "dateFinCVI": "2024-10-03"
       },
@@ -1833,7 +1833,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.396Z",
-    "emplacement": "C-3"
+    "emplacement": "C-3(invent) + C-3"
   },
   {
     "marque": "EA",
