@@ -23,23 +23,6 @@
     "emplacement": "H-3(invent)"
   },
   {
-    "marque": "ADDA",
-    "model": "VENTILLATEUR",
-    "quantite": 1,
-    "unites": [
-      {
-        "numserie": "ACCESSOIRES",
-        "position": "K-2",
-        "etatcvi": "non",
-        "dateFinCVI": null
-      }
-    ],
-    "etatcvi": "non",
-    "dateFinCVI": null,
-    "createdAt": "2025-06-26T15:17:33.398Z",
-    "emplacement": "K-2"
-  },
-  {
     "marque": "ADRET",
     "model": "103A",
     "quantite": 1,
