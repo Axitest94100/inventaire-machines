@@ -669,7 +669,7 @@
     "unites": [
       {
         "numserie": "MY41014457",
-        "position": "G-5",
+        "position": "G-5(invent)",
         "etatcvi": "non",
         "dateFinCVI": null
       }
@@ -677,7 +677,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.397Z",
-    "emplacement": "G-5",
+    "emplacement": "G-5(invent)",
     "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/Etz4Rryo34xMridTHBqMMxMB9X-mQa-IqG9gZRYJMo_wQw?e=Cstl6L"
   },
   {
@@ -699,7 +699,7 @@
       },
       {
         "numserie": "MY41016619",
-        "position": "G-5",
+        "position": "G-5(invent)",
         "etatcvi": "oui",
         "dateFinCVI": "2024-11-01"
       }
