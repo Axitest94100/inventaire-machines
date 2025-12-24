@@ -7276,12 +7276,12 @@
     "marque": "YOKOGAWA",
     "model": "WT1010",
     "quantite": 1,
-    "emplacement": "K-1",
+    "emplacement": "K-1(invent)",
     "description": "",
     "unites": [
       {
         "numserie": "12WA09531",
-        "position": "K-1",
+        "position": "K-1(invent)",
         "etatcvi": "non",
         "dateFinCVI": null
       }
