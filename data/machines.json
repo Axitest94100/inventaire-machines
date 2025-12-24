@@ -5687,7 +5687,7 @@
     "unites": [
       {
         "numserie": "C010105",
-        "position": "A-2",
+        "position": "A-2(invent)",
         "etatcvi": "non",
         "dateFinCVI": null
       }
@@ -5695,7 +5695,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.396Z",
-    "emplacement": "A-2",
+    "emplacement": "A-2(invent)",
     "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/Eq6cUyI4WeRIrlpA6lN6AnMBo8KhRUykW_ZX996btWNS3g?e=l5RfQa"
   },
   {
