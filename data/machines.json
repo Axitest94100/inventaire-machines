@@ -2666,7 +2666,7 @@
       },
       {
         "numserie": "3310J01596",
-        "position": "C-5",
+        "position": "C-5(invent)",
         "etatcvi": "non",
         "dateFinCVI": null
       }
@@ -2674,7 +2674,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.396Z",
-    "emplacement": "C-2+C-5"
+    "emplacement": "C-2 + C-5(invent)"
   },
   {
     "marque": "HP",
