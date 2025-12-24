@@ -8417,10 +8417,16 @@
   {
     "marque": "TELEDYNE LECROY",
     "model": "PP510",
-    "quantite": 3,
+    "quantite": 4,
     "emplacement": "TABLE DE TRAVAIL(invent)",
     "description": "",
     "unites": [
+      {
+        "numserie": "",
+        "position": "TABLE DE TRAVAIL(invent)",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      },
       {
         "numserie": "",
         "position": "TABLE DE TRAVAIL(invent)",
