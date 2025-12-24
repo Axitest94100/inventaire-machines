@@ -922,7 +922,7 @@
     "unites": [
       {
         "numserie": "CN0115001335",
-        "position": "E-4",
+        "position": "E-4(invent)",
         "etatcvi": "non",
         "dateFinCVI": null
       }
@@ -930,7 +930,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.398Z",
-    "emplacement": "E-4"
+    "emplacement": "E-4(invent)"
   },
   {
     "marque": "AGILENT",
@@ -1913,7 +1913,7 @@
     "unites": [
       {
         "numserie": "I/66068",
-        "position": "E-4",
+        "position": "E-4(invent)",
         "etatcvi": "non",
         "dateFinCVI": null
       }
@@ -1921,7 +1921,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.397Z",
-    "emplacement": "E-4"
+    "emplacement": "E-4(invent)"
   },
   {
     "marque": "ELC",
@@ -1931,7 +1931,7 @@
     "unites": [
       {
         "numserie": "K/24011",
-        "position": "E-4",
+        "position": "E-4(invent)",
         "etatcvi": "non",
         "dateFinCVI": null
       }
@@ -1939,7 +1939,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.397Z",
-    "emplacement": "E-4"
+    "emplacement": "E-4(invent)"
   },
   {
     "marque": "ELC",
