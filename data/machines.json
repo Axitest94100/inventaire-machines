@@ -6099,8 +6099,8 @@
     "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/El8HGtBqa-JHg7nDnek-gUoBSC0Yy5IWrgG4CnfCfXNyFQ?e=uXpsu1",
     "unites": [
       {
-        "numserie": "",
-        "position": "B-3",
+        "numserie": "@",
+        "position": "B-3(invent)",
         "etatcvi": "non",
         "dateFinCVI": null
       }
@@ -6108,7 +6108,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.396Z",
-    "emplacement": "B-3"
+    "emplacement": "B-3(invent)"
   },
   {
     "marque": "TEKTRONIX",
