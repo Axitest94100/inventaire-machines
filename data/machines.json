@@ -2869,7 +2869,7 @@
     "unites": [
       {
         "numserie": "GB38450384",
-        "position": "E-2",
+        "position": "E-2(invent)",
         "etatcvi": "non",
         "dateFinCVI": null
       },
@@ -2883,7 +2883,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.397Z",
-    "emplacement": "E-2+E-3",
+    "emplacement": "E-2(invent) + E-3",
     "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EnjcrzbwJJlMjEm23Qzg_foBBtAtnGu9dgpy11uL_Mskig?e=sy60Iw"
   },
   {
@@ -7400,12 +7400,12 @@
     "marque": "GW INSTEK",
     "model": "GPS-3303",
     "quantite": 1,
-    "emplacement": "E-2",
+    "emplacement": "E-2(invent)",
     "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/Es0T7JHn_01HnRFv5OnyCS0B6C5mj4cE2Bb0swbU1REDZQ?e=JipCMr",
     "unites": [
       {
         "numserie": "C911287",
-        "position": "E-2",
+        "position": "E-2(invent)",
         "etatcvi": "oui",
         "dateFinCVI": "2026-09-01"
       }
@@ -7636,12 +7636,12 @@
     "marque": "MEATEST",
     "model": "M194",
     "quantite": 1,
-    "emplacement": "E-2",
+    "emplacement": "E-2(invent)",
     "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EieOqS63a7dLlk1GhJ1aiWIBLqN8mJvi8hUKjGdGot5jbw?e=V4LMtS",
     "unites": [
       {
         "numserie": "590231",
-        "position": "E-2",
+        "position": "E-2(invent)",
         "etatcvi": "oui",
         "dateFinCVI": "2026-09-01"
       }
@@ -7668,12 +7668,12 @@
     "marque": "TTI",
     "model": "EX752M",
     "quantite": 1,
-    "emplacement": "E-2",
+    "emplacement": "E-2(invent)",
     "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EnOLnSLKe0REgtc9vWYK2oUBfQL2p7LBkmErkMTWKYbmOg?e=KIRg0S",
     "unites": [
       {
         "numserie": "479592",
-        "position": "E-2",
+        "position": "E-2(invent)",
         "etatcvi": "oui",
         "dateFinCVI": "2026-11-01"
       }
