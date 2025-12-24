@@ -5470,7 +5470,7 @@
     "unites": [
       {
         "numserie": "RS485/232",
-        "position": "D-1",
+        "position": "D-1(invent)",
         "etatcvi": "oui",
         "dateFinCVI": "2024-01-01"
       }
@@ -5478,7 +5478,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.397Z",
-    "emplacement": "D-1"
+    "emplacement": "D-1(invent)"
   },
   {
     "marque": "TDK LAMBDA",
