@@ -2432,7 +2432,7 @@
     "unites": [
       {
         "numserie": "EF710056",
-        "position": "H-2",
+        "position": "H-2(invent)",
         "etatcvi": "oui",
         "dateFinCVI": "2026-07-01"
       }
@@ -2440,7 +2440,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.397Z",
-    "emplacement": "H-2"
+    "emplacement": "H-2(invent)"
   },
   {
     "marque": "GW INSTEK",
