@@ -561,7 +561,7 @@
       },
       {
         "numserie": "MY47002075",
-        "position": "E-5",
+        "position": "E-5(invent)",
         "etatcvi": "oui",
         "dateFinCVI": "2026-08-01"
       }
@@ -569,7 +569,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.397Z",
-    "emplacement": "F-5+E-5",
+    "emplacement": "F-5 + E-5 + E-5(invent)",
     "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EiLtnVUZzP5Msqre6KrMqhMBhbV6FPc5he8nVaVijSmczg?e=f5FTwN"
   },
   {
@@ -2912,7 +2912,7 @@
     "unites": [
       {
         "numserie": "US536021390",
-        "position": "E-5",
+        "position": "E-5(invent)",
         "etatcvi": "non",
         "dateFinCVI": null
       },
@@ -2956,7 +2956,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.397Z",
-    "emplacement": "E-5 + E-5(invent)"
+    "emplacement": "E-5(invent) + E-5"
   },
   {
     "marque": "HP",
@@ -4092,7 +4092,7 @@
     "unites": [
       {
         "numserie": "MY52202297",
-        "position": "E-5",
+        "position": "E-5(invent)",
         "etatcvi": "oui",
         "dateFinCVI": "2025-03-01"
       }
@@ -4100,7 +4100,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.397Z",
-    "emplacement": "E-5",
+    "emplacement": "E-5(invent)",
     "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EnE34UgLSyJGubYLeONA674B2ZmPKcU5IG_HoE-J_Ir0OA?e=URchN2"
   },
   {
@@ -4424,14 +4424,14 @@
       {
         "numserie": "7639273",
         "etatcvi": "non",
-        "position": "E-4",
+        "position": "E-4(invent)",
         "dateFinCVI": null
       }
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.397Z",
-    "emplacement": "E-4"
+    "emplacement": "E-4(invent)"
   },
   {
     "marque": "MEGGER",
@@ -4448,20 +4448,20 @@
       {
         "numserie": "1154",
         "etatcvi": "oui",
-        "position": "E-4",
+        "position": "E-4(invent)",
         "dateFinCVI": "2025-10-01"
       },
       {
         "numserie": "1156",
         "etatcvi": "oui",
-        "position": "E-4",
+        "position": "E-4(invent)",
         "dateFinCVI": "2025-10-01"
       }
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.397Z",
-    "emplacement": "E-4(invent) + E-4"
+    "emplacement": "E-4(invent)"
   },
   {
     "marque": "METRIX",
@@ -7384,12 +7384,12 @@
     "marque": "AGILENT",
     "model": "34970A",
     "quantite": 1,
-    "emplacement": "E-5",
+    "emplacement": "E-5(invent)",
     "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/Es0T7JHn_01HnRFv5OnyCS0B6C5mj4cE2Bb0swbU1REDZQ?e=JipCMr",
     "unites": [
       {
         "numserie": "MY41020633",
-        "position": "E-5",
+        "position": "E-5(invent)",
         "etatcvi": "oui",
         "dateFinCVI": "2026-10-01"
       }
@@ -7620,12 +7620,12 @@
     "marque": "WAVETEK",
     "model": "81",
     "quantite": 1,
-    "emplacement": "E-5",
+    "emplacement": "E-5(invent)",
     "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EoOavpaXdHVAt5LuEopzRlwBD_MjGb0jQBw024QvIFUqxA?e=psNAm9",
     "unites": [
       {
         "numserie": "766908",
-        "position": "E-5",
+        "position": "E-5(invent)",
         "etatcvi": "oui",
         "dateFinCVI": "2026-10-01"
       }
