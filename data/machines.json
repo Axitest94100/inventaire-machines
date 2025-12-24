@@ -555,7 +555,7 @@
       },
       {
         "numserie": "MY47006229",
-        "position": "E-5",
+        "position": "E-5(invent)",
         "etatcvi": "oui",
         "dateFinCVI": "2026-08-01"
       },
@@ -569,7 +569,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.397Z",
-    "emplacement": "F-5 + E-5 + E-5(invent)",
+    "emplacement": "F-5 + E-5(invent)",
     "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EiLtnVUZzP5Msqre6KrMqhMBhbV6FPc5he8nVaVijSmczg?e=f5FTwN"
   },
   {
@@ -2918,13 +2918,13 @@
       },
       {
         "numserie": "US36030721",
-        "position": "E-5",
+        "position": "E-5(invent)",
         "etatcvi": "non",
         "dateFinCVI": null
       },
       {
         "numserie": "MY40007366",
-        "position": "E-5",
+        "position": "E-5(invent)",
         "etatcvi": "non",
         "dateFinCVI": null
       },
@@ -2956,7 +2956,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.397Z",
-    "emplacement": "E-5(invent) + E-5"
+    "emplacement": "E-5(invent)"
   },
   {
     "marque": "HP",
@@ -3472,7 +3472,7 @@
     "unites": [
       {
         "numserie": "D33251",
-        "position": "E-5",
+        "position": "E-5(invent)",
         "etatcvi": "non",
         "dateFinCVI": null
       }
@@ -3480,7 +3480,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.397Z",
-    "emplacement": "E-5"
+    "emplacement": "E-5(invent)"
   },
   {
     "marque": "ITECH",
