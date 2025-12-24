@@ -5892,7 +5892,7 @@
     "unites": [
       {
         "numserie": "042Y5G",
-        "position": "A-4",
+        "position": "A-4(invent)",
         "etatcvi": "non",
         "dateFinCVI": null
       },
@@ -5912,7 +5912,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.396Z",
-    "emplacement": "A-4 + A-4(invent)"
+    "emplacement": "A-4(invent) + A-4"
   },
   {
     "marque": "TEKTRONIX",
