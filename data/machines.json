@@ -2377,7 +2377,7 @@
       },
       {
         "numserie": "C70822187",
-        "position": "K-4",
+        "position": "K-4(invent)",
         "etatcvi": "non",
         "dateFinCVI": null
       }
@@ -2385,7 +2385,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.398Z",
-    "emplacement": "K-4",
+    "emplacement": "K-4 + K-4(invent)",
     "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/Er8IjdAPsd9AjKiUnYotEZABbvB3vpqBi2tMPi-C4H1OyA?e=T0KR5B"
   },
   {
@@ -6857,7 +6857,7 @@
     "unites": [
       {
         "numserie": "CARTE MERE",
-        "position": "K-4",
+        "position": "K-4(invent)",
         "etatcvi": "non",
         "dateFinCVI": null
       }
@@ -6865,7 +6865,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.398Z",
-    "emplacement": "K-4"
+    "emplacement": "K-4(invent)"
   },
   {
     "marque": "TELEDYNE LECROY",
