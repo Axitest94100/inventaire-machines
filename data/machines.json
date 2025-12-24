@@ -5754,7 +5754,7 @@
     "unites": [
       {
         "numserie": "C013420",
-        "position": "A-3",
+        "position": "A-3(invent)",
         "etatcvi": "oui",
         "dateFinCVI": "2024-05-27"
       }
@@ -5762,7 +5762,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.396Z",
-    "emplacement": "A-3"
+    "emplacement": "A-3(invent)"
   },
   {
     "marque": "TEKTRONIX",
@@ -5862,7 +5862,7 @@
     "unites": [
       {
         "numserie": "B019546",
-        "position": "A-3",
+        "position": "A-3(invent)",
         "etatcvi": "oui",
         "dateFinCVI": "2025-10-01"
       },
@@ -5882,7 +5882,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.396Z",
-    "emplacement": "A-3"
+    "emplacement": "A-3(invent) + A-3"
   },
   {
     "marque": "TEKTRONIX",
