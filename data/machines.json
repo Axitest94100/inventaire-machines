@@ -4207,7 +4207,7 @@
     "unites": [
       {
         "numserie": "RL001854",
-        "position": "D-1",
+        "position": "D-1(invent)",
         "etatcvi": "non",
         "dateFinCVI": null
       }
@@ -4215,7 +4215,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.397Z",
-    "emplacement": "D-1"
+    "emplacement": "D-1(invent)"
   },
   {
     "marque": "KIKUSUI",
@@ -4243,7 +4243,7 @@
       },
       {
         "numserie": "RL001802",
-        "position": "D-1",
+        "position": "D-1(invent)",
         "etatcvi": "non",
         "dateFinCVI": null
       }
@@ -4251,7 +4251,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.397Z",
-    "emplacement": "D-2+D-1"
+    "emplacement": "D-2 + D-1(invent)"
   },
   {
     "marque": "LAMBDA",
