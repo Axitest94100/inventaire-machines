@@ -2642,7 +2642,7 @@
     "unites": [
       {
         "numserie": "3214J00600",
-        "position": "C-2",
+        "position": "C-2(invent)",
         "etatcvi": "non",
         "dateFinCVI": null
       }
@@ -2650,7 +2650,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.396Z",
-    "emplacement": "C-2"
+    "emplacement": "C-2(invent)"
   },
   {
     "marque": "HP",
