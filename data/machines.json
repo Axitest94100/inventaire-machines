@@ -2660,7 +2660,7 @@
     "unites": [
       {
         "numserie": "2918V00129",
-        "position": "C-2",
+        "position": "C-2(invent)",
         "etatcvi": "non",
         "dateFinCVI": null
       },
@@ -2674,7 +2674,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.396Z",
-    "emplacement": "C-2 + C-5(invent)"
+    "emplacement": "C-2(invent) + C-5(invent)"
   },
   {
     "marque": "HP",
@@ -7759,5 +7759,21 @@
       }
     ],
     "createdAt": "2025-12-24T09:57:27.321Z"
+  },
+  {
+    "marque": "TDK LAMBDA",
+    "model": "GSS10-500-3P400",
+    "quantite": 1,
+    "emplacement": "C-1(invent)",
+    "description": "",
+    "unites": [
+      {
+        "numserie": "LOC-422B354-005",
+        "position": "C-1(invent)",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      }
+    ],
+    "createdAt": "2025-12-24T10:08:13.584Z"
   }
 ]
