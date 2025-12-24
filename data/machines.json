@@ -6414,7 +6414,7 @@
       },
       {
         "numserie": "LCRY0350N10080",
-        "position": "C-4",
+        "position": "C-4(invent)",
         "etatcvi": "oui",
         "dateFinCVI": "2025-01-16"
       }
@@ -6422,7 +6422,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.396Z",
-    "emplacement": "A-4(invent) + C-4",
+    "emplacement": "A-4(invent) + C-4(invent)",
     "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EjkY1XfA2UtNqXcXSmtcSwsBdzxFSIlk67lf2aFoXGLh4g?e=M2tsRh"
   },
   {
@@ -7761,5 +7761,21 @@
       }
     ],
     "createdAt": "2025-12-24T09:55:17.212Z"
+  },
+  {
+    "marque": "agilent",
+    "model": "E5061A-350",
+    "quantite": 1,
+    "emplacement": "C-5(invent)",
+    "description": "",
+    "unites": [
+      {
+        "numserie": "MY44203241",
+        "position": "C-5(invent)",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      }
+    ],
+    "createdAt": "2025-12-24T09:57:27.321Z"
   }
 ]
