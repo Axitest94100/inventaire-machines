@@ -7775,5 +7775,33 @@
       }
     ],
     "createdAt": "2025-12-24T10:08:13.584Z"
+  },
+  {
+    "marque": "TEKTRONIX",
+    "model": "TPP0250",
+    "quantite": 3,
+    "emplacement": "TABLE DE TRAVAIL(invent)",
+    "description": "",
+    "unites": [
+      {
+        "numserie": "",
+        "position": "TABLE DE TRAVAIL(invent)",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      },
+      {
+        "numserie": "",
+        "position": "TABLE DE TRAVAIL(invent)",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      },
+      {
+        "numserie": "",
+        "position": "TABLE DE TRAVAIL(invent)",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      }
+    ],
+    "createdAt": "2025-12-24T11:23:31.020Z"
   }
 ]
