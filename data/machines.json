@@ -8441,5 +8441,27 @@
       }
     ],
     "createdAt": "2025-12-24T11:33:12.874Z"
+  },
+  {
+    "marque": "TELEDYNE LECROY",
+    "model": "PP215",
+    "quantite": 2,
+    "emplacement": "TABLE DE TRAVAIL(invent)",
+    "description": "",
+    "unites": [
+      {
+        "numserie": "",
+        "position": "TABLE DE TRAVAIL(invent)",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      },
+      {
+        "numserie": "",
+        "position": "TABLE DE TRAVAIL(invent)",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      }
+    ],
+    "createdAt": "2025-12-24T11:33:28.696Z"
   }
 ]
