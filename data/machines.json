@@ -735,7 +735,7 @@
     "unites": [
       {
         "numserie": "9001791208",
-        "position": "H-3",
+        "position": "H-3(invent)",
         "etatcvi": "non",
         "dateFinCVI": null
       }
@@ -743,7 +743,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.397Z",
-    "emplacement": "H-3",
+    "emplacement": "H-3(invent)",
     "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/En9s2gBSUYFPqnXkW0DfHq8BnHxfTq_XF7a0qq7l_M1pPg?e=KRS3Ws"
   },
   {
@@ -4503,12 +4503,12 @@
     "marque": "METRIX",
     "model": " ACCESSOIRES OX724-CSD",
     "quantite": 1,
-    "emplacement": "H-3",
+    "emplacement": "H-3(invent)",
     "description": "ACCESSOIRES SANS APPAREIL\nhttps://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EkTZJlg1n4BJs07X_h9K2tcBZlCgLNyqlGfMwQV23KZlgg?e=iIfscw",
     "unites": [
       {
         "numserie": "accessoires",
-        "position": "H-3",
+        "position": "H-3(invent)",
         "etatcvi": "non",
         "dateFinCVI": null
       }
@@ -6958,7 +6958,7 @@
     "unites": [
       {
         "numserie": "ACCESSOIRES",
-        "position": "H-3",
+        "position": "H-3(invent)",
         "etatcvi": "non",
         "dateFinCVI": null
       }
@@ -6966,7 +6966,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.397Z",
-    "emplacement": "H-3"
+    "emplacement": "H-3(invent)"
   },
   {
     "marque": "TTI",
