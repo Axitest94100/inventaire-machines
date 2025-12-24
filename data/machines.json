@@ -12,7 +12,7 @@
       },
       {
         "numserie": "ACCESSOIRES2",
-        "position": "H-3",
+        "position": "H-3(invent)",
         "etatcvi": "non",
         "dateFinCVI": null
       }
@@ -20,7 +20,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.397Z",
-    "emplacement": "H-3"
+    "emplacement": "H-3 + H-3(invent)"
   },
   {
     "marque": "ADDA",
@@ -5144,7 +5144,7 @@
     "unites": [
       {
         "numserie": "ACCESSOIRES",
-        "position": "H-3",
+        "position": "H-3(invent)",
         "etatcvi": "non",
         "dateFinCVI": null
       }
@@ -5152,7 +5152,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.397Z",
-    "emplacement": "H-3",
+    "emplacement": "H-3(invent)",
     "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EjaZmj4kS9dAuhiTjEnyJcoB-kR_kb5kRA0VmYejxi0r-A?e=2K2M2v"
   },
   {
@@ -5259,12 +5259,12 @@
     "marque": "SEFELEC",
     "model": "TE75 sonde",
     "quantite": 1,
-    "emplacement": "H-3",
+    "emplacement": "H-3(invent)",
     "description": "",
     "unites": [
       {
         "numserie": "accessoires",
-        "position": "H-3",
+        "position": "H-3(invent)",
         "etatcvi": "non",
         "dateFinCVI": null
       }
