@@ -6205,7 +6205,7 @@
     "unites": [
       {
         "numserie": "204397",
-        "position": "K-4",
+        "position": "K-4(invent)",
         "etatcvi": "non",
         "dateFinCVI": null
       }
@@ -6213,7 +6213,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.398Z",
-    "emplacement": "K-4"
+    "emplacement": "K-4(invent)"
   },
   {
     "marque": "TEKTRONIX",
