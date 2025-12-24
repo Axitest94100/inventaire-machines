@@ -4990,15 +4990,15 @@
     "createdAt": "2025-07-28T12:25:42.311Z"
   },
   {
-    "marque": "ROHDE & SCHWRZ",
+    "marque": "ROHDE & SCHWARZ",
     "model": "AMIQ",
     "quantite": 1,
-    "emplacement": "K-1",
+    "emplacement": "K-1(invent)",
     "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EmcSWKI9OGJEh_aVisU6bs8B9rUA6fIJbvwD2HpVuNJ2GQ?e=TFVcCx",
     "unites": [
       {
         "numserie": "1110350002",
-        "position": "K-1",
+        "position": "K-1(invent)",
         "etatcvi": "non",
         "dateFinCVI": null
       }
