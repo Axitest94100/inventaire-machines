@@ -8351,5 +8351,33 @@
       }
     ],
     "createdAt": "2025-12-24T11:31:59.497Z"
+  },
+  {
+    "marque": "TELEDYNE LECROY",
+    "model": "PP020",
+    "quantite": 3,
+    "emplacement": "TABLE DE TRAVAIL(invent)",
+    "description": "",
+    "unites": [
+      {
+        "numserie": "",
+        "position": "TABLE DE TRAVAIL(invent)",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      },
+      {
+        "numserie": "",
+        "position": "TABLE DE TRAVAIL(invent)",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      },
+      {
+        "numserie": "",
+        "position": "TABLE DE TRAVAIL(invent)",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      }
+    ],
+    "createdAt": "2025-12-24T11:32:24.787Z"
   }
 ]
