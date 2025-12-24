@@ -2061,7 +2061,7 @@
     "unites": [
       {
         "numserie": "LO710752",
-        "position": "E-4",
+        "position": "E-4(invent)",
         "etatcvi": "non",
         "dateFinCVI": null
       }
@@ -2069,7 +2069,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.397Z",
-    "emplacement": "E-4",
+    "emplacement": "E-4(invent)",
     "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/Enhy7JG8nppJhQv54Q-LR8IB7h1HgZmBoEnRiWijmss9Pw?e=urcdk3"
   },
   {
@@ -4442,7 +4442,7 @@
       {
         "numserie": "1160",
         "etatcvi": "oui",
-        "position": "E-4",
+        "position": "E-4(invent)",
         "dateFinCVI": "2025-10-01"
       },
       {
@@ -4461,7 +4461,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.397Z",
-    "emplacement": "E-4"
+    "emplacement": "E-4(invent) + E-4"
   },
   {
     "marque": "METRIX",
@@ -7528,12 +7528,12 @@
     "marque": "FLUKE",
     "model": "PM5139",
     "quantite": 1,
-    "emplacement": "E-4",
+    "emplacement": "E-4(invent)",
     "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/ElxrYforVfBIipYSQTQgIeMBgY9StaLbIGMbpoItx9nzbQ?e=KO5DPg",
     "unites": [
       {
         "numserie": "944505139021",
-        "position": "E-4",
+        "position": "E-4(invent)",
         "etatcvi": "non",
         "dateFinCVI": null
       }
