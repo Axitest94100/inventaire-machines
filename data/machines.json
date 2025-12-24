@@ -2413,7 +2413,7 @@
     "unites": [
       {
         "numserie": "GEY180038",
-        "position": "H-2",
+        "position": "H-2(invent)",
         "etatcvi": "non",
         "dateFinCVI": null
       }
@@ -2421,7 +2421,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.397Z",
-    "emplacement": "H-2",
+    "emplacement": "H-2(invent)",
     "description": "PRET A MENOVA LE 02/10/2025\nhttps://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/El0-6J-mSftEkRX33Y5uUBQButXMz-XC4vMZTehqaDnR1A?e=1soS00\n"
   },
   {
@@ -7560,7 +7560,7 @@
     "marque": "HP",
     "model": "6642A",
     "quantite": 3,
-    "emplacement": "H-1(invent) + H-2",
+    "emplacement": "H-1(invent) + H-2(invent)",
     "description": "",
     "unites": [
       {
@@ -7577,7 +7577,7 @@
       },
       {
         "numserie": "3518A01234",
-        "position": "H-2",
+        "position": "H-2(invent)",
         "etatcvi": "non",
         "dateFinCVI": null
       }
