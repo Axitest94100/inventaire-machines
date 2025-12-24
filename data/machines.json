@@ -2079,7 +2079,7 @@
     "unites": [
       {
         "numserie": "647699",
-        "position": "F-3",
+        "position": "F-3(invent)",
         "etatcvi": "non",
         "dateFinCVI": null
       },
@@ -2093,7 +2093,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.397Z",
-    "emplacement": "F-3+F-4",
+    "emplacement": "F-3(invent) + F-4",
     "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EohC8ErRcfBFhNw8RgbflM8BmG54v6X41s9LTE9bSLuQhw?e=iS2Frw"
   },
   {
