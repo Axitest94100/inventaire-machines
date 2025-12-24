@@ -2737,7 +2737,7 @@
     "unites": [
       {
         "numserie": "2804A01818",
-        "position": "D-3",
+        "position": "D-3(invent)",
         "etatcvi": "oui",
         "dateFinCVI": "2023-10-01"
       }
@@ -2745,7 +2745,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.397Z",
-    "emplacement": "D-3",
+    "emplacement": "D-3(invent)",
     "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EtSXjenvfmBApS7S3C7KOHMB9LqTmKH0hD9pDFaA7kyQTQ?e=ovA45T"
   },
   {
@@ -2756,7 +2756,7 @@
     "unites": [
       {
         "numserie": "US37370767",
-        "position": "D-3",
+        "position": "D-3(invent)",
         "etatcvi": "oui",
         "dateFinCVI": "2023-10-01"
       }
@@ -2764,7 +2764,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.397Z",
-    "emplacement": "D-3"
+    "emplacement": "D-3(invent)"
   },
   {
     "marque": "HP",
@@ -2774,19 +2774,19 @@
     "unites": [
       {
         "numserie": "KR30703058",
-        "position": "D-3",
+        "position": "D-3(invent)",
         "etatcvi": "non",
         "dateFinCVI": null
       },
       {
         "numserie": "KR51303473",
-        "position": "D-3",
+        "position": "D-3(invent)",
         "etatcvi": "non",
         "dateFinCVI": null
       },
       {
         "numserie": "KR51303476",
-        "position": "D-3",
+        "position": "D-3(invent)",
         "etatcvi": "non",
         "dateFinCVI": null
       }
@@ -2794,7 +2794,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.397Z",
-    "emplacement": "D-3"
+    "emplacement": "D-3(invent)"
   },
   {
     "marque": "HP",
@@ -5366,7 +5366,7 @@
       },
       {
         "numserie": "1211A02282",
-        "position": "D-3",
+        "position": "D-3(invent)",
         "etatcvi": "non",
         "dateFinCVI": null
       }
@@ -5374,7 +5374,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.397Z",
-    "emplacement": "D-5+D-3"
+    "emplacement": "D-5 + D-3(invent)"
   },
   {
     "marque": "SRS",
@@ -6153,7 +6153,7 @@
     "unites": [
       {
         "numserie": "205992",
-        "position": "D-4",
+        "position": "D-4(invent)",
         "etatcvi": "non",
         "dateFinCVI": null
       }
@@ -6161,7 +6161,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.397Z",
-    "emplacement": "D-4"
+    "emplacement": "D-4(invent)"
   },
   {
     "marque": "TEKTRONIX",
@@ -7544,12 +7544,12 @@
     "marque": "XANTREX",
     "model": "XFR 600-4",
     "quantite": 1,
-    "emplacement": "D-3",
+    "emplacement": "D-3(invent)",
     "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/Err3IpZRQlZOrMGOy1EJLboBAMGv7iCxFJZ0aNR5lxvtbQ?e=V9VLiH",
     "unites": [
       {
         "numserie": "E00141043",
-        "position": "D-3",
+        "position": "D-3(invent)",
         "etatcvi": "non",
         "dateFinCVI": null
       }
