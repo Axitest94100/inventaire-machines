@@ -1819,7 +1819,7 @@
       },
       {
         "numserie": "2621790070",
-        "position": "C-3",
+        "position": "C-3(invent)",
         "etatcvi": "oui",
         "dateFinCVI": "2024-10-03"
       },
@@ -1833,7 +1833,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.396Z",
-    "emplacement": "C-3(invent) + C-3"
+    "emplacement": "C-3(invent)"
   },
   {
     "marque": "EA",
@@ -4790,7 +4790,7 @@
     "unites": [
       {
         "numserie": "259012",
-        "position": "C-3",
+        "position": "C-3(invent)",
         "etatcvi": "oui",
         "dateFinCVI": "2023-10-06"
       }
@@ -4798,7 +4798,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.396Z",
-    "emplacement": "C-3",
+    "emplacement": "C-3(invent)",
     "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EnH-eH-omghDnv4h-zw47dABtm3A30d27Ou8su3VMKnKYA?e=I7emJA"
   },
   {
