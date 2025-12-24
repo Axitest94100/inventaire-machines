@@ -627,7 +627,7 @@
       },
       {
         "numserie": "MY52110026",
-        "position": "G-3",
+        "position": "G-3(invent)",
         "etatcvi": "oui",
         "dateFinCVI": "2025-05-01"
       },
@@ -641,7 +641,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.397Z",
-    "emplacement": "G-3",
+    "emplacement": "G-3 + G-3(invent)",
     "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/Euao3lxNiqtJieBx3zDJqqMB4wVpQapVGXyeO_2XdqEIbA?e=UL0Xrj"
   },
   {
@@ -2121,7 +2121,7 @@
     "unites": [
       {
         "numserie": "944606569016",
-        "position": "G-2",
+        "position": "G-2(invent)",
         "etatcvi": "non",
         "dateFinCVI": null
       }
@@ -2129,7 +2129,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.397Z",
-    "emplacement": "G-2",
+    "emplacement": "G-2(invent)",
     "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EsT5fjeobmNEkj4y9nz-0UcBVuLQPMxihW4KF_9Y49Id7Q?e=PtcBgd"
   },
   {
@@ -2334,12 +2334,12 @@
     "marque": "FLUKE",
     "model": "190-204",
     "quantite": 1,
-    "emplacement": "G-3",
+    "emplacement": "G-3(invent)",
     "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EiGJdm7VEX1LrcM6b65EhkkB3sbpak6vZzOTjHR-Olceaw?e=d01cGe\nACCESSOIRES FOURNIS AVEC: \n-1 CHARGEUR/ \n-1 CABLE USB VERS MICRO USB/ \n-2 CROCHETS/ \n-1 SANGLE/ \n-4 CABLES NOIRS (CROCO VERS MINI BANANE)/ \n-4 POINTES TEST(ROUGE/GRIS/VERT/BLEU)/ \n-1 MODE EMPLOI/ \n-1 CD/",
     "unites": [
       {
         "numserie": "22652814",
-        "position": "G-3",
+        "position": "G-3(invent)",
         "etatcvi": "oui",
         "dateFinCVI": "2026-07-01"
       }
@@ -4332,7 +4332,7 @@
     "unites": [
       {
         "numserie": "L281016",
-        "position": "G-3",
+        "position": "G-3(invent)",
         "etatcvi": "non",
         "dateFinCVI": null
       }
@@ -4340,7 +4340,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.397Z",
-    "emplacement": "G-3",
+    "emplacement": "G-3(invent)",
     "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/ElmzhNlWAgtCj8vNCxrS8z0BrdCk01upzF6D8vc4-frrnA?e=fgKcjo"
   },
   {
@@ -4386,7 +4386,7 @@
     "unites": [
       {
         "numserie": "187286/075",
-        "position": "G-2",
+        "position": "G-2(invent)",
         "etatcvi": "non",
         "dateFinCVI": null
       }
@@ -4394,7 +4394,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.397Z",
-    "emplacement": "G-2",
+    "emplacement": "G-2(invent)",
     "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/Eq5wtWoupItLi-5G4K6jiT4B1n5ZA8SdZQgPfTrqycKSDw?e=eDKF1v"
   },
   {
@@ -6923,7 +6923,7 @@
     "unites": [
       {
         "numserie": "20163900",
-        "position": "G-3",
+        "position": "G-3(invent)",
         "etatcvi": "non",
         "dateFinCVI": null
       }
@@ -6931,7 +6931,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.397Z",
-    "emplacement": "G-3"
+    "emplacement": "G-3(invent)"
   },
   {
     "marque": "THURLBY",
@@ -7346,19 +7346,19 @@
     "marque": "AEROFLEX",
     "model": "3550R",
     "quantite": 2,
-    "emplacement": "G-3",
+    "emplacement": "G-3(invent)",
     "description": "OPTION POUR LE 1000579798 :\n- OPT001 CHANNEL ANALYZER\n- OPT002 OSCILLOSCOPE\n- OPT008 TRACKING GEN\n- OPT034 DMR\nOPTION POUR LE 1000657026 :\n-OPT001 CHANNEL ANALYZER\n-OPT002 OSCILLOSCOPE\n-OPT007 P25\n-OPT008 TRACKING GEN\n-OPT033 NXDN\n-OPT034 DMR\n\nAPPAREIL SANS BATTERIE POUR LE 1000657026\nhttps://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EkHlRqQuh4NCl4kaBHd-lTUB3PMI9u2ebFMg-0e7j-vXjQ?e=TVMyuR",
     "unites": [
       {
         "numserie": "1000579798",
         "etatcvi": "oui",
-        "position": "G-3",
+        "position": "G-3(invent)",
         "dateFinCVI": "2026-06-01"
       },
       {
         "numserie": "1000657026",
         "etatcvi": "oui",
-        "position": "G-3",
+        "position": "G-3(invent)",
         "dateFinCVI": "2026-04-01"
       }
     ],
