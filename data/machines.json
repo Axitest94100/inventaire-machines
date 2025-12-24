@@ -333,7 +333,7 @@
       },
       {
         "numserie": "MY43000957",
-        "position": "D-4",
+        "position": "D-4(invent)",
         "etatcvi": "non",
         "dateFinCVI": null
       },
@@ -345,7 +345,7 @@
       },
       {
         "numserie": "MY53000971",
-        "position": "D-4",
+        "position": "D-4(invent)",
         "etatcvi": "non",
         "dateFinCVI": null
       }
@@ -353,7 +353,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.397Z",
-    "emplacement": "D-4(invent) + D-4",
+    "emplacement": "D-4(invent)",
     "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/Ep4rIn9LKmtKujt0bydulPgBwwpLpjh0--5iG8069oKE-A?e=GBbWda"
   },
   {
@@ -2019,32 +2019,32 @@
     "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/Etr0zzoG6wdMvrzQHa6486IBhyuDXKzSHVFuwbeiD33Wdw?e=PF8t2d",
     "unites": [
       {
-        "numserie": "",
-        "position": "D-4",
+        "numserie": "@",
+        "position": "D-4(invent)",
         "etatcvi": "non",
         "dateFinCVI": null
       },
       {
-        "numserie": "",
-        "position": "D-4",
+        "numserie": "@1",
+        "position": "D-4(invent)",
         "etatcvi": "non",
         "dateFinCVI": null
       },
       {
-        "numserie": "",
-        "position": "D-4",
+        "numserie": "@2",
+        "position": "D-4(invent)",
         "etatcvi": "non",
         "dateFinCVI": null
       },
       {
-        "numserie": "",
-        "position": "D-4",
+        "numserie": "@3",
+        "position": "D-4(invent)",
         "etatcvi": "non",
         "dateFinCVI": null
       },
       {
-        "numserie": "",
-        "position": "D-4",
+        "numserie": "@4",
+        "position": "D-4(invent)",
         "etatcvi": "non",
         "dateFinCVI": null
       }
@@ -2052,7 +2052,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.397Z",
-    "emplacement": "D-4"
+    "emplacement": "D-4(invent)"
   },
   {
     "marque": "FLUKE",
