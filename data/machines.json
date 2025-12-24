@@ -8201,5 +8201,27 @@
       }
     ],
     "createdAt": "2025-12-24T11:28:47.352Z"
+  },
+  {
+    "marque": "TEKTRONIX",
+    "model": "P6106A",
+    "quantite": 2,
+    "emplacement": "TABLE DE TRAVAIL(invent)",
+    "description": "",
+    "unites": [
+      {
+        "numserie": "",
+        "position": "TABLE DE TRAVAIL(invent)",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      },
+      {
+        "numserie": "",
+        "position": "TABLE DE TRAVAIL(invent)",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      }
+    ],
+    "createdAt": "2025-12-24T11:29:03.647Z"
   }
 ]
