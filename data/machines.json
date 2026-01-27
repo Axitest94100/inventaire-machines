@@ -737,7 +737,7 @@
     "unites": [
       {
         "numserie": "US44300449",
-        "position": "B-2",
+        "position": "B-2 (CHEZ MENOVA DEPUIS LE274/01/2026)",
         "etatcvi": "oui",
         "dateFinCVI": "2026-12-01"
       }
@@ -745,7 +745,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2026-01-27T13:38:33.855Z",
-    "emplacement": "B-2"
+    "emplacement": "B-2 (CHEZ MENOVA DEPUIS LE274/01/2026)"
   },
   {
     "marque": "AGILENT",
@@ -2661,7 +2661,7 @@
     "unites": [
       {
         "numserie": "3423A03644",
-        "position": "C-3",
+        "position": "C-3 (CHEZ MENOVA DEPUIS LE 27/01/2026)",
         "etatcvi": "non",
         "dateFinCVI": null
       }
@@ -2669,7 +2669,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2026-01-27T13:38:33.856Z",
-    "emplacement": "C-3"
+    "emplacement": "C-3 (CHEZ MENOVA DEPUIS LE 27/01/2026)"
   },
   {
     "marque": "HP",
