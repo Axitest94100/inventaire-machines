@@ -277,7 +277,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.397Z",
-    "emplacement": "D-4(invent) + H-1(invent)"
+    "emplacement": "D-4(invent)+H-1(invent)"
   },
   {
     "marque": "AGILENT",
@@ -486,7 +486,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.397Z",
-    "emplacement": "F-3(invent) + F-5(invent)",
+    "emplacement": "F-3(invent)+F-5(invent)",
     "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EueReOpYiJVPp5oZ2YJkJTsBRqpBnizY4GgOpa9AkSPHjQ?e=4fGY55"
   },
   {
@@ -552,7 +552,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.397Z",
-    "emplacement": "F-5(invent) + E-5(invent)",
+    "emplacement": "F-5(invent)+E-5(invent)",
     "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EiLtnVUZzP5Msqre6KrMqhMBhbV6FPc5he8nVaVijSmczg?e=f5FTwN"
   },
   {
@@ -594,7 +594,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.397Z",
-    "emplacement": "F-5 (07/10/2025 (EN PANNE CHEZ ASERTI)) + F-5(invent)",
+    "emplacement": "F-5 (07/10/2025 (EN PANNE CHEZ ASERTI))+F-5(invent)",
     "description": "MY45048857= OPT001\n2823A01207= SANS OPT ASERTI 07/10/2025 (EN PANNE CHEZ ASERTI)\n\nhttps://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EmmIzYWcr8dFvvk_v2OvmQkBPkUGEq0Nb8NW37UE5W905Q?e=WPicla"
   },
   {
@@ -624,7 +624,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.397Z",
-    "emplacement": "G-3 + G-3(invent)",
+    "emplacement": "G-3+G-3(invent)",
     "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/Euao3lxNiqtJieBx3zDJqqMB4wVpQapVGXyeO_2XdqEIbA?e=UL0Xrj"
   },
   {
@@ -1575,7 +1575,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.397Z",
-    "emplacement": "J-4 + I-1 + J-4(invent) + I-1 (invent) + I-1(invent) + J-4 (invent) + K-5 (EN LOCATION POUR CHANTIERS ATLANTIQUE DU 10/12/2025 AU 17/12/2025)",
+    "emplacement": "J-4+I-1+J-4(invent)+I-1 (invent)+I-1(invent)+J-4 (invent)+K-5 (EN LOCATION POUR CHANTIERS ATLANTIQUE DU 10/12/2025 AU 17/12/2025)",
     "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EpCznoBjFOZJnSdllLODe-8ByVyoyCE1HCy9wvxa4FEOAg?e=xcSLCC"
   },
   {
@@ -1731,7 +1731,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.398Z",
-    "emplacement": "M-2(invent) + M-2",
+    "emplacement": "M-2(invent)+M-2",
     "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EkILrX6bz91ErOSjs-I4cLYB85gQgBOnF4kxHAGsOTPfuQ?e=GTIuZK"
   },
   {
@@ -2244,7 +2244,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.398Z",
-    "emplacement": "J-4 (LOCATION CHEZ AGILE DU 15/12/2025 AU 22/12/2025) + J-4 (invent)",
+    "emplacement": "J-4 (LOCATION CHEZ AGILE DU 15/12/2025 AU 22/12/2025)+J-4 (invent)",
     "description": "-19385063/19360763 EN LOCATION POUR MEDEKOM CONSULTING (DU 05/11/2025 AU XX/XX/2025) PROLONGATION INCONNUE\n\n-20263009/19500016 EN LOCATION POUR AGILE (DU 27/11/2025 AU 02/12/2025)\n\n\nhttps://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EnvkZSiEkXdNnMs8SFs1BiABRF-lD4J-2giJUCF5FvJN5w?e=bGlDWr"
   },
   {
@@ -2453,7 +2453,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.397Z",
-    "emplacement": "I-2(invent) + J-1(invent)"
+    "emplacement": "I-2(invent)+J-1(invent)"
   },
   {
     "marque": "GW INSTEK",
@@ -2513,7 +2513,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.398Z",
-    "emplacement": "I-4(invent) + I-4"
+    "emplacement": "I-4(invent)+I-4"
   },
   {
     "marque": "HAMEG",
@@ -2806,7 +2806,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.397Z",
-    "emplacement": "D-5 + H-1(invent)",
+    "emplacement": "D-5+H-1(invent)",
     "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EmJwCFwNSQlHnuR-1fAYIt4BEdMVrKJph_fv7NhMe9ykVQ?e=euJznf"
   },
   {
@@ -3202,7 +3202,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.397Z",
-    "emplacement": "I-3(invent) + H-3(invent)",
+    "emplacement": "I-3(invent)+H-3(invent)",
     "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EnRdZJkOio5JiVu0YtGB_g4B41qfxgOoYMtbRCdxv_0Mow?e=rfkCCX"
   },
   {
@@ -3280,7 +3280,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.398Z",
-    "emplacement": "EXP(invent) + K-4 CHEZ MENOVA DEPUIS 09/12/2025",
+    "emplacement": "EXP(invent)+K-4 CHEZ MENOVA DEPUIS 09/12/2025",
     "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/ElC_zKp5HkRAu8lrZUTF4bEB2NuRHpfFNrL5xdxNWgUcfw?e=RJVdUw"
   },
   {
@@ -3601,7 +3601,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.397Z",
-    "emplacement": "E-3(invent) + E-4(invent) + F-5(invent) + F-4(invent)"
+    "emplacement": "E-3(invent)+E-4(invent)+F-5(invent)+F-4(invent)"
   },
   {
     "marque": "KEITHLEY",
@@ -3690,7 +3690,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.397Z",
-    "emplacement": "F-4 + F-4(invent) + F-3(invent)",
+    "emplacement": "F-4+F-4(invent)+F-3(invent)",
     "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/Eg9zZ1yLz8tNmt0tscTbSvEBWS6XPV7x62HCg66Gvfn76w?e=kDo4Ko"
   },
   {
@@ -3756,7 +3756,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.397Z",
-    "emplacement": "F-5(invent) + F-4(invent)",
+    "emplacement": "F-5(invent)+F-4(invent)",
     "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/Eh5bKTh18ZJPmD_ZqPlT1MwBHmUDSAQI8KpdmfKn4wlRDg?e=PJucmn"
   },
   {
@@ -3911,7 +3911,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.397Z",
-    "emplacement": "G-5 CHEZ MENOVA 23/07/2025 CLIENT SERMA + G-5(invent)",
+    "emplacement": "G-5 CHEZ MENOVA 23/07/2025 CLIENT SERMA+G-5(invent)",
     "description": "0904415 : CHEZ MENOVA 23/07/2025 CLIENT SERMA\nhttps://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EpQN76SomvJHmMNMmmMZqSwBNuJLRZPZhY3rDR8nQjo8NA?e=TzngWC"
   },
   {
@@ -4149,7 +4149,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.397Z",
-    "emplacement": "F-5(invent) + I-3(invent)",
+    "emplacement": "F-5(invent)+I-3(invent)",
     "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/Es6XvwntU6BMsmZ8qTle924BDpuZe9YKh6kkPsgFUgrn7A?e=xHnwor"
   },
   {
@@ -4728,7 +4728,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.397Z",
-    "emplacement": "I-2(invent) + I-1(invent)"
+    "emplacement": "I-2(invent)+I-1(invent)"
   },
   {
     "marque": "ROHDE & SCHWARZ",
@@ -4751,7 +4751,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2025-06-26T15:17:33.396Z",
-    "emplacement": "I-3(invent) + DANS UN CARTON  EN FACE ALLEE B",
+    "emplacement": "I-3(invent)+DANS UN CARTON  EN FACE ALLEE B",
     "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/En_9gijA--RNmUgaRBKMRU4BQYrpInkV4lhvKvB7MHeBuA?e=9tpRkL"
   },
   {
@@ -7502,7 +7502,7 @@
     "marque": "HP",
     "model": "6642A",
     "quantite": 3,
-    "emplacement": "H-1(invent) + H-2(invent)",
+    "emplacement": "H-1(invent)+H-2(invent)",
     "description": "",
     "unites": [
       {
@@ -7669,22 +7669,6 @@
       }
     ],
     "createdAt": "2025-12-16T15:47:57.466Z"
-  },
-  {
-    "marque": "HP",
-    "model": "85056A",
-    "quantite": 1,
-    "emplacement": "C-5(invent)",
-    "description": "",
-    "unites": [
-      {
-        "numserie": "2729A03660",
-        "position": "C-5(invent)",
-        "etatcvi": "non",
-        "dateFinCVI": null
-      }
-    ],
-    "createdAt": "2025-12-24T09:55:17.212Z"
   },
   {
     "marque": "agilent",
