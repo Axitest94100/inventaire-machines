@@ -9357,5 +9357,21 @@
     "dateFinCVI": null,
     "createdAt": "2026-01-27T13:38:33.857Z",
     "emplacement": "M-4"
+  },
+  {
+    "marque": "ROHDE & SCHWARZ",
+    "model": "NGE100",
+    "quantite": 1,
+    "emplacement": "M-4",
+    "description": "ACCESSOIRES :\n1-\tCABLE D’ALIM\n2-\tBORNIER VERT\n3-\t2x FUSIBLES\n\nhttps://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/IgCTPjXkRqZfTLqpHE4nOKrtAflwN9F3CdkyPcyK0hmBqnE?e=aX8f30",
+    "unites": [
+      {
+        "numserie": "112752",
+        "position": "M-4",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      }
+    ],
+    "createdAt": "2026-01-28T15:58:24.353Z"
   }
 ]
