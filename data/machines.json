@@ -4791,7 +4791,7 @@
   {
     "marque": "ROHDE & SCHWARZ",
     "model": "SME03",
-    "quantite": 1,
+    "quantite": 2,
     "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EklMOu9wULVPhrVmEdZ_XyYB2LyatzakGKAwmWWz8kGFJg?e=NmD6tk",
     "unites": [
       {
@@ -4799,6 +4799,12 @@
         "position": "J-2",
         "etatcvi": "oui",
         "dateFinCVI": "2025-01-01"
+      },
+      {
+        "numserie": "844425/028",
+        "position": "J-2",
+        "etatcvi": "oui",
+        "dateFinCVI": "2027-01-01"
       }
     ],
     "etatcvi": "non",
