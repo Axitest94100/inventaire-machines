@@ -2241,7 +2241,7 @@
       },
       {
         "numserie": "19385063/19360763",
-        "position": "J-4 ",
+        "position": "J-3",
         "etatcvi": "oui",
         "dateFinCVI": "2026-05-01"
       }
@@ -2249,7 +2249,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2026-01-27T13:38:33.855Z",
-    "emplacement": "J-4 (EN ATTENTE DE CALIBRATION )+J-4"
+    "emplacement": "J-4 (EN ATTENTE DE CALIBRATION ) + J-3"
   },
   {
     "marque": "FLUKE",
