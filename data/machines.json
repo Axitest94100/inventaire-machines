@@ -2249,7 +2249,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2026-01-27T13:38:33.855Z",
-    "emplacement": "J-4 (EN ATTENTE DE CALIBRATION ) + J-4"
+    "emplacement": "J-4 (EN ATTENTE DE CALIBRATION )+J-4"
   },
   {
     "marque": "FLUKE",
@@ -3165,15 +3165,15 @@
     "unites": [
       {
         "numserie": "2841A00135",
-        "position": "I-2",
-        "etatcvi": "non",
-        "dateFinCVI": null
+        "position": "I-1",
+        "etatcvi": "oui",
+        "dateFinCVI": "2027-01-01"
       }
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2026-01-27T13:38:33.856Z",
-    "emplacement": "I-2"
+    "emplacement": "I-1"
   },
   {
     "marque": "HP",
@@ -9363,7 +9363,7 @@
     "model": "NGE100",
     "quantite": 1,
     "emplacement": "M-4",
-    "description": "ACCESSOIRES :\n1-\tCABLE D’ALIM\n2-\tBORNIER VERT\n3-\t2x FUSIBLES\n\nhttps://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/IgCTPjXkRqZfTLqpHE4nOKrtAflwN9F3CdkyPcyK0hmBqnE?e=aX8f30",
+    "description": "ACCESSOIRES :\n1-\tCABLE DâALIM\n2-\tBORNIER VERT\n3-\t2x FUSIBLES\n\nhttps://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/IgCTPjXkRqZfTLqpHE4nOKrtAflwN9F3CdkyPcyK0hmBqnE?e=aX8f30",
     "unites": [
       {
         "numserie": "112752",
@@ -9373,5 +9373,21 @@
       }
     ],
     "createdAt": "2026-01-28T15:58:24.353Z"
+  },
+  {
+    "marque": "AGILENT",
+    "model": "34901A",
+    "quantite": 1,
+    "emplacement": "G-5",
+    "description": "",
+    "unites": [
+      {
+        "numserie": "US37001212",
+        "position": "G-5",
+        "etatcvi": "oui",
+        "dateFinCVI": "2027-01-01"
+      }
+    ],
+    "createdAt": "2026-01-29T08:25:07.067Z"
   }
 ]
