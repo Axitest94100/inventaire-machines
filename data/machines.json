@@ -2249,7 +2249,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2026-01-27T13:38:33.855Z",
-    "emplacement": "J-4 (EN ATTENTE DE CALIBRATION ) + J-3"
+    "emplacement": "J-4 (EN ATTENTE DE CALIBRATION )+J-3"
   },
   {
     "marque": "FLUKE",
@@ -9369,7 +9369,7 @@
     "model": "NGE100",
     "quantite": 1,
     "emplacement": "M-4",
-    "description": "ACCESSOIRES :\n1-\tCABLE DâALIM\n2-\tBORNIER VERT\n3-\t2x FUSIBLES\n\nhttps://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/IgCTPjXkRqZfTLqpHE4nOKrtAflwN9F3CdkyPcyK0hmBqnE?e=aX8f30",
+    "description": "ACCESSOIRES :\n1-\tCABLE D'ALIM\n2-\tBORNIER VERT\n3-\t2x FUSIBLES\n\nhttps://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/IgCTPjXkRqZfTLqpHE4nOKrtAflwN9F3CdkyPcyK0hmBqnE?e=aX8f30",
     "unites": [
       {
         "numserie": "112752",
@@ -9385,7 +9385,7 @@
     "model": "34901A",
     "quantite": 1,
     "emplacement": "G-5",
-    "description": "",
+    "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EtId3frgaT5DhkdIl9uROasBVKMAt2J1uNTVfK_5FdrA8A?e=HAZpw9",
     "unites": [
       {
         "numserie": "US37001212",
