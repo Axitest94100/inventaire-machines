@@ -1650,11 +1650,11 @@
     "marque": "FLUKE",
     "model": "DSX8000",
     "quantite": 1,
-    "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/Eh-GHMAdnrBOohansdABaNUBXsdasJpCLAKp47iiJtMkoQ?e=ZqgUui",
+    "description": "LOCATION OLYRAN SAS DU 02/02/2026 AU 09/02/2026\nhttps://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/Eh-GHMAdnrBOohansdABaNUBXsdasJpCLAKp47iiJtMkoQ?e=ZqgUui",
     "unites": [
       {
         "numserie": "1735360/1746409 + 17370376/1746336",
-        "position": "J-4 ",
+        "position": "J-4 (LOCATION OLYRAN SAS DU 02/02/2026 AU 09/02/2026)",
         "etatcvi": "oui",
         "dateFinCVI": "2026-01-31"
       }
@@ -1662,7 +1662,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2026-01-27T13:38:33.855Z",
-    "emplacement": "J-4"
+    "emplacement": "J-4 (LOCATION OLYRAN SAS DU 02/02/2026 AU 09/02/2026)"
   },
   {
     "marque": "CHROMA",
