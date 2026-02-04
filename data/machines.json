@@ -4573,24 +4573,6 @@
     "emplacement": "D-4"
   },
   {
-    "marque": "NORTH ATLANTIC",
-    "model": "5300",
-    "quantite": 1,
-    "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EmKj0kFDOI5BqYFm22Sb4lcBuljyI1DjPk4V3se9ll-Sdg?e=bCeMcK",
-    "unites": [
-      {
-        "numserie": "83462",
-        "position": "I-4 ",
-        "etatcvi": "non",
-        "dateFinCVI": null
-      }
-    ],
-    "etatcvi": "non",
-    "dateFinCVI": null,
-    "createdAt": "2026-01-27T13:38:33.856Z",
-    "emplacement": "I-4"
-  },
-  {
     "marque": "PHILIPPS",
     "model": "PM2813",
     "quantite": 2,
