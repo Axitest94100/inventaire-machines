@@ -6952,7 +6952,7 @@
     "emplacement": "G-3"
   },
   {
-    "marque": "VXI",
+    "marque": "RACAL",
     "model": "1260-13",
     "quantite": 1,
     "unites": [
@@ -6966,7 +6966,8 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2026-01-27T13:38:33.857Z",
-    "emplacement": "G-4"
+    "emplacement": "G-4",
+    "description": ""
   },
   {
     "marque": "WANDEL & GOLTERMANN",
