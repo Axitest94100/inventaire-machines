@@ -9400,12 +9400,12 @@
     "marque": "NATIONAL INSTRUMENT",
     "model": "PXI-5402",
     "quantite": 1,
-    "emplacement": "G-5",
-    "description": "",
+    "emplacement": "G-5 (chez menova depuis 04/02/2026)",
+    "description": "chez menova depuis 04/02/2026\n",
     "unites": [
       {
         "numserie": "E852F5",
-        "position": "G-5",
+        "position": "G-5 (chez menova depuis 04/02/2026)",
         "etatcvi": "non",
         "dateFinCVI": null
       }
