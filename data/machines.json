@@ -6602,15 +6602,9 @@
   },
   {
     "marque": "TELEDYNE LECROY",
-    "model": "W54104HB",
-    "quantite": 2,
+    "model": "WS 4104HB",
+    "quantite": 1,
     "unites": [
-      {
-        "numserie": "",
-        "position": "B-4",
-        "etatcvi": "non",
-        "dateFinCVI": null
-      },
       {
         "numserie": "@",
         "position": "B-4",
@@ -6621,7 +6615,8 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2026-01-27T13:38:33.857Z",
-    "emplacement": "B-4"
+    "emplacement": "B-4",
+    "description": ""
   },
   {
     "marque": "TELEDYNE LECROY",
