@@ -6016,23 +6016,6 @@
   },
   {
     "marque": "TEKTRONIX",
-    "model": "AWG7",
-    "quantite": 1,
-    "unites": [
-      {
-        "numserie": "54254",
-        "position": "B-3",
-        "etatcvi": "non",
-        "dateFinCVI": null
-      }
-    ],
-    "etatcvi": "non",
-    "dateFinCVI": null,
-    "createdAt": "2026-01-27T13:38:33.856Z",
-    "emplacement": "B-3"
-  },
-  {
-    "marque": "TEKTRONIX",
     "model": "MDO3AFG(OPTION)",
     "quantite": 1,
     "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EkR4tNjgas5MvPUJFmGZM9kBD4VXMB0nzihjlBtQRKqS1w?e=IgqHnp",
