@@ -7289,7 +7289,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2026-01-27T13:38:33.857Z",
-    "emplacement": "G-3 + G-3 (CHEZ MENOVA DEPUIS 05/02/2026--------CLIENT: syrade)"
+    "emplacement": "G-3+G-3 (CHEZ MENOVA DEPUIS 05/02/2026--------CLIENT: syrade)"
   },
   {
     "marque": "AOIP",
@@ -9237,7 +9237,7 @@
   },
   {
     "marque": "GW INSTEK",
-    "model": "APS5050E",
+    "model": "APS7050E",
     "quantite": 1,
     "description": "",
     "unites": [
