@@ -7281,7 +7281,7 @@
       },
       {
         "numserie": "1000657026",
-        "position": "G-3",
+        "position": "G-3 (CHEZ MENOVA DEPUIS 05/02/2026--------CLIENT: syrade)",
         "etatcvi": "oui",
         "dateFinCVI": "2026-04-01"
       }
@@ -7289,7 +7289,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2026-01-27T13:38:33.857Z",
-    "emplacement": "G-3"
+    "emplacement": "G-3 + G-3 (CHEZ MENOVA DEPUIS 05/02/2026--------CLIENT: syrade)"
   },
   {
     "marque": "AOIP",
