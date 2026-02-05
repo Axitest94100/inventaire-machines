@@ -9372,5 +9372,21 @@
       }
     ],
     "createdAt": "2026-02-03T08:33:36.489Z"
+  },
+  {
+    "marque": "ISO-TECH",
+    "model": "IPS-405",
+    "quantite": 1,
+    "emplacement": "H-3",
+    "description": "",
+    "unites": [
+      {
+        "numserie": "225D012G1",
+        "position": "H-3",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      }
+    ],
+    "createdAt": "2026-02-05T10:15:10.977Z"
   }
 ]
