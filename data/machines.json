@@ -9404,5 +9404,21 @@
       }
     ],
     "createdAt": "2026-02-05T10:18:03.389Z"
+  },
+  {
+    "marque": "FLUKE",
+    "model": "8846",
+    "quantite": 1,
+    "emplacement": "H-3",
+    "description": "",
+    "unites": [
+      {
+        "numserie": "2265006",
+        "position": "H-3",
+        "etatcvi": "oui",
+        "dateFinCVI": "2027-01-01"
+      }
+    ],
+    "createdAt": "2026-02-05T10:23:50.085Z"
   }
 ]
