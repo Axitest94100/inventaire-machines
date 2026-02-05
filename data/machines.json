@@ -9388,5 +9388,21 @@
       }
     ],
     "createdAt": "2026-02-05T10:15:10.977Z"
+  },
+  {
+    "marque": "KEYSIGHT",
+    "model": "U2741A",
+    "quantite": 1,
+    "emplacement": "H-3",
+    "description": "",
+    "unites": [
+      {
+        "numserie": "MY59220004",
+        "position": "H-3",
+        "etatcvi": "oui",
+        "dateFinCVI": "2026-12-01"
+      }
+    ],
+    "createdAt": "2026-02-05T10:18:03.389Z"
   }
 ]
