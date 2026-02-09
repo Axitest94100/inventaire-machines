@@ -5090,7 +5090,7 @@
     "unites": [
       {
         "numserie": "ACCESSOIRES",
-        "position": "H-3",
+        "position": "H-3 ACCESSOIRES",
         "etatcvi": "non",
         "dateFinCVI": null
       }
@@ -5098,7 +5098,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2026-01-27T13:38:33.856Z",
-    "emplacement": "H-3"
+    "emplacement": "H-3 ACCESSOIRES"
   },
   {
     "marque": "SEFELEC",
