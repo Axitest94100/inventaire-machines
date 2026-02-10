@@ -8979,7 +8979,7 @@
     "description": "APPAREIL MISE PAR MAGIE DANS LE STOCK SANS M'EN INFORMER",
     "unites": [
       {
-        "numserie": "@",
+        "numserie": "91H640281",
         "position": "M-1",
         "etatcvi": "non",
         "dateFinCVI": null
