@@ -3243,7 +3243,7 @@
     "unites": [
       {
         "numserie": "2031V01112",
-        "position": "K-4",
+        "position": "J-2  ",
         "etatcvi": "non",
         "dateFinCVI": null
       }
@@ -3251,7 +3251,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2026-01-27T13:38:33.856Z",
-    "emplacement": "K-4"
+    "emplacement": "J-2"
   },
   {
     "marque": "HP",
