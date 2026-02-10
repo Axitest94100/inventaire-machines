@@ -1629,24 +1629,6 @@
     "emplacement": "I-1"
   },
   {
-    "marque": "CHAUVIN ARNOUX",
-    "model": "CA6161 ACCESSOIRES",
-    "quantite": 1,
-    "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/En_7C-NcoJBDg0Bm9JxSar4BhlGYr0kePgx1_pzTXS4uWg?e=tLIXvf",
-    "unites": [
-      {
-        "numserie": "220291WKH",
-        "position": "K-3",
-        "etatcvi": "non",
-        "dateFinCVI": null
-      }
-    ],
-    "etatcvi": "non",
-    "dateFinCVI": null,
-    "createdAt": "2026-01-27T13:38:33.855Z",
-    "emplacement": "K-3"
-  },
-  {
     "marque": "FLUKE",
     "model": "DSX8000",
     "quantite": 1,
