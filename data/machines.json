@@ -4778,7 +4778,7 @@
     "unites": [
       {
         "numserie": "827511/0001",
-        "position": "K-3",
+        "position": "L-3",
         "etatcvi": "non",
         "dateFinCVI": null
       }
@@ -4786,7 +4786,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2026-01-27T13:38:33.856Z",
-    "emplacement": "K-3"
+    "emplacement": "L-3"
   },
   {
     "marque": "ROHDE & SCHWARZ",
