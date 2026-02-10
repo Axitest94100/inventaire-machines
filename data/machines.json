@@ -4916,7 +4916,7 @@
     "unites": [
       {
         "numserie": "1110350002",
-        "position": "K-1",
+        "position": "M-4",
         "etatcvi": "non",
         "dateFinCVI": null
       }
@@ -4924,7 +4924,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2026-01-27T13:38:33.856Z",
-    "emplacement": "K-1"
+    "emplacement": "M-4"
   },
   {
     "marque": "ROSENBERGER",
