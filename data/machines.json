@@ -7175,7 +7175,7 @@
       },
       {
         "numserie": "MY53004989",
-        "position": "K-1",
+        "position": "K-1(EN CARTON)",
         "etatcvi": "non",
         "dateFinCVI": null
       }
@@ -7183,7 +7183,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2026-01-27T13:38:33.857Z",
-    "emplacement": "E-5 (CHEZ MENOVA DEPUIS LE12/12/2025 CLIENT: ASERTI) + E-4 + K-1 (EN CARTON) + K-1"
+    "emplacement": "E-5 (CHEZ MENOVA DEPUIS LE12/12/2025 CLIENT: ASERTI) + E-4 + K-1 (EN CARTON) + K-1(EN CARTON)"
   },
   {
     "marque": "SEFELEC",
