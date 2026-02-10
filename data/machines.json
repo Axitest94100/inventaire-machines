@@ -1882,7 +1882,7 @@
     "unites": [
       {
         "numserie": "9207-00570",
-        "position": "K-1",
+        "position": "L-2",
         "etatcvi": "oui",
         "dateFinCVI": "2025-05-01"
       }
@@ -1890,7 +1890,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2026-01-27T13:38:33.855Z",
-    "emplacement": "K-1"
+    "emplacement": "L-2"
   },
   {
     "marque": "ELC",
