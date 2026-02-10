@@ -2241,7 +2241,7 @@
       },
       {
         "numserie": "19385063/19360763",
-        "position": "J-3",
+        "position": "J-3 (LOCATION DEPUIS LE 10/02/2026 CLIENT MEDIKOM CONSULTING)",
         "etatcvi": "oui",
         "dateFinCVI": "2026-05-01"
       }
@@ -2249,7 +2249,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2026-01-27T13:38:33.855Z",
-    "emplacement": "J-4 (EN ATTENTE DE CALIBRATION )+J-3"
+    "emplacement": "J-4 (EN ATTENTE DE CALIBRATION ) + J-3 (LOCATION DEPUIS LE 10/02/2026 CLIENT MEDIKOM CONSULTING)"
   },
   {
     "marque": "FLUKE",
