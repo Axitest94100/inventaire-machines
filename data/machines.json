@@ -9029,15 +9029,9 @@
   {
     "marque": "bird",
     "model": "bouchons",
-    "quantite": 2,
+    "quantite": 1,
     "description": "BOUCHONS",
     "unites": [
-      {
-        "numserie": "@",
-        "position": "K-4",
-        "etatcvi": "non",
-        "dateFinCVI": null
-      },
       {
         "numserie": "accessoires",
         "position": "",
@@ -9048,7 +9042,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2026-01-27T13:38:33.857Z",
-    "emplacement": "K-4"
+    "emplacement": ""
   },
   {
     "marque": "rohde & schwarz",
