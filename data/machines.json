@@ -6741,7 +6741,7 @@
     "unites": [
       {
         "numserie": "CARTE MERE",
-        "position": "K-4",
+        "position": "L-3",
         "etatcvi": "non",
         "dateFinCVI": null
       }
@@ -6749,7 +6749,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2026-01-27T13:38:33.857Z",
-    "emplacement": "K-4"
+    "emplacement": "L-3"
   },
   {
     "marque": "TELEDYNE LECROY",
