@@ -7156,7 +7156,7 @@
     "unites": [
       {
         "numserie": "91J229126",
-        "position": "K-4",
+        "position": "J-2",
         "etatcvi": "oui",
         "dateFinCVI": "2024-05-01"
       }
@@ -7164,7 +7164,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2026-01-27T13:38:33.857Z",
-    "emplacement": "K-4"
+    "emplacement": "J-2"
   },
   {
     "marque": "YOKOGAWA",
