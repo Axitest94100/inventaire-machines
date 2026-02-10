@@ -8993,7 +8993,7 @@
   {
     "marque": "bird",
     "model": "4314b",
-    "quantite": 1,
+    "quantite": 2,
     "description": "",
     "unites": [
       {
@@ -9001,12 +9001,18 @@
         "position": "K-4",
         "etatcvi": "non",
         "dateFinCVI": null
+      },
+      {
+        "numserie": "boite de transport",
+        "position": "L-3",
+        "etatcvi": "non",
+        "dateFinCVI": null
       }
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2026-01-27T13:38:33.857Z",
-    "emplacement": "K-4"
+    "emplacement": "K-4 + L-3"
   },
   {
     "marque": "wandel & goltermann",
@@ -9034,7 +9040,7 @@
     "unites": [
       {
         "numserie": "accessoires",
-        "position": "",
+        "position": "L-3",
         "etatcvi": "non",
         "dateFinCVI": null
       }
@@ -9042,7 +9048,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2026-01-27T13:38:33.857Z",
-    "emplacement": ""
+    "emplacement": "L-3"
   },
   {
     "marque": "rohde & schwarz",
