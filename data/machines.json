@@ -7074,23 +7074,6 @@
     "emplacement": "D-5"
   },
   {
-    "marque": "XI LINX",
-    "model": "MODULE",
-    "quantite": 1,
-    "unites": [
-      {
-        "numserie": "PC EXPRESS 8 PIN",
-        "position": "K-2",
-        "etatcvi": "non",
-        "dateFinCVI": null
-      }
-    ],
-    "etatcvi": "non",
-    "dateFinCVI": null,
-    "createdAt": "2026-01-27T13:38:33.857Z",
-    "emplacement": "K-2"
-  },
-  {
     "marque": "YOKOGAWA",
     "model": "DL8502",
     "quantite": 1,
