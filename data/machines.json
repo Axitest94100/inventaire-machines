@@ -9029,12 +9029,18 @@
   {
     "marque": "bird",
     "model": "bouchons",
-    "quantite": 1,
+    "quantite": 2,
     "description": "BOUCHONS",
     "unites": [
       {
         "numserie": "@",
         "position": "K-4",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      },
+      {
+        "numserie": "accessoires",
+        "position": "",
         "etatcvi": "non",
         "dateFinCVI": null
       }
