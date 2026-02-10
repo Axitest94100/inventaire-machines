@@ -7080,7 +7080,7 @@
     "unites": [
       {
         "numserie": "0413088",
-        "position": "J-2",
+        "position": "J-2 (CHEZ MENOVA DEPUIS LE 10/02/2026)",
         "etatcvi": "oui",
         "dateFinCVI": "2025-10-01"
       }
@@ -7088,7 +7088,8 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2026-01-27T13:38:33.857Z",
-    "emplacement": "J-2"
+    "emplacement": "J-2 (CHEZ MENOVA DEPUIS LE 10/02/2026)",
+    "description": "(CHEZ MENOVA DEPUIS LE 10/02/2026)"
   },
   {
     "marque": "XANTREX",
