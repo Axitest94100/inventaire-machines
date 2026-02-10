@@ -2249,7 +2249,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2026-01-27T13:38:33.855Z",
-    "emplacement": "J-4 (EN ATTENTE DE CALIBRATION ) + J-3 (LOCATION DEPUIS LE 10/02/2026 CLIENT MEDIKOM CONSULTING)"
+    "emplacement": "J-4 (EN ATTENTE DE CALIBRATION )+J-3 (LOCATION DEPUIS LE 10/02/2026 CLIENT MEDIKOM CONSULTING)"
   },
   {
     "marque": "FLUKE",
@@ -6709,7 +6709,7 @@
     "marque": "TELEDYNE LECROY",
     "model": "HDO9404-MS",
     "quantite": 1,
-    "description": "FOURNIS AVEC UN SACHET + UNE BOITE\r\nhttps://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EkVJgm1DH7NKp0gm9dWov2UBQ4Za4iR99Yeh5HJrP2VvlA?e=ruwZxT",
+    "description": "FOURNIS AVEC UN SACHET + UNE BOITE\n\nhttps://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EkVJgm1DH7NKp0gm9dWov2UBQ4Za4iR99Yeh5HJrP2VvlA?e=ruwZxT",
     "unites": [
       {
         "numserie": "LCRY4403N30170*",
@@ -7290,7 +7290,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2026-01-27T13:38:33.857Z",
-    "emplacement": "G-3 (CHEZ MENOVA DEPUIS LE 10/02/2026) + G-3 (CHEZ MENOVA DEPUIS 05/02/2026--------CLIENT: syrade)"
+    "emplacement": "G-3 (CHEZ MENOVA DEPUIS LE 10/02/2026)+G-3 (CHEZ MENOVA DEPUIS 05/02/2026--------CLIENT: syrade)"
   },
   {
     "marque": "AOIP",
