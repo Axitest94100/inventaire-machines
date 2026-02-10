@@ -7059,11 +7059,11 @@
     "marque": "WILLTECK",
     "model": "4202R",
     "quantite": 1,
-    "description": "",
+    "description": "(CHEZ MENOVA DEPUIS LE 10/02/2026)",
     "unites": [
       {
         "numserie": "0813514",
-        "position": "H-3",
+        "position": "H-3 (CHEZ MENOVA DEPUIS LE 10/02/2026)",
         "etatcvi": "non",
         "dateFinCVI": null
       }
@@ -7071,7 +7071,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2026-01-27T13:38:33.857Z",
-    "emplacement": "H-3"
+    "emplacement": "H-3 (CHEZ MENOVA DEPUIS LE 10/02/2026)"
   },
   {
     "marque": "WILLTEK",
