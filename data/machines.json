@@ -4269,7 +4269,7 @@
   {
     "marque": "MARCONI",
     "model": "2031",
-    "quantite": 4,
+    "quantite": 5,
     "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EreAzBm1bhtLnQI4MT7-pnIBqtGY4xLPigVZ5r3frG2PVQ?e=R7MR88",
     "unites": [
       {
@@ -4295,12 +4295,18 @@
         "position": "E-1",
         "etatcvi": "non",
         "dateFinCVI": null
+      },
+      {
+        "numserie": "119302093",
+        "position": "K-3",
+        "etatcvi": "non",
+        "dateFinCVI": null
       }
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2026-01-27T13:38:33.856Z",
-    "emplacement": "E-2+E-1"
+    "emplacement": "E-2 + E-1 + K-3"
   },
   {
     "marque": "MARCONI",
