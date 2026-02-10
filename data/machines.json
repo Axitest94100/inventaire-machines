@@ -7174,7 +7174,7 @@
     "unites": [
       {
         "numserie": "12WA09531",
-        "position": "K-1",
+        "position": "M-1",
         "etatcvi": "non",
         "dateFinCVI": null
       }
@@ -7182,7 +7182,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2026-01-27T13:38:33.857Z",
-    "emplacement": "K-1"
+    "emplacement": "M-1"
   },
   {
     "marque": "AGILENT",
