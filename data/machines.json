@@ -3225,7 +3225,7 @@
     "unites": [
       {
         "numserie": "3446U04021",
-        "position": "K-1",
+        "position": "M-3",
         "etatcvi": "non",
         "dateFinCVI": null
       }
@@ -3233,7 +3233,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2026-01-27T13:38:33.856Z",
-    "emplacement": "K-1"
+    "emplacement": "M-3"
   },
   {
     "marque": "HP",
