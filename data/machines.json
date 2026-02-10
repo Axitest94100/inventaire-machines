@@ -7152,7 +7152,7 @@
   {
     "marque": "AGILENT",
     "model": "34401A",
-    "quantite": 4,
+    "quantite": 5,
     "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EhoXnXJCoRNHvuRiQNgZrKQBqREWX7rM5wStfb7s3C-elw?e=Sk6vFn",
     "unites": [
       {
@@ -7178,12 +7178,18 @@
         "position": "K-2(EN CARTON)",
         "etatcvi": "non",
         "dateFinCVI": null
+      },
+      {
+        "numserie": "MY53004939",
+        "position": "K-2",
+        "etatcvi": "non",
+        "dateFinCVI": null
       }
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2026-01-27T13:38:33.857Z",
-    "emplacement": "E-5 (CHEZ MENOVA DEPUIS LE12/12/2025 CLIENT: ASERTI) + E-4 + K-2 (EN CARTON) + K-2(EN CARTON)"
+    "emplacement": "E-5 (CHEZ MENOVA DEPUIS LE12/12/2025 CLIENT: ASERTI) + E-4 + K-2 (EN CARTON) + K-2(EN CARTON) + K-2"
   },
   {
     "marque": "SEFELEC",
