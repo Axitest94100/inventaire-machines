@@ -6969,7 +6969,7 @@
     "unites": [
       {
         "numserie": "58350007",
-        "position": "K-3",
+        "position": "L-3",
         "etatcvi": "oui",
         "dateFinCVI": "2023-11-01"
       }
@@ -6977,7 +6977,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2026-01-27T13:38:33.857Z",
-    "emplacement": "K-3"
+    "emplacement": "L-3"
   },
   {
     "marque": "WAVETEK",
