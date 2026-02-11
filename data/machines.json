@@ -2944,7 +2944,7 @@
   {
     "marque": "HP",
     "model": "34401A",
-    "quantite": 2,
+    "quantite": 3,
     "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EhoXnXJCoRNHvuRiQNgZrKQBqREWX7rM5wStfb7s3C-elw?e=Sk6vFn",
     "unites": [
       {
@@ -2955,6 +2955,12 @@
       },
       {
         "numserie": "US36092064",
+        "position": "K-5",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      },
+      {
+        "numserie": "US36036972",
         "position": "K-5",
         "etatcvi": "non",
         "dateFinCVI": null
