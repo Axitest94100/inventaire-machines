@@ -7083,7 +7083,7 @@
   {
     "marque": "XANTREX",
     "model": "XFR600-4",
-    "quantite": 9,
+    "quantite": 10,
     "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/Err3IpZRQlZOrMGOy1EJLboBAMGv7iCxFJZ0aNR5lxvtbQ?e=V9VLiH",
     "unites": [
       {
@@ -7136,6 +7136,12 @@
       },
       {
         "numserie": "0842A01797",
+        "position": "K-5",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      },
+      {
+        "numserie": "E00141104",
         "position": "K-5",
         "etatcvi": "non",
         "dateFinCVI": null
