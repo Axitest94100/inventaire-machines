@@ -5311,7 +5311,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2026-01-27T13:38:33.856Z",
-    "emplacement": "D-5 + D-3 + K-4"
+    "emplacement": "D-5+D-3+K-4"
   },
   {
     "marque": "SRS",
@@ -7077,7 +7077,7 @@
   {
     "marque": "XANTREX",
     "model": "XFR600-4",
-    "quantite": 3,
+    "quantite": 4,
     "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/Err3IpZRQlZOrMGOy1EJLboBAMGv7iCxFJZ0aNR5lxvtbQ?e=V9VLiH",
     "unites": [
       {
@@ -7094,6 +7094,12 @@
       },
       {
         "numserie": "69761",
+        "position": "K-4",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      },
+      {
+        "numserie": "E00140966",
         "position": "K-4",
         "etatcvi": "non",
         "dateFinCVI": null
@@ -7184,7 +7190,7 @@
     "marque": "AGILENT",
     "model": "34401A",
     "quantite": 7,
-    "description": "POUR LE MY53007137 SON CARTON EST ABIME\nDE PLUS SN DIFFERENT ENTRE LE CARTON ET SUR LâAPPAREIL MY53007137(CARTON) OR MY53007037(APPAREIL) (VOIR LES PHOTOS)\n\n\nhttps://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EhoXnXJCoRNHvuRiQNgZrKQBqREWX7rM5wStfb7s3C-elw?e=Sk6vFn",
+    "description": "POUR LE MY53007137 SON CARTON EST ABIME\nDE PLUS SN DIFFERENT ENTRE LE CARTON ET SUR LÃ¢ÂÂAPPAREIL MY53007137(CARTON) OR MY53007037(APPAREIL) (VOIR LES PHOTOS)\n\n\nhttps://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EhoXnXJCoRNHvuRiQNgZrKQBqREWX7rM5wStfb7s3C-elw?e=Sk6vFn",
     "unites": [
       {
         "numserie": "MY53007143",
