@@ -7231,7 +7231,7 @@
   {
     "marque": "AGILENT",
     "model": "34401A",
-    "quantite": 10,
+    "quantite": 11,
     "description": "POUR LE MY53007137 SON CARTON EST ABIME\nDE PLUS SN DIFFERENT ENTRE LE CARTON ET SUR LÃÂ¢ÃÂÃÂAPPAREIL MY53007137(CARTON) OR MY53007037(APPAREIL) (VOIR LES PHOTOS)\n\n\nhttps://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EhoXnXJCoRNHvuRiQNgZrKQBqREWX7rM5wStfb7s3C-elw?e=Sk6vFn",
     "unites": [
       {
@@ -7290,6 +7290,12 @@
       },
       {
         "numserie": "MY45004544",
+        "position": "K-5",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      },
+      {
+        "numserie": "MY45011646",
         "position": "K-5",
         "etatcvi": "non",
         "dateFinCVI": null
