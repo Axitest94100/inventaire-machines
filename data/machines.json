@@ -5268,7 +5268,7 @@
   {
     "marque": "SORENSEN",
     "model": "XFR600-4",
-    "quantite": 6,
+    "quantite": 7,
     "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/Err3IpZRQlZOrMGOy1EJLboBAMGv7iCxFJZ0aNR5lxvtbQ?e=V9VLiH",
     "unites": [
       {
@@ -5306,12 +5306,18 @@
         "position": "K-4",
         "etatcvi": "non",
         "dateFinCVI": null
+      },
+      {
+        "numserie": "1033A02520",
+        "position": "K-5",
+        "etatcvi": "non",
+        "dateFinCVI": null
       }
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2026-01-27T13:38:33.856Z",
-    "emplacement": "D-5+D-3+K-4"
+    "emplacement": "D-5 + D-3 + K-4 + K-5"
   },
   {
     "marque": "SRS",
