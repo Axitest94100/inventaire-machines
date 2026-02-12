@@ -7704,7 +7704,7 @@
     "unites": [
       {
         "numserie": "3619A01513",
-        "position": "H-1",
+        "position": "H-2",
         "etatcvi": "non",
         "dateFinCVI": null
       },
@@ -7724,7 +7724,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2026-01-27T13:38:33.857Z",
-    "emplacement": "H-1+H-2"
+    "emplacement": "H-2 + H-1"
   },
   {
     "marque": "HP",
