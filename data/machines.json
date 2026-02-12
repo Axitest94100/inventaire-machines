@@ -1775,7 +1775,7 @@
   {
     "marque": "EA",
     "model": "PS512-21R",
-    "quantite": 12,
+    "quantite": 13,
     "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EqovDezdb_FCjTlBCxyUUJkBhkphqTRFlvy5VKYXJl2GEg?e=AfEEuf",
     "unites": [
       {
@@ -1847,6 +1847,12 @@
       {
         "numserie": "2676910408",
         "position": "K-5",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      },
+      {
+        "numserie": "@",
+        "position": "",
         "etatcvi": "non",
         "dateFinCVI": null
       }
