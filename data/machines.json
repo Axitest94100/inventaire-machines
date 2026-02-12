@@ -269,7 +269,7 @@
       },
       {
         "numserie": "MY40000719",
-        "position": "H-1",
+        "position": "H-4",
         "etatcvi": "non",
         "dateFinCVI": null
       }
@@ -277,7 +277,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2026-01-27T13:38:33.855Z",
-    "emplacement": "D-4+H-1"
+    "emplacement": "D-4 + H-4"
   },
   {
     "marque": "AGILENT",
@@ -3411,7 +3411,7 @@
     "unites": [
       {
         "numserie": "2904A0062",
-        "position": "H-1",
+        "position": "H-4",
         "etatcvi": "non",
         "dateFinCVI": null
       }
@@ -3419,7 +3419,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2026-01-27T13:38:33.856Z",
-    "emplacement": "H-1"
+    "emplacement": "H-4"
   },
   {
     "marque": "HP",
