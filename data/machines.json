@@ -635,7 +635,7 @@
     "unites": [
       {
         "numserie": "CN40051983",
-        "position": "G-4",
+        "position": "G-4 (REMARQUE: NE S'ALLUME PAS)",
         "etatcvi": "non",
         "dateFinCVI": null
       }
@@ -643,7 +643,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2026-01-27T13:38:33.855Z",
-    "emplacement": "G-4"
+    "emplacement": "G-4 (REMARQUE: NE S'ALLUME PAS)"
   },
   {
     "marque": "AGILENT",
