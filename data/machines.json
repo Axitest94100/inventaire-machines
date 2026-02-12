@@ -2969,7 +2969,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2026-01-27T13:38:33.856Z",
-    "emplacement": "F-4 + K-5"
+    "emplacement": "F-4+K-5"
   },
   {
     "marque": "HP",
@@ -5329,7 +5329,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2026-01-27T13:38:33.856Z",
-    "emplacement": "D-5 + D-3 + K-4 + K-5"
+    "emplacement": "D-5+D-3+K-4+K-5"
   },
   {
     "marque": "SRS",
@@ -6374,7 +6374,7 @@
     "unites": [
       {
         "numserie": "LCRY3803N01660",
-        "position": "A-5 (CHEZ MENOVA DEPUIS 10/02/2026)",
+        "position": "LAB",
         "etatcvi": "non",
         "dateFinCVI": null
       }
@@ -6382,7 +6382,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2026-01-27T13:38:33.856Z",
-    "emplacement": "A-5 (CHEZ MENOVA DEPUIS 10/02/2026)",
+    "emplacement": "LAB",
     "description": "(CHEZ MENOVA DEPUIS 10/02/2026)"
   },
   {
@@ -7162,7 +7162,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2026-01-27T13:38:33.857Z",
-    "emplacement": "D-5 + K-4 + D-3 + K-3 + K-5"
+    "emplacement": "D-5+K-4+D-3+K-3+K-5"
   },
   {
     "marque": "YOKOGAWA",
@@ -7244,7 +7244,7 @@
     "marque": "AGILENT",
     "model": "34401A",
     "quantite": 20,
-    "description": "POUR LE MY53007137 SON CARTON EST ABIME\nDE PLUS SN DIFFERENT ENTRE LE CARTON ET SUR LÃÂ¢ÃÂÃÂAPPAREIL MY53007137(CARTON) OR MY53007037(APPAREIL) (VOIR LES PHOTOS)\n\n\nhttps://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EhoXnXJCoRNHvuRiQNgZrKQBqREWX7rM5wStfb7s3C-elw?e=Sk6vFn",
+    "description": "POUR LE MY53007137 SON CARTON EST ABIME\nDE PLUS SN DIFFERENT ENTRE LE CARTON ET SUR LÃÂÃÂ¢ÃÂÃÂÃÂÃÂAPPAREIL MY53007137(CARTON) OR MY53007037(APPAREIL) (VOIR LES PHOTOS)\n\n\nhttps://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EhoXnXJCoRNHvuRiQNgZrKQBqREWX7rM5wStfb7s3C-elw?e=Sk6vFn",
     "unites": [
       {
         "numserie": "MY53007143",
@@ -7370,7 +7370,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2026-01-27T13:38:33.857Z",
-    "emplacement": "E-5 (CHEZ MENOVA DEPUIS LE12/12/2025 CLIENT: ASERTI) + E-4 + K-2 (EN CARTON) + K-2(EN CARTON) + K-3 (EN CARTON) + K-5"
+    "emplacement": "E-5 (CHEZ MENOVA DEPUIS LE12/12/2025 CLIENT: ASERTI)+E-4+K-2 (EN CARTON)+K-2(EN CARTON)+K-3 (EN CARTON)+K-5"
   },
   {
     "marque": "SEFELEC",
