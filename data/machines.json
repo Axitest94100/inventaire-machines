@@ -3922,7 +3922,7 @@
     "marque": "KEITHLEY",
     "model": "7036",
     "quantite": 2,
-    "description": "0904415 : CHEZ MENOVA 23/07/2025 CLIENT SERMA\r\nhttps://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EpQN76SomvJHmMNMmmMZqSwBNuJLRZPZhY3rDR8nQjo8NA?e=TzngWC",
+    "description": "0904415 : CHEZ MENOVA 23/07/2025 CLIENT SERMA\n\nhttps://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EpQN76SomvJHmMNMmmMZqSwBNuJLRZPZhY3rDR8nQjo8NA?e=TzngWC",
     "unites": [
       {
         "numserie": "0904415",
@@ -4054,7 +4054,7 @@
     "marque": "KEYSIGHT",
     "model": "E5071C",
     "quantite": 1,
-    "description": "PRET MENOVA DEPUIS LE 02/09/2025\r\nOPT: 019 4D5 TDR UNQ\r\nhttps://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EqmEUXy01RdCk-AyVdIM8JYB1KiInSfzddHVaR6USk-xbw?e=Q2NwOs",
+    "description": "PRET MENOVA DEPUIS LE 02/09/2025\nOPT: 019 4D5 TDR UNQ\n\nhttps://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EqmEUXy01RdCk-AyVdIM8JYB1KiInSfzddHVaR6USk-xbw?e=Q2NwOs",
     "unites": [
       {
         "numserie": "MY46523473",
@@ -4615,7 +4615,7 @@
     "emplacement": "D-4"
   },
   {
-    "marque": "PHILIPPS",
+    "marque": "PHILIPS",
     "model": "PM2813",
     "quantite": 2,
     "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EqF-Qgi7hZVMsHQrnwkGJpMByKffhZ4DmaPaJVBmW-fHAQ?e=5EKbsI",
