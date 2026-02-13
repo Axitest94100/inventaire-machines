@@ -7313,15 +7313,9 @@
   {
     "marque": "AGILENT",
     "model": "34401A",
-    "quantite": 20,
+    "quantite": 19,
     "description": "POUR LE MY53007137 SON CARTON EST ABIME\nDE PLUS SN DIFFERENT ENTRE LE CARTON ET SUR LÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂAPPAREIL MY53007137(CARTON) OR MY53007037(APPAREIL) (VOIR LES PHOTOS)\n\n\nhttps://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EhoXnXJCoRNHvuRiQNgZrKQBqREWX7rM5wStfb7s3C-elw?e=Sk6vFn",
     "unites": [
-      {
-        "numserie": "MY53007143",
-        "position": "E-5 (CHEZ MENOVA DEPUIS LE12/12/2025 CLIENT: ASERTI)",
-        "etatcvi": "non",
-        "dateFinCVI": null
-      },
       {
         "numserie": "MY41002358",
         "position": "E-4",
@@ -7440,7 +7434,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2026-01-27T13:38:33.857Z",
-    "emplacement": "E-5 (CHEZ MENOVA DEPUIS LE12/12/2025 CLIENT: ASERTI)+E-4+K-2 (EN CARTON)+K-2(EN CARTON)+K-3 (EN CARTON)+K-5"
+    "emplacement": "E-4 + K-2 (EN CARTON) + K-2(EN CARTON) + K-3 (EN CARTON) + K-5"
   },
   {
     "marque": "SEFELEC",
