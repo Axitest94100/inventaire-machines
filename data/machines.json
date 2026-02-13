@@ -277,7 +277,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2026-01-27T13:38:33.855Z",
-    "emplacement": "D-4 + H-4"
+    "emplacement": "D-4+H-4"
   },
   {
     "marque": "AGILENT",
@@ -1866,7 +1866,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2026-01-27T13:38:33.855Z",
-    "emplacement": "C-3 + K-5"
+    "emplacement": "C-3+K-5"
   },
   {
     "marque": "EA",
@@ -5270,7 +5270,7 @@
     "marque": "SEFELEC",
     "model": "2715",
     "quantite": 1,
-    "description": "RESTRICTIONS D’UTILISATION DE CETTE MACHINE:\n\"10MT NON CONFORME MATERIEL UTILISABLE UNIQUEMENT POUR INDICATEUR\" LE 08/2018\nAUTEUR INCONNU\n\nAPPAREIL NON CONFORME\nMERCI DE VOUS RÉFÉRER AUX PHOTOS AFIN D’ÉVALUER L’ÉTAT PHYSIQUE DE L’APPAREIL.\n\nhttps://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/IgALpvNWKsXmTLuDsoAnFod6ARFIEtpsSZWgzVmB62r_L50?e=wTuhii",
+    "description": "RESTRICTIONS DâUTILISATION DE CETTE MACHINE:\n\"10MT NON CONFORME MATERIEL UTILISABLE UNIQUEMENT POUR INDICATEUR\" LE 08/2018\nAUTEUR INCONNU\n\nAPPAREIL NON CONFORME\nMERCI DE VOUS RÃFÃRER AUX PHOTOS AFIN DâÃVALUER LâÃTAT PHYSIQUE DE LâAPPAREIL.\n\nhttps://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/IgALpvNWKsXmTLuDsoAnFod6ARFIEtpsSZWgzVmB62r_L50?e=wTuhii",
     "unites": [
       {
         "numserie": "1867080",
@@ -5449,7 +5449,8 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2026-01-27T13:38:33.856Z",
-    "emplacement": "G-2"
+    "emplacement": "G-2",
+    "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/IgADGZIJWVYRQ6opTslwXw8tAWhbw0W5lvWVzxEIQvWSC3s?e=7hJHT0"
   },
   {
     "marque": "TDK LAMBDA",
@@ -7312,7 +7313,7 @@
     "marque": "AGILENT",
     "model": "34401A",
     "quantite": 20,
-    "description": "POUR LE MY53007137 SON CARTON EST ABIME\nDE PLUS SN DIFFERENT ENTRE LE CARTON ET SUR LÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂAPPAREIL MY53007137(CARTON) OR MY53007037(APPAREIL) (VOIR LES PHOTOS)\n\n\nhttps://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EhoXnXJCoRNHvuRiQNgZrKQBqREWX7rM5wStfb7s3C-elw?e=Sk6vFn",
+    "description": "POUR LE MY53007137 SON CARTON EST ABIME\nDE PLUS SN DIFFERENT ENTRE LE CARTON ET SUR LÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂAPPAREIL MY53007137(CARTON) OR MY53007037(APPAREIL) (VOIR LES PHOTOS)\n\n\nhttps://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EhoXnXJCoRNHvuRiQNgZrKQBqREWX7rM5wStfb7s3C-elw?e=Sk6vFn",
     "unites": [
       {
         "numserie": "MY53007143",
@@ -7726,7 +7727,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2026-01-27T13:38:33.857Z",
-    "emplacement": "H-2 + H-1"
+    "emplacement": "H-2+H-1"
   },
   {
     "marque": "HP",
