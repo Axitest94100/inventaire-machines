@@ -2613,7 +2613,7 @@
     "unites": [
       {
         "numserie": "US3915070B",
-        "position": "A-4",
+        "position": "A-4(CHEZ MENOVA DEPUIS 17/02/2026)",
         "etatcvi": "non",
         "dateFinCVI": null
       }
@@ -2621,7 +2621,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2026-01-27T13:38:33.856Z",
-    "emplacement": "A-4"
+    "emplacement": "A-4(CHEZ MENOVA DEPUIS 17/02/2026)"
   },
   {
     "marque": "HP",
