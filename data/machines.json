@@ -539,13 +539,13 @@
       },
       {
         "numserie": "MY47006229",
-        "position": "E-5",
+        "position": "E-5(CHEZ MENOVA DEPUIS 17/02/2026)",
         "etatcvi": "oui",
         "dateFinCVI": "2026-08-01"
       },
       {
         "numserie": "MY47002075",
-        "position": "E-5",
+        "position": "E-5(CHEZ MENOVA DEPUIS 17/02/2026)",
         "etatcvi": "oui",
         "dateFinCVI": "2026-08-01"
       }
@@ -553,7 +553,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2026-01-27T13:38:33.855Z",
-    "emplacement": "F-5 (CHEZ MENOVA DEPUIS 17/02/2026) + E-5"
+    "emplacement": "F-5 (CHEZ MENOVA DEPUIS 17/02/2026) + E-5(CHEZ MENOVA DEPUIS 17/02/2026)"
   },
   {
     "marque": "AGILENT",
