@@ -7354,7 +7354,7 @@
       },
       {
         "numserie": "MY45011687",
-        "position": "K-5",
+        "position": "K-5(CHEZ MENOVA DEPUIS 17/02/2026)",
         "etatcvi": "non",
         "dateFinCVI": null
       },
@@ -7434,7 +7434,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2026-01-27T13:38:33.857Z",
-    "emplacement": "E-4+K-2 (EN CARTON)+K-2(EN CARTON)+K-3 (EN CARTON)+K-5"
+    "emplacement": "E-4 + K-2 (EN CARTON) + K-2(EN CARTON) + K-3 (EN CARTON) + K-5(CHEZ MENOVA DEPUIS 17/02/2026) + K-5"
   },
   {
     "marque": "SEFELEC",
