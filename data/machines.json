@@ -7750,7 +7750,7 @@
     "unites": [
       {
         "numserie": "1041082",
-        "position": "F-4",
+        "position": "F-4(CHEZ MENOVA DEPUIS 17/02/2026)",
         "etatcvi": "oui",
         "dateFinCVI": "2026-11-01"
       }
@@ -7758,7 +7758,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2026-01-27T13:38:33.857Z",
-    "emplacement": "F-4"
+    "emplacement": "F-4(CHEZ MENOVA DEPUIS 17/02/2026)"
   },
   {
     "marque": "WAVETEK",
