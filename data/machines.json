@@ -125,7 +125,7 @@
     "unites": [
       {
         "numserie": "11Y50514864",
-        "position": "B-3",
+        "position": "B-3(CHEZ MENOVA DEPUIS 17/02/2026)",
         "etatcvi": "oui",
         "dateFinCVI": "2025-04-01"
       }
@@ -133,7 +133,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2026-01-27T13:38:33.855Z",
-    "emplacement": "B-3"
+    "emplacement": "B-3(CHEZ MENOVA DEPUIS 17/02/2026)"
   },
   {
     "marque": "AGILENT",
