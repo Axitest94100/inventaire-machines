@@ -2283,7 +2283,7 @@
     "unites": [
       {
         "numserie": "20263009/19500016",
-        "position": "J-4 (EN ATTENTE DE CALIBRATION )",
+        "position": "J-4 (EN ATTENTE DE CALIBRATION CHEZ FLUKE DEPUIIS 16/02/2026)",
         "etatcvi": "oui",
         "dateFinCVI": "2026-01-01"
       },
@@ -2297,7 +2297,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2026-01-27T13:38:33.855Z",
-    "emplacement": "J-4 (EN ATTENTE DE CALIBRATION )+J-3 (LOCATION DEPUIS LE 10/02/2026 CLIENT MEDIKOM CONSULTING)"
+    "emplacement": "J-4 (EN ATTENTE DE CALIBRATION CHEZ FLUKE DEPUIIS 16/02/2026) + J-3 (LOCATION DEPUIS LE 10/02/2026 CLIENT MEDIKOM CONSULTING)"
   },
   {
     "marque": "FLUKE",
@@ -5270,7 +5270,7 @@
     "marque": "SEFELEC",
     "model": "2715",
     "quantite": 1,
-    "description": "RESTRICTIONS DâUTILISATION DE CETTE MACHINE:\n\"10MT NON CONFORME MATERIEL UTILISABLE UNIQUEMENT POUR INDICATEUR\" LE 08/2018\nAUTEUR INCONNU\n\nAPPAREIL NON CONFORME\nMERCI DE VOUS RÃFÃRER AUX PHOTOS AFIN DâÃVALUER LâÃTAT PHYSIQUE DE LâAPPAREIL.\n\nhttps://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/IgALpvNWKsXmTLuDsoAnFod6ARFIEtpsSZWgzVmB62r_L50?e=wTuhii",
+    "description": "RESTRICTIONS DÃ¢ÂÂUTILISATION DE CETTE MACHINE:\n\"10MT NON CONFORME MATERIEL UTILISABLE UNIQUEMENT POUR INDICATEUR\" LE 08/2018\nAUTEUR INCONNU\n\nAPPAREIL NON CONFORME\nMERCI DE VOUS RÃÂFÃÂRER AUX PHOTOS AFIN DÃ¢ÂÂÃÂVALUER LÃ¢ÂÂÃÂTAT PHYSIQUE DE LÃ¢ÂÂAPPAREIL.\n\nhttps://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/IgALpvNWKsXmTLuDsoAnFod6ARFIEtpsSZWgzVmB62r_L50?e=wTuhii",
     "unites": [
       {
         "numserie": "1867080",
@@ -7314,7 +7314,7 @@
     "marque": "AGILENT",
     "model": "34401A",
     "quantite": 19,
-    "description": "POUR LE MY53007137 SON CARTON EST ABIME\nDE PLUS SN DIFFERENT ENTRE LE CARTON ET SUR LÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂAPPAREIL MY53007137(CARTON) OR MY53007037(APPAREIL) (VOIR LES PHOTOS)\n\n\nhttps://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EhoXnXJCoRNHvuRiQNgZrKQBqREWX7rM5wStfb7s3C-elw?e=Sk6vFn",
+    "description": "POUR LE MY53007137 SON CARTON EST ABIME\nDE PLUS SN DIFFERENT ENTRE LE CARTON ET SUR LÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂAPPAREIL MY53007137(CARTON) OR MY53007037(APPAREIL) (VOIR LES PHOTOS)\n\n\nhttps://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EhoXnXJCoRNHvuRiQNgZrKQBqREWX7rM5wStfb7s3C-elw?e=Sk6vFn",
     "unites": [
       {
         "numserie": "MY41002358",
@@ -7434,7 +7434,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2026-01-27T13:38:33.857Z",
-    "emplacement": "E-4 + K-2 (EN CARTON) + K-2(EN CARTON) + K-3 (EN CARTON) + K-5"
+    "emplacement": "E-4+K-2 (EN CARTON)+K-2(EN CARTON)+K-3 (EN CARTON)+K-5"
   },
   {
     "marque": "SEFELEC",
