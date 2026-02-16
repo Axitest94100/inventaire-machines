@@ -3741,7 +3741,7 @@
     "unites": [
       {
         "numserie": "31820",
-        "position": "F-5",
+        "position": "F-5(CHEZ MENOVA DEPUIS 17/02/2026)",
         "etatcvi": "non",
         "dateFinCVI": null
       }
@@ -3749,7 +3749,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2026-01-27T13:38:33.856Z",
-    "emplacement": "F-5"
+    "emplacement": "F-5(CHEZ MENOVA DEPUIS 17/02/2026)"
   },
   {
     "marque": "KEITHLEY",
