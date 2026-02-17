@@ -2507,7 +2507,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2026-01-27T13:38:33.855Z",
-    "emplacement": "I-2 (CHEZ MENOVA DSEPUIS LE 17/02/2026 + J-1"
+    "emplacement": "I-2 (CHEZ MENOVA DSEPUIS LE 17/02/2026+J-1"
   },
   {
     "marque": "GW INSTEK",
@@ -3316,7 +3316,7 @@
   {
     "marque": "HP",
     "model": "E4418B",
-    "quantite": 4,
+    "quantite": 3,
     "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/ElC_zKp5HkRAu8lrZUTF4bEB2NuRHpfFNrL5xdxNWgUcfw?e=RJVdUw",
     "unites": [
       {
@@ -3324,12 +3324,6 @@
         "position": "EXP",
         "etatcvi": "oui",
         "dateFinCVI": "2026-12-01"
-      },
-      {
-        "numserie": "GB41299789",
-        "position": "K-4 CHEZ MENOVA DEPUIS 09/12/2025",
-        "etatcvi": "non",
-        "dateFinCVI": null
       },
       {
         "numserie": "MY45102367",
@@ -3347,7 +3341,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2026-01-27T13:38:33.856Z",
-    "emplacement": "EXP+K-4 CHEZ MENOVA DEPUIS 09/12/2025"
+    "emplacement": "EXP + K-4 CHEZ MENOVA DEPUIS 09/12/2025"
   },
   {
     "marque": "HP",
@@ -5270,7 +5264,7 @@
     "marque": "SEFELEC",
     "model": "2715",
     "quantite": 1,
-    "description": "RESTRICTIONS DÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂUTILISATION DE CETTE MACHINE:\n\"10MT NON CONFORME MATERIEL UTILISABLE UNIQUEMENT POUR INDICATEUR\" LE 08/2018\nAUTEUR INCONNU\n\nAPPAREIL NON CONFORME\nMERCI DE VOUS RÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂFÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂRER AUX PHOTOS AFIN DÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂVALUER LÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂTAT PHYSIQUE DE LÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂAPPAREIL.\n\nhttps://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/IgALpvNWKsXmTLuDsoAnFod6ARFIEtpsSZWgzVmB62r_L50?e=wTuhii",
+    "description": "RESTRICTIONS DÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂUTILISATION DE CETTE MACHINE:\n\"10MT NON CONFORME MATERIEL UTILISABLE UNIQUEMENT POUR INDICATEUR\" LE 08/2018\nAUTEUR INCONNU\n\nAPPAREIL NON CONFORME\nMERCI DE VOUS RÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂFÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂRER AUX PHOTOS AFIN DÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂVALUER LÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂTAT PHYSIQUE DE LÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂAPPAREIL.\n\nhttps://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/IgALpvNWKsXmTLuDsoAnFod6ARFIEtpsSZWgzVmB62r_L50?e=wTuhii",
     "unites": [
       {
         "numserie": "1867080",
