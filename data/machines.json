@@ -553,7 +553,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2026-01-27T13:38:33.855Z",
-    "emplacement": "F-5 (CHEZ MENOVA DEPUIS 17/02/2026) + E-5(CHEZ MENOVA DEPUIS 17/02/2026)"
+    "emplacement": "F-5 (CHEZ MENOVA DEPUIS 17/02/2026)+E-5(CHEZ MENOVA DEPUIS 17/02/2026)"
   },
   {
     "marque": "AGILENT",
@@ -2493,7 +2493,7 @@
     "unites": [
       {
         "numserie": "GEW161427",
-        "position": "I-2",
+        "position": "I-2 (CHEZ MENOVA DSEPUIS LE 17/02/2026",
         "etatcvi": "oui",
         "dateFinCVI": "2025-10-01"
       },
@@ -2507,7 +2507,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2026-01-27T13:38:33.855Z",
-    "emplacement": "I-2+J-1"
+    "emplacement": "I-2 (CHEZ MENOVA DSEPUIS LE 17/02/2026 + J-1"
   },
   {
     "marque": "GW INSTEK",
@@ -3035,7 +3035,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2026-01-27T13:38:33.856Z",
-    "emplacement": "F-4(CHEZ MENOVA DEPUIS 17/02/2026) + K-5"
+    "emplacement": "F-4(CHEZ MENOVA DEPUIS 17/02/2026)+K-5"
   },
   {
     "marque": "HP",
@@ -3797,7 +3797,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2026-01-27T13:38:33.856Z",
-    "emplacement": "F-5(CHEZ MENOVA DEPUIS 17/02/2026) + F-4(CHEZ MENOVA DEPUIS 17/02/2026)"
+    "emplacement": "F-5(CHEZ MENOVA DEPUIS 17/02/2026)+F-4(CHEZ MENOVA DEPUIS 17/02/2026)"
   },
   {
     "marque": "KEITHLEY",
@@ -5270,7 +5270,7 @@
     "marque": "SEFELEC",
     "model": "2715",
     "quantite": 1,
-    "description": "RESTRICTIONS DÃÂÃÂ¢ÃÂÃÂÃÂÃÂUTILISATION DE CETTE MACHINE:\n\"10MT NON CONFORME MATERIEL UTILISABLE UNIQUEMENT POUR INDICATEUR\" LE 08/2018\nAUTEUR INCONNU\n\nAPPAREIL NON CONFORME\nMERCI DE VOUS RÃÂÃÂÃÂÃÂFÃÂÃÂÃÂÃÂRER AUX PHOTOS AFIN DÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂVALUER LÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂTAT PHYSIQUE DE LÃÂÃÂ¢ÃÂÃÂÃÂÃÂAPPAREIL.\n\nhttps://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/IgALpvNWKsXmTLuDsoAnFod6ARFIEtpsSZWgzVmB62r_L50?e=wTuhii",
+    "description": "RESTRICTIONS DÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂUTILISATION DE CETTE MACHINE:\n\"10MT NON CONFORME MATERIEL UTILISABLE UNIQUEMENT POUR INDICATEUR\" LE 08/2018\nAUTEUR INCONNU\n\nAPPAREIL NON CONFORME\nMERCI DE VOUS RÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂFÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂRER AUX PHOTOS AFIN DÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂVALUER LÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂTAT PHYSIQUE DE LÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂAPPAREIL.\n\nhttps://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/IgALpvNWKsXmTLuDsoAnFod6ARFIEtpsSZWgzVmB62r_L50?e=wTuhii",
     "unites": [
       {
         "numserie": "1867080",
@@ -7434,7 +7434,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2026-01-27T13:38:33.857Z",
-    "emplacement": "E-4 + K-2 (EN CARTON) + K-2(EN CARTON) + K-3 (EN CARTON) + K-5(CHEZ MENOVA DEPUIS 17/02/2026) + K-5"
+    "emplacement": "E-4+K-2 (EN CARTON)+K-2(EN CARTON)+K-3 (EN CARTON)+K-5(CHEZ MENOVA DEPUIS 17/02/2026)+K-5"
   },
   {
     "marque": "SEFELEC",
