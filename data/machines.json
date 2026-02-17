@@ -3316,7 +3316,7 @@
   {
     "marque": "HP",
     "model": "E4418B",
-    "quantite": 3,
+    "quantite": 2,
     "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/ElC_zKp5HkRAu8lrZUTF4bEB2NuRHpfFNrL5xdxNWgUcfw?e=RJVdUw",
     "unites": [
       {
@@ -3324,12 +3324,6 @@
         "position": "EXP",
         "etatcvi": "oui",
         "dateFinCVI": "2026-12-01"
-      },
-      {
-        "numserie": "MY45102367",
-        "position": "K-4 CHEZ MENOVA DEPUIS 09/12/2025",
-        "etatcvi": "non",
-        "dateFinCVI": null
       },
       {
         "numserie": "MY45108396",
@@ -3341,7 +3335,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2026-01-27T13:38:33.856Z",
-    "emplacement": "EXP + K-4 CHEZ MENOVA DEPUIS 09/12/2025"
+    "emplacement": "EXP"
   },
   {
     "marque": "HP",
