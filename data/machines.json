@@ -3316,15 +3316,9 @@
   {
     "marque": "HP",
     "model": "E4418B",
-    "quantite": 2,
+    "quantite": 1,
     "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/ElC_zKp5HkRAu8lrZUTF4bEB2NuRHpfFNrL5xdxNWgUcfw?e=RJVdUw",
     "unites": [
-      {
-        "numserie": "GB41299786",
-        "position": "EXP",
-        "etatcvi": "oui",
-        "dateFinCVI": "2026-12-01"
-      },
       {
         "numserie": "MY45108396",
         "position": "EXP ",
