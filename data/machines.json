@@ -4820,24 +4820,6 @@
   },
   {
     "marque": "ROHDE & SCHWARZ",
-    "model": "ESR26",
-    "quantite": 1,
-    "description": "CLIENT: HTTX\r\nhttps://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EgC32ogcTFJJme9x67YnJtkBTE5nG8x5fyiB5dswmE6nzw?e=tndbbf",
-    "unites": [
-      {
-        "numserie": "101426",
-        "position": "TABLE DE TRAVAIL (client: HTTX)",
-        "etatcvi": "oui",
-        "dateFinCVI": "2025-01-29"
-      }
-    ],
-    "etatcvi": "non",
-    "dateFinCVI": null,
-    "createdAt": "2026-01-27T13:38:33.856Z",
-    "emplacement": "TABLE DE TRAVAIL (client: HTTX)"
-  },
-  {
-    "marque": "ROHDE & SCHWARZ",
     "model": "OSP130",
     "quantite": 1,
     "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EjJnc-bZHtRCmcGDHHBk5m4B-44M7Qf6Cx6CaCBwhBixJQ?e=adOwTp",
