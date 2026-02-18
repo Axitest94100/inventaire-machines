@@ -3664,15 +3664,9 @@
   {
     "marque": "KEITHLEY",
     "model": "2450",
-    "quantite": 4,
+    "quantite": 3,
     "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/Eg9zZ1yLz8tNmt0tscTbSvEBWS6XPV7x62HCg66Gvfn76w?e=kDo4Ko",
     "unites": [
-      {
-        "numserie": "4322482",
-        "position": "F-4",
-        "etatcvi": "oui",
-        "dateFinCVI": "2024-04-01"
-      },
       {
         "numserie": "4457161",
         "position": "F-4",
@@ -3695,7 +3689,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2026-01-27T13:38:33.856Z",
-    "emplacement": "F-4+F-3"
+    "emplacement": "F-4 + F-3"
   },
   {
     "marque": "KEITHLEY",
