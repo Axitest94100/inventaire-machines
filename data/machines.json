@@ -6432,15 +6432,15 @@
     "unites": [
       {
         "numserie": "LCRY3803N01660",
-        "position": "LAB",
-        "etatcvi": "non",
-        "dateFinCVI": null
+        "position": "A-5",
+        "etatcvi": "oui",
+        "dateFinCVI": "2025-03-01"
       }
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2026-01-27T13:38:33.856Z",
-    "emplacement": "LAB",
+    "emplacement": "A-5",
     "description": "(CHEZ MENOVA DEPUIS 10/02/2026)"
   },
   {
