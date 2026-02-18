@@ -9609,5 +9609,21 @@
       }
     ],
     "createdAt": "2026-02-18T14:06:22.222Z"
+  },
+  {
+    "marque": "KEITHLEY",
+    "model": "6485",
+    "quantite": 1,
+    "emplacement": "F-5",
+    "description": "",
+    "unites": [
+      {
+        "numserie": "1281732",
+        "position": "F-5",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      }
+    ],
+    "createdAt": "2026-02-18T16:38:54.155Z"
   }
 ]
