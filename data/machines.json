@@ -6378,7 +6378,7 @@
     "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EjkY1XfA2UtNqXcXSmtcSwsBdzxFSIlk67lf2aFoXGLh4g?e=M2tsRh",
     "unites": [
       {
-        "numserie": "LCRY0354N1059S",
+        "numserie": "LCRY0354N10595",
         "position": "A-4",
         "etatcvi": "non",
         "dateFinCVI": null
@@ -6399,7 +6399,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2026-01-27T13:38:33.856Z",
-    "emplacement": "A-4+C-4"
+    "emplacement": "A-4 + C-4"
   },
   {
     "marque": "TELEDYNE LECROY",
