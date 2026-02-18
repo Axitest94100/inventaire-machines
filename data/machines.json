@@ -7773,24 +7773,6 @@
     "emplacement": "F-2"
   },
   {
-    "marque": "AGILENT",
-    "model": "E4980A",
-    "quantite": 1,
-    "description": "OPTION: 001\r\n\r\nhttps://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/IgBQDHV19FkoSLQtnc03DwDSAZAoqH3TmjSrL4UCi1i0zhE?e=ILe9Ic",
-    "unites": [
-      {
-        "numserie": "MY46101689",
-        "position": "E-3 (CHEZ MENOVA 17/12/2025)",
-        "etatcvi": "non",
-        "dateFinCVI": null
-      }
-    ],
-    "etatcvi": "non",
-    "dateFinCVI": null,
-    "createdAt": "2026-01-27T13:38:33.857Z",
-    "emplacement": "E-3 (CHEZ MENOVA 17/12/2025)"
-  },
-  {
     "marque": "agilent",
     "model": "E5061A-350",
     "quantite": 1,
