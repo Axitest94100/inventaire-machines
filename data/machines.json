@@ -9269,8 +9269,8 @@
       {
         "numserie": "GB41299786",
         "position": "F-4",
-        "etatcvi": "non",
-        "dateFinCVI": null
+        "etatcvi": "oui",
+        "dateFinCVI": "2026-02-01"
       }
     ],
     "etatcvi": "non",
