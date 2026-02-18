@@ -9263,7 +9263,7 @@
   {
     "marque": "AGILENT",
     "model": "E4418B",
-    "quantite": 1,
+    "quantite": 2,
     "description": "",
     "unites": [
       {
@@ -9271,12 +9271,18 @@
         "position": "EXP",
         "etatcvi": "oui",
         "dateFinCVI": "2026-12-01"
+      },
+      {
+        "numserie": "GB41299786",
+        "position": "F-4",
+        "etatcvi": "non",
+        "dateFinCVI": null
       }
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2026-01-27T13:38:33.857Z",
-    "emplacement": "EXP"
+    "emplacement": "EXP + F-4"
   },
   {
     "marque": "RACAL",
