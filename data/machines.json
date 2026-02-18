@@ -5585,20 +5585,20 @@
       {
         "numserie": "C001765",
         "position": "A-1",
-        "etatcvi": "non",
-        "dateFinCVI": null
+        "etatcvi": "oui",
+        "dateFinCVI": "2027-02-01"
       },
       {
         "numserie": "C001489",
         "position": "A-1",
-        "etatcvi": "non",
-        "dateFinCVI": null
+        "etatcvi": "oui",
+        "dateFinCVI": "2027-02-01"
       },
       {
         "numserie": "C001782",
         "position": "A-1",
-        "etatcvi": "non",
-        "dateFinCVI": null
+        "etatcvi": "oui",
+        "dateFinCVI": "2027-02-01"
       }
     ],
     "etatcvi": "non",
