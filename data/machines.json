@@ -9620,8 +9620,8 @@
       {
         "numserie": "1281732",
         "position": "F-5",
-        "etatcvi": "non",
-        "dateFinCVI": null
+        "etatcvi": "oui",
+        "dateFinCVI": "2026-12-01"
       }
     ],
     "createdAt": "2026-02-18T16:38:54.155Z"
