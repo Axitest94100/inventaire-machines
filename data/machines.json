@@ -3315,24 +3315,6 @@
   },
   {
     "marque": "HP",
-    "model": "E4418B",
-    "quantite": 1,
-    "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/ElC_zKp5HkRAu8lrZUTF4bEB2NuRHpfFNrL5xdxNWgUcfw?e=RJVdUw",
-    "unites": [
-      {
-        "numserie": "MY45108396",
-        "position": "EXP ",
-        "etatcvi": "non",
-        "dateFinCVI": null
-      }
-    ],
-    "etatcvi": "non",
-    "dateFinCVI": null,
-    "createdAt": "2026-01-27T13:38:33.856Z",
-    "emplacement": "EXP"
-  },
-  {
-    "marque": "HP",
     "model": "3585A",
     "quantite": 1,
     "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EtMGqE6UdlZEu-FUKRujAMoBuy1BSKuGLcue1QYNZq0Q9Q?e=cttGVT",
