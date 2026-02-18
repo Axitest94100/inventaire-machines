@@ -9262,7 +9262,7 @@
     "unites": [
       {
         "numserie": "MY40511716",
-        "position": "EXP",
+        "position": "F-4",
         "etatcvi": "oui",
         "dateFinCVI": "2026-12-01"
       },
@@ -9276,7 +9276,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2026-01-27T13:38:33.857Z",
-    "emplacement": "EXP + F-4"
+    "emplacement": "F-4"
   },
   {
     "marque": "RACAL",
