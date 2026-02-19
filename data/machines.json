@@ -175,7 +175,7 @@
     "marque": "AGILENT",
     "model": "E5061A-ATO-25493",
     "quantite": 1,
-    "description": "OPT: 016 250\r\nhttps://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EmTHaTnTulRAuKiI9RG4VI0B7v_xopq2miIufMMwAZRM9g?e=hSSpfV",
+    "description": "OPT: 016 250\nhttps://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EmTHaTnTulRAuKiI9RG4VI0B7v_xopq2miIufMMwAZRM9g?e=hSSpfV",
     "unites": [
       {
         "numserie": "MY44203241",
@@ -1434,7 +1434,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2026-01-27T13:38:33.855Z",
-    "emplacement": "F-2 (CA8336 SN: 201957YKH) + J-4 (CA8336 SN:197859YKH) + J-4 (CA8336 SN:197865YKH) + F-2 (CA8336 SN: 197865YKH) + F-1 + F-1 (CA8336 SN: 197859YKH) + F-1 (CHEZ MENOVA DEPUIS LE 10/12/2025 POUR CVI)"
+    "emplacement": "F-2 (CA8336 SN: 201957YKH)+J-4 (CA8336 SN:197859YKH)+J-4 (CA8336 SN:197865YKH)+F-2 (CA8336 SN: 197865YKH)+F-1+F-1 (CA8336 SN: 197859YKH)+F-1 (CHEZ MENOVA DEPUIS LE 10/12/2025 POUR CVI)"
   },
   {
     "marque": "CHAUVIN ARNOUX",
@@ -3671,7 +3671,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2026-01-27T13:38:33.856Z",
-    "emplacement": "F-4 + F-3"
+    "emplacement": "F-4+F-3"
   },
   {
     "marque": "KEITHLEY",
@@ -6339,7 +6339,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2026-01-27T13:38:33.856Z",
-    "emplacement": "A-4 + C-4"
+    "emplacement": "A-4+C-4"
   },
   {
     "marque": "TELEDYNE LECROY",
@@ -6560,7 +6560,7 @@
   },
   {
     "marque": "TELEDYNE LECROY",
-    "model": "HDO61048MS",
+    "model": "HDO6104BMS",
     "quantite": 1,
     "unites": [
       {
@@ -6573,7 +6573,8 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2026-01-27T13:38:33.857Z",
-    "emplacement": "B-4"
+    "emplacement": "B-4",
+    "description": ""
   },
   {
     "marque": "TELEDYNE LECROY",
