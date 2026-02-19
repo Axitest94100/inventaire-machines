@@ -2439,7 +2439,7 @@
     "unites": [
       {
         "numserie": "GEW120577",
-        "position": "H-4",
+        "position": "L-2",
         "etatcvi": "non",
         "dateFinCVI": null
       }
@@ -2447,7 +2447,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2026-01-27T13:38:33.855Z",
-    "emplacement": "H-4"
+    "emplacement": "L-2"
   },
   {
     "marque": "GW INSTEK",
