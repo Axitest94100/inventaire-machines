@@ -6448,23 +6448,6 @@
   },
   {
     "marque": "TELEDYNE LECROY",
-    "model": "WAVESURFER3024",
-    "quantite": 1,
-    "unites": [
-      {
-        "numserie": "LCRY3703N15988",
-        "position": "B-1",
-        "etatcvi": "non",
-        "dateFinCVI": null
-      }
-    ],
-    "etatcvi": "non",
-    "dateFinCVI": null,
-    "createdAt": "2026-01-27T13:38:33.857Z",
-    "emplacement": "B-1"
-  },
-  {
-    "marque": "TELEDYNE LECROY",
     "model": "LT344",
     "quantite": 1,
     "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/Em28RrYZjZ1Ctmtyy1qSbIMB-Q4I44gGF0Mb8_hpqndl-w?e=hHevzG",
