@@ -1468,7 +1468,7 @@
       },
       {
         "numserie": "197861YKH",
-        "position": "I-1",
+        "position": "J-4",
         "etatcvi": "non",
         "dateFinCVI": null
       },
@@ -1536,7 +1536,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2026-01-27T13:38:33.855Z",
-    "emplacement": "J-3 + I-1 + J-4 + J-4 (LOCATION LAFON ELECTRIQUE DU 28/01/2026 AU 11/02/2026) + K-5"
+    "emplacement": "J-3 + J-4 + I-1 + J-4 (LOCATION LAFON ELECTRIQUE DU 28/01/2026 AU 11/02/2026) + K-5"
   },
   {
     "marque": "CHAUVIN ARNOUX",
