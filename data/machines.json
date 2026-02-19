@@ -191,24 +191,6 @@
   },
   {
     "marque": "AGILENT",
-    "model": "N4431-60006",
-    "quantite": 1,
-    "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EpAVQmCH6EtFoBhjIl3-WccBxkF2bA4vlQvXb8iUyHb2yg?e=kb2ZuF",
-    "unites": [
-      {
-        "numserie": "MY52230621",
-        "position": "C-5",
-        "etatcvi": "oui",
-        "dateFinCVI": "2023-10-01"
-      }
-    ],
-    "etatcvi": "non",
-    "dateFinCVI": null,
-    "createdAt": "2026-01-27T13:38:33.855Z",
-    "emplacement": "C-5"
-  },
-  {
-    "marque": "AGILENT",
     "model": "6634B",
     "quantite": 3,
     "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/ElgDvm3eZ9NEqXInMx0dHVUBLAeeqg4qyhMEQlRchefjOA?e=4Ri604",
