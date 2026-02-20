@@ -563,7 +563,7 @@
     "unites": [
       {
         "numserie": "2823A01207",
-        "position": "F-5 (07/10/2025 (EN PANNE CHEZ ASERTI))",
+        "position": "EXP",
         "etatcvi": "non",
         "dateFinCVI": null
       },
@@ -577,7 +577,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2026-01-27T13:38:33.855Z",
-    "emplacement": "F-5 (07/10/2025 (EN PANNE CHEZ ASERTI))+F-5"
+    "emplacement": "EXP + F-5"
   },
   {
     "marque": "AGILENT",
