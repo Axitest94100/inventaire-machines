@@ -1600,7 +1600,7 @@
     "unites": [
       {
         "numserie": "1735360/1746409 + 17370376/1746336",
-        "position": "J-4 (LOCATION OLYRAN SAS DU 02/02/2026 AU 09/02/2026)",
+        "position": "LAB",
         "etatcvi": "oui",
         "dateFinCVI": "2026-01-31"
       }
@@ -1608,7 +1608,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2026-01-27T13:38:33.855Z",
-    "emplacement": "J-4 (LOCATION OLYRAN SAS DU 02/02/2026 AU 09/02/2026)"
+    "emplacement": "LAB"
   },
   {
     "marque": "CHROMA",
