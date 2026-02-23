@@ -577,7 +577,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2026-01-27T13:38:33.855Z",
-    "emplacement": "EXP + F-5"
+    "emplacement": "EXP+F-5"
   },
   {
     "marque": "AGILENT",
@@ -1536,7 +1536,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2026-01-27T13:38:33.855Z",
-    "emplacement": "J-3 + J-4 + I-1 + K-5"
+    "emplacement": "J-3+J-4+I-1+K-5"
   },
   {
     "marque": "CHAUVIN ARNOUX",
@@ -5553,7 +5553,7 @@
       },
       {
         "numserie": "C010254",
-        "position": "A-2",
+        "position": "A-2(CHEZ MENOVA DEPUIS 23/02/2026)",
         "etatcvi": "non",
         "dateFinCVI": null
       }
@@ -5561,7 +5561,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2026-01-27T13:38:33.856Z",
-    "emplacement": "A-2"
+    "emplacement": "A-2 + A-2(CHEZ MENOVA DEPUIS 23/02/2026)"
   },
   {
     "marque": "TEKTRONIX",
