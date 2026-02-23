@@ -9137,24 +9137,6 @@
     "emplacement": "F-4"
   },
   {
-    "marque": "SEFELEC",
-    "model": "PREMIER 2802",
-    "quantite": 1,
-    "description": "NEUF",
-    "unites": [
-      {
-        "numserie": "GNX197001",
-        "position": "EXP",
-        "etatcvi": "non",
-        "dateFinCVI": null
-      }
-    ],
-    "etatcvi": "non",
-    "dateFinCVI": null,
-    "createdAt": "2026-01-27T13:38:33.857Z",
-    "emplacement": "EXP"
-  },
-  {
     "marque": "NI",
     "model": "PXI8176",
     "quantite": 2,
