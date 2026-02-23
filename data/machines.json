@@ -4802,24 +4802,6 @@
   },
   {
     "marque": "ROHDE & SCHWARZ",
-    "model": "SMB100A",
-    "quantite": 1,
-    "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EvtZ3wvzvt9KsaJE5c_nju0BSojbwxZpmO6JJG_6RHdzjQ?e=O0zMbl",
-    "unites": [
-      {
-        "numserie": "113658",
-        "position": "M-4 ( CHEZ MENOVA DEPUIS LE 23/12/2025)",
-        "etatcvi": "non",
-        "dateFinCVI": null
-      }
-    ],
-    "etatcvi": "non",
-    "dateFinCVI": null,
-    "createdAt": "2026-01-27T13:38:33.856Z",
-    "emplacement": "M-4 ( CHEZ MENOVA DEPUIS LE 23/12/2025)"
-  },
-  {
-    "marque": "ROHDE & SCHWARZ",
     "model": "URE2",
     "quantite": 1,
     "description": "CVI: M2507032\r\nhttps://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EsSs9Ir4W-tIu_xBlkN9T8cBy6V5etpBO2XZVaadGUM17w?e=uIQC3B",
