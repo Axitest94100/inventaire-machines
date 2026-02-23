@@ -9143,24 +9143,6 @@
     "emplacement": "F-4"
   },
   {
-    "marque": "RACAL",
-    "model": "6061A",
-    "quantite": 1,
-    "description": "",
-    "unites": [
-      {
-        "numserie": "0044156",
-        "position": "EXP",
-        "etatcvi": "oui",
-        "dateFinCVI": "2026-12-01"
-      }
-    ],
-    "etatcvi": "non",
-    "dateFinCVI": null,
-    "createdAt": "2026-01-27T13:38:33.857Z",
-    "emplacement": "EXP"
-  },
-  {
     "marque": "SEFELEC",
     "model": "PREMIER 2802",
     "quantite": 1,
