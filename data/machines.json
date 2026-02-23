@@ -827,24 +827,6 @@
   },
   {
     "marque": "AGILENT",
-    "model": "N5183B",
-    "quantite": 1,
-    "description": "PRET CHEZ MENOVA DEPUIS 06/2025",
-    "unites": [
-      {
-        "numserie": "MY57281138",
-        "position": "D-5 (PRET CHEZ MENOVA) DEPUIS 06/2025",
-        "etatcvi": "non",
-        "dateFinCVI": null
-      }
-    ],
-    "etatcvi": "non",
-    "dateFinCVI": null,
-    "createdAt": "2026-01-27T13:38:33.855Z",
-    "emplacement": "D-5 (PRET CHEZ MENOVA) DEPUIS 06/2025"
-  },
-  {
-    "marque": "AGILENT",
     "model": "54852A",
     "quantite": 1,
     "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EoOr95_2QohAmUJGUwOZsKkBB4iUeY4iVc1_CnH3jBE4jw?e=bLaLPF",
