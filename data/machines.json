@@ -9387,5 +9387,21 @@
       }
     ],
     "createdAt": "2026-02-18T16:38:54.155Z"
+  },
+  {
+    "marque": "HAMEG",
+    "model": "HM8027",
+    "quantite": 1,
+    "emplacement": "L-4",
+    "description": "APPAREIL HS",
+    "unites": [
+      {
+        "numserie": "8712P2124",
+        "position": "L-4",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      }
+    ],
+    "createdAt": "2026-02-23T14:34:06.541Z"
   }
 ]
