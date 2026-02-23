@@ -48,7 +48,7 @@
     "unites": [
       {
         "numserie": "3410031054",
-        "position": "B-2 (chez menova 01/08/2025) CLIENT CILAS",
+        "position": "B-2 (CHEZ MENOVA 01/08/2025) CLIENT CILAS",
         "etatcvi": "oui",
         "dateFinCVI": "2025-01-01"
       }
@@ -56,7 +56,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2026-01-27T13:38:33.855Z",
-    "emplacement": "B-2 (chez menova 01/08/2025) CLIENT CILAS"
+    "emplacement": "B-2 (CHEZ MENOVA 01/08/2025) CLIENT CILAS"
   },
   {
     "marque": "AEROFLEX",
