@@ -755,7 +755,7 @@
     "unites": [
       {
         "numserie": "MY46001243",
-        "position": "J-1 PARTIE CHEZ MENOVA",
+        "position": "J-1 PARTIE CHEZ MENOVA DEPUIS 29/09/2025)",
         "etatcvi": "non",
         "dateFinCVI": null
       }
@@ -763,7 +763,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2026-01-27T13:38:33.855Z",
-    "emplacement": "J-1 PARTIE CHEZ MENOVA"
+    "emplacement": "J-1 PARTIE CHEZ MENOVA DEPUIS 29/09/2025)"
   },
   {
     "marque": "AGILENT",
