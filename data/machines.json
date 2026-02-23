@@ -917,24 +917,6 @@
   },
   {
     "marque": "ANRITSU",
-    "model": "MG3692A",
-    "quantite": 1,
-    "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EsK1CSHqVEtDgh2MGayoz2EByoe2RCy93vCfI3L6GtosUg?e=RmAJNP",
-    "unites": [
-      {
-        "numserie": "030608",
-        "position": "I-1",
-        "etatcvi": "non",
-        "dateFinCVI": null
-      }
-    ],
-    "etatcvi": "non",
-    "dateFinCVI": null,
-    "createdAt": "2026-01-27T13:38:33.855Z",
-    "emplacement": "I-1"
-  },
-  {
-    "marque": "ANRITSU",
     "model": "MH680A1",
     "quantite": 1,
     "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/Emy89c31X_pOlVCjUD9PZ-IBVpwtSq9be05c_-ZoI7gF9g?e=Dr66cu",
