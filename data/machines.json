@@ -5795,7 +5795,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2026-01-27T13:38:33.856Z",
-    "emplacement": "A-3(CHEZ MENOVA DEPUIS 24/02/2026) + A-2(CHEZ MENOVA DEPUIS 24/02/2026)"
+    "emplacement": "A-3(CHEZ MENOVA DEPUIS 24/02/2026)+A-2(CHEZ MENOVA DEPUIS 24/02/2026)"
   },
   {
     "marque": "TEKTRONIX",
@@ -9201,24 +9201,6 @@
     "dateFinCVI": null,
     "createdAt": "2026-01-27T13:38:33.857Z",
     "emplacement": "LAB"
-  },
-  {
-    "marque": "SEFELEC",
-    "model": "56D",
-    "quantite": 1,
-    "description": "NEUF",
-    "unites": [
-      {
-        "numserie": "2560874",
-        "position": "EXP",
-        "etatcvi": "non",
-        "dateFinCVI": null
-      }
-    ],
-    "etatcvi": "non",
-    "dateFinCVI": null,
-    "createdAt": "2026-01-27T13:38:33.857Z",
-    "emplacement": "EXP"
   },
   {
     "marque": "SEFELEC",
