@@ -7023,15 +7023,9 @@
   {
     "marque": "XANTREX",
     "model": "XFR600-4",
-    "quantite": 10,
+    "quantite": 9,
     "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/Err3IpZRQlZOrMGOy1EJLboBAMGv7iCxFJZ0aNR5lxvtbQ?e=V9VLiH",
     "unites": [
-      {
-        "numserie": "EDO136292",
-        "position": "D-5",
-        "etatcvi": "oui",
-        "dateFinCVI": "2025-10-01"
-      },
       {
         "numserie": "75620",
         "position": "D-5",
@@ -7090,7 +7084,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2026-01-27T13:38:33.857Z",
-    "emplacement": "D-5+K-4+D-3+K-3+K-5"
+    "emplacement": "D-5 + K-4 + D-3 + K-3 + K-5"
   },
   {
     "marque": "YOKOGAWA",
