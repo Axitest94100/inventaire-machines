@@ -5300,23 +5300,6 @@
   },
   {
     "marque": "TDK LAMBDA",
-    "model": "GEN100-15",
-    "quantite": 1,
-    "unites": [
-      {
-        "numserie": "LOC-203B390-00012",
-        "position": "D-1",
-        "etatcvi": "oui",
-        "dateFinCVI": "2023-12-01"
-      }
-    ],
-    "etatcvi": "non",
-    "dateFinCVI": null,
-    "createdAt": "2026-01-27T13:38:33.856Z",
-    "emplacement": "D-1"
-  },
-  {
-    "marque": "TDK LAMBDA",
     "model": "GEN150-34",
     "quantite": 1,
     "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/Euv7ylbazilMtSbw0ODSho8B885tiBTDoeYimHY8b6MJQA?e=X8vrZr",
