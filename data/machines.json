@@ -558,15 +558,9 @@
   {
     "marque": "AGILENT",
     "model": "3458A",
-    "quantite": 2,
+    "quantite": 1,
     "description": "MY45048857= OPT001\r\n2823A01207= SANS OPT ASERTI 07/10/2025 (EN PANNE CHEZ ASERTI)\r\n\r\nhttps://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EmmIzYWcr8dFvvk_v2OvmQkBPkUGEq0Nb8NW37UE5W905Q?e=WPicla",
     "unites": [
-      {
-        "numserie": "2823A01207",
-        "position": "EXP",
-        "etatcvi": "non",
-        "dateFinCVI": null
-      },
       {
         "numserie": "MY45048857",
         "position": "F-5",
@@ -577,7 +571,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2026-01-27T13:38:33.855Z",
-    "emplacement": "EXP+F-5"
+    "emplacement": "F-5"
   },
   {
     "marque": "AGILENT",
