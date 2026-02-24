@@ -6906,7 +6906,7 @@
     "unites": [
       {
         "numserie": "0813514",
-        "position": "H-3 (CHEZ MENOVA DEPUIS LE 10/02/2026)",
+        "position": "H-3",
         "etatcvi": "non",
         "dateFinCVI": null
       }
@@ -6914,7 +6914,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2026-01-27T13:38:33.857Z",
-    "emplacement": "H-3 (CHEZ MENOVA DEPUIS LE 10/02/2026)"
+    "emplacement": "H-3"
   },
   {
     "marque": "WILLTEK",
