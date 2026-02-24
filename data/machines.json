@@ -3189,7 +3189,7 @@
     "unites": [
       {
         "numserie": "2940A-01589",
-        "position": "J-2 CHEZ MENOVA 23/07/2025",
+        "position": "J-2 (CHEZ MENOVA 23/07/2025)",
         "etatcvi": "non",
         "dateFinCVI": null
       }
@@ -3197,7 +3197,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2026-01-27T13:38:33.856Z",
-    "emplacement": "J-2 CHEZ MENOVA 23/07/2025"
+    "emplacement": "J-2 (CHEZ MENOVA 23/07/2025)"
   },
   {
     "marque": "HP",
