@@ -83,9 +83,9 @@
     "unites": [
       {
         "numserie": "MY48080123",
-        "position": "A-1(CHEZ MENOVA DEPUIS 17/02/2026)",
-        "etatcvi": "non",
-        "dateFinCVI": null
+        "position": "A-1",
+        "etatcvi": "oui",
+        "dateFinCVI": "2027-02-01"
       },
       {
         "numserie": "MY48080126",
@@ -97,7 +97,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2026-01-27T13:38:33.855Z",
-    "emplacement": "A-1(CHEZ MENOVA DEPUIS 17/02/2026)"
+    "emplacement": "A-1 + A-1(CHEZ MENOVA DEPUIS 17/02/2026)"
   },
   {
     "marque": "AGILENT",
