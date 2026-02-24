@@ -124,16 +124,16 @@
     "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/Esr1sGBf8iVJijAglYTGzq8BpveCxmgoZASLrg2CTO1qjg?e=XW3HQf",
     "unites": [
       {
-        "numserie": "11Y50514864",
-        "position": "B-3(CHEZ MENOVA DEPUIS 17/02/2026)",
+        "numserie": "MY50514864",
+        "position": "B-3",
         "etatcvi": "oui",
-        "dateFinCVI": "2025-04-01"
+        "dateFinCVI": "2027-02-01"
       }
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2026-01-27T13:38:33.855Z",
-    "emplacement": "B-3(CHEZ MENOVA DEPUIS 17/02/2026)"
+    "emplacement": "B-3"
   },
   {
     "marque": "AGILENT",
