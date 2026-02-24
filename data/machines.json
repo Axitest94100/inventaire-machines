@@ -6923,7 +6923,7 @@
     "unites": [
       {
         "numserie": "0413088",
-        "position": "J-2",
+        "position": "H-3",
         "etatcvi": "oui",
         "dateFinCVI": "2025-10-01"
       }
@@ -6931,7 +6931,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2026-01-27T13:38:33.857Z",
-    "emplacement": "J-2",
+    "emplacement": "H-3",
     "description": "(CHEZ MENOVA DEPUIS LE 10/02/2026)"
   },
   {
