@@ -7079,7 +7079,7 @@
   {
     "marque": "AGILENT",
     "model": "34401A",
-    "quantite": 19,
+    "quantite": 18,
     "description": "POUR LE MY53007137 SON CARTON EST ABIME\nDE PLUS SN DIFFERENT ENTRE LE CARTON ET SUR APPAREIL MY53007137(CARTON) OR MY53007037(APPAREIL) (VOIR LES PHOTOS)\n\n\nhttps://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EhoXnXJCoRNHvuRiQNgZrKQBqREWX7rM5wStfb7s3C-elw?e=Sk6vFn",
     "unites": [
       {
@@ -7087,12 +7087,6 @@
         "position": "E-4",
         "etatcvi": "oui",
         "dateFinCVI": "2026-10-01"
-      },
-      {
-        "numserie": "MY53005019",
-        "position": "K-2 (EN CARTON)",
-        "etatcvi": "non",
-        "dateFinCVI": null
       },
       {
         "numserie": "MY53004989",
@@ -7200,7 +7194,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2026-01-27T13:38:33.857Z",
-    "emplacement": "E-4 + K-2 (EN CARTON) + K-2(EN CARTON) + K-3 (EN CARTON) + K-5(CHEZ MENOVA DEPUIS 17/02/2026) + K-5"
+    "emplacement": "E-4 + K-2(EN CARTON) + K-2 (EN CARTON) + K-3 (EN CARTON) + K-5(CHEZ MENOVA DEPUIS 17/02/2026) + K-5"
   },
   {
     "marque": "SEFELEC",
