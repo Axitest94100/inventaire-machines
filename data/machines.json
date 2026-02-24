@@ -1374,7 +1374,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2026-01-27T13:38:33.855Z",
-    "emplacement": "F-2 (CA8336 SN: 201957YKH) + J-4 (CA8336 SN:197859YKH) + J-4 (CA8336 SN:197865YKH) + F-2 (CA8336 SN: 197865YKH) + F-1 + F-1 (CA8336 SN: 197859YKH)"
+    "emplacement": "F-2 (CA8336 SN: 201957YKH)+J-4 (CA8336 SN:197859YKH)+J-4 (CA8336 SN:197865YKH)+F-2 (CA8336 SN: 197865YKH)+F-1+F-1 (CA8336 SN: 197859YKH)"
   },
   {
     "marque": "CHAUVIN ARNOUX",
@@ -6923,7 +6923,7 @@
     "unites": [
       {
         "numserie": "0413088",
-        "position": "J-2 (CHEZ MENOVA DEPUIS LE 10/02/2026)",
+        "position": "J-2",
         "etatcvi": "oui",
         "dateFinCVI": "2025-10-01"
       }
@@ -6931,7 +6931,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2026-01-27T13:38:33.857Z",
-    "emplacement": "J-2 (CHEZ MENOVA DEPUIS LE 10/02/2026)",
+    "emplacement": "J-2",
     "description": "(CHEZ MENOVA DEPUIS LE 10/02/2026)"
   },
   {
