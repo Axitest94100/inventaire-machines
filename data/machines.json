@@ -107,15 +107,15 @@
     "unites": [
       {
         "numserie": "MY50510886",
-        "position": "A-4(CHEZ MENOVA DEPUIS 17/02/2026)",
+        "position": "A-4",
         "etatcvi": "oui",
-        "dateFinCVI": "2025-05-01"
+        "dateFinCVI": "2027-02-01"
       }
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2026-01-27T13:38:33.855Z",
-    "emplacement": "A-4(CHEZ MENOVA DEPUIS 17/02/2026)"
+    "emplacement": "A-4"
   },
   {
     "marque": "AGILENT",
@@ -7168,7 +7168,7 @@
       },
       {
         "numserie": "MY45038755",
-        "position": "",
+        "position": "K-5",
         "etatcvi": "non",
         "dateFinCVI": null
       },
@@ -7200,7 +7200,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2026-01-27T13:38:33.857Z",
-    "emplacement": "E-4+K-2 (EN CARTON)+K-2(EN CARTON)+K-3 (EN CARTON)+K-5(CHEZ MENOVA DEPUIS 17/02/2026)+K-5"
+    "emplacement": "E-4 + K-2 (EN CARTON) + K-2(EN CARTON) + K-3 (EN CARTON) + K-5(CHEZ MENOVA DEPUIS 17/02/2026) + K-5"
   },
   {
     "marque": "SEFELEC",
