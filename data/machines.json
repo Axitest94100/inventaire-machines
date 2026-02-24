@@ -535,7 +535,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2026-01-27T13:38:33.855Z",
-    "emplacement": "F-5 + E-5 + E-5(CHEZ MENOVA DEPUIS 17/02/2026)"
+    "emplacement": "F-5+E-5+E-5(CHEZ MENOVA DEPUIS 17/02/2026)"
   },
   {
     "marque": "AGILENT",
@@ -7188,7 +7188,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2026-01-27T13:38:33.857Z",
-    "emplacement": "E-4 + K-2 (EN CARTON) + K-3 (EN CARTON) + K-5(CHEZ MENOVA DEPUIS 17/02/2026) + K-5"
+    "emplacement": "E-4+K-2 (EN CARTON)+K-3 (EN CARTON)+K-5(CHEZ MENOVA DEPUIS 17/02/2026)+K-5"
   },
   {
     "marque": "SEFELEC",
@@ -7452,7 +7452,7 @@
     "marque": "HP",
     "model": "6642A",
     "quantite": 3,
-    "description": "",
+    "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/IgBrdmPvOg29SohePM_tLWbCAWDRZKGaLwTi-OJSEyMNS9c?e=GLqhvC",
     "unites": [
       {
         "numserie": "3619A01513",
