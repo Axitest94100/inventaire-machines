@@ -755,7 +755,7 @@
     "unites": [
       {
         "numserie": "MY46001243",
-        "position": "J-1 PARTIE CHEZ MENOVA DEPUIS 29/09/2025)",
+        "position": "J-1 (PARTIE CHEZ MENOVA DEPUIS 29/09/2025)",
         "etatcvi": "non",
         "dateFinCVI": null
       }
@@ -763,7 +763,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2026-01-27T13:38:33.855Z",
-    "emplacement": "J-1 PARTIE CHEZ MENOVA DEPUIS 29/09/2025)"
+    "emplacement": "J-1 (PARTIE CHEZ MENOVA DEPUIS 29/09/2025)"
   },
   {
     "marque": "AGILENT",
@@ -887,7 +887,7 @@
     "unites": [
       {
         "numserie": "MY49431173",
-        "position": "I-1 (partie chez menova 14/10/2025)",
+        "position": "I-1 (PARTIE CHEZ MENOVA 14/10/2025)",
         "etatcvi": "oui",
         "dateFinCVI": "2023-10-01"
       }
@@ -895,7 +895,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2026-01-27T13:38:33.855Z",
-    "emplacement": "I-1 (partie chez menova 14/10/2025)"
+    "emplacement": "I-1 (PARTIE CHEZ MENOVA 14/10/2025)"
   },
   {
     "marque": "ANRITSU",
@@ -1336,7 +1336,7 @@
       },
       {
         "numserie": "199332YKH",
-        "position": "F-1 (CHEZ MENOVA DEPUIS LE 10/12/2025 POUR CVI)",
+        "position": "F-1",
         "etatcvi": "non",
         "dateFinCVI": null
       },
@@ -1374,7 +1374,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2026-01-27T13:38:33.855Z",
-    "emplacement": "F-2 (CA8336 SN: 201957YKH)+J-4 (CA8336 SN:197859YKH)+J-4 (CA8336 SN:197865YKH)+F-2 (CA8336 SN: 197865YKH)+F-1+F-1 (CA8336 SN: 197859YKH)+F-1 (CHEZ MENOVA DEPUIS LE 10/12/2025 POUR CVI)"
+    "emplacement": "F-2 (CA8336 SN: 201957YKH) + J-4 (CA8336 SN:197859YKH) + J-4 (CA8336 SN:197865YKH) + F-2 (CA8336 SN: 197865YKH) + F-1 + F-1 (CA8336 SN: 197859YKH)"
   },
   {
     "marque": "CHAUVIN ARNOUX",
