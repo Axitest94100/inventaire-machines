@@ -521,9 +521,9 @@
       },
       {
         "numserie": "MY47006229",
-        "position": "E-5(CHEZ MENOVA DEPUIS 17/02/2026)",
+        "position": "E-5",
         "etatcvi": "oui",
-        "dateFinCVI": "2026-08-01"
+        "dateFinCVI": "2027-02-01"
       },
       {
         "numserie": "MY47002075",
@@ -535,7 +535,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2026-01-27T13:38:33.855Z",
-    "emplacement": "F-5 + E-5(CHEZ MENOVA DEPUIS 17/02/2026)"
+    "emplacement": "F-5 + E-5 + E-5(CHEZ MENOVA DEPUIS 17/02/2026)"
   },
   {
     "marque": "AGILENT",
@@ -2534,16 +2534,16 @@
     "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/Ev_mkEvsV0tNvNGsryROZecBQ3JqGmVQVTST_fWsiylIGw?e=9bfRK2",
     "unites": [
       {
-        "numserie": "US3915070B",
-        "position": "A-4(CHEZ MENOVA DEPUIS 17/02/2026)",
-        "etatcvi": "non",
-        "dateFinCVI": null
+        "numserie": "US39150708",
+        "position": "A-4",
+        "etatcvi": "oui",
+        "dateFinCVI": "2027-02-01"
       }
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2026-01-27T13:38:33.856Z",
-    "emplacement": "A-4(CHEZ MENOVA DEPUIS 17/02/2026)"
+    "emplacement": "A-4"
   },
   {
     "marque": "HP",
