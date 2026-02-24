@@ -143,7 +143,7 @@
     "unites": [
       {
         "numserie": "MY55030113",
-        "position": "B-4",
+        "position": "B-3",
         "etatcvi": "oui",
         "dateFinCVI": "2027-02-01"
       }
@@ -151,7 +151,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2026-01-27T13:38:33.855Z",
-    "emplacement": "B-4"
+    "emplacement": "B-3"
   },
   {
     "marque": "AGILENT",
