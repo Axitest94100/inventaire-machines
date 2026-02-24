@@ -2458,8 +2458,8 @@
       {
         "numserie": "GTX180625",
         "position": "I-4",
-        "etatcvi": "non",
-        "dateFinCVI": null
+        "etatcvi": "oui",
+        "dateFinCVI": "2027-02-01"
       },
       {
         "numserie": "@",
