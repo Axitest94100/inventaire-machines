@@ -6524,7 +6524,8 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2026-01-27T13:38:33.857Z",
-    "emplacement": "C-3"
+    "emplacement": "C-3",
+    "description": ""
   },
   {
     "marque": "TELEDYNE LECROY",
