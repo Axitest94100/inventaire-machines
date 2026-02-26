@@ -7026,9 +7026,9 @@
     "unites": [
       {
         "numserie": "41CB0013",
-        "position": "F-5(CHEZ MENOVA DEPUIS 17/02/2026)",
-        "etatcvi": "non",
-        "dateFinCVI": null
+        "position": "F-5",
+        "etatcvi": "oui",
+        "dateFinCVI": "2027-02-26"
       },
       {
         "numserie": "51WFD687",
@@ -7040,7 +7040,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2026-01-27T13:38:33.857Z",
-    "emplacement": "F-5(CHEZ MENOVA DEPUIS 17/02/2026)"
+    "emplacement": "F-5 + F-5(CHEZ MENOVA DEPUIS 17/02/2026)"
   },
   {
     "marque": "YOKOGAWA",
