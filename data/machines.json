@@ -6054,7 +6054,7 @@
   {
     "marque": "TEKTRONIX",
     "model": "2225",
-    "quantite": 2,
+    "quantite": 3,
     "unites": [
       {
         "numserie": "H708609",
@@ -6064,6 +6064,12 @@
       },
       {
         "numserie": "j311246",
+        "position": "L-1",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      },
+      {
+        "numserie": "208584",
         "position": "L-1",
         "etatcvi": "non",
         "dateFinCVI": null
