@@ -5487,7 +5487,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2026-01-27T13:38:33.856Z",
-    "emplacement": "A-2 + A-2(CHEZ MENOVA DEPUIS 24/02/2026)"
+    "emplacement": "A-2+A-2(CHEZ MENOVA DEPUIS 24/02/2026)"
   },
   {
     "marque": "TEKTRONIX",
@@ -5721,7 +5721,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2026-01-27T13:38:33.856Z",
-    "emplacement": "A-3 + A-2(CHEZ MENOVA DEPUIS 24/02/2026)"
+    "emplacement": "A-3+A-2(CHEZ MENOVA DEPUIS 24/02/2026)"
   },
   {
     "marque": "TEKTRONIX",
@@ -7519,7 +7519,7 @@
     "unites": [
       {
         "numserie": "1041082",
-        "position": "F-4",
+        "position": "F-5",
         "etatcvi": "oui",
         "dateFinCVI": "2027-02-01"
       }
@@ -7527,7 +7527,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2026-01-27T13:38:33.857Z",
-    "emplacement": "F-4"
+    "emplacement": "F-5"
   },
   {
     "marque": "WAVETEK",
