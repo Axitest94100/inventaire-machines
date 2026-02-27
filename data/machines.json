@@ -5951,15 +5951,15 @@
     "unites": [
       {
         "numserie": "C040207",
-        "position": "B-3(CHEZ MENOVA DEPUIS 24/02/2026)",
+        "position": "B-3",
         "etatcvi": "oui",
-        "dateFinCVI": "2024-06-01"
+        "dateFinCVI": "2027-02-01"
       }
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2026-01-27T13:38:33.856Z",
-    "emplacement": "B-3(CHEZ MENOVA DEPUIS 24/02/2026)"
+    "emplacement": "B-3"
   },
   {
     "marque": "TEKTRONIX",
