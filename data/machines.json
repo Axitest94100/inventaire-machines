@@ -5707,9 +5707,9 @@
     "unites": [
       {
         "numserie": "B019546",
-        "position": "A-3(CHEZ MENOVA DEPUIS 24/02/2026)",
+        "position": "A-3",
         "etatcvi": "oui",
-        "dateFinCVI": "2025-10-01"
+        "dateFinCVI": "2027-02-01"
       },
       {
         "numserie": "B016968",
@@ -5721,7 +5721,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2026-01-27T13:38:33.856Z",
-    "emplacement": "A-3(CHEZ MENOVA DEPUIS 24/02/2026)+A-2(CHEZ MENOVA DEPUIS 24/02/2026)"
+    "emplacement": "A-3 + A-2(CHEZ MENOVA DEPUIS 24/02/2026)"
   },
   {
     "marque": "TEKTRONIX",
