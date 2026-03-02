@@ -2957,7 +2957,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2026-01-27T13:38:33.856Z",
-    "emplacement": "F-4 + K-5"
+    "emplacement": "F-4+K-5"
   },
   {
     "marque": "HP",
@@ -7203,7 +7203,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2026-01-27T13:38:33.857Z",
-    "emplacement": "E-4 + K-2 (EN CARTON) + K-3 (EN CARTON) + K-5"
+    "emplacement": "E-4+K-2 (EN CARTON)+K-3 (EN CARTON)+K-5"
   },
   {
     "marque": "SEFELEC",
@@ -9374,5 +9374,21 @@
       }
     ],
     "createdAt": "2026-02-23T14:34:06.541Z"
+  },
+  {
+    "marque": "HAMEG",
+    "model": "HM8001-2",
+    "quantite": 1,
+    "emplacement": "L-2",
+    "description": "",
+    "unites": [
+      {
+        "numserie": "040550392",
+        "position": "L-2",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      }
+    ],
+    "createdAt": "2026-03-02T10:35:42.101Z"
   }
 ]
