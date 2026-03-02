@@ -6632,7 +6632,8 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2026-01-27T13:38:33.857Z",
-    "emplacement": "J-2"
+    "emplacement": "J-2",
+    "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/IgAYh3bZKojFR75zUK52wI1pAXaw85Q7MjHgW6Q-LC-ibMU?e=CGg4ES"
   },
   {
     "marque": "TELEDYNE LECROY",
@@ -6650,23 +6651,6 @@
     "dateFinCVI": null,
     "createdAt": "2026-01-27T13:38:33.857Z",
     "emplacement": "L-3"
-  },
-  {
-    "marque": "TELEDYNE LECROY",
-    "model": "USB2-GPIB",
-    "quantite": 1,
-    "unites": [
-      {
-        "numserie": "ACCESSOIRES",
-        "position": "M-3",
-        "etatcvi": "non",
-        "dateFinCVI": null
-      }
-    ],
-    "etatcvi": "non",
-    "dateFinCVI": null,
-    "createdAt": "2026-01-27T13:38:33.857Z",
-    "emplacement": "M-3"
   },
   {
     "marque": "TELEDYNE LECROY",
