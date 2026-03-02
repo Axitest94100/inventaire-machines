@@ -6689,7 +6689,7 @@
     "emplacement": "A-5"
   },
   {
-    "marque": "TESTEK",
+    "marque": "TESTEC",
     "model": "HVP-15HF",
     "quantite": 1,
     "unites": [
@@ -6703,7 +6703,8 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2026-01-27T13:38:33.857Z",
-    "emplacement": "G-3"
+    "emplacement": "G-3",
+    "description": ""
   },
   {
     "marque": "THURLBY",
