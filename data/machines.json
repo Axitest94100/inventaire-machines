@@ -9401,14 +9401,14 @@
   },
   {
     "marque": "HP",
-    "model": "8496",
+    "model": "8496B",
     "quantite": 1,
-    "emplacement": "L-4",
+    "emplacement": "L-4 CAISSE GRIS",
     "description": "",
     "unites": [
       {
         "numserie": "3308A71548",
-        "position": "L-4",
+        "position": "L-4 CAISSE GRIS",
         "etatcvi": "non",
         "dateFinCVI": null
       }
