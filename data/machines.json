@@ -9472,12 +9472,24 @@
   {
     "marque": "HP",
     "model": "8494B",
-    "quantite": 1,
+    "quantite": 3,
     "emplacement": "L-4",
     "description": "",
     "unites": [
       {
         "numserie": "3308A32239",
+        "position": "L-4",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      },
+      {
+        "numserie": "3308A30947",
+        "position": "L-4",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      },
+      {
+        "numserie": "3308A32627",
         "position": "L-4",
         "etatcvi": "non",
         "dateFinCVI": null
