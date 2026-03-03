@@ -1558,15 +1558,15 @@
     "unites": [
       {
         "numserie": "1735360/1746409 + 17370376/1746336",
-        "position": "LAB",
+        "position": "J-4",
         "etatcvi": "oui",
-        "dateFinCVI": "2026-01-31"
+        "dateFinCVI": "2027-02-01"
       }
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2026-01-27T13:38:33.855Z",
-    "emplacement": "LAB"
+    "emplacement": "J-4"
   },
   {
     "marque": "CHROMA",
