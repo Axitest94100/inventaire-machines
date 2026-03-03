@@ -9241,14 +9241,14 @@
     "marque": "NATIONAL INSTRUMENT",
     "model": "PXI-5402",
     "quantite": 1,
-    "emplacement": "G-5 (CHEZ MENOVA 04/02/2026)",
+    "emplacement": "G-5",
     "description": "chez menova depuis 04/02/2026\n",
     "unites": [
       {
         "numserie": "E852F5",
-        "position": "G-5 (CHEZ MENOVA 04/02/2026)",
-        "etatcvi": "non",
-        "dateFinCVI": null
+        "position": "G-5",
+        "etatcvi": "oui",
+        "dateFinCVI": "2027-02-26"
       }
     ],
     "createdAt": "2026-02-03T08:33:36.489Z"
