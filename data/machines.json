@@ -1774,7 +1774,7 @@
       },
       {
         "numserie": "@",
-        "position": "",
+        "position": "K-5",
         "etatcvi": "non",
         "dateFinCVI": null
       },
@@ -1788,7 +1788,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2026-01-27T13:38:33.855Z",
-    "emplacement": "C-3+K-5"
+    "emplacement": "C-3 + K-5"
   },
   {
     "marque": "EA",
