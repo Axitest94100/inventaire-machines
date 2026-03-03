@@ -9520,5 +9520,21 @@
       }
     ],
     "createdAt": "2026-03-03T14:50:46.761Z"
+  },
+  {
+    "marque": "HP",
+    "model": "8496B",
+    "quantite": 1,
+    "emplacement": "L-4 CAISSE GRIS",
+    "description": "",
+    "unites": [
+      {
+        "numserie": "3308A19985",
+        "position": "L-4 CAISSE GRIS",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      }
+    ],
+    "createdAt": "2026-03-03T14:59:58.062Z"
   }
 ]
