@@ -9453,12 +9453,12 @@
     "marque": "HP",
     "model": "33321G",
     "quantite": 1,
-    "emplacement": "L-4",
+    "emplacement": "L-4 CAISSE GRIS",
     "description": "",
     "unites": [
       {
         "numserie": "3308A08003",
-        "position": "L-4",
+        "position": "L-4 CAISSE GRIS",
         "etatcvi": "non",
         "dateFinCVI": null
       }
@@ -9469,12 +9469,12 @@
     "marque": "HP",
     "model": "8496A",
     "quantite": 1,
-    "emplacement": "L-4",
+    "emplacement": "L-4 CAISSE GRIS",
     "description": "",
     "unites": [
       {
         "numserie": "2815A10396",
-        "position": "L-4",
+        "position": "L-4 CAISSE GRIS",
         "etatcvi": "non",
         "dateFinCVI": null
       }
