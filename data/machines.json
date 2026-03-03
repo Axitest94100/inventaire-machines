@@ -9485,36 +9485,36 @@
     "marque": "HP",
     "model": "8494B",
     "quantite": 5,
-    "emplacement": "L-4",
+    "emplacement": "L-4 CAISSE GRIS",
     "description": "",
     "unites": [
       {
         "numserie": "3308A32239",
-        "position": "L-4",
+        "position": "L-4 CAISSE GRIS",
         "etatcvi": "non",
         "dateFinCVI": null
       },
       {
         "numserie": "3308A30947",
-        "position": "L-4",
+        "position": "L-4 CAISSE GRIS",
         "etatcvi": "non",
         "dateFinCVI": null
       },
       {
         "numserie": "3308A32627",
-        "position": "L-4",
+        "position": "L-4 CAISSE GRIS",
         "etatcvi": "non",
         "dateFinCVI": null
       },
       {
         "numserie": "3308A31690",
-        "position": "L-4",
+        "position": "L-4 CAISSE GRIS",
         "etatcvi": "non",
         "dateFinCVI": null
       },
       {
         "numserie": "3308A30980",
-        "position": "L-4",
+        "position": "L-4 CAISSE GRIS",
         "etatcvi": "non",
         "dateFinCVI": null
       }
