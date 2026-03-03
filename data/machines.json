@@ -9424,7 +9424,7 @@
   {
     "marque": "HP",
     "model": "33320G",
-    "quantite": 5,
+    "quantite": 6,
     "emplacement": "L-4 CAISSE GRIS",
     "description": "",
     "unites": [
@@ -9457,6 +9457,12 @@
         "position": "L-4 CAISSE GRIS",
         "etatcvi": "non",
         "dateFinCVI": null
+      },
+      {
+        "numserie": "3247A99038",
+        "position": "L-4 CAISSE GRIS",
+        "etatcvi": "non",
+        "dateFinCVI": null
       }
     ],
     "createdAt": "2026-03-03T14:43:16.776Z"
@@ -9464,7 +9470,7 @@
   {
     "marque": "HP",
     "model": "33321G",
-    "quantite": 2,
+    "quantite": 3,
     "emplacement": "L-4 CAISSE GRIS",
     "description": "",
     "unites": [
@@ -9476,6 +9482,12 @@
       },
       {
         "numserie": "3308A07989",
+        "position": "L-4 CAISSE GRIS",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      },
+      {
+        "numserie": "3308A07988",
         "position": "L-4 CAISSE GRIS",
         "etatcvi": "non",
         "dateFinCVI": null
