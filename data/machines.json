@@ -9414,5 +9414,21 @@
       }
     ],
     "createdAt": "2026-03-03T14:40:39.900Z"
+  },
+  {
+    "marque": "HP",
+    "model": "33320G",
+    "quantite": 1,
+    "emplacement": "L-4",
+    "description": "",
+    "unites": [
+      {
+        "numserie": "3247A99040",
+        "position": "L-4",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      }
+    ],
+    "createdAt": "2026-03-03T14:43:16.776Z"
   }
 ]
