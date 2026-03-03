@@ -5433,13 +5433,19 @@
   {
     "marque": "TEKTRONIX",
     "model": "P5205",
-    "quantite": 1,
+    "quantite": 2,
     "unites": [
       {
         "numserie": "B026752",
         "position": "A-1",
         "etatcvi": "oui",
         "dateFinCVI": "2025-07-01"
+      },
+      {
+        "numserie": "B026785",
+        "position": "A-1",
+        "etatcvi": "non",
+        "dateFinCVI": null
       }
     ],
     "etatcvi": "non",
