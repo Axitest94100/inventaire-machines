@@ -9418,7 +9418,7 @@
   {
     "marque": "HP",
     "model": "33320G",
-    "quantite": 2,
+    "quantite": 4,
     "emplacement": "L-4",
     "description": "",
     "unites": [
@@ -9430,6 +9430,18 @@
       },
       {
         "numserie": "3247A99039",
+        "position": "L-4",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      },
+      {
+        "numserie": "3247A99037",
+        "position": "L-4",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      },
+      {
+        "numserie": "3247A99036",
         "position": "L-4",
         "etatcvi": "non",
         "dateFinCVI": null
@@ -9472,7 +9484,7 @@
   {
     "marque": "HP",
     "model": "8494B",
-    "quantite": 3,
+    "quantite": 5,
     "emplacement": "L-4",
     "description": "",
     "unites": [
@@ -9490,6 +9502,18 @@
       },
       {
         "numserie": "3308A32627",
+        "position": "L-4",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      },
+      {
+        "numserie": "3308A31690",
+        "position": "L-4",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      },
+      {
+        "numserie": "3308A30980",
         "position": "L-4",
         "etatcvi": "non",
         "dateFinCVI": null
