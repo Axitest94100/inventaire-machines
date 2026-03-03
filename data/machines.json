@@ -9452,5 +9452,21 @@
       }
     ],
     "createdAt": "2026-03-03T14:45:45.960Z"
+  },
+  {
+    "marque": "HP",
+    "model": "8496A",
+    "quantite": 1,
+    "emplacement": "L-4",
+    "description": "",
+    "unites": [
+      {
+        "numserie": "2815A10396",
+        "position": "L-4",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      }
+    ],
+    "createdAt": "2026-03-03T14:46:54.473Z"
   }
 ]
