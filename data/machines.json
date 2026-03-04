@@ -4784,24 +4784,6 @@
   },
   {
     "marque": "ROHDE & SCHWARZ",
-    "model": "FSP30",
-    "quantite": 1,
-    "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/Eh77VeSA-fZMjzQEJu_rmQgB91kxPb7JjhD6Vn_Hbi5YSw?e=IOPhze",
-    "unites": [
-      {
-        "numserie": "100425",
-        "position": "B-4",
-        "etatcvi": "oui",
-        "dateFinCVI": "2026-07-24"
-      }
-    ],
-    "etatcvi": "non",
-    "dateFinCVI": null,
-    "createdAt": "2026-01-27T13:38:33.856Z",
-    "emplacement": "B-4"
-  },
-  {
-    "marque": "ROHDE & SCHWARZ",
     "model": "AMIQ",
     "quantite": 1,
     "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EmcSWKI9OGJEh_aVisU6bs8B9rUA6fIJbvwD2HpVuNJ2GQ?e=TFVcCx",
