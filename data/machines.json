@@ -2205,7 +2205,7 @@
     "unites": [
       {
         "numserie": "20263009/19500016",
-        "position": "J-4(LOCATION PAM NETWORK DU 02/03/2026 AU 16/03//2026)",
+        "position": "J-4(LOCATION PAM NETWORK DU 02/03/2026 AU 16/03//2026 min)",
         "etatcvi": "oui",
         "dateFinCVI": "2028-02-19"
       },
@@ -2219,7 +2219,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2026-01-27T13:38:33.855Z",
-    "emplacement": "J-4(LOCATION PAM NETWORK DU 02/03/2026 AU 16/03//2026) + J-4(LOCATION ERI DU 04/03/2026 AU 11/03/2026)"
+    "emplacement": "J-4(LOCATION PAM NETWORK DU 02/03/2026 AU 16/03//2026 min) + J-4(LOCATION ERI DU 04/03/2026 AU 11/03/2026)"
   },
   {
     "marque": "FLUKE",
