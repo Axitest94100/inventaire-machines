@@ -2613,7 +2613,7 @@
       },
       {
         "numserie": "3310J01596",
-        "position": "C-5",
+        "position": "C-5 (AVEC UN 85046A)",
         "etatcvi": "non",
         "dateFinCVI": null
       }
@@ -2621,7 +2621,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2026-01-27T13:38:33.856Z",
-    "emplacement": "C-2+C-5"
+    "emplacement": "C-2 + C-5 (AVEC UN 85046A)"
   },
   {
     "marque": "HP",
