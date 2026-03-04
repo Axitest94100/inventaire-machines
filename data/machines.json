@@ -4435,7 +4435,7 @@
     "emplacement": "D-4"
   },
   {
-    "marque": "PHILIPS",
+    "marque": "PHILIPS/FLUKE",
     "model": "PM2813",
     "quantite": 2,
     "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EqF-Qgi7hZVMsHQrnwkGJpMByKffhZ4DmaPaJVBmW-fHAQ?e=5EKbsI",
@@ -9489,5 +9489,21 @@
       }
     ],
     "createdAt": "2026-03-04T14:27:02.395Z"
+  },
+  {
+    "marque": "AGILENT",
+    "model": "N6751A",
+    "quantite": 1,
+    "emplacement": "D-4",
+    "description": "",
+    "unites": [
+      {
+        "numserie": "MY53000971",
+        "position": "D-4",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      }
+    ],
+    "createdAt": "2026-03-04T14:56:05.810Z"
   }
 ]
