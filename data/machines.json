@@ -6393,11 +6393,11 @@
   },
   {
     "marque": "TELEDYNE LECROY",
-    "model": "WS 4104HB",
+    "model": "WS4104HD",
     "quantite": 1,
     "unites": [
       {
-        "numserie": "@",
+        "numserie": "LCRY4903C20075",
         "position": "B-4",
         "etatcvi": "non",
         "dateFinCVI": null
