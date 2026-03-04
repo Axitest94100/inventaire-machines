@@ -7512,12 +7512,12 @@
   },
   {
     "marque": "TDK LAMBDA",
-    "model": "GSS10-500-3P400",
+    "model": "GSP10-1500-3P400",
     "quantite": 1,
-    "description": "",
+    "description": "DANS UN CARTON",
     "unites": [
       {
-        "numserie": "LOC-422B354-005",
+        "numserie": "LOC-423B257-0003",
         "position": "C-1",
         "etatcvi": "non",
         "dateFinCVI": null
