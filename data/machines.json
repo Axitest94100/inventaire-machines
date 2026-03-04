@@ -173,24 +173,6 @@
   },
   {
     "marque": "AGILENT",
-    "model": "E5061A-ATO-25493",
-    "quantite": 1,
-    "description": "OPT: 016 250\nhttps://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EmTHaTnTulRAuKiI9RG4VI0B7v_xopq2miIufMMwAZRM9g?e=hSSpfV",
-    "unites": [
-      {
-        "numserie": "MY44203241",
-        "position": "C-5",
-        "etatcvi": "oui",
-        "dateFinCVI": "2026-05-01"
-      }
-    ],
-    "etatcvi": "non",
-    "dateFinCVI": null,
-    "createdAt": "2026-01-27T13:38:33.855Z",
-    "emplacement": "C-5"
-  },
-  {
-    "marque": "AGILENT",
     "model": "6634B",
     "quantite": 3,
     "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/ElgDvm3eZ9NEqXInMx0dHVUBLAeeqg4qyhMEQlRchefjOA?e=4Ri604",
