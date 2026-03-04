@@ -9348,8 +9348,8 @@
       {
         "numserie": "8513",
         "position": "F-2",
-        "etatcvi": "non",
-        "dateFinCVI": null
+        "etatcvi": "oui",
+        "dateFinCVI": "2027-03-01"
       }
     ],
     "createdAt": "2026-03-04T16:40:57.633Z"
