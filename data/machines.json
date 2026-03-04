@@ -7510,24 +7510,6 @@
     "emplacement": "E-2"
   },
   {
-    "marque": "TEKTRONIX",
-    "model": "TDS7104",
-    "quantite": 1,
-    "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EnbwWI2ckXJHkdOgdU8qaQsBaLo0fQ_bkM2U9LLVAAvwwg?e=cBYPLy",
-    "unites": [
-      {
-        "numserie": "B053288",
-        "position": "B-2",
-        "etatcvi": "oui",
-        "dateFinCVI": "2026-11-01"
-      }
-    ],
-    "etatcvi": "non",
-    "dateFinCVI": null,
-    "createdAt": "2026-01-27T13:38:33.857Z",
-    "emplacement": "B-2"
-  },
-  {
     "marque": "FUSION SLM",
     "model": "01DB",
     "quantite": 1,
