@@ -9548,5 +9548,21 @@
       }
     ],
     "createdAt": "2026-03-04T10:06:39.364Z"
+  },
+  {
+    "marque": "TEKTRONIX",
+    "model": "RMD 3000",
+    "quantite": 1,
+    "emplacement": "B-2",
+    "description": "",
+    "unites": [
+      {
+        "numserie": "@",
+        "position": "B-2",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      }
+    ],
+    "createdAt": "2026-03-04T10:41:13.535Z"
   }
 ]
