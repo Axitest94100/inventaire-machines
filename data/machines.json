@@ -5761,23 +5761,6 @@
   },
   {
     "marque": "TEKTRONIX",
-    "model": "KIT P6780 ACCESSOIRES",
-    "quantite": 1,
-    "unites": [
-      {
-        "numserie": "@",
-        "position": "A-5",
-        "etatcvi": "non",
-        "dateFinCVI": null
-      }
-    ],
-    "etatcvi": "non",
-    "dateFinCVI": null,
-    "createdAt": "2026-01-27T13:38:33.856Z",
-    "emplacement": "A-5"
-  },
-  {
-    "marque": "TEKTRONIX",
     "model": "MSO70404C",
     "quantite": 1,
     "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EhpuupR1TylGs-MNXVBoPpEBYF6S1FtQFZNvu9d_HaDQUw?e=L3SPrr",
@@ -5793,23 +5776,6 @@
     "dateFinCVI": null,
     "createdAt": "2026-01-27T13:38:33.856Z",
     "emplacement": "B-2(CHEZ MENOVA DEPUIS 24/02/2026)"
-  },
-  {
-    "marque": "TEKTRONIX",
-    "model": "P6245 ACCESSOIRES",
-    "quantite": 1,
-    "unites": [
-      {
-        "numserie": "@",
-        "position": "A-5",
-        "etatcvi": "non",
-        "dateFinCVI": null
-      }
-    ],
-    "etatcvi": "non",
-    "dateFinCVI": null,
-    "createdAt": "2026-01-27T13:38:33.856Z",
-    "emplacement": "A-5"
   },
   {
     "marque": "TEKTRONIX",
@@ -5847,23 +5813,6 @@
   },
   {
     "marque": "TEKTRONIX",
-    "model": "P7330 ACCESSOIRES",
-    "quantite": 1,
-    "unites": [
-      {
-        "numserie": "@",
-        "position": "A-5",
-        "etatcvi": "non",
-        "dateFinCVI": null
-      }
-    ],
-    "etatcvi": "non",
-    "dateFinCVI": null,
-    "createdAt": "2026-01-27T13:38:33.856Z",
-    "emplacement": "A-5"
-  },
-  {
-    "marque": "TEKTRONIX",
     "model": "TCA1 MEG",
     "quantite": 1,
     "unites": [
@@ -5879,23 +5828,6 @@
     "createdAt": "2026-01-27T13:38:33.856Z",
     "emplacement": "A-5",
     "description": ""
-  },
-  {
-    "marque": "TEKTRONIX",
-    "model": "TCA292 ACCESSOIRES",
-    "quantite": 1,
-    "unites": [
-      {
-        "numserie": "@",
-        "position": "A-5",
-        "etatcvi": "non",
-        "dateFinCVI": null
-      }
-    ],
-    "etatcvi": "non",
-    "dateFinCVI": null,
-    "createdAt": "2026-01-27T13:38:33.856Z",
-    "emplacement": "A-5"
   },
   {
     "marque": "TEKTRONIX",
