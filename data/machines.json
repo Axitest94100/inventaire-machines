@@ -1875,7 +1875,7 @@
       },
       {
         "numserie": "689674",
-        "position": "F-4",
+        "position": "F-3",
         "etatcvi": "non",
         "dateFinCVI": null
       }
@@ -1883,7 +1883,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2026-01-27T13:38:33.855Z",
-    "emplacement": "F-3+F-4"
+    "emplacement": "F-3"
   },
   {
     "marque": "FLUKE",
