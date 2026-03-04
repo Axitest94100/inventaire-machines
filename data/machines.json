@@ -2625,24 +2625,6 @@
   },
   {
     "marque": "HP",
-    "model": "85033D",
-    "quantite": 1,
-    "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EtZ4ICJwEJ5KjgSGOUUp758B4nLO8_0QfyvMvlbV1zgvAg?e=34v86O",
-    "unites": [
-      {
-        "numserie": "3423A03644",
-        "position": "C-3 (CHEZ MENOVA DEPUIS LE 27/01/2026)",
-        "etatcvi": "non",
-        "dateFinCVI": null
-      }
-    ],
-    "etatcvi": "non",
-    "dateFinCVI": null,
-    "createdAt": "2026-01-27T13:38:33.856Z",
-    "emplacement": "C-3 (CHEZ MENOVA DEPUIS LE 27/01/2026)"
-  },
-  {
-    "marque": "HP",
     "model": "8757D",
     "quantite": 1,
     "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/Ei3UhuH2Jj9DuS3202J_yW8BW3GBNaGrSEIco7eAur4NWA?e=XtmRDq",
