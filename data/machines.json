@@ -1127,7 +1127,7 @@
   {
     "marque": "CHAUVIN ARNOUX",
     "model": "AMPFLEX A193",
-    "quantite": 36,
+    "quantite": 24,
     "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/Eor1HwFrA6lPrNK-ay_seJEB9Fckxo2jKTe2vJjUPV7cQA?e=OolCAO",
     "unites": [
       {
@@ -1215,30 +1215,6 @@
         "dateFinCVI": null
       },
       {
-        "numserie": "199364YKH",
-        "position": "F-1",
-        "etatcvi": "non",
-        "dateFinCVI": null
-      },
-      {
-        "numserie": "199330YKH",
-        "position": "F-1",
-        "etatcvi": "non",
-        "dateFinCVI": null
-      },
-      {
-        "numserie": "199449YKH",
-        "position": "F-1",
-        "etatcvi": "non",
-        "dateFinCVI": null
-      },
-      {
-        "numserie": "199451YKH",
-        "position": "F-1",
-        "etatcvi": "non",
-        "dateFinCVI": null
-      },
-      {
         "numserie": "199450YKH",
         "position": "F-1",
         "etatcvi": "non",
@@ -1246,18 +1222,6 @@
       },
       {
         "numserie": "199327YKH",
-        "position": "F-1",
-        "etatcvi": "non",
-        "dateFinCVI": null
-      },
-      {
-        "numserie": "199325YKH",
-        "position": "F-1",
-        "etatcvi": "non",
-        "dateFinCVI": null
-      },
-      {
-        "numserie": "199362YKH",
         "position": "F-1",
         "etatcvi": "non",
         "dateFinCVI": null
@@ -1287,49 +1251,13 @@
         "dateFinCVI": "2026-12-01"
       },
       {
-        "numserie": "199475YKH",
-        "position": "F-1",
-        "etatcvi": "non",
-        "dateFinCVI": null
-      },
-      {
-        "numserie": "199331YKH",
-        "position": "F-1",
-        "etatcvi": "non",
-        "dateFinCVI": null
-      },
-      {
-        "numserie": "199447YKH",
-        "position": "F-1 ",
-        "etatcvi": "non",
-        "dateFinCVI": null
-      },
-      {
         "numserie": "199465YKH",
         "position": "F-1",
         "etatcvi": "non",
         "dateFinCVI": null
       },
       {
-        "numserie": "199332YKH",
-        "position": "F-1",
-        "etatcvi": "non",
-        "dateFinCVI": null
-      },
-      {
         "numserie": "191322YJH",
-        "position": "F-1",
-        "etatcvi": "non",
-        "dateFinCVI": null
-      },
-      {
-        "numserie": "199458YKH",
-        "position": "F-1",
-        "etatcvi": "non",
-        "dateFinCVI": null
-      },
-      {
-        "numserie": "199473YKH",
         "position": "F-1",
         "etatcvi": "non",
         "dateFinCVI": null
@@ -1350,7 +1278,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2026-01-27T13:38:33.855Z",
-    "emplacement": "F-2 (CA8336 SN: 201957YKH)+J-4 (CA8336 SN:197859YKH)+J-4 (CA8336 SN:197865YKH)+F-2 (CA8336 SN: 197865YKH)+F-1+F-1 (CA8336 SN: 197859YKH)"
+    "emplacement": "F-2 (CA8336 SN: 201957YKH) + J-4 (CA8336 SN:197859YKH) + J-4 (CA8336 SN:197865YKH) + F-2 (CA8336 SN: 197865YKH) + F-1 + F-1 (CA8336 SN: 197859YKH)"
   },
   {
     "marque": "CHAUVIN ARNOUX",
