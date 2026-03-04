@@ -270,7 +270,7 @@
   {
     "marque": "AGILENT",
     "model": "N6734B",
-    "quantite": 4,
+    "quantite": 3,
     "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/Ep4rIn9LKmtKujt0bydulPgBwwpLpjh0--5iG8069oKE-A?e=GBbWda",
     "unites": [
       {
@@ -287,12 +287,6 @@
       },
       {
         "numserie": "MY43000958",
-        "position": "D-4",
-        "etatcvi": "non",
-        "dateFinCVI": null
-      },
-      {
-        "numserie": "MY53000971",
         "position": "D-4",
         "etatcvi": "non",
         "dateFinCVI": null
