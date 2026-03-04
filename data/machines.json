@@ -4244,24 +4244,6 @@
   },
   {
     "marque": "MEGGER",
-    "model": "ACCESSOIRE MIT 520/2",
-    "quantite": 1,
-    "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/Ehy8epJCDH1CrB0d82De5ykB7CEWOQuR5gNAAF6L7YQeoQ?e=m4eyms",
-    "unites": [
-      {
-        "numserie": "7639273",
-        "position": "E-4",
-        "etatcvi": "non",
-        "dateFinCVI": null
-      }
-    ],
-    "etatcvi": "non",
-    "dateFinCVI": null,
-    "createdAt": "2026-01-27T13:38:33.856Z",
-    "emplacement": "E-4"
-  },
-  {
-    "marque": "MEGGER",
     "model": "MIT520/2",
     "quantite": 3,
     "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EkddRY-HaxVLvK1QaAtJ0cUBsSMnHYb7OIEE-VUGu1wjsQ?e=vImef8",
