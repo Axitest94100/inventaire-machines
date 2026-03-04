@@ -6215,29 +6215,6 @@
   },
   {
     "marque": "TELEDYNE LECROY",
-    "model": "LPA SMA",
-    "quantite": 2,
-    "unites": [
-      {
-        "numserie": "@",
-        "position": "A-5",
-        "etatcvi": "non",
-        "dateFinCVI": null
-      },
-      {
-        "numserie": "@",
-        "position": "A-5",
-        "etatcvi": "non",
-        "dateFinCVI": null
-      }
-    ],
-    "etatcvi": "non",
-    "dateFinCVI": null,
-    "createdAt": "2026-01-27T13:38:33.856Z",
-    "emplacement": "A-5"
-  },
-  {
-    "marque": "TELEDYNE LECROY",
     "model": "MSODLS001",
     "quantite": 1,
     "description": "",
