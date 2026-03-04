@@ -9552,13 +9552,19 @@
   {
     "marque": "TEKTRONIX",
     "model": "RMD 3000",
-    "quantite": 1,
-    "emplacement": "B-2",
+    "quantite": 2,
+    "emplacement": "B-2 + A-0",
     "description": "",
     "unites": [
       {
         "numserie": "@",
         "position": "B-2",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      },
+      {
+        "numserie": "@",
+        "position": "A-0",
         "etatcvi": "non",
         "dateFinCVI": null
       }
