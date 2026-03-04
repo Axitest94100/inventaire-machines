@@ -1127,7 +1127,7 @@
   {
     "marque": "CHAUVIN ARNOUX",
     "model": "AMPFLEX A193",
-    "quantite": 24,
+    "quantite": 23,
     "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/Eor1HwFrA6lPrNK-ay_seJEB9Fckxo2jKTe2vJjUPV7cQA?e=OolCAO",
     "unites": [
       {
@@ -1135,12 +1135,6 @@
         "position": "F-2 (CA8336 SN: 201957YKH)",
         "etatcvi": "non",
         "dateFinCVI": null
-      },
-      {
-        "numserie": "199456YKH",
-        "position": "J-4 (CA8336 SN:197859YKH)",
-        "etatcvi": "oui",
-        "dateFinCVI": "2026-12-01"
       },
       {
         "numserie": "199443YKH",
