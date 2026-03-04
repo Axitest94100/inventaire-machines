@@ -1788,7 +1788,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2026-01-27T13:38:33.855Z",
-    "emplacement": "C-3 + K-5"
+    "emplacement": "C-3+K-5"
   },
   {
     "marque": "EA",
@@ -7375,11 +7375,11 @@
     "marque": "IFR",
     "model": "2399A",
     "quantite": 1,
-    "description": "",
+    "description": "CHEZ MENOVA DEPUIS 04/03/2026",
     "unites": [
       {
         "numserie": "103062099",
-        "position": "I-2",
+        "position": "I-2 (CHEZ MENOVA DEPUIS 04/03/2026)",
         "etatcvi": "oui",
         "dateFinCVI": "2026-10-01"
       }
@@ -7387,7 +7387,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2026-01-27T13:38:33.857Z",
-    "emplacement": "I-2"
+    "emplacement": "I-2 (CHEZ MENOVA DEPUIS 04/03/2026)"
   },
   {
     "marque": "SPIRENT",
