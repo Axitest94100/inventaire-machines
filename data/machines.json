@@ -2219,7 +2219,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2026-01-27T13:38:33.855Z",
-    "emplacement": "J-4(LOCATION PAM NETWORK DU 02/03/2026 AU 16/03//2026 min) + J-4(LOCATION ERI DU 04/03/2026 AU 11/03/2026)"
+    "emplacement": "J-4(LOCATION PAM NETWORK DU 02/03/2026 AU 16/03//2026 min)+J-4(LOCATION ERI DU 04/03/2026 AU 11/03/2026)"
   },
   {
     "marque": "FLUKE",
@@ -4820,7 +4820,7 @@
   },
   {
     "marque": "ROSENBERGER",
-    "model": "W7039-600",
+    "model": "LU7-039-600",
     "quantite": 1,
     "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/Eh5J0wgbVWtMvgusl4z5ES8BVZLClRUIMoOBoJcZeBGzHg?e=jIk86s",
     "unites": [
@@ -9518,7 +9518,7 @@
     "marque": "TEKTRONIX",
     "model": "RMD 3000",
     "quantite": 2,
-    "emplacement": "B-2 + A-0",
+    "emplacement": "B-2+A-0",
     "description": "",
     "unites": [
       {
