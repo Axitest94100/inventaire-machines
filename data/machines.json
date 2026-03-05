@@ -1283,7 +1283,7 @@
       },
       {
         "numserie": "164376UFH",
-        "position": "K-5",
+        "position": "J-4",
         "etatcvi": "oui",
         "dateFinCVI": "2026-09-01"
       },
@@ -1303,7 +1303,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2026-01-27T13:38:33.855Z",
-    "emplacement": "J-3 + J-4 + I-1 + K-5"
+    "emplacement": "J-3 + J-4 + I-1"
   },
   {
     "marque": "CHAUVIN ARNOUX",
