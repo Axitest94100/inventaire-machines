@@ -2979,7 +2979,7 @@
     "unites": [
       {
         "numserie": "16047A161121",
-        "position": "I-3",
+        "position": "H-3",
         "etatcvi": "non",
         "dateFinCVI": null
       },
@@ -2993,7 +2993,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2026-01-27T13:38:33.856Z",
-    "emplacement": "I-3+H-3"
+    "emplacement": "H-3"
   },
   {
     "marque": "HP",
