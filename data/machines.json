@@ -1224,7 +1224,7 @@
   {
     "marque": "CHAUVIN ARNOUX",
     "model": "CA8336",
-    "quantite": 12,
+    "quantite": 11,
     "description": "BATTERIE INFO: P/N  694233 NI-MH 4/3Ax8 9,6V 4000mAh\n\nhttps://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EpCznoBjFOZJnSdllLODe-8ByVyoyCE1HCy9wvxa4FEOAg?e=xcSLCC",
     "unites": [
       {
@@ -1289,12 +1289,6 @@
       },
       {
         "numserie": "191099WGH",
-        "position": "J-4 ",
-        "etatcvi": "oui",
-        "dateFinCVI": "2026-12-01"
-      },
-      {
-        "numserie": "197862YKH",
         "position": "J-4 ",
         "etatcvi": "oui",
         "dateFinCVI": "2026-12-01"
