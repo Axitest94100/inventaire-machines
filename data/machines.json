@@ -9168,5 +9168,21 @@
       }
     ],
     "createdAt": "2026-03-05T14:03:02.478Z"
+  },
+  {
+    "marque": "TEKTRONIX",
+    "model": "TM 501",
+    "quantite": 1,
+    "emplacement": "J-2",
+    "description": "",
+    "unites": [
+      {
+        "numserie": "204397",
+        "position": "J-2",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      }
+    ],
+    "createdAt": "2026-03-05T15:08:04.109Z"
   }
 ]
