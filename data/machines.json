@@ -2261,7 +2261,7 @@
   {
     "marque": "GW INSTEK",
     "model": "GHT205",
-    "quantite": 5,
+    "quantite": 4,
     "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/Epcu1mgv-ddCm5ibRLQPAaABjs_sTNeeOelEtiRnZxbvVA?e=nxAG6G",
     "unites": [
       {
@@ -2284,12 +2284,6 @@
       },
       {
         "numserie": "GTX180601",
-        "position": "I-4",
-        "etatcvi": "non",
-        "dateFinCVI": null
-      },
-      {
-        "numserie": "@1",
         "position": "I-4",
         "etatcvi": "non",
         "dateFinCVI": null
