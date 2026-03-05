@@ -8484,24 +8484,6 @@
     "emplacement": "LAB"
   },
   {
-    "marque": "GW INSTEK",
-    "model": "APS7050E",
-    "quantite": 1,
-    "description": "",
-    "unites": [
-      {
-        "numserie": "GEW120577",
-        "position": "L-2",
-        "etatcvi": "non",
-        "dateFinCVI": null
-      }
-    ],
-    "etatcvi": "non",
-    "dateFinCVI": null,
-    "createdAt": "2026-01-27T13:38:33.857Z",
-    "emplacement": "L-2"
-  },
-  {
     "marque": "GLASSMAN",
     "model": "PS/EK20N30.0F22",
     "quantite": 1,
