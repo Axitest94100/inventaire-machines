@@ -4130,24 +4130,6 @@
     "emplacement": "I-1"
   },
   {
-    "marque": "METRIX",
-    "model": " ACCESSOIRES OX724-CSD",
-    "quantite": 1,
-    "description": "ACCESSOIRES SANS APPAREIL\r\nhttps://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EkTZJlg1n4BJs07X_h9K2tcBZlCgLNyqlGfMwQV23KZlgg?e=iIfscw",
-    "unites": [
-      {
-        "numserie": "accessoires",
-        "position": "H-3",
-        "etatcvi": "non",
-        "dateFinCVI": null
-      }
-    ],
-    "etatcvi": "non",
-    "dateFinCVI": null,
-    "createdAt": "2026-01-27T13:38:33.856Z",
-    "emplacement": "H-3"
-  },
-  {
     "marque": "MULTIMETRIX",
     "model": "ERT201",
     "quantite": 1,
