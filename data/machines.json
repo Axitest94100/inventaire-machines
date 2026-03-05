@@ -9361,12 +9361,18 @@
   {
     "marque": "NATIONAL INSTRUMENT",
     "model": "TB-2634",
-    "quantite": 1,
+    "quantite": 2,
     "emplacement": "G-5",
     "description": "",
     "unites": [
       {
         "numserie": "188C47F0",
+        "position": "G-5",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      },
+      {
+        "numserie": "191CA83",
         "position": "G-5",
         "etatcvi": "non",
         "dateFinCVI": null
