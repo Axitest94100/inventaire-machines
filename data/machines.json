@@ -4635,24 +4635,6 @@
   },
   {
     "marque": "SEFELEC",
-    "model": "GHT115",
-    "quantite": 1,
-    "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EsOyteQK7FhOkoMLtwajgxkB5oVZH0Hdns1vgLMIpvGmUg?e=rcBDFe",
-    "unites": [
-      {
-        "numserie": "ACCESSOIRES",
-        "position": "H-3",
-        "etatcvi": "non",
-        "dateFinCVI": null
-      }
-    ],
-    "etatcvi": "non",
-    "dateFinCVI": null,
-    "createdAt": "2026-01-27T13:38:33.856Z",
-    "emplacement": "H-3"
-  },
-  {
-    "marque": "SEFELEC",
     "model": "1500M",
     "quantite": 1,
     "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EvSA9ZMRD5NAhfWhjEspqL4BoNsyXQBg7dqykC4crirn6A?e=rAnYyt",
