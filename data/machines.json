@@ -6361,24 +6361,6 @@
     "emplacement": "H-1"
   },
   {
-    "marque": "WAYNE KERR",
-    "model": "3260B ACCESSOIRES",
-    "quantite": 1,
-    "description": "ACCESSOIRES SANS APPAREIL\r\nhttps://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EmRwh1QItvxOhfcElNrPGo4BqPMl32TmU6NnLucUpOlVWQ?e=zvpyfE",
-    "unites": [
-      {
-        "numserie": "ACCESSOIRES",
-        "position": "H-3",
-        "etatcvi": "non",
-        "dateFinCVI": null
-      }
-    ],
-    "etatcvi": "non",
-    "dateFinCVI": null,
-    "createdAt": "2026-01-27T13:38:33.857Z",
-    "emplacement": "H-3"
-  },
-  {
     "marque": "WAVETEK",
     "model": "4202R",
     "quantite": 1,
