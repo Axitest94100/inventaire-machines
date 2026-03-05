@@ -9172,12 +9172,18 @@
   {
     "marque": "TEKTRONIX",
     "model": "TM 501",
-    "quantite": 1,
+    "quantite": 2,
     "emplacement": "J-2",
     "description": "",
     "unites": [
       {
         "numserie": "204397",
+        "position": "J-2",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      },
+      {
+        "numserie": "703050",
         "position": "J-2",
         "etatcvi": "non",
         "dateFinCVI": null
