@@ -840,15 +840,15 @@
     "unites": [
       {
         "numserie": "MY49431173",
-        "position": "I-1 (PARTIE CHEZ MENOVA 14/10/2025)",
+        "position": "L-3",
         "etatcvi": "oui",
-        "dateFinCVI": "2023-10-01"
+        "dateFinCVI": "2026-11-01"
       }
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2026-01-27T13:38:33.855Z",
-    "emplacement": "I-1 (PARTIE CHEZ MENOVA 14/10/2025)"
+    "emplacement": "L-3"
   },
   {
     "marque": "ANRITSU",
