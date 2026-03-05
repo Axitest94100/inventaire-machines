@@ -3496,15 +3496,9 @@
   {
     "marque": "KEITHLEY",
     "model": "3720",
-    "quantite": 2,
+    "quantite": 1,
     "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EqeksEmYl_RBou4YWl6ex9cBo_151R222f02OtEFKPEeFQ?e=2QwduM",
     "unites": [
-      {
-        "numserie": "1203445",
-        "position": "F-5",
-        "etatcvi": "non",
-        "dateFinCVI": null
-      },
       {
         "numserie": "1203534",
         "position": "F-5",
@@ -9337,5 +9331,21 @@
       }
     ],
     "createdAt": "2026-03-04T16:40:57.633Z"
+  },
+  {
+    "marque": "KEITHLEY",
+    "model": "3720-ST",
+    "quantite": 1,
+    "emplacement": "F-5",
+    "description": "",
+    "unites": [
+      {
+        "numserie": "1203445",
+        "position": "F-5",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      }
+    ],
+    "createdAt": "2026-03-05T09:57:44.471Z"
   }
 ]
