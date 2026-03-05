@@ -4297,24 +4297,6 @@
     "emplacement": "H-3"
   },
   {
-    "marque": "PINCE CROCO",
-    "model": "PINCE CROCO",
-    "quantite": 1,
-    "description": "MERCI DE REGARDER SUR GOOGLE",
-    "unites": [
-      {
-        "numserie": "ACCESSOIRESS",
-        "position": "H-3",
-        "etatcvi": "non",
-        "dateFinCVI": null
-      }
-    ],
-    "etatcvi": "non",
-    "dateFinCVI": null,
-    "createdAt": "2026-01-27T13:38:33.856Z",
-    "emplacement": "H-3"
-  },
-  {
     "marque": "PMM",
     "model": "I3-32",
     "quantite": 1,
