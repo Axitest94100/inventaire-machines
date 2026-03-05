@@ -4778,7 +4778,7 @@
     "unites": [
       {
         "numserie": "2456098",
-        "position": "H-1",
+        "position": "L-2",
         "etatcvi": "non",
         "dateFinCVI": null
       }
@@ -4786,7 +4786,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2026-01-27T13:38:33.856Z",
-    "emplacement": "H-1"
+    "emplacement": "L-2"
   },
   {
     "marque": "SEFELEC",
