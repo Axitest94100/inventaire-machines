@@ -6798,24 +6798,6 @@
     "emplacement": "L-3"
   },
   {
-    "marque": "IFR",
-    "model": "2399A",
-    "quantite": 1,
-    "description": "CHEZ MENOVA DEPUIS 04/03/2026",
-    "unites": [
-      {
-        "numserie": "103062099",
-        "position": "I-2 (CHEZ MENOVA DEPUIS 04/03/2026)",
-        "etatcvi": "oui",
-        "dateFinCVI": "2026-10-01"
-      }
-    ],
-    "etatcvi": "non",
-    "dateFinCVI": null,
-    "createdAt": "2026-01-27T13:38:33.857Z",
-    "emplacement": "I-2 (CHEZ MENOVA DEPUIS 04/03/2026)"
-  },
-  {
     "marque": "SPIRENT",
     "model": "GSS6100",
     "quantite": 1,
