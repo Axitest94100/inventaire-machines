@@ -1049,24 +1049,6 @@
     "emplacement": "G-5"
   },
   {
-    "marque": "BIRD",
-    "model": "43",
-    "quantite": 1,
-    "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EpZcWsIv3kNEkQlie7kwuBgBe6ekC61istXcU3gpkE4N_Q?e=goN5a1",
-    "unites": [
-      {
-        "numserie": "ACCESSOIRES",
-        "position": "L-3",
-        "etatcvi": "non",
-        "dateFinCVI": null
-      }
-    ],
-    "etatcvi": "non",
-    "dateFinCVI": null,
-    "createdAt": "2026-01-27T13:38:33.855Z",
-    "emplacement": "L-3"
-  },
-  {
     "marque": "BK PRECISION",
     "model": "XLN3640",
     "quantite": 1,
@@ -1083,23 +1065,6 @@
     "dateFinCVI": null,
     "createdAt": "2026-01-27T13:38:33.855Z",
     "emplacement": "M-2"
-  },
-  {
-    "marque": "CABLE MOLEX VERS PCI EXPRESS",
-    "model": "6PIN",
-    "quantite": 1,
-    "unites": [
-      {
-        "numserie": "ACCESSOIRES",
-        "position": "L-3",
-        "etatcvi": "non",
-        "dateFinCVI": null
-      }
-    ],
-    "etatcvi": "non",
-    "dateFinCVI": null,
-    "createdAt": "2026-01-27T13:38:33.855Z",
-    "emplacement": "L-3"
   },
   {
     "marque": "CHAUVIN ARNOUX",
@@ -8328,24 +8293,6 @@
     "emplacement": "M-1"
   },
   {
-    "marque": "bird",
-    "model": "4314b",
-    "quantite": 1,
-    "description": "",
-    "unites": [
-      {
-        "numserie": "boite de transport",
-        "position": "L-3",
-        "etatcvi": "non",
-        "dateFinCVI": null
-      }
-    ],
-    "etatcvi": "non",
-    "dateFinCVI": null,
-    "createdAt": "2026-01-27T13:38:33.857Z",
-    "emplacement": "L-3"
-  },
-  {
     "marque": "wandel & goltermann",
     "model": "pa-25",
     "quantite": 1,
@@ -8353,24 +8300,6 @@
     "unites": [
       {
         "numserie": "4542/02",
-        "position": "L-3",
-        "etatcvi": "non",
-        "dateFinCVI": null
-      }
-    ],
-    "etatcvi": "non",
-    "dateFinCVI": null,
-    "createdAt": "2026-01-27T13:38:33.857Z",
-    "emplacement": "L-3"
-  },
-  {
-    "marque": "bird",
-    "model": "bouchons",
-    "quantite": 1,
-    "description": "BOUCHONS",
-    "unites": [
-      {
-        "numserie": "accessoires",
         "position": "L-3",
         "etatcvi": "non",
         "dateFinCVI": null
