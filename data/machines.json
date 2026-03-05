@@ -8705,24 +8705,6 @@
     "emplacement": "LAB"
   },
   {
-    "marque": "SEFELEC",
-    "model": "1050M",
-    "quantite": 1,
-    "description": "",
-    "unites": [
-      {
-        "numserie": "2456098",
-        "position": "L-2",
-        "etatcvi": "non",
-        "dateFinCVI": null
-      }
-    ],
-    "etatcvi": "non",
-    "dateFinCVI": null,
-    "createdAt": "2026-01-27T13:38:33.857Z",
-    "emplacement": "L-2"
-  },
-  {
     "marque": "GW INSTEK",
     "model": "APS7050E",
     "quantite": 1,
