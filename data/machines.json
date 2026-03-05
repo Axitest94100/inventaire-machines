@@ -2133,7 +2133,7 @@
     "unites": [
       {
         "numserie": "C207C1747",
-        "position": "G-4",
+        "position": "G-4 (DANS UN PELI CASE)",
         "etatcvi": "oui",
         "dateFinCVI": "2022-10-21"
       }
@@ -2141,7 +2141,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2026-01-27T13:38:33.855Z",
-    "emplacement": "G-4"
+    "emplacement": "G-4 (DANS UN PELI CASE)"
   },
   {
     "marque": "GRAPHTEC",
