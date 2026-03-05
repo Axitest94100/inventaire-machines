@@ -9200,5 +9200,21 @@
       }
     ],
     "createdAt": "2026-03-05T15:18:33.613Z"
+  },
+  {
+    "marque": "WANDEL & GOLTERMANN",
+    "model": "SPM-33",
+    "quantite": 1,
+    "emplacement": "L-1",
+    "description": "NON CONFORME\nVALISE + ACCESSOIRES",
+    "unites": [
+      {
+        "numserie": "V-0074",
+        "position": "L-1",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      }
+    ],
+    "createdAt": "2026-03-05T16:10:42.717Z"
   }
 ]
