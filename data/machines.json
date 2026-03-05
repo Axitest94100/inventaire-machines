@@ -8726,13 +8726,19 @@
   {
     "marque": "HAMEG",
     "model": "HM8001-2",
-    "quantite": 1,
-    "emplacement": "L-2",
+    "quantite": 2,
+    "emplacement": "L-2 + I-4",
     "description": "",
     "unites": [
       {
         "numserie": "040550392",
         "position": "L-2",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      },
+      {
+        "numserie": "02099",
+        "position": "I-4",
         "etatcvi": "non",
         "dateFinCVI": null
       }
