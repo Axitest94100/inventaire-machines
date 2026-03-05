@@ -9212,5 +9212,21 @@
       }
     ],
     "createdAt": "2026-03-05T10:52:58.546Z"
+  },
+  {
+    "marque": "HP",
+    "model": "16047C",
+    "quantite": 1,
+    "emplacement": "H-3",
+    "description": "",
+    "unites": [
+      {
+        "numserie": "ACCESSOIRES",
+        "position": "H-3",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      }
+    ],
+    "createdAt": "2026-03-05T14:03:02.478Z"
   }
 ]
