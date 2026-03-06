@@ -8915,22 +8915,6 @@
     "createdAt": "2026-03-04T08:13:13.427Z"
   },
   {
-    "marque": "TELEDYNE LECROY",
-    "model": "ACCESSOIRES POUR 715ZI",
-    "quantite": 1,
-    "emplacement": "A-5",
-    "description": "",
-    "unites": [
-      {
-        "numserie": "@",
-        "position": "A-5",
-        "etatcvi": "non",
-        "dateFinCVI": null
-      }
-    ],
-    "createdAt": "2026-03-04T10:06:39.364Z"
-  },
-  {
     "marque": "TEKTRONIX",
     "model": "RMD 3000",
     "quantite": 2,
