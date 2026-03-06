@@ -9269,12 +9269,18 @@
   {
     "marque": "FLUKE",
     "model": "UNIVERSAL INPUT MODULE",
-    "quantite": 1,
+    "quantite": 2,
     "emplacement": "LAB",
     "description": "",
     "unites": [
       {
         "numserie": "M8475008",
+        "position": "LAB",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      },
+      {
+        "numserie": "M2245030",
         "position": "LAB",
         "etatcvi": "non",
         "dateFinCVI": null
