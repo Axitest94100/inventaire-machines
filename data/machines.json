@@ -5743,7 +5743,7 @@
     "unites": [
       {
         "numserie": "1017",
-        "position": "A-1",
+        "position": "A-1 (CHEZ MENOVA 09/03/2026)",
         "etatcvi": "non",
         "dateFinCVI": null
       }
@@ -5751,7 +5751,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2026-01-27T13:38:33.856Z",
-    "emplacement": "A-1"
+    "emplacement": "A-1 (CHEZ MENOVA 09/03/2026)"
   },
   {
     "marque": "TELEDYNE LECROY",
