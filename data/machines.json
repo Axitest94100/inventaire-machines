@@ -6892,7 +6892,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2026-01-27T13:38:33.857Z",
-    "emplacement": "F-5 + LAB (POUR PIECES)"
+    "emplacement": "F-5+LAB (POUR PIECES)"
   },
   {
     "marque": "WAVETEK",
@@ -8596,7 +8596,7 @@
     "marque": "HAMEG",
     "model": "HM8001-2",
     "quantite": 3,
-    "emplacement": "L-2 + I-4 + L-4 (APPAREIL HS)",
+    "emplacement": "L-2+I-4+L-4 (APPAREIL HS)",
     "description": "8807 F 19171 = APPAREIL HS",
     "unites": [
       {
@@ -9265,5 +9265,21 @@
       }
     ],
     "createdAt": "2026-03-06T09:52:26.071Z"
+  },
+  {
+    "marque": "FLUKE",
+    "model": "UNIVERSAL INPUT MODULE",
+    "quantite": 1,
+    "emplacement": "LAB",
+    "description": "",
+    "unites": [
+      {
+        "numserie": "M8475008",
+        "position": "LAB",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      }
+    ],
+    "createdAt": "2026-03-06T10:07:02.017Z"
   }
 ]
