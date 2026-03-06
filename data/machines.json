@@ -4275,24 +4275,6 @@
     "emplacement": "H-3"
   },
   {
-    "marque": "PMM",
-    "model": "I3-32",
-    "quantite": 1,
-    "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/ErvHpBS0rQ5Lgdjbf8m42X0BW4z5bN0nivFLEzuqM9y9qw?e=XN0xog",
-    "unites": [
-      {
-        "numserie": "22wt50824",
-        "position": "M-4",
-        "etatcvi": "non",
-        "dateFinCVI": null
-      }
-    ],
-    "etatcvi": "non",
-    "dateFinCVI": null,
-    "createdAt": "2026-01-27T13:38:33.856Z",
-    "emplacement": "M-4"
-  },
-  {
     "marque": "PRODIGIT",
     "model": "3310F",
     "quantite": 1,
