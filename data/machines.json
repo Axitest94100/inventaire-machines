@@ -9363,5 +9363,21 @@
       }
     ],
     "createdAt": "2026-03-06T10:19:42.177Z"
+  },
+  {
+    "marque": "TELEDYNE LECROY",
+    "model": "USB2-GPIB",
+    "quantite": 1,
+    "emplacement": "M-3",
+    "description": "",
+    "unites": [
+      {
+        "numserie": "ACCESSOIRES",
+        "position": "M-3",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      }
+    ],
+    "createdAt": "2026-03-06T10:48:50.785Z"
   }
 ]
