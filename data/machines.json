@@ -9169,12 +9169,18 @@
   {
     "marque": "PLLB",
     "model": "16-2PM",
-    "quantite": 1,
+    "quantite": 2,
     "emplacement": "L-4",
     "description": "CARTE",
     "unites": [
       {
         "numserie": "00301",
+        "position": "L-4",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      },
+      {
+        "numserie": "00302",
         "position": "L-4",
         "etatcvi": "non",
         "dateFinCVI": null
