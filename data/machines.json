@@ -5761,19 +5761,19 @@
     "unites": [
       {
         "numserie": "LCRY0354N10595",
-        "position": "A-4",
+        "position": "A-4 (CHEZ MENOVA 09/03/2026)",
         "etatcvi": "non",
         "dateFinCVI": null
       },
       {
         "numserie": "LCRY0352N10179",
-        "position": "A-4",
+        "position": "A-4 (CHEZ MENOVA 09/03/2026)",
         "etatcvi": "oui",
         "dateFinCVI": "2024-04-04"
       },
       {
         "numserie": "LCRY0350N10080",
-        "position": "C-4",
+        "position": "C-4 (CHEZ MENOVA 09/03/2026) + CAPOT",
         "etatcvi": "oui",
         "dateFinCVI": "2025-01-16"
       }
@@ -5781,7 +5781,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2026-01-27T13:38:33.856Z",
-    "emplacement": "A-4+C-4"
+    "emplacement": "A-4 (CHEZ MENOVA 09/03/2026) + C-4 (CHEZ MENOVA 09/03/2026) + CAPOT"
   },
   {
     "marque": "TELEDYNE LECROY",
