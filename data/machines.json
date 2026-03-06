@@ -9179,5 +9179,21 @@
       }
     ],
     "createdAt": "2026-03-06T09:35:11.101Z"
+  },
+  {
+    "marque": "TEKTRONIX",
+    "model": "CFG 280",
+    "quantite": 1,
+    "emplacement": "LAB",
+    "description": "",
+    "unites": [
+      {
+        "numserie": "CFG-280TW12018",
+        "position": "LAB",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      }
+    ],
+    "createdAt": "2026-03-06T09:40:21.440Z"
   }
 ]
