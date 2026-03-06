@@ -9195,5 +9195,21 @@
       }
     ],
     "createdAt": "2026-03-06T09:40:21.440Z"
+  },
+  {
+    "marque": "CHAUVIN ARNOUX",
+    "model": "PROWATT-3",
+    "quantite": 1,
+    "emplacement": "LAB",
+    "description": "",
+    "unites": [
+      {
+        "numserie": "10844",
+        "position": "LAB",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      }
+    ],
+    "createdAt": "2026-03-06T09:42:17.282Z"
   }
 ]
