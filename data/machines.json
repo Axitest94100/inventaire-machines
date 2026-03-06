@@ -9227,5 +9227,27 @@
       }
     ],
     "createdAt": "2026-03-06T09:44:09.911Z"
+  },
+  {
+    "marque": "FLUKE",
+    "model": "HYDRA SERIES II",
+    "quantite": 2,
+    "emplacement": "LAB",
+    "description": "",
+    "unites": [
+      {
+        "numserie": "2248002",
+        "position": "LAB",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      },
+      {
+        "numserie": "8475009",
+        "position": "LAB",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      }
+    ],
+    "createdAt": "2026-03-06T09:51:19.760Z"
   }
 ]
