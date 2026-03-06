@@ -1262,7 +1262,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2026-01-27T13:38:33.855Z",
-    "emplacement": "J-3 + J-4 + K-4 + I-1"
+    "emplacement": "J-3+J-4+K-4+I-1"
   },
   {
     "marque": "CHAUVIN ARNOUX",
@@ -8614,7 +8614,7 @@
   },
   {
     "marque": "HAMEG",
-    "model": "HM8027",
+    "model": "HM8018",
     "quantite": 1,
     "emplacement": "L-4",
     "description": "APPAREIL HS",
@@ -8632,7 +8632,7 @@
     "marque": "HAMEG",
     "model": "HM8001-2",
     "quantite": 2,
-    "emplacement": "L-2 + I-4",
+    "emplacement": "L-2+I-4",
     "description": "",
     "unites": [
       {
