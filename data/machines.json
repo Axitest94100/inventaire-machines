@@ -5879,7 +5879,7 @@
     "unites": [
       {
         "numserie": "LCRY3804N01896",
-        "position": "B-1",
+        "position": "B-1 (CHEZ MENOVA 09/03/2026)",
         "etatcvi": "oui",
         "dateFinCVI": "2025-01-31"
       }
@@ -5887,7 +5887,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2026-01-27T13:38:33.856Z",
-    "emplacement": "B-1"
+    "emplacement": "B-1 (CHEZ MENOVA 09/03/2026)"
   },
   {
     "marque": "TELEDYNE LECROY",
@@ -5897,7 +5897,7 @@
     "unites": [
       {
         "numserie": "01270",
-        "position": "B-3",
+        "position": "B-3 (CHEZ MENOVA 09/03/2026)",
         "etatcvi": "non",
         "dateFinCVI": null
       }
@@ -5905,7 +5905,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2026-01-27T13:38:33.857Z",
-    "emplacement": "B-3"
+    "emplacement": "B-3 (CHEZ MENOVA 09/03/2026)"
   },
   {
     "marque": "TELEDYNE LECROY",
