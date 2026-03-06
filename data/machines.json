@@ -5790,7 +5790,7 @@
     "unites": [
       {
         "numserie": "LCRY3803N01660",
-        "position": "A-5 (CHEZ MENOVA 09/03/2026)",
+        "position": "A-5 (CHEZ MENOVA 09/03/2026) + CAPOT",
         "etatcvi": "oui",
         "dateFinCVI": "2025-03-01"
       }
@@ -5798,7 +5798,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2026-01-27T13:38:33.856Z",
-    "emplacement": "A-5 (CHEZ MENOVA 09/03/2026)",
+    "emplacement": "A-5 (CHEZ MENOVA 09/03/2026) + CAPOT",
     "description": ""
   },
   {
