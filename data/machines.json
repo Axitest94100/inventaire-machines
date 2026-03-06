@@ -9211,5 +9211,21 @@
       }
     ],
     "createdAt": "2026-03-06T09:42:17.282Z"
+  },
+  {
+    "marque": "GE",
+    "model": "OPTISONDE",
+    "quantite": 1,
+    "emplacement": "LAB",
+    "description": "",
+    "unites": [
+      {
+        "numserie": "0151111",
+        "position": "LAB",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      }
+    ],
+    "createdAt": "2026-03-06T09:44:09.911Z"
   }
 ]
