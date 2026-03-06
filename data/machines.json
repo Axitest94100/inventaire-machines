@@ -6873,7 +6873,7 @@
   {
     "marque": "KEITHLEY",
     "model": "2000",
-    "quantite": 1,
+    "quantite": 2,
     "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/Ep5PK55A-QdGkhFD78GLh9EB9CH7wgjJK1K-ZHLlf9-uFg?e=a6kAeR",
     "unites": [
       {
@@ -6881,12 +6881,18 @@
         "position": "F-5",
         "etatcvi": "oui",
         "dateFinCVI": "2027-02-01"
+      },
+      {
+        "numserie": "1187447",
+        "position": "LAB (POUR PIECES)",
+        "etatcvi": "non",
+        "dateFinCVI": null
       }
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2026-01-27T13:38:33.857Z",
-    "emplacement": "F-5"
+    "emplacement": "F-5 + LAB (POUR PIECES)"
   },
   {
     "marque": "WAVETEK",
@@ -9157,5 +9163,21 @@
       }
     ],
     "createdAt": "2026-03-06T09:13:23.381Z"
+  },
+  {
+    "marque": "HP",
+    "model": "8481A",
+    "quantite": 1,
+    "emplacement": "LAB (APPAREIL HS)",
+    "description": "APPAREIL HS",
+    "unites": [
+      {
+        "numserie": "1926A28375",
+        "position": "LAB (APPAREIL HS)",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      }
+    ],
+    "createdAt": "2026-03-06T09:35:11.101Z"
   }
 ]
