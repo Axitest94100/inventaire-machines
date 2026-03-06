@@ -9133,5 +9133,37 @@
       }
     ],
     "createdAt": "2026-03-05T16:10:42.717Z"
+  },
+  {
+    "marque": "PLLB",
+    "model": "16-2GEN/S",
+    "quantite": 1,
+    "emplacement": "L-4",
+    "description": "CARTE",
+    "unites": [
+      {
+        "numserie": "250",
+        "position": "L-4",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      }
+    ],
+    "createdAt": "2026-03-06T09:08:16.884Z"
+  },
+  {
+    "marque": "PLLB",
+    "model": "PM128/CO",
+    "quantite": 1,
+    "emplacement": "L-4",
+    "description": "CARTE",
+    "unites": [
+      {
+        "numserie": "220",
+        "position": "L-4",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      }
+    ],
+    "createdAt": "2026-03-06T09:11:47.776Z"
   }
 ]
