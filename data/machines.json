@@ -8631,8 +8631,8 @@
   {
     "marque": "HAMEG",
     "model": "HM8001-2",
-    "quantite": 2,
-    "emplacement": "L-2+I-4",
+    "quantite": 3,
+    "emplacement": "L-2 + I-4 + L-4 (APPAREIL HS)",
     "description": "",
     "unites": [
       {
@@ -8644,6 +8644,12 @@
       {
         "numserie": "02099",
         "position": "I-4",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      },
+      {
+        "numserie": "8807 F 19171",
+        "position": "L-4 (APPAREIL HS)",
         "etatcvi": "non",
         "dateFinCVI": null
       }
