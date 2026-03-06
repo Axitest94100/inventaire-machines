@@ -8353,30 +8353,6 @@
     "emplacement": "F-4"
   },
   {
-    "marque": "NI",
-    "model": "PXI8176",
-    "quantite": 2,
-    "description": "",
-    "unites": [
-      {
-        "numserie": "D58E27",
-        "position": "LAB",
-        "etatcvi": "non",
-        "dateFinCVI": null
-      },
-      {
-        "numserie": "DE61B4",
-        "position": "LAB",
-        "etatcvi": "non",
-        "dateFinCVI": null
-      }
-    ],
-    "etatcvi": "non",
-    "dateFinCVI": null,
-    "createdAt": "2026-01-27T13:38:33.857Z",
-    "emplacement": "LAB"
-  },
-  {
     "marque": "SEFELEC",
     "model": "CSX40",
     "quantite": 1,
@@ -8384,24 +8360,6 @@
     "unites": [
       {
         "numserie": "1944644",
-        "position": "LAB",
-        "etatcvi": "non",
-        "dateFinCVI": null
-      }
-    ],
-    "etatcvi": "non",
-    "dateFinCVI": null,
-    "createdAt": "2026-01-27T13:38:33.857Z",
-    "emplacement": "LAB"
-  },
-  {
-    "marque": "KEYSIGHT",
-    "model": "E5061B-3L5",
-    "quantite": 1,
-    "description": "",
-    "unites": [
-      {
-        "numserie": "MY49406878",
         "position": "LAB",
         "etatcvi": "non",
         "dateFinCVI": null
