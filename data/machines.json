@@ -6130,7 +6130,7 @@
     "unites": [
       {
         "numserie": "LCRY4501N30314",
-        "position": "A-5",
+        "position": "A-5 (CHEZ MENOVA DEPUIS LE 09/03/2026)",
         "etatcvi": "oui",
         "dateFinCVI": "2025-10-16"
       }
@@ -6138,7 +6138,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2026-01-27T13:38:33.857Z",
-    "emplacement": "A-5"
+    "emplacement": "A-5 (CHEZ MENOVA DEPUIS LE 09/03/2026)"
   },
   {
     "marque": "TESTEC",
