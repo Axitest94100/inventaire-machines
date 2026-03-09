@@ -6059,7 +6059,7 @@
     "unites": [
       {
         "numserie": "LCRY4403N30170",
-        "position": "C-6",
+        "position": "C-6 (CHEZ MENOVA DEPUIS LE 09/03/2026)",
         "etatcvi": "oui",
         "dateFinCVI": "2025-03-20"
       }
@@ -6067,7 +6067,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2026-01-27T13:38:33.857Z",
-    "emplacement": "C-6"
+    "emplacement": "C-6 (CHEZ MENOVA DEPUIS LE 09/03/2026)"
   },
   {
     "marque": "TELEDYNE LECROY",
