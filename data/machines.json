@@ -5606,7 +5606,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2026-01-27T13:38:33.856Z",
-    "emplacement": "L-1 (CHEZ MENOVA 09/03/2026) + L-1",
+    "emplacement": "L-1 (CHEZ MENOVA 09/03/2026)+L-1",
     "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/IgArI_vt6AT9S5Qpr9z_rbEaARuiON7luqbaOYttuZqPkLk?e=CG0rxo"
   },
   {
@@ -5781,7 +5781,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2026-01-27T13:38:33.856Z",
-    "emplacement": "A-4 (CHEZ MENOVA 09/03/2026) + C-4 (CHEZ MENOVA 09/03/2026) + CAPOT"
+    "emplacement": "A-4 (CHEZ MENOVA 09/03/2026)+C-4 (CHEZ MENOVA 09/03/2026) + CAPOT"
   },
   {
     "marque": "TELEDYNE LECROY",
@@ -5933,7 +5933,7 @@
     "unites": [
       {
         "numserie": "LCRY0604P17525",
-        "position": "B-3",
+        "position": "B-3 (CHEZ MENOVA 09/03/2026)",
         "etatcvi": "non",
         "dateFinCVI": null
       }
@@ -5941,7 +5941,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2026-01-27T13:38:33.857Z",
-    "emplacement": "B-3"
+    "emplacement": "B-3 (CHEZ MENOVA 09/03/2026)"
   },
   {
     "marque": "TELEDYNE LECROY",
