@@ -3623,15 +3623,15 @@
     "unites": [
       {
         "numserie": "20815",
-        "position": "M-2(CHEZ MENOVA DEPUIS 17/02/2026)",
-        "etatcvi": "non",
-        "dateFinCVI": null
+        "position": "M-2",
+        "etatcvi": "oui",
+        "dateFinCVI": "2027-03-01"
       }
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2026-01-27T13:38:33.856Z",
-    "emplacement": "M-2(CHEZ MENOVA DEPUIS 17/02/2026)"
+    "emplacement": "M-2"
   },
   {
     "marque": "KEITHLEY",
