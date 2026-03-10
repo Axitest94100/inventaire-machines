@@ -9378,5 +9378,27 @@
       }
     ],
     "createdAt": "2026-03-10T13:09:28.717Z"
+  },
+  {
+    "marque": "KEITHLEY",
+    "model": "2231A-001",
+    "quantite": 2,
+    "emplacement": "L-3",
+    "description": "DANS UN CARTON",
+    "unites": [
+      {
+        "numserie": "802263042757780008",
+        "position": "L-3",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      },
+      {
+        "numserie": "802263042746980038",
+        "position": "L-3",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      }
+    ],
+    "createdAt": "2026-03-10T13:11:45.730Z"
   }
 ]
