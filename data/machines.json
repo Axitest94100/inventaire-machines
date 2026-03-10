@@ -9346,5 +9346,21 @@
       }
     ],
     "createdAt": "2026-03-06T10:48:50.785Z"
+  },
+  {
+    "marque": "KEYSIGHT",
+    "model": "82357B",
+    "quantite": 1,
+    "emplacement": "L-3",
+    "description": "DANS UN CARTON",
+    "unites": [
+      {
+        "numserie": "MY49504769",
+        "position": "L-3",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      }
+    ],
+    "createdAt": "2026-03-10T13:06:30.579Z"
   }
 ]
