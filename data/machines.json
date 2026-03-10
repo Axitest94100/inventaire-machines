@@ -9400,5 +9400,21 @@
       }
     ],
     "createdAt": "2026-03-10T13:11:45.730Z"
+  },
+  {
+    "marque": "TEKTRONIX",
+    "model": "AWG5002C",
+    "quantite": 1,
+    "emplacement": "B-2",
+    "description": "",
+    "unites": [
+      {
+        "numserie": "B0101125",
+        "position": "B-2",
+        "etatcvi": "oui",
+        "dateFinCVI": "2026-10-01"
+      }
+    ],
+    "createdAt": "2026-03-10T15:54:15.517Z"
   }
 ]
