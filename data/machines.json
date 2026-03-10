@@ -2179,15 +2179,9 @@
   {
     "marque": "GW INSTEK",
     "model": "GPT12004",
-    "quantite": 2,
+    "quantite": 1,
     "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EjgzN6ZUKk1ArepJh287hlUBjhQYNQ81EJGxWU79F38oyw?e=AfvveM",
     "unites": [
-      {
-        "numserie": "GEW161427",
-        "position": "I-2 (CHEZ MENOVA DSEPUIS LE 17/02/2026",
-        "etatcvi": "oui",
-        "dateFinCVI": "2025-10-01"
-      },
       {
         "numserie": "GEX211317",
         "position": "J-1",
@@ -2198,7 +2192,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2026-01-27T13:38:33.855Z",
-    "emplacement": "I-2 (CHEZ MENOVA DSEPUIS LE 17/02/2026+J-1"
+    "emplacement": "J-1"
   },
   {
     "marque": "GW INSTEK",
