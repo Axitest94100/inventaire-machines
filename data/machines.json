@@ -5146,7 +5146,7 @@
     "unites": [
       {
         "numserie": "C016008",
-        "position": "A-2(CHEZ MENOVA DEPUIS 24/02/2026)",
+        "position": "A-2",
         "etatcvi": "non",
         "dateFinCVI": null
       },
@@ -5166,7 +5166,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2026-01-27T13:38:33.856Z",
-    "emplacement": "A-2(CHEZ MENOVA DEPUIS 24/02/2026) + A-2"
+    "emplacement": "A-2 + A-2(CHEZ MENOVA DEPUIS 24/02/2026)"
   },
   {
     "marque": "TEKTRONIX",
