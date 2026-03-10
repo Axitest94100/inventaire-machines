@@ -9362,5 +9362,21 @@
       }
     ],
     "createdAt": "2026-03-10T13:06:30.579Z"
+  },
+  {
+    "marque": "KEITHLEY",
+    "model": "KUSB-488B",
+    "quantite": 1,
+    "emplacement": "L-3",
+    "description": "DANS UN CARTON",
+    "unites": [
+      {
+        "numserie": "8007291",
+        "position": "L-3",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      }
+    ],
+    "createdAt": "2026-03-10T13:09:28.717Z"
   }
 ]
