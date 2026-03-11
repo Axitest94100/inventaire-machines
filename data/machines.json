@@ -6486,13 +6486,14 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2026-01-27T13:38:33.857Z",
-    "emplacement": "J-2"
+    "emplacement": "J-2",
+    "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/IgAa0EAX0HLgT5VLXLZTwPidAR3NUyKCRGtV9dzo8iYdVmc?e=wR5JSI"
   },
   {
     "marque": "YOKOGAWA",
     "model": "WT1010",
     "quantite": 1,
-    "description": "",
+    "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/IgCsikqdGnCPQZJTgHxth7mXAU6lVUI7LAvS1pGTQE6AbfI?e=Wtw9dV",
     "unites": [
       {
         "numserie": "12WA09531",
