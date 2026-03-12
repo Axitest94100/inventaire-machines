@@ -9412,5 +9412,21 @@
       }
     ],
     "createdAt": "2026-03-10T15:54:15.517Z"
+  },
+  {
+    "marque": "GIGA TRONICS",
+    "model": "6061A",
+    "quantite": 1,
+    "emplacement": "M-2",
+    "description": "",
+    "unites": [
+      {
+        "numserie": "0044156",
+        "position": "M-2",
+        "etatcvi": "oui",
+        "dateFinCVI": "2026-12-01"
+      }
+    ],
+    "createdAt": "2026-03-12T08:54:08.110Z"
   }
 ]
