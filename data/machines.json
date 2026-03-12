@@ -1988,7 +1988,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2026-01-27T13:38:33.855Z",
-    "emplacement": "J-4(LOCATION PAM NETWORK DU 02/03/2026 AU 16/03//2026 min) + J-4"
+    "emplacement": "J-4(LOCATION PAM NETWORK DU 02/03/2026 AU 16/03//2026 min)+J-4"
   },
   {
     "marque": "FLUKE",
@@ -8338,8 +8338,8 @@
     "emplacement": "M-1"
   },
   {
-    "marque": "wandel & goltermann",
-    "model": "pa-25",
+    "marque": "WANDEL & GOLTERMANN",
+    "model": "PA-25",
     "quantite": 1,
     "description": "",
     "unites": [
