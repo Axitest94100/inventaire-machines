@@ -6658,24 +6658,6 @@
     "emplacement": "E-3"
   },
   {
-    "marque": "AEROFLEX",
-    "model": "3550R",
-    "quantite": 1,
-    "description": "OPTION POUR LE 1000579798 :\n- OPT001 CHANNEL ANALYZER\n- OPT002 OSCILLOSCOPE\n- OPT008 TRACKING GEN\n- OPT034 DMR\n\nAPPAREIL SANS BATTERIE POUR LE 1000657026\nhttps://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EkHlRqQuh4NCl4kaBHd-lTUB3PMI9u2ebFMg-0e7j-vXjQ?e=TVMyuR",
-    "unites": [
-      {
-        "numserie": "1000579798",
-        "position": "G-3 (CHEZ MENOVA DEPUIS LE 10/02/2026)",
-        "etatcvi": "oui",
-        "dateFinCVI": "2026-06-01"
-      }
-    ],
-    "etatcvi": "non",
-    "dateFinCVI": null,
-    "createdAt": "2026-01-27T13:38:33.857Z",
-    "emplacement": "G-3 (CHEZ MENOVA DEPUIS LE 10/02/2026)"
-  },
-  {
     "marque": "AOIP",
     "model": "PJ6301",
     "quantite": 1,
