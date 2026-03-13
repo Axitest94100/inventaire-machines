@@ -1988,7 +1988,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2026-01-27T13:38:33.855Z",
-    "emplacement": "J-4 (LOCATION PAM NETWORK DU 02/03/2026 AU 16/03//2026 min) + J-4"
+    "emplacement": "J-4 (LOCATION PAM NETWORK DU 02/03/2026 AU 16/03//2026 min)+J-4"
   },
   {
     "marque": "FLUKE",
@@ -3452,7 +3452,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2026-01-27T13:38:33.856Z",
-    "emplacement": "F-5 + F-5 (CHEZ MENOVA DEPUIS 17/02/2026)"
+    "emplacement": "F-5+F-5 (CHEZ MENOVA DEPUIS 17/02/2026)"
   },
   {
     "marque": "KEITHLEY",
@@ -3607,7 +3607,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2026-01-27T13:38:33.856Z",
-    "emplacement": "G-5 (CHEZ MENOVA 23/07/2025 CLIENT SERMA) + G-5"
+    "emplacement": "G-5 (CHEZ MENOVA 23/07/2025 CLIENT SERMA)+G-5"
   },
   {
     "marque": "KEITHLEY",
@@ -6660,7 +6660,7 @@
   {
     "marque": "AEROFLEX",
     "model": "3550R",
-    "quantite": 2,
+    "quantite": 1,
     "description": "OPTION POUR LE 1000579798 :\r\n- OPT001 CHANNEL ANALYZER\r\n- OPT002 OSCILLOSCOPE\r\n- OPT008 TRACKING GEN\r\n- OPT034 DMR\r\nOPTION POUR LE 1000657026 :\r\n-OPT001 CHANNEL ANALYZER\r\n-OPT002 OSCILLOSCOPE\r\n-OPT007 P25\r\n-OPT008 TRACKING GEN\r\n-OPT033 NXDN\r\n-OPT034 DMR\r\n\r\nAPPAREIL SANS BATTERIE POUR LE 1000657026\r\nhttps://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EkHlRqQuh4NCl4kaBHd-lTUB3PMI9u2ebFMg-0e7j-vXjQ?e=TVMyuR",
     "unites": [
       {
@@ -6668,18 +6668,12 @@
         "position": "G-3 (CHEZ MENOVA DEPUIS LE 10/02/2026)",
         "etatcvi": "oui",
         "dateFinCVI": "2026-06-01"
-      },
-      {
-        "numserie": "1000657026",
-        "position": "G-3 (CHEZ MENOVA DEPUIS 05/02/2026--------CLIENT: syrade)",
-        "etatcvi": "oui",
-        "dateFinCVI": "2026-04-01"
       }
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2026-01-27T13:38:33.857Z",
-    "emplacement": "G-3 (CHEZ MENOVA DEPUIS LE 10/02/2026)+G-3 (CHEZ MENOVA DEPUIS 05/02/2026--------CLIENT: syrade)"
+    "emplacement": "G-3 (CHEZ MENOVA DEPUIS LE 10/02/2026)"
   },
   {
     "marque": "AOIP",
