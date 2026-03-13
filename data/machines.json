@@ -3593,7 +3593,7 @@
     "unites": [
       {
         "numserie": "0904415",
-        "position": "G-5 CHEZ MENOVA 23/07/2025 CLIENT SERMA",
+        "position": "G-5 (CHEZ MENOVA 23/07/2025 CLIENT SERMA)",
         "etatcvi": "non",
         "dateFinCVI": null
       },
@@ -3607,7 +3607,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2026-01-27T13:38:33.856Z",
-    "emplacement": "G-5 CHEZ MENOVA 23/07/2025 CLIENT SERMA+G-5"
+    "emplacement": "G-5 (CHEZ MENOVA 23/07/2025 CLIENT SERMA) + G-5"
   },
   {
     "marque": "KEITHLEY",
