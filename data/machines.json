@@ -3557,7 +3557,7 @@
     "unites": [
       {
         "numserie": "0907005",
-        "position": "G-5 menova 01/08/2025",
+        "position": "G-5 (CHEZ MENOVA DEPUIS LE 01/08/2025)",
         "etatcvi": "non",
         "dateFinCVI": null
       }
@@ -3565,7 +3565,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2026-01-27T13:38:33.856Z",
-    "emplacement": "G-5 menova 01/08/2025"
+    "emplacement": "G-5 (CHEZ MENOVA DEPUIS LE 01/08/2025)"
   },
   {
     "marque": "KEITHLEY",
