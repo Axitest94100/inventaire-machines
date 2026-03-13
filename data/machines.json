@@ -564,7 +564,7 @@
     "unites": [
       {
         "numserie": "CN40051983",
-        "position": "G-4 (REMARQUE: NE S'ALLUME PAS)",
+        "position": "G-4 (REMARQUE: NE S'ALLUME PAS + CHEZ MENOVA DEPUIS LE 13/03/2026)",
         "etatcvi": "non",
         "dateFinCVI": null
       }
@@ -572,7 +572,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2026-01-27T13:38:33.855Z",
-    "emplacement": "G-4 (REMARQUE: NE S'ALLUME PAS)"
+    "emplacement": "G-4 (REMARQUE: NE S'ALLUME PAS + CHEZ MENOVA DEPUIS LE 13/03/2026)"
   },
   {
     "marque": "AGILENT",
