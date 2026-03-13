@@ -1830,7 +1830,7 @@
     "unites": [
       {
         "numserie": "7963005",
-        "position": "F-5(CHEZ MENOVA DEPUIS 17/02/2026)",
+        "position": "F-5 (CHEZ MENOVA DEPUIS 17/02/2026)",
         "etatcvi": "non",
         "dateFinCVI": null
       }
@@ -1838,7 +1838,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2026-01-27T13:38:33.855Z",
-    "emplacement": "F-5(CHEZ MENOVA DEPUIS 17/02/2026)"
+    "emplacement": "F-5 (CHEZ MENOVA DEPUIS 17/02/2026)"
   },
   {
     "marque": "FLUKE",
@@ -1974,7 +1974,7 @@
     "unites": [
       {
         "numserie": "20263009/19500016",
-        "position": "J-4(LOCATION PAM NETWORK DU 02/03/2026 AU 16/03//2026 min)",
+        "position": "J-4 (LOCATION PAM NETWORK DU 02/03/2026 AU 16/03//2026 min)",
         "etatcvi": "oui",
         "dateFinCVI": "2028-02-19"
       },
@@ -1988,7 +1988,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2026-01-27T13:38:33.855Z",
-    "emplacement": "J-4(LOCATION PAM NETWORK DU 02/03/2026 AU 16/03//2026 min)+J-4"
+    "emplacement": "J-4 (LOCATION PAM NETWORK DU 02/03/2026 AU 16/03//2026 min) + J-4"
   },
   {
     "marque": "FLUKE",
@@ -4109,7 +4109,7 @@
     "unites": [
       {
         "numserie": "188607SEH",
-        "position": "A-4 (partie chez menova 14/10/2025)",
+        "position": "A-4 (CHEZ MENOVA DEPUIS LE 14/10/2025)",
         "etatcvi": "oui",
         "dateFinCVI": "2025-10-01"
       }
@@ -4117,7 +4117,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2026-01-27T13:38:33.856Z",
-    "emplacement": "A-4 (partie chez menova 14/10/2025)"
+    "emplacement": "A-4 (CHEZ MENOVA DEPUIS LE 14/10/2025)"
   },
   {
     "marque": "METRIX",
