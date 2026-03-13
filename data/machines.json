@@ -4127,7 +4127,7 @@
     "unites": [
       {
         "numserie": "412581",
-        "position": "I-1",
+        "position": "I-1 (CHEZ MENOVA DEPUIS LE 13/03/2026)",
         "etatcvi": "non",
         "dateFinCVI": null
       }
@@ -4135,7 +4135,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2026-01-27T13:38:33.856Z",
-    "emplacement": "I-1"
+    "emplacement": "I-1 (CHEZ MENOVA DEPUIS LE 13/03/2026)"
   },
   {
     "marque": "MULTIMETRIX",
