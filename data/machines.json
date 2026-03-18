@@ -5434,7 +5434,7 @@
     "marque": "TEKTRONIX",
     "model": "TCP404XL",
     "quantite": 1,
-    "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/El8HGtBqa-JHg7nDnek-gUoBSC0Yy5IWrgG4CnfCfXNyFQ?e=uXpsu1",
+    "description": "APPAREIL NON CONFORME\n\nhttps://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/El8HGtBqa-JHg7nDnek-gUoBSC0Yy5IWrgG4CnfCfXNyFQ?e=uXpsu1",
     "unites": [
       {
         "numserie": "@",
@@ -8483,12 +8483,12 @@
     "marque": "AGILENT",
     "model": "34901A",
     "quantite": 1,
-    "emplacement": "G-5",
+    "emplacement": "G-5 (CHEZ MENOVA DEPUIS LE 18/03/2026)",
     "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EtId3frgaT5DhkdIl9uROasBVKMAt2J1uNTVfK_5FdrA8A?e=HAZpw9",
     "unites": [
       {
         "numserie": "US37001212",
-        "position": "G-5",
+        "position": "G-5 (CHEZ MENOVA DEPUIS LE 18/03/2026)",
         "etatcvi": "oui",
         "dateFinCVI": "2027-01-01"
       }
