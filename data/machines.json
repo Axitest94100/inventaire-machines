@@ -8480,22 +8480,6 @@
     "createdAt": "2026-01-28T15:58:24.353Z"
   },
   {
-    "marque": "AGILENT",
-    "model": "34901A",
-    "quantite": 1,
-    "emplacement": "G-5 (CHEZ MENOVA DEPUIS LE 18/03/2026)",
-    "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EtId3frgaT5DhkdIl9uROasBVKMAt2J1uNTVfK_5FdrA8A?e=HAZpw9",
-    "unites": [
-      {
-        "numserie": "US37001212",
-        "position": "G-5 (CHEZ MENOVA DEPUIS LE 18/03/2026)",
-        "etatcvi": "oui",
-        "dateFinCVI": "2027-01-01"
-      }
-    ],
-    "createdAt": "2026-01-29T08:25:07.067Z"
-  },
-  {
     "marque": "ISO-TECH",
     "model": "IPS-405",
     "quantite": 1,
