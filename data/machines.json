@@ -5350,15 +5350,15 @@
     "unites": [
       {
         "numserie": "C400362",
-        "position": "B-2(CHEZ MENOVA DEPUIS 24/02/2026)",
+        "position": "B-2",
         "etatcvi": "oui",
-        "dateFinCVI": "2025-07-01"
+        "dateFinCVI": "2027-03-01"
       }
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2026-01-27T13:38:33.856Z",
-    "emplacement": "B-2(CHEZ MENOVA DEPUIS 24/02/2026)"
+    "emplacement": "B-2"
   },
   {
     "marque": "TEKTRONIX",
