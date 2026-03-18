@@ -1988,7 +1988,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2026-01-27T13:38:33.855Z",
-    "emplacement": "J-4 (LE DSX5000 EST CHEZ GIRESSE POUR EXTRACTION) + J-4"
+    "emplacement": "J-4 (LE DSX5000 EST CHEZ GIRESSE POUR EXTRACTION)+J-4"
   },
   {
     "marque": "FLUKE",
@@ -5438,7 +5438,7 @@
     "unites": [
       {
         "numserie": "@",
-        "position": "B-3(CHEZ MENOVA DEPUIS 24/02/2026)",
+        "position": "B-3",
         "etatcvi": "non",
         "dateFinCVI": null
       }
@@ -5446,7 +5446,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2026-01-27T13:38:33.856Z",
-    "emplacement": "B-3(CHEZ MENOVA DEPUIS 24/02/2026)"
+    "emplacement": "B-3"
   },
   {
     "marque": "TEKTRONIX",
