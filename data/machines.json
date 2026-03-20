@@ -9382,5 +9382,27 @@
       }
     ],
     "createdAt": "2026-03-12T08:54:08.110Z"
+  },
+  {
+    "marque": "TELEDYNE LECROY",
+    "model": "HDO6104B-MS",
+    "quantite": 2,
+    "emplacement": "A-5",
+    "description": "",
+    "unites": [
+      {
+        "numserie": "LCRY5102N10984",
+        "position": "A-5",
+        "etatcvi": "oui",
+        "dateFinCVI": "2026-03-20"
+      },
+      {
+        "numserie": "LCRY5102N10984",
+        "position": "A-5",
+        "etatcvi": "oui",
+        "dateFinCVI": "2026-03-20"
+      }
+    ],
+    "createdAt": "2026-03-20T15:57:50.149Z"
   }
 ]
