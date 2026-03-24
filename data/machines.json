@@ -9426,5 +9426,27 @@
       }
     ],
     "createdAt": "2026-03-24T16:00:04.739Z"
+  },
+  {
+    "marque": "EA",
+    "model": "EL9080-600",
+    "quantite": 2,
+    "emplacement": "CHEZ MENOVA - 24/03/2026",
+    "description": "",
+    "unites": [
+      {
+        "numserie": "1446710002",
+        "position": "CHEZ MENOVA - 24/03/2026",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      },
+      {
+        "numserie": "1446710001",
+        "position": "CHEZ MENOVA - 24/03/2026",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      }
+    ],
+    "createdAt": "2026-03-24T16:01:39.160Z"
   }
 ]
