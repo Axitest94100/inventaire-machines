@@ -4903,11 +4903,11 @@
     "marque": "TDK LAMBDA",
     "model": "GEN16-310-3P400",
     "quantite": 3,
-    "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/Elt_uG5nmvpJsetcSzGpU8wBMXTTN2TJFX_7gR2XOgtHCQ?e=LhazDC",
+    "description": "ENVOYER CHEZ MENOVA \n\nhttps://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/Elt_uG5nmvpJsetcSzGpU8wBMXTTN2TJFX_7gR2XOgtHCQ?e=LhazDC",
     "unites": [
       {
         "numserie": "LOC-946A230-0002",
-        "position": "D-2",
+        "position": "D-2 (ENVOYER CHEZ MENOVA)",
         "etatcvi": "oui",
         "dateFinCVI": "2025-05-01"
       },
@@ -4927,7 +4927,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2026-01-27T13:38:33.856Z",
-    "emplacement": "D-2"
+    "emplacement": "D-2 (ENVOYER CHEZ MENOVA) + D-2"
   },
   {
     "marque": "TDK LAMBDA",
