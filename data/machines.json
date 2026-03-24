@@ -4907,27 +4907,27 @@
     "unites": [
       {
         "numserie": "LOC-946A230-0002",
-        "position": "D-2 (ENVOYER CHEZ MENOVA)",
         "etatcvi": "oui",
+        "position": "D-2 (ENVOYER CHEZ MENOVA)",
         "dateFinCVI": "2025-05-01"
       },
       {
         "numserie": "LOC-946A230-0001",
-        "position": "D-2",
         "etatcvi": "oui",
+        "position": "D-2 (ENVOYER CHEZ MENOVA)",
         "dateFinCVI": "2025-05-01"
       },
       {
         "numserie": "M2305403",
-        "position": "D-2",
         "etatcvi": "oui",
+        "position": "D-2 (ENVOYER CHEZ MENOVA)",
         "dateFinCVI": "2025-05-01"
       }
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2026-01-27T13:38:33.856Z",
-    "emplacement": "D-2 (ENVOYER CHEZ MENOVA)+D-2"
+    "emplacement": "D-2 (ENVOYER CHEZ MENOVA)"
   },
   {
     "marque": "TDK LAMBDA",
