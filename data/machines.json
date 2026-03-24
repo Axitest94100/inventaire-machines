@@ -9408,22 +9408,10 @@
   {
     "marque": "CHROMA",
     "model": "63203",
-    "quantite": 4,
+    "quantite": 2,
     "emplacement": "CHEZ MENOVA - 24/03/2026",
     "description": "",
     "unites": [
-      {
-        "numserie": "632030001342",
-        "position": "CHEZ MENOVA - 24/03/2026",
-        "etatcvi": "non",
-        "dateFinCVI": null
-      },
-      {
-        "numserie": "632030001240",
-        "position": "CHEZ MENOVA - 24/03/2026",
-        "etatcvi": "non",
-        "dateFinCVI": null
-      },
       {
         "numserie": "632030001342",
         "position": "CHEZ MENOVA - 24/03/2026",
