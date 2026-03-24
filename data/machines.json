@@ -1290,7 +1290,7 @@
     "unites": [
       {
         "numserie": "19260039",
-        "position": "J-3 (LOCATION DU 10/03/2026 AU 17/03/2026)",
+        "position": "J-3",
         "etatcvi": "oui",
         "dateFinCVI": "2026-07-01"
       }
@@ -1298,7 +1298,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2026-01-27T13:38:33.855Z",
-    "emplacement": "J-3 (LOCATION DU 10/03/2026 AU 17/03/2026)"
+    "emplacement": "J-3"
   },
   {
     "marque": "CHAUVIN ARNOUX",
