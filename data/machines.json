@@ -5999,15 +5999,15 @@
     "unites": [
       {
         "numserie": "1004",
-        "position": "C-3 (CHEZ MENOVA DEPUIS LE 09/03/2026)",
-        "etatcvi": "non",
-        "dateFinCVI": null
+        "position": "C-3",
+        "etatcvi": "oui",
+        "dateFinCVI": "2027-03-13"
       }
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2026-01-27T13:38:33.857Z",
-    "emplacement": "C-3 (CHEZ MENOVA DEPUIS LE 09/03/2026)",
+    "emplacement": "C-3",
     "description": "avec un CAPOT\n\nhttps://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/IgBkb2MuF3wfQq8CN9E1p5LGAXTlbcNHCEZaRZU9zw1hrrw?e=Pzawl1"
   },
   {
