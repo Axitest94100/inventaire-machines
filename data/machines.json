@@ -4927,7 +4927,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2026-01-27T13:38:33.856Z",
-    "emplacement": "D-2 (ENVOYER CHEZ MENOVA) + D-2"
+    "emplacement": "D-2 (ENVOYER CHEZ MENOVA)+D-2"
   },
   {
     "marque": "TDK LAMBDA",
@@ -9404,5 +9404,39 @@
       }
     ],
     "createdAt": "2026-03-20T15:57:50.149Z"
+  },
+  {
+    "marque": "CHROMA",
+    "model": "63203",
+    "quantite": 4,
+    "emplacement": "CHEZ MENOVA - 24/03/2026",
+    "description": "",
+    "unites": [
+      {
+        "numserie": "632030001342",
+        "position": "CHEZ MENOVA - 24/03/2026",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      },
+      {
+        "numserie": "632030001240",
+        "position": "CHEZ MENOVA - 24/03/2026",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      },
+      {
+        "numserie": "632030001342",
+        "position": "CHEZ MENOVA - 24/03/2026",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      },
+      {
+        "numserie": "632030001240",
+        "position": "CHEZ MENOVA - 24/03/2026",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      }
+    ],
+    "createdAt": "2026-03-24T16:00:04.739Z"
   }
 ]
