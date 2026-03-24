@@ -6125,15 +6125,15 @@
     "unites": [
       {
         "numserie": "LCRY4501N30314",
-        "position": "A-5 (CHEZ MENOVA DEPUIS LE 09/03/2026)",
+        "position": "A-5 ( C'EST CELUI AVEC UN BOUTON ROND H.S)",
         "etatcvi": "oui",
-        "dateFinCVI": "2025-10-16"
+        "dateFinCVI": "2027-03-18"
       }
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2026-01-27T13:38:33.857Z",
-    "emplacement": "A-5 (CHEZ MENOVA DEPUIS LE 09/03/2026)"
+    "emplacement": "A-5 ( C'EST CELUI AVEC UN BOUTON ROND H.S)"
   },
   {
     "marque": "TESTEC",
