@@ -1375,7 +1375,7 @@
   {
     "marque": "CHROMA",
     "model": "63102",
-    "quantite": 4,
+    "quantite": 5,
     "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EkILrX6bz91ErOSjs-I4cLYB85gQgBOnF4kxHAGsOTPfuQ?e=GTIuZK",
     "unites": [
       {
@@ -1401,12 +1401,18 @@
         "position": "M-2",
         "etatcvi": "oui",
         "dateFinCVI": "2025-04-01"
+      },
+      {
+        "numserie": "631020007693",
+        "position": "CHEZ MENOVA - 24/03/2026",
+        "etatcvi": "non",
+        "dateFinCVI": null
       }
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2026-01-27T13:38:33.855Z",
-    "emplacement": "M-2"
+    "emplacement": "M-2 + CHEZ MENOVA - 24/03/2026"
   },
   {
     "marque": "CHROMA",
@@ -1687,7 +1693,7 @@
   {
     "marque": "ELGAR",
     "model": "SW5250A",
-    "quantite": 4,
+    "quantite": 5,
     "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/ErxtaZfuADpCkzYYSzTBl_0BclmKqqVJbM5AbWo8oUKeRA?e=i1Jsok",
     "unites": [
       {
@@ -1711,6 +1717,12 @@
       {
         "numserie": "0016A1000",
         "position": "L-1",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      },
+      {
+        "numserie": "1140A03611",
+        "position": "",
         "etatcvi": "non",
         "dateFinCVI": null
       }
@@ -9448,5 +9460,139 @@
       }
     ],
     "createdAt": "2026-03-24T16:01:39.160Z"
+  },
+  {
+    "marque": "TDK LAMBDA",
+    "model": "GEN20-165",
+    "quantite": 1,
+    "emplacement": "CHEZ MENOVA - 24/03/2026",
+    "description": "",
+    "unites": [
+      {
+        "numserie": "LOC-14ZZ039-0003",
+        "position": "CHEZ MENOVA - 24/03/2026",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      }
+    ],
+    "createdAt": "2026-03-24T16:06:41.625Z"
+  },
+  {
+    "marque": "LECROY",
+    "model": "9354M",
+    "quantite": 1,
+    "emplacement": "CHEZ MENOVA - 24/03/2026",
+    "description": "",
+    "unites": [
+      {
+        "numserie": "9032",
+        "position": "CHEZ MENOVA - 24/03/2026",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      }
+    ],
+    "createdAt": "2026-03-24T16:07:25.473Z"
+  },
+  {
+    "marque": "RS",
+    "model": "1316",
+    "quantite": 1,
+    "emplacement": "CHEZ MENOVA - 24/03/2026",
+    "description": "",
+    "unites": [
+      {
+        "numserie": "121207065",
+        "position": "CHEZ MENOVA - 24/03/2026",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      }
+    ],
+    "createdAt": "2026-03-24T16:08:03.174Z"
+  },
+  {
+    "marque": "RACAL",
+    "model": "6061B",
+    "quantite": 2,
+    "emplacement": "CHEZ MENOVA - 24/03/2026",
+    "description": "",
+    "unites": [
+      {
+        "numserie": "F002702",
+        "position": "CHEZ MENOVA - 24/03/2026",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      },
+      {
+        "numserie": "E002701",
+        "position": "CHEZ MENOVA - 24/03/2026",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      }
+    ],
+    "createdAt": "2026-03-24T16:08:52.375Z"
+  },
+  {
+    "marque": "KEYSIGHT",
+    "model": "34922A",
+    "quantite": 1,
+    "emplacement": "CHEZ MENOVA - 24/03/2026",
+    "description": "",
+    "unites": [
+      {
+        "numserie": "MY53502917",
+        "position": "CHEZ MENOVA - 24/03/2026",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      }
+    ],
+    "createdAt": "2026-03-24T16:09:42.477Z"
+  },
+  {
+    "marque": "TEKTRONIX",
+    "model": "A6303",
+    "quantite": 1,
+    "emplacement": "CHEZ MENOVA - 24/03/2026",
+    "description": "",
+    "unites": [
+      {
+        "numserie": "B014653",
+        "position": "CHEZ MENOVA - 24/03/2026",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      }
+    ],
+    "createdAt": "2026-03-24T16:11:53.201Z"
+  },
+  {
+    "marque": "AC STATIC LOCATOR",
+    "model": "400",
+    "quantite": 1,
+    "emplacement": "CHEZ MENOVA - 24/03/2026",
+    "description": "",
+    "unites": [
+      {
+        "numserie": "31989",
+        "position": "CHEZ MENOVA - 24/03/2026",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      }
+    ],
+    "createdAt": "2026-03-24T16:12:23.988Z"
+  },
+  {
+    "marque": "LECROY",
+    "model": "HFP2500",
+    "quantite": 1,
+    "emplacement": "",
+    "description": "",
+    "unites": [
+      {
+        "numserie": "1925",
+        "position": "",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      }
+    ],
+    "createdAt": "2026-03-24T16:13:31.061Z"
   }
 ]
