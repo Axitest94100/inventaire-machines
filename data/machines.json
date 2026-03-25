@@ -9620,5 +9620,21 @@
       }
     ],
     "createdAt": "2026-03-25T13:49:07.257Z"
+  },
+  {
+    "marque": "AGILENT",
+    "model": "6674A",
+    "quantite": 1,
+    "emplacement": "J-3",
+    "description": "",
+    "unites": [
+      {
+        "numserie": "US36371728",
+        "position": "J-3",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      }
+    ],
+    "createdAt": "2026-03-25T14:02:39.878Z"
   }
 ]
