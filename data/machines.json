@@ -9588,5 +9588,21 @@
       }
     ],
     "createdAt": "2026-03-24T16:13:31.061Z"
+  },
+  {
+    "marque": "NATIONNAL INSTRUMENTS",
+    "model": "PXI-1042",
+    "quantite": 1,
+    "emplacement": "K-2",
+    "description": "+ NI PXI-8335 + NI PXI-6508 +NI PXI-8430 + NI PXI-GPIB + NI PXI-8335",
+    "unites": [
+      {
+        "numserie": "171E7F8",
+        "position": "K-2",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      }
+    ],
+    "createdAt": "2026-03-25T13:33:25.063Z"
   }
 ]
