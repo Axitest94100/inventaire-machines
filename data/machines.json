@@ -9738,5 +9738,39 @@
       }
     ],
     "createdAt": "2026-03-25T14:34:20.388Z"
+  },
+  {
+    "marque": "HP",
+    "model": "75000 – E1343A",
+    "quantite": 4,
+    "emplacement": "G-3 + G-3 (HS)",
+    "description": "",
+    "unites": [
+      {
+        "numserie": "3131A00618",
+        "etatcvi": "non",
+        "position": "G-3",
+        "dateFinCVI": null
+      },
+      {
+        "numserie": "3131A00709",
+        "etatcvi": "non",
+        "position": "G-3",
+        "dateFinCVI": null
+      },
+      {
+        "numserie": "3131A01362",
+        "etatcvi": "non",
+        "position": "G-3",
+        "dateFinCVI": null
+      },
+      {
+        "numserie": "3131A00872",
+        "etatcvi": "non",
+        "position": "G-3 (HS)",
+        "dateFinCVI": null
+      }
+    ],
+    "createdAt": "2026-03-25T14:49:57.085Z"
   }
 ]
