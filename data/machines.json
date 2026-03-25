@@ -9652,5 +9652,21 @@
       }
     ],
     "createdAt": "2026-03-25T14:08:04.614Z"
+  },
+  {
+    "marque": "TEKTRONIX",
+    "model": "TDS540C",
+    "quantite": 1,
+    "emplacement": "I-2",
+    "description": "",
+    "unites": [
+      {
+        "numserie": "B011558",
+        "position": "I-2",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      }
+    ],
+    "createdAt": "2026-03-25T14:17:05.014Z"
   }
 ]
