@@ -1412,7 +1412,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2026-01-27T13:38:33.855Z",
-    "emplacement": "M-2 + CHEZ MENOVA - 24/03/2026"
+    "emplacement": "M-2+CHEZ MENOVA - 24/03/2026"
   },
   {
     "marque": "CHROMA",
@@ -5768,9 +5768,9 @@
     "unites": [
       {
         "numserie": "LCRY0354N10595",
-        "position": "A-4 (CHEZ MENOVA 09/03/2026)",
-        "etatcvi": "non",
-        "dateFinCVI": null
+        "position": "A-4",
+        "etatcvi": "oui",
+        "dateFinCVI": "2027-03-16"
       },
       {
         "numserie": "LCRY0352N10179",
@@ -5788,7 +5788,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2026-01-27T13:38:33.856Z",
-    "emplacement": "A-4 (CHEZ MENOVA 09/03/2026)+C-4 (CHEZ MENOVA 09/03/2026) + CAPOT"
+    "emplacement": "A-4 + A-4 (CHEZ MENOVA 09/03/2026) + C-4 (CHEZ MENOVA 09/03/2026) + CAPOT"
   },
   {
     "marque": "TELEDYNE LECROY",
@@ -6433,7 +6433,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2026-01-27T13:38:33.857Z",
-    "emplacement": "K-4 + K-3 + K-5"
+    "emplacement": "K-4+K-3+K-5"
   },
   {
     "marque": "YOKOGAWA",
