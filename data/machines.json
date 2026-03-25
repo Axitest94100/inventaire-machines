@@ -9588,27 +9588,5 @@
       }
     ],
     "createdAt": "2026-03-24T16:13:31.061Z"
-  },
-  {
-    "marque": "NI PXI",
-    "model": "1042",
-    "quantite": 2,
-    "emplacement": "K-2",
-    "description": "NI PXI1042 (AVEC NI PXI-8335 + NI PXI-6508 \n+ NI PXI-8430 + NI PXI-GPIB + NI PXI-8335 \nVOIR DETAILS EN DESSOUS)\n\n*NI PXI-8335 --------------------------------------------------------- DADCB4 \n*NI PXI-6508 --------------------------------------------------------- 16EA04E\n*NI PXI-8430 --------------------------------------------------------- 1715403 \n*NI PXI-GPIB --------------------------------------------------------- 1709538\n*NI PXI-8335 --------------------------------------------------------- DADCA6",
-    "unites": [
-      {
-        "numserie": "171E7F8",
-        "position": "K-2",
-        "etatcvi": "non",
-        "dateFinCVI": null
-      },
-      {
-        "numserie": "171E7F8",
-        "position": "K-2",
-        "etatcvi": "non",
-        "dateFinCVI": null
-      }
-    ],
-    "createdAt": "2026-03-25T13:24:41.580Z"
   }
 ]
