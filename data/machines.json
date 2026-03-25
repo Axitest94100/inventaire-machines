@@ -9604,5 +9604,21 @@
       }
     ],
     "createdAt": "2026-03-25T13:33:25.063Z"
+  },
+  {
+    "marque": "TEKTRONIX",
+    "model": "TDS510",
+    "quantite": 1,
+    "emplacement": "M-2",
+    "description": "",
+    "unites": [
+      {
+        "numserie": "B010263",
+        "position": "M-2",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      }
+    ],
+    "createdAt": "2026-03-25T13:49:07.257Z"
   }
 ]
