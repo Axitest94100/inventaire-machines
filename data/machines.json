@@ -9788,5 +9788,21 @@
       }
     ],
     "createdAt": "2026-03-25T14:51:59.446Z"
+  },
+  {
+    "marque": "HP",
+    "model": "75000 – E1333A",
+    "quantite": 1,
+    "emplacement": "G-3",
+    "description": "",
+    "unites": [
+      {
+        "numserie": "2934A02007",
+        "position": "G-3",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      }
+    ],
+    "createdAt": "2026-03-25T14:52:59.395Z"
   }
 ]
