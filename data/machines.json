@@ -9674,5 +9674,21 @@
       }
     ],
     "createdAt": "2026-03-25T14:17:05.014Z"
+  },
+  {
+    "marque": "RACAL",
+    "model": "1260-18",
+    "quantite": 1,
+    "emplacement": "G-4",
+    "description": "",
+    "unites": [
+      {
+        "numserie": "00090416",
+        "position": "G-4",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      }
+    ],
+    "createdAt": "2026-03-25T14:27:24.505Z"
   }
 ]
