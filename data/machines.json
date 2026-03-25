@@ -6276,10 +6276,16 @@
   {
     "marque": "RACAL",
     "model": "1260-13",
-    "quantite": 1,
+    "quantite": 2,
     "unites": [
       {
         "numserie": "00111001",
+        "position": "G-4",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      },
+      {
+        "numserie": "00110991",
         "position": "G-4",
         "etatcvi": "non",
         "dateFinCVI": null
