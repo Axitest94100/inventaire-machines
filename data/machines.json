@@ -9741,7 +9741,7 @@
   },
   {
     "marque": "HP",
-    "model": "75000 – E1343A",
+    "model": "HP 75000 – E1343A",
     "quantite": 4,
     "emplacement": "G-3 + G-3 (HS)",
     "description": "",
@@ -9804,5 +9804,27 @@
       }
     ],
     "createdAt": "2026-03-25T14:52:59.395Z"
+  },
+  {
+    "marque": "AGILENT",
+    "model": "HP 75000 E1343A",
+    "quantite": 2,
+    "emplacement": "G-3",
+    "description": "",
+    "unites": [
+      {
+        "numserie": "3131A01534",
+        "etatcvi": "non",
+        "position": "G-3",
+        "dateFinCVI": null
+      },
+      {
+        "numserie": "3131A01507",
+        "etatcvi": "non",
+        "position": "G-3",
+        "dateFinCVI": null
+      }
+    ],
+    "createdAt": "2026-03-25T14:54:35.288Z"
   }
 ]
