@@ -4139,7 +4139,7 @@
     "unites": [
       {
         "numserie": "412581",
-        "position": "I-1",
+        "position": "I-1 ( EN LOCATION)",
         "etatcvi": "oui",
         "dateFinCVI": "2027-03-23"
       }
@@ -4147,7 +4147,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2026-01-27T13:38:33.856Z",
-    "emplacement": "I-1"
+    "emplacement": "I-1 ( EN LOCATION)"
   },
   {
     "marque": "MULTIMETRIX",
@@ -9741,9 +9741,9 @@
   },
   {
     "marque": "HP",
-    "model": "HP 75000 – E1343A",
+    "model": "HP 75000 â E1343A",
     "quantite": 4,
-    "emplacement": "G-3 + G-3 (HS)",
+    "emplacement": "G-3+G-3 (HS)",
     "description": "",
     "unites": [
       {
@@ -9775,7 +9775,7 @@
   },
   {
     "marque": "HP",
-    "model": "75000 – E1306A",
+    "model": "75000 â E1306A",
     "quantite": 1,
     "emplacement": "G-3",
     "description": "",
@@ -9791,7 +9791,7 @@
   },
   {
     "marque": "HP",
-    "model": "75000 – E1333A",
+    "model": "75000 â E1333A",
     "quantite": 1,
     "emplacement": "G-3",
     "description": "",
