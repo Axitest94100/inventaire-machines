@@ -3665,7 +3665,7 @@
     "unites": [
       {
         "numserie": "1183192",
-        "position": "E-3",
+        "position": "E-3 (CHEZ MENOVA 31-03-2026)",
         "etatcvi": "non",
         "dateFinCVI": null
       }
@@ -3673,7 +3673,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2026-01-27T13:38:33.856Z",
-    "emplacement": "E-3"
+    "emplacement": "E-3 (CHEZ MENOVA 31-03-2026)"
   },
   {
     "marque": "KEYSIGHT",
