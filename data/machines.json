@@ -210,7 +210,7 @@
       },
       {
         "numserie": "MY40000719",
-        "position": "H-4",
+        "position": "H-4 (CHEZ MENOVA 31-03-2026)",
         "etatcvi": "non",
         "dateFinCVI": null
       }
@@ -218,7 +218,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2026-01-27T13:38:33.855Z",
-    "emplacement": "D-4 (CHEZ MENOVA 31-03-2026) + H-4"
+    "emplacement": "D-4 (CHEZ MENOVA 31-03-2026) + H-4 (CHEZ MENOVA 31-03-2026)"
   },
   {
     "marque": "AGILENT",
