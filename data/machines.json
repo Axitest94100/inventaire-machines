@@ -5660,7 +5660,7 @@
     "unites": [
       {
         "numserie": "B011354",
-        "position": "M-2 (CHEZ MENOVA 09/03/2026)",
+        "position": "M-2",
         "etatcvi": "non",
         "dateFinCVI": null
       }
@@ -5668,7 +5668,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2026-01-27T13:38:33.856Z",
-    "emplacement": "M-2 (CHEZ MENOVA 09/03/2026)"
+    "emplacement": "M-2"
   },
   {
     "marque": "TEKTRONIX",
