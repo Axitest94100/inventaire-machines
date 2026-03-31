@@ -1344,7 +1344,7 @@
     "unites": [
       {
         "numserie": "616040003055",
-        "position": "D-3",
+        "position": "D-3 (CHEZ MENOVA 31-03-2026)",
         "etatcvi": "non",
         "dateFinCVI": null
       }
@@ -1352,7 +1352,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2026-01-27T13:38:33.855Z",
-    "emplacement": "D-3"
+    "emplacement": "D-3 (CHEZ MENOVA 31-03-2026)"
   },
   {
     "marque": "CHROMA",
