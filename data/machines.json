@@ -5660,7 +5660,7 @@
     "unites": [
       {
         "numserie": "B011354",
-        "position": "M-2",
+        "position": "B-3",
         "etatcvi": "non",
         "dateFinCVI": null
       }
@@ -5668,7 +5668,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2026-01-27T13:38:33.856Z",
-    "emplacement": "M-2"
+    "emplacement": "B-3"
   },
   {
     "marque": "TEKTRONIX",
