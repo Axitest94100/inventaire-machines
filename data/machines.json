@@ -150,25 +150,25 @@
   },
   {
     "marque": "AGILENT",
-    "model": "6634B (CHEZ MENOVA 31-03-2026)",
+    "model": "6634B",
     "quantite": 3,
     "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/ElgDvm3eZ9NEqXInMx0dHVUBLAeeqg4qyhMEQlRchefjOA?e=4Ri604",
     "unites": [
       {
         "numserie": "US37471888",
-        "position": "D-1",
+        "position": "D-1 (CHEZ MENOVA 31-03-2026)",
         "etatcvi": "non",
         "dateFinCVI": null
       },
       {
         "numserie": "US37472114",
-        "position": "D-1",
+        "position": "D-1 (CHEZ MENOVA 31-03-2026)",
         "etatcvi": "non",
         "dateFinCVI": null
       },
       {
         "numserie": "US37471840",
-        "position": "D-1",
+        "position": "D-1 (CHEZ MENOVA 31-03-2026)",
         "etatcvi": "non",
         "dateFinCVI": null
       }
@@ -176,7 +176,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2026-01-27T13:38:33.855Z",
-    "emplacement": "D-1"
+    "emplacement": "D-1 (CHEZ MENOVA 31-03-2026)"
   },
   {
     "marque": "AGILENT",
