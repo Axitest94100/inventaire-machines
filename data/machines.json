@@ -1290,7 +1290,7 @@
     "unites": [
       {
         "numserie": "19260039",
-        "position": "J-3 EN LOCATION (26/03/2026 - 02/04/2026)",
+        "position": "J-3",
         "etatcvi": "oui",
         "dateFinCVI": "2026-07-01"
       }
@@ -1298,7 +1298,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2026-01-27T13:38:33.855Z",
-    "emplacement": "J-3 EN LOCATION (26/03/2026 - 02/04/2026)"
+    "emplacement": "J-3"
   },
   {
     "marque": "CHAUVIN ARNOUX",
@@ -3266,7 +3266,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2026-01-27T13:38:33.856Z",
-    "emplacement": "M-1 + M-1 (LOCATION 01/04/2026 - UNE SEMAINE)"
+    "emplacement": "M-1+M-1 (LOCATION 01/04/2026 - UNE SEMAINE)"
   },
   {
     "marque": "KEITHLEY",
@@ -9741,7 +9741,7 @@
   },
   {
     "marque": "HP",
-    "model": "HP 75000 ÃÂ¢ÃÂÃÂ E1343A",
+    "model": "HP 75000 ÃÂÃÂ¢ÃÂÃÂÃÂÃÂ E1343A",
     "quantite": 4,
     "emplacement": "G-3+G-3 (HS)",
     "description": "",
@@ -9775,7 +9775,7 @@
   },
   {
     "marque": "HP",
-    "model": "75000 ÃÂ¢ÃÂÃÂ E1306A",
+    "model": "75000 ÃÂÃÂ¢ÃÂÃÂÃÂÃÂ E1306A",
     "quantite": 1,
     "emplacement": "G-3",
     "description": "",
@@ -9791,7 +9791,7 @@
   },
   {
     "marque": "HP",
-    "model": "75000 ÃÂ¢ÃÂÃÂ E1333A",
+    "model": "75000 ÃÂÃÂ¢ÃÂÃÂÃÂÃÂ E1333A",
     "quantite": 1,
     "emplacement": "G-3",
     "description": "",
