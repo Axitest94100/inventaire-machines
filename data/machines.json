@@ -804,7 +804,7 @@
     "unites": [
       {
         "numserie": "MY41101222",
-        "position": "M-3",
+        "position": "M-3 (CHEZ MENOVA)",
         "etatcvi": "non",
         "dateFinCVI": null
       }
@@ -812,7 +812,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2026-01-27T13:38:33.855Z",
-    "emplacement": "M-3"
+    "emplacement": "M-3 (CHEZ MENOVA)"
   },
   {
     "marque": "AGILENT",
