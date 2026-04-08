@@ -4139,7 +4139,7 @@
     "unites": [
       {
         "numserie": "412581",
-        "position": "I-1 ( EN LOCATION)",
+        "position": "I-1",
         "etatcvi": "oui",
         "dateFinCVI": "2027-03-23"
       }
@@ -4147,7 +4147,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2026-01-27T13:38:33.856Z",
-    "emplacement": "I-1 ( EN LOCATION)"
+    "emplacement": "I-1"
   },
   {
     "marque": "MULTIMETRIX",
