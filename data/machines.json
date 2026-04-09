@@ -5727,7 +5727,7 @@
   {
     "marque": "TELEDYNE LECROY",
     "model": "HFP2500",
-    "quantite": 1,
+    "quantite": 2,
     "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/Ek-BppjwZWBLiNlt5bC1cmYBkxIGV-fEHolPrEcblkVmag?e=rx6OUO",
     "unites": [
       {
@@ -5735,6 +5735,12 @@
         "position": "A-1",
         "etatcvi": "non",
         "dateFinCVI": null
+      },
+      {
+        "numserie": "1925",
+        "position": "A-1",
+        "etatcvi": "oui",
+        "dateFinCVI": "2027-04-01"
       }
     ],
     "etatcvi": "non",
