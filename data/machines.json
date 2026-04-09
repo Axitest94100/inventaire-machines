@@ -9497,12 +9497,12 @@
     "marque": "RS",
     "model": "1316",
     "quantite": 1,
-    "emplacement": "CHEZ MENOVA - 24/03/2026",
+    "emplacement": "F-1",
     "description": "",
     "unites": [
       {
         "numserie": "121207065",
-        "position": "CHEZ MENOVA - 24/03/2026",
+        "position": "F-1 ",
         "etatcvi": "non",
         "dateFinCVI": null
       }
