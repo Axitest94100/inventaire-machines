@@ -9481,12 +9481,12 @@
     "marque": "LECROY",
     "model": "9354M",
     "quantite": 1,
-    "emplacement": "CHEZ MENOVA - 24/03/2026",
+    "emplacement": "B-3",
     "description": "",
     "unites": [
       {
         "numserie": "9032",
-        "position": "CHEZ MENOVA - 24/03/2026",
+        "position": "B-3",
         "etatcvi": "non",
         "dateFinCVI": null
       }
