@@ -5362,7 +5362,7 @@
     "unites": [
       {
         "numserie": "C400362",
-        "position": "B-2",
+        "position": "I-1",
         "etatcvi": "oui",
         "dateFinCVI": "2027-03-01"
       }
@@ -5370,7 +5370,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2026-01-27T13:38:33.856Z",
-    "emplacement": "B-2"
+    "emplacement": "I-1"
   },
   {
     "marque": "TEKTRONIX",
@@ -5613,7 +5613,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2026-01-27T13:38:33.856Z",
-    "emplacement": "L-1 + L-1 (CHEZ MENOVA 09/03/2026)",
+    "emplacement": "L-1+L-1 (CHEZ MENOVA 09/03/2026)",
     "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/IgArI_vt6AT9S5Qpr9z_rbEaARuiON7luqbaOYttuZqPkLk?e=CG0rxo"
   },
   {
