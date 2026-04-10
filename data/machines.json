@@ -9848,5 +9848,21 @@
       }
     ],
     "createdAt": "2026-03-31T09:25:14.158Z"
+  },
+  {
+    "marque": "GW INSTEK",
+    "model": "GPT - 9801",
+    "quantite": 1,
+    "emplacement": "B-2",
+    "description": "",
+    "unites": [
+      {
+        "numserie": "GEY140152",
+        "position": "B-2",
+        "etatcvi": "oui",
+        "dateFinCVI": "2027-04-03"
+      }
+    ],
+    "createdAt": "2026-04-10T14:46:50.059Z"
   }
 ]
