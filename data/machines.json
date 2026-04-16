@@ -9864,5 +9864,21 @@
       }
     ],
     "createdAt": "2026-04-10T14:46:50.059Z"
+  },
+  {
+    "marque": "AGILENT",
+    "model": "34901A",
+    "quantite": 1,
+    "emplacement": "F-4",
+    "description": "",
+    "unites": [
+      {
+        "numserie": "MY41103349",
+        "position": "F-4",
+        "etatcvi": "oui",
+        "dateFinCVI": "2027-03-18"
+      }
+    ],
+    "createdAt": "2026-04-16T07:51:03.096Z"
   }
 ]
