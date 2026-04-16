@@ -9880,5 +9880,21 @@
       }
     ],
     "createdAt": "2026-04-16T07:51:03.096Z"
+  },
+  {
+    "marque": "AGILENT",
+    "model": "34972A",
+    "quantite": 1,
+    "emplacement": "G-4",
+    "description": "",
+    "unites": [
+      {
+        "numserie": "---",
+        "position": "G-4",
+        "etatcvi": "oui",
+        "dateFinCVI": "2027-03-18"
+      }
+    ],
+    "createdAt": "2026-04-16T14:09:41.592Z"
   }
 ]
