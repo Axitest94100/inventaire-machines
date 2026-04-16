@@ -5678,7 +5678,7 @@
     "unites": [
       {
         "numserie": "C011310",
-        "position": "B-3",
+        "position": "A-2",
         "etatcvi": "oui",
         "dateFinCVI": "2026-08-01"
       }
@@ -5686,7 +5686,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2026-01-27T13:38:33.856Z",
-    "emplacement": "B-3"
+    "emplacement": "A-2"
   },
   {
     "marque": "TEKTRONIX (ACCESSOIRES & HOUSSE DE TRANSPORT)",
