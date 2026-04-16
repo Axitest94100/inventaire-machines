@@ -156,27 +156,27 @@
     "unites": [
       {
         "numserie": "US37471888",
-        "position": "D-1 (CHEZ MENOVA 31-03-2026)",
-        "etatcvi": "non",
-        "dateFinCVI": null
+        "position": "D-1",
+        "etatcvi": "oui",
+        "dateFinCVI": "2027-04-13"
       },
       {
         "numserie": "US37472114",
-        "position": "D-1 (CHEZ MENOVA 31-03-2026)",
-        "etatcvi": "non",
-        "dateFinCVI": null
+        "position": "D-1",
+        "etatcvi": "oui",
+        "dateFinCVI": "2027-04-13"
       },
       {
         "numserie": "US37471840",
-        "position": "D-1 (CHEZ MENOVA 31-03-2026)",
-        "etatcvi": "non",
-        "dateFinCVI": null
+        "position": "D-1",
+        "etatcvi": "oui",
+        "dateFinCVI": "2027-04-13"
       }
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2026-01-27T13:38:33.855Z",
-    "emplacement": "D-1 (CHEZ MENOVA 31-03-2026)"
+    "emplacement": "D-1"
   },
   {
     "marque": "AGILENT",
