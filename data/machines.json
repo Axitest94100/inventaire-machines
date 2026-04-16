@@ -1476,21 +1476,21 @@
     "unites": [
       {
         "numserie": "2676910488",
-        "position": "C-3 (CHEZ MENOVA 31-03-2026)",
+        "position": "C-3",
         "etatcvi": "oui",
-        "dateFinCVI": "2024-10-03"
+        "dateFinCVI": "2027-04-13"
       },
       {
         "numserie": "2621790070",
-        "position": "C-3 (CHEZ MENOVA 31-03-2026)",
+        "position": "C-3",
         "etatcvi": "oui",
-        "dateFinCVI": "2024-10-03"
+        "dateFinCVI": "2027-04-13"
       },
       {
         "numserie": "2621790079",
-        "position": "C-3 (CHEZ MENOVA 31-03-2026)",
+        "position": "C-3",
         "etatcvi": "oui",
-        "dateFinCVI": "2024-10-03"
+        "dateFinCVI": "2027-04-13"
       },
       {
         "numserie": "2621790042",
@@ -1562,7 +1562,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2026-01-27T13:38:33.855Z",
-    "emplacement": "C-3 (CHEZ MENOVA 31-03-2026)+K-5"
+    "emplacement": "C-3 + K-5"
   },
   {
     "marque": "EA",
