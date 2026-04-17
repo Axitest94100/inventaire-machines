@@ -210,7 +210,7 @@
       },
       {
         "numserie": "MY40000719",
-        "position": "D-4",
+        "position": "D-3",
         "etatcvi": "oui",
         "dateFinCVI": "2027-04-10"
       }
@@ -218,7 +218,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2026-01-27T13:38:33.855Z",
-    "emplacement": "D-4"
+    "emplacement": "D-4 + D-3"
   },
   {
     "marque": "AGILENT",
