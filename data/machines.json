@@ -186,15 +186,15 @@
     "unites": [
       {
         "numserie": "US14A0973M",
-        "position": "D-2 (CHEZ MENOVA 31-03-2026)",
+        "position": "D-2",
         "etatcvi": "oui",
-        "dateFinCVI": "2025-10-01"
+        "dateFinCVI": "2027-04-13"
       }
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2026-01-27T13:38:33.855Z",
-    "emplacement": "D-2 (CHEZ MENOVA 31-03-2026)"
+    "emplacement": "D-2"
   },
   {
     "marque": "AGILENT",
