@@ -218,7 +218,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2026-01-27T13:38:33.855Z",
-    "emplacement": "D-4 + D-3"
+    "emplacement": "D-4+D-3"
   },
   {
     "marque": "AGILENT",
@@ -1562,7 +1562,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2026-01-27T13:38:33.855Z",
-    "emplacement": "C-3 + K-5"
+    "emplacement": "C-3+K-5"
   },
   {
     "marque": "EA",
@@ -2142,7 +2142,7 @@
     "unites": [
       {
         "numserie": "GEY180038",
-        "position": "H-2",
+        "position": "H-2 (EXPEDITION RAVAJ) 20/04/2026",
         "etatcvi": "non",
         "dateFinCVI": null
       }
@@ -2150,7 +2150,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2026-01-27T13:38:33.855Z",
-    "emplacement": "H-2"
+    "emplacement": "H-2 (EXPEDITION RAVAJ) 20/04/2026"
   },
   {
     "marque": "GW INSTEK",
@@ -2243,7 +2243,7 @@
         "dateFinCVI": null
       },
       {
-        "numserie": "GTX180602",
+        "numserie": "GTX180602 (EXPEDITION RAVAJ) 20/04/2026",
         "position": "I-4",
         "etatcvi": "non",
         "dateFinCVI": null
