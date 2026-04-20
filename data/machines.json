@@ -9896,5 +9896,21 @@
       }
     ],
     "createdAt": "2026-04-16T14:09:41.592Z"
+  },
+  {
+    "marque": "SIMUALIM TCA",
+    "model": "BAIE ADE4/TIROIR ALIM TSTC/1119217",
+    "quantite": 1,
+    "emplacement": "L-4",
+    "description": "",
+    "unites": [
+      {
+        "numserie": "INCONNU (D00)",
+        "position": "L-4",
+        "etatcvi": "non",
+        "dateFinCVI": null
+      }
+    ],
+    "createdAt": "2026-04-20T15:00:27.426Z"
   }
 ]
