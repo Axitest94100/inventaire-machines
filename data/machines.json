@@ -1992,7 +1992,7 @@
       },
       {
         "numserie": "19385063/19360763",
-        "position": "J-4 ( EN LOCATION 2 SEMAINES) 20/04/2026",
+        "position": "J-4 ( EN LOCATION 2 SEMAINES) 22/04/2026",
         "etatcvi": "oui",
         "dateFinCVI": "2026-05-01"
       }
@@ -2000,7 +2000,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2026-01-27T13:38:33.855Z",
-    "emplacement": "J-4 + J-4 ( EN LOCATION 2 SEMAINES) 20/04/2026"
+    "emplacement": "J-4 + J-4 ( EN LOCATION 2 SEMAINES) 22/04/2026"
   },
   {
     "marque": "FLUKE",
