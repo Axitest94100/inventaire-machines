@@ -560,11 +560,11 @@
     "marque": "AGILENT",
     "model": "3499A",
     "quantite": 1,
-    "description": "REMARQUE: NE S'ALLUME PAS\n\nhttps://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EhVbrm40LMhHmUvoaf_DWXUBd1Szju59atvTyhUyATX35g?e=BIsIWL",
+    "description": "\n\nhttps://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/EhVbrm40LMhHmUvoaf_DWXUBd1Szju59atvTyhUyATX35g?e=BIsIWL",
     "unites": [
       {
         "numserie": "CN40051983",
-        "position": "G-4 (REMARQUE: NE S'ALLUME PAS + CHEZ MENOVA DEPUIS LE 13/03/2026)",
+        "position": "G-4",
         "etatcvi": "non",
         "dateFinCVI": null
       }
@@ -572,7 +572,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2026-01-27T13:38:33.855Z",
-    "emplacement": "G-4 (REMARQUE: NE S'ALLUME PAS + CHEZ MENOVA DEPUIS LE 13/03/2026)"
+    "emplacement": "G-4"
   },
   {
     "marque": "AGILENT",
@@ -2000,7 +2000,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2026-01-27T13:38:33.855Z",
-    "emplacement": "J-4 + J-4 ( EN LOCATION 2 SEMAINES) 22/04/2026"
+    "emplacement": "J-4+J-4 ( EN LOCATION 2 SEMAINES) 22/04/2026"
   },
   {
     "marque": "FLUKE",
