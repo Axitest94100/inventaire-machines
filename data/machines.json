@@ -3198,7 +3198,7 @@
       },
       {
         "numserie": "803422022766820003",
-        "position": "M-1 (LOCATION 01/04/2026 - UNE SEMAINE)",
+        "position": "M-1",
         "etatcvi": "non",
         "dateFinCVI": null
       },
@@ -3266,7 +3266,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2026-01-27T13:38:33.856Z",
-    "emplacement": "M-1+M-1 (LOCATION 01/04/2026 - UNE SEMAINE)"
+    "emplacement": "M-1"
   },
   {
     "marque": "KEITHLEY",
