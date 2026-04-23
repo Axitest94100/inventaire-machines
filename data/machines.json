@@ -1242,7 +1242,7 @@
       },
       {
         "numserie": "191101WGH",
-        "position": "J-4 (EN LOCATION 2xSEMAINES) 07/04/2026",
+        "position": "J-4",
         "etatcvi": "oui",
         "dateFinCVI": "2026-12-01"
       },
@@ -1262,7 +1262,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2026-01-27T13:38:33.855Z",
-    "emplacement": "J-3+J-4+K-4+I-1+J-4 (EN LOCATION 2xSEMAINES) 07/04/2026"
+    "emplacement": "J-3 + J-4 + K-4 + I-1"
   },
   {
     "marque": "CHAUVIN ARNOUX",
