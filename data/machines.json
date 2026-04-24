@@ -1262,7 +1262,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2026-01-27T13:38:33.855Z",
-    "emplacement": "J-3 + J-4 + K-4 + I-1"
+    "emplacement": "J-3+J-4+K-4+I-1"
   },
   {
     "marque": "CHAUVIN ARNOUX",
@@ -5599,7 +5599,7 @@
       },
       {
         "numserie": "H708603",
-        "position": "L-1 (CHEZ MENOVA 09/03/2026)",
+        "position": "L-1",
         "etatcvi": "non",
         "dateFinCVI": null
       },
@@ -5613,7 +5613,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2026-01-27T13:38:33.856Z",
-    "emplacement": "L-1+L-1 (CHEZ MENOVA 09/03/2026)",
+    "emplacement": "L-1",
     "description": "https://axitestcom-my.sharepoint.com/:f:/g/personal/logistique_axitest_com/IgArI_vt6AT9S5Qpr9z_rbEaARuiON7luqbaOYttuZqPkLk?e=CG0rxo"
   },
   {
