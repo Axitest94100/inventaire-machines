@@ -3384,15 +3384,15 @@
     "unites": [
       {
         "numserie": "0994342",
-        "position": "F-4 (CHEZ ASERTI LE 27/10/2025  CLIENT: TRAD)",
-        "etatcvi": "non",
-        "dateFinCVI": null
+        "position": "G-4",
+        "etatcvi": "oui",
+        "dateFinCVI": "2027-04-23"
       }
     ],
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2026-01-27T13:38:33.856Z",
-    "emplacement": "F-4 (CHEZ ASERTI LE 27/10/2025  CLIENT: TRAD)"
+    "emplacement": "G-4"
   },
   {
     "marque": "KEITHLEY",
