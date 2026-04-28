@@ -4307,7 +4307,7 @@
     "unites": [
       {
         "numserie": "1505",
-        "position": "I-2",
+        "position": "H-4",
         "etatcvi": "non",
         "dateFinCVI": null
       },
@@ -4321,7 +4321,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2026-01-27T13:38:33.856Z",
-    "emplacement": "I-2+I-1"
+    "emplacement": "H-4 + I-1"
   },
   {
     "marque": "ROHDE & SCHWARZ",
