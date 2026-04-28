@@ -3702,8 +3702,8 @@
       {
         "numserie": "MY57160101",
         "position": "A-5 (CHEZ MENOVA DEPUIS 17/02/2026)",
-        "etatcvi": "non",
-        "dateFinCVI": null
+        "etatcvi": "oui",
+        "dateFinCVI": "2027-02-19"
       }
     ],
     "etatcvi": "non",
