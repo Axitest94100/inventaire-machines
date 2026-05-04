@@ -2000,7 +2000,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2026-01-27T13:38:33.855Z",
-    "emplacement": "J-4 ( EN LOCATION 04/05/2026 - UNE SEMAINE ) + J-4 ( EN LOCATION 2 SEMAINES) 22/04/2026"
+    "emplacement": "J-4 ( EN LOCATION 04/05/2026 - UNE SEMAINE )+J-4 ( EN LOCATION 2 SEMAINES) 22/04/2026"
   },
   {
     "marque": "FLUKE",
@@ -6989,7 +6989,7 @@
     "unites": [
       {
         "numserie": "14522",
-        "position": "F-2",
+        "position": "F-2 ( EN LOCATION - 04/05/2026 )",
         "etatcvi": "oui",
         "dateFinCVI": "2026-05-01"
       }
@@ -6997,7 +6997,7 @@
     "etatcvi": "non",
     "dateFinCVI": null,
     "createdAt": "2026-01-27T13:38:33.857Z",
-    "emplacement": "F-2"
+    "emplacement": "F-2 ( EN LOCATION - 04/05/2026 )"
   },
   {
     "marque": "AGILENT",
